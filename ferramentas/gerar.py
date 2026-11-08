@@ -176,8 +176,9 @@ RODAPE = f"""</main>
 
 
 def assinatura(base):
-    return (f'<div class="assinatura"><img class="assinatura-foto" src="{base}assets/rosto.jpg" width="64" height="64" alt="">'
-            f'<span><b>{NOME_CURTO}</b><small>Advogado · {OAB} · Linhares/ES</small></span>'
+    return (f'<div class="assinatura"><div class="assinatura-linha">'
+            f'<img class="assinatura-foto" src="{base}assets/rosto.jpg" width="64" height="64" alt="">'
+            f'<span><b>{NOME_CURTO}</b><small>Advogado · {OAB} · Linhares/ES</small></span></div>'
             f'<img class="assinatura-traco" src="{base}assets/assinatura-bordo.png" width="130" height="121" alt="Assinatura de {NOME_CURTO}"></div>')
 
 
@@ -301,7 +302,6 @@ def pagina_inicial(posts):
     <p class="chamada">Dúvidas comuns sobre família, herança, trabalho, compras e INSS, respondidas de forma direta.</p>
     {assinatura("")}
   </div>
-  <img class="abertura-foto" src="assets/advogado.jpg" width="240" height="300" alt="{ADVOGADO}, advogado, de terno cinza e gravata bordô">
 </div></section>
 <section class="conteudo vitrine">
   <div class="filtros" role="group" aria-label="Filtrar por área">{botoes}</div>
