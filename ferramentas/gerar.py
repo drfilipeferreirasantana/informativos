@@ -51,6 +51,8 @@ ENDERECO = "Av. Prefeito Samuel Batista Cruz, 2832, Centro, Linhares/ES"
 EMAIL = "dr.filipeferreirasantana@gmail.com"
 TELEFONE = "(27) 99518-7279"
 WHATSAPP = "https://wa.me/5527995187279"
+# Mensagem do WhatsApp do menu e do rodapé: o sistema do escritório reconhece a frase
+WHATS_GERAL = f'{WHATSAPP}?text={quote("Olá! Vim pelo site de informativos e gostaria de falar com o escritório.")}'
 INSTAGRAM = "https://www.instagram.com/dr.filipeferreira"
 YOUTUBE = "https://www.youtube.com/@Filipeferreiraadvogado"
 # Número ISSN concedido pelo IBICT (cbissn.ibict.br). Enquanto vazio, o rodapé não mostra a linha do ISSN.
@@ -202,7 +204,7 @@ def cabeca(titulo, descricao, url, base, tipo="website", imagem=None, extra="", 
   <nav aria-label="Principal">
     <a href="{base}index.html">Informativos</a>{abas(base)}
     <a href="{SITE}">Site do escritório</a>
-    <a class="nav-whats" href="{WHATSAPP}" target="_blank" rel="noopener">{ICONE_WHATS}<span>WhatsApp</span></a>
+    <a class="nav-whats" href="{WHATS_GERAL}" target="_blank" rel="noopener">{ICONE_WHATS}<span>WhatsApp</span></a>
   </nav>
 </div></header>
 <main id="conteudo">
@@ -222,7 +224,7 @@ ICONES_CONTATO = {
 def rodape(base):
     issn = f"\n      <p>ISSN {ISSN}</p>" if ISSN else ""
     contatos = [
-        ("whatsapp", WHATSAPP, TELEFONE, "WhatsApp", True),
+        ("whatsapp", WHATS_GERAL, TELEFONE, "WhatsApp", True),
         ("youtube", YOUTUBE, "youtube.com/@Filipeferreiraadvogado", "YouTube", True),
         ("instagram", INSTAGRAM, "@dr.filipeferreira", "Instagram", True),
         ("email", f"mailto:{EMAIL}", EMAIL, "E-mail", False),
@@ -251,6 +253,7 @@ def rodape(base):
   </div>
   <p class="legal">Conteúdo de caráter informativo, que não substitui a análise individual de cada situação.</p>
 </div></footer>
+<script src="{base}assets/rastreio.js?v={versao('assets/rastreio.js')}" defer></script>
 """
 
 
@@ -315,7 +318,7 @@ def pagina_post(p, posts):
     whats = link_whats(p["titulo"])
     compartilhar = f"https://wa.me/?text={quote(p['titulo'] + ' ' + url)}"
     foto = f"../assets/fotos/posts/{p['slug']}.jpg"
-    corpo = f"""<article class="post">
+    corpo = f"""<article class="post" data-assunto="{area}">
 <div class="conteudo coluna">
   <p class="linha-topo"><b>{area}</b> {volume(p['data'])} · {data_extenso(p['data'])}{link_topo(p)}</p>
   <img class="foto-post" src="{foto}" width="1200" height="800" fetchpriority="high" alt="">
