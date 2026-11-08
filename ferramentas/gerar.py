@@ -341,7 +341,7 @@ def pagina_post(p, posts):
   {faq}
   <div class="caixa"><b>Base legal</b><ul>{base_legal}</ul></div>
   {fontes}
-  <p class="aviso">Publicado em <time datetime="{p['data']}">{data_extenso(p['data'])}</time>. Texto informativo e em tese. Cada situação depende de análise própria, com base nos documentos e nos fatos do caso.</p>
+  <p class="aviso">Publicado em <time datetime="{p['data']}">{data_extenso(p['data'])}</time>. Texto informativo. Cada situação depende de análise própria, com base nos documentos e nos fatos do caso.</p>
   <section class="autor">
     <img class="autor-foto" src="../assets/advogado.jpg" width="240" height="300" loading="lazy" alt="{ADVOGADO}, advogado, de terno cinza e gravata bordô">
     <div>
