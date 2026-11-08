@@ -3,7 +3,8 @@
 Site separado do site institucional, em HTML puro, publicado pelo GitHub Pages.
 Não tem gerador nem etapa de construção: cada post é um arquivo HTML em `posts/`.
 
-Endereço previsto: https://drfilipeferreirasantana.github.io/informativos/
+Endereço: https://informativos.escritorioferreiraadv.com.br/ (o arquivo `CNAME` informa esse domínio ao GitHub Pages).
+O site institucional (https://escritorioferreiraadv.com.br/, repositório `site-ferreira-advogados`) mostra uma faixa curta "Você sabia?" com o link para cá.
 
 ## Como publicar pela primeira vez
 
@@ -19,7 +20,10 @@ git push -u origin main
 ```
 
 3. No GitHub, abra **Settings > Pages**, escolha **Deploy from a branch**, branch `main`, pasta `/ (root)` e salve.
-   Em um ou dois minutos o endereço acima passa a funcionar.
+   Em **Custom domain** deve aparecer `informativos.escritorioferreiraadv.com.br` (vem do arquivo `CNAME`).
+4. No painel da Cloudflare, domínio `escritorioferreiraadv.com.br`, aba **DNS**, crie o registro:
+   - Tipo `CNAME`, nome `informativos`, destino `drfilipeferreirasantana.github.io`, proxy **desligado** (nuvem cinza, "DNS only").
+5. Volte em **Settings > Pages**, espere o certificado ficar pronto e marque **Enforce HTTPS**.
 
 ## Automação
 
@@ -52,8 +56,8 @@ Regras para cada post:
 - Toda afirmação jurídica com base legal conferida no texto oficial (biblioteca do escritório ou site oficial).
 - Caráter informativo, sem promessa de resultado, sem caso de cliente e sem chamada para contratar (Provimento 205/2021 do CFOAB e CED, arts. 39 a 47). As notas de pesquisa sobre essas regras estão no repositório `site-ferreira-advogados`, em `docs/research_notes`.
 
-## Como ligar ao site principal
+## Ligação com o site principal
 
-Basta um link no site institucional apontando para o endereço dos informativos. Opcionalmente, o endereço pode virar `informativos.escritorioferreiraadv.com.br`: crie um registro CNAME no DNS apontando para `drfilipeferreirasantana.github.io` e informe o domínio em **Settings > Pages > Custom domain**. Nesse caso, troque o endereço antigo nos arquivos (`canonical`, `og:url`, `sitemap.xml` e `robots.txt`).
+A faixa "Você sabia?" da página inicial do site institucional aponta para https://informativos.escritorioferreiraadv.com.br/. Se o endereço mudar, troque-o nos arquivos (`canonical`, `og:url`, links de compartilhar, `sitemap.xml`, `robots.txt`, `CNAME`), na faixa do site institucional (`construir_site.py`) e na tarefa agendada.
 
 Filipe Ferreira Santana · OAB/ES 37.159
