@@ -179,7 +179,7 @@ def assinatura(base):
     return (f'<div class="assinatura"><div class="assinatura-linha">'
             f'<img class="assinatura-foto" src="{base}assets/rosto.jpg" width="64" height="64" alt="">'
             f'<span><b>{NOME_CURTO}</b><small>Advogado · {OAB} · Linhares/ES</small></span></div>'
-            f'<img class="assinatura-traco" src="{base}assets/assinatura-bordo.png" width="130" height="121" alt="Assinatura de {NOME_CURTO}"></div>')
+            f'<span class="assinatura-traco" role="img" aria-label="Assinatura de {NOME_CURTO}"></span></div>')
 
 
 def cartao(p, base=""):
@@ -247,7 +247,7 @@ def pagina_post(p, posts):
       <p class="credenciais">{ADVOGADO}, advogado, {OAB}. Pós-graduação em Direito de Família em curso na FMP. Filiado ao IBDFAM.</p>
       <p>O escritório {NOME} atua em Direito de Família, Sucessões, Direito Trabalhista, Direito Civil, Direito do Consumidor e Direito Previdenciário, com atendimento presencial em Linhares/ES e on-line.</p>
       <p>Para tirar dúvidas sobre este assunto ou agendar um atendimento, o contato é pelo WhatsApp.</p>
-      <img class="autor-assinatura" src="../assets/assinatura-bordo.png" width="130" height="121" alt="Assinatura de {NOME_CURTO}">
+      <span class="assinatura-traco autor-assinatura" role="img" aria-label="Assinatura de {NOME_CURTO}"></span>
       <p class="acoes"><a class="botao botao-whatsapp" href="{whats}" target="_blank" rel="noopener">{ICONE_WHATS}Conversar pelo WhatsApp</a>
       <a class="botao botao-linha" href="{compartilhar}" target="_blank" rel="noopener">Enviar este informativo a alguém</a></p>
     </div>

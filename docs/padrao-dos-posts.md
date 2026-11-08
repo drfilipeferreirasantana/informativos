@@ -12,24 +12,28 @@ Força da evidência: a maior parte do que existe sobre marketing jurídico vem 
 - **Perguntas frequentes no fim** para responder as dúvidas seguintes do leitor e mantê-lo na página ([Edwards Legal Marketing](https://edwardslegalmarketing.com/law-firm-content-writing-that-converts-how-to-turn-educational-blogs-into-signed-cases/)).
 - **Temas de Família que mais geram dúvida:** pensão (cálculo, revisão, atraso), guarda e convivência, divórcio com e sem filhos, partilha e regime de bens, inventário ([Advbox](https://advbox.com.br/blog/instagram-na-advocacia/); [TJPB](https://www.tjpb.jus.br/w/saiba-como-e-quando-solicitar-guarda-regulamenta%C3%A7%C3%A3o-de-visitas-e-pens%C3%A3o-aliment%C3%ADcia%C2%A0-1)).
 
-## 2. Estrutura de cada post (formato visual, revisto em 8/11/2026)
+## 2. Visual sem marcas de IA (decidido pelo Dr. Filipe em 8/11/2026)
 
-O público lê pouco: a imagem e a resposta vêm primeiro, o texto fica opcional. O Dr. Filipe aparece em todo post como quem explica (foto, nome e assinatura), sem frases de autoelogio, que o Provimento 205/2021 veda.
+O primeiro visual (marinho com dourado, Montserrat em negrito, selos arredondados, degradês, ícones em círculos, "Você sabia que..." em todo título, sempre 3 pontos e "Imagine:") é o padrão que ferramentas de IA produzem e que o público mais informado reconhece. Foi trocado por:
 
-1. **Capa com foto da área** em tela cheia, número do informativo, a pergunta "Você sabia que...?" em letras grandes e a assinatura com foto: "Dr. Filipe Ferreira explica".
-2. **Resposta em 10 segundos:** selo curto em destaque (campo `destaque`, até 22 caracteres, ex.: "PRAZO: 7 DIAS") e a resposta em 1 ou 2 frases (`resumo`).
-3. **Em 3 pontos:** cartões com ícone, número e uma frase cada (`pontos`).
-4. **Situação do dia a dia:** um exemplo fictício, marcado como tal, para o leitor se reconhecer (`exemplo`). Nunca um caso real de cliente.
-5. **Entenda melhor:** o texto completo, recolhido (`corpo`).
-6. **Perguntas frequentes**, base legal e notícia de referência.
-7. **Quem explica:** foto, nome, OAB, formação, IBDFAM, áreas do escritório e o botão "Conversar pelo WhatsApp".
-8. **Você também pode gostar:** 3 informativos relacionados, com foto.
-9. No celular, barra fixa com o botão do WhatsApp.
+- **Formato de jornal (proposta A):** linha fina no topo com o número em bordô e a área; foto com borda reta, sem degradê; título; traço bordô curto; resposta; rodapé separado por linha com a foto pequena, o nome, a OAB e a assinatura de próprio punho.
+- **Letras (proposta C):** título com serifa (Sitka Display nas artes; Source Serif 4 no site) e texto de apoio em condensada (Bahnschrift nas artes; Barlow Semi Condensed no site). Sitka e Bahnschrift são do Windows e não podem ir para a web, por isso o site usa as equivalentes livres do Google Fonts.
+- **Cores:** papel claro (#ece7de), tinta quase preta (#161616) e **bordô** (#7a2333), a cor da gravata da foto oficial, só nos detalhes. Verde só no botão do WhatsApp. Nada de sombras fortes ou cantos arredondados.
+- **Assinatura:** extraída da foto enviada pelo Dr. Filipe, em bordô e com 260 px de largura de propósito (marca visual, sem resolução para virar cópia em papel). Na página principal fica centralizada abaixo de "Advogado · OAB/ES 37.159 · Linhares/ES", sem repetir a foto. Proteções (pedido de 8/11/2026): no site ela é fundo desenhado e não imagem, então não aparece "salvar imagem", não se arrasta e não reage a toque longo; o próprio arquivo tem linhas diagonais transparentes que picotam o traço quando ampliado. Nenhuma página consegue impedir um print de tela; por isso a defesa principal é a cópia sair inútil (baixa resolução, bordô e picotada).
+- **Texto:** título como a pergunta direta que a pessoa faria ("A pensão acaba quando o filho faz 18 anos?"); "Você sabia?" é só o nome da série. A resposta curta é uma frase normal ("Não automaticamente."), não um selo em maiúsculas. De 2 a 4 pontos, conforme o tema. O exemplo do dia a dia não começa com "Imagine:".
+- **Próximos passos para ficar 100%:** fotos reais do Dr. Filipe e do escritório em vez das fotos de banco por área; variar os formatos (pergunta, mito ou verdade, prazo, "o que fazer quando").
 
-## 3. Cores
+## 3. Estrutura do post
 
-- Não há estudo controlado sobre cor e confiança em sites jurídicos; o que existe é opinião de agência (paleta calma e limitada, bastante espaço em branco, cores da marca usadas de forma consistente) ([pesquisa sobre cores](https://me-iclickmedia.gitbook.io/melinda/designing-for-trust-key-elements-for-law-firm-and-legal-websites)).
-- **Decisão (pedido do Dr. Filipe em 8/11/2026):** combinar com o site do escritório sem copiar. **Marinho profundo** (#0f1b2d) para seriedade e confiança, **dourado discreto** (#b8935a) para competência, **off-white** (#f4f2ee) e cinzas neutros no texto. O verde aparece só nos botões do WhatsApp. A paleta coincide com a do CLAUDE.md do escritório (navy, dourado e branco).
+1. Linha de topo (número, área) e foto da área.
+2. Título em pergunta direta.
+3. Resposta curta em bordô, seguida da explicação em 1 ou 2 frases.
+4. De 2 a 4 pontos numerados.
+5. Situação do dia a dia (fictícia, marcada como ilustrativa).
+6. "Entenda melhor" com o texto completo, recolhido.
+7. Perguntas frequentes, base legal e notícia de referência.
+8. Quem escreve: foto, nome, OAB, formação, IBDFAM, áreas, assinatura e o botão "Conversar pelo WhatsApp".
+9. Leia também: 3 informativos relacionados.
 
 ## 4. Imagens
 

@@ -63,7 +63,8 @@ p{margin:0}
 .assinatura-foto{width:64px;height:64px;object-fit:cover}
 .assinatura b{display:block;font:700 1.2rem var(--serifa)}
 .assinatura small{display:block;font-size:.92rem;color:var(--cinza)}
-.assinatura-traco{width:120px;height:auto;margin-top:.4rem}
+/* A assinatura é fundo desenhado, não imagem: sem "salvar imagem", sem arrastar, sem toque longo no celular */
+.assinatura-traco{display:block;width:120px;aspect-ratio:260/242;margin-top:.4rem;background:url("assinatura-bordo.png") center/contain no-repeat;pointer-events:none;user-select:none;-webkit-user-select:none;-webkit-touch-callout:none}
 
 /* Filtros e lista */
 .vitrine{padding-bottom:3rem}
@@ -126,7 +127,7 @@ p{margin:0}
 .autor h2{font-size:1.9rem;margin-bottom:.4rem}
 .autor p{margin-bottom:.55rem;color:var(--tinta-2)}
 .autor .credenciais{font-size:.98rem;color:var(--cinza)}
-.autor-assinatura{width:120px;margin:.2rem 0 .4rem}
+.autor-assinatura{margin:.2rem 0 .4rem}
 .acoes{display:flex;flex-wrap:wrap;gap:.6rem;margin-top:.6rem}
 
 /* Leia também */
