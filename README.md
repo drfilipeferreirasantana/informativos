@@ -21,7 +21,11 @@ git push -u origin main
 3. No GitHub, abra **Settings > Pages**, escolha **Deploy from a branch**, branch `main`, pasta `/ (root)` e salve.
    Em um ou dois minutos o endereço acima passa a funcionar.
 
-## Como acrescentar um post
+## Automação
+
+A tarefa agendada **informativo-voce-sabia** (app Claude, seção "Agendadas") roda às 8h, a cada 2 dias: lê os Alertas do Google, pesquisa novidades na internet, confere a base legal na biblioteca do escritório, escreve o post, publica (commit e push) e manda por e-mail o link, uma legenda pronta para as redes e o link de compartilhamento no WhatsApp. Ela só roda com o app Claude aberto; se ele estiver fechado no horário, roda quando o app abrir.
+
+## Como acrescentar um post à mão
 
 1. Copie `modelo-post.html` para `posts/nome-do-post.html` (letras minúsculas, sem acento, palavras separadas por hífen).
 2. Troque tudo o que está em MAIÚSCULAS e apague a linha `<meta name="robots" content="noindex">` e o comentário do topo.
