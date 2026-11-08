@@ -1,0 +1,23 @@
+{
+  "slug": "herdeiro-nao-paga-dividas-alem-da-heranca",
+  "area": "sucessoes",
+  "data": "2026-11-07",
+  "titulo": "Você sabia que o herdeiro não paga as dívidas do falecido além do valor da herança?",
+  "resumo": "As dívidas são pagas com os bens deixados. O patrimônio pessoal dos herdeiros não responde pelo que exceder.",
+  "corpo": "<p>Uma preocupação comum de quem perde um familiar é herdar as dívidas dele. A lei estabelece um limite claro.</p>\n<h2>O que a lei prevê</h2>\n<p>O Código Civil determina que o herdeiro não responde por encargos superiores às forças da herança. Em outras palavras, as dívidas do falecido são pagas com os bens que ele deixou. Se as dívidas forem maiores do que esses bens, a diferença não passa para o patrimônio pessoal dos herdeiros.</p>\n<p>Depois da partilha, cada herdeiro responde pelas dívidas apenas na proporção da parte que recebeu.</p>\n<h2>Na prática</h2>\n<ul>\n<li>Cabe ao herdeiro provar que a dívida excede a herança, salvo quando há inventário que já demonstre o valor dos bens herdados.</li>\n<li>Por isso, o inventário também serve para proteger os herdeiros.</li>\n</ul>",
+  "faq": [
+    [
+      "O patrimônio do herdeiro pode ser usado para pagar dívidas do falecido?",
+      "Não além do valor da herança recebida (Código Civil, art. 1.792)."
+    ],
+    [
+      "Depois da partilha, quem responde pelas dívidas?",
+      "Cada herdeiro, na proporção da parte que recebeu (Código Civil, art. 1.997)."
+    ]
+  ],
+  "base": [
+    "Código Civil, art. 1.792",
+    "Código Civil, art. 1.997"
+  ],
+  "fontes": []
+}

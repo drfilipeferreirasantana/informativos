@@ -1,0 +1,28 @@
+{
+  "slug": "divorcio-em-cartorio-com-filhos-menores",
+  "area": "familia",
+  "data": "2026-11-07",
+  "titulo": "Você sabia que o divórcio pode ser feito em cartório mesmo com filhos menores?",
+  "resumo": "Desde 2024, a escritura é possível quando guarda, convivência e pensão dos filhos já foram resolvidas na Justiça.",
+  "corpo": "<p>Por muito tempo, quem tinha filhos menores ou incapazes só podia se divorciar pela via judicial. Em agosto de 2024, o Conselho Nacional de Justiça mudou essa regra.</p>\n<h2>O que mudou</h2>\n<p>A Resolução 35/2007 do CNJ, com a redação dada pela Resolução 571/2024, passou a permitir a escritura pública de divórcio quando o casal tem filhos menores ou incapazes, desde que todas as questões sobre guarda, visitação e alimentos desses filhos já tenham sido resolvidas antes em juízo. Essa comprovação fica registrada na própria escritura.</p>\n<h2>Na prática</h2>\n<ul>\n<li>O divórcio em cartório continua exigindo acordo entre o casal.</li>\n<li>A guarda, a convivência e a pensão dos filhos não são decididas no cartório: precisam ter passado antes pela Justiça.</li>\n<li>A escritura exige a presença de advogado ou defensor público.</li>\n<li>Se não houver acordo, o caminho continua sendo o processo judicial.</li>\n</ul>",
+  "faq": [
+    [
+      "Precisa de advogado para o divórcio em cartório?",
+      "Sim. A escritura exige a participação de advogado ou defensor público (CPC, art. 733, § 2º)."
+    ],
+    [
+      "E se a guarda e a pensão dos filhos ainda não foram decididas?",
+      "Nesse caso a escritura não pode ser feita. Guarda, convivência e alimentos precisam ser resolvidos antes na Justiça."
+    ]
+  ],
+  "base": [
+    "Resolução CNJ 35/2007, art. 34, § 2º, com a redação da Resolução CNJ 571/2024",
+    "CPC, art. 733, caput e § 2º"
+  ],
+  "fontes": [
+    [
+      "Colégio Notarial do Brasil, Seção São Paulo: divórcio extrajudicial com filhos menores",
+      "https://cnbsp.org.br/2025/08/06/artigo-divorcio-extrajudicial-a-solucao-rapida-e-online-mesmo-com-filhos-menores-ou-incapazes-por-julio-martins/"
+    ]
+  ]
+}

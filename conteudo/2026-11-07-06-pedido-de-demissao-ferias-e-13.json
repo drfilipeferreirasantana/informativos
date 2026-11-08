@@ -1,0 +1,24 @@
+{
+  "slug": "pedido-de-demissao-ferias-e-13",
+  "area": "trabalhista",
+  "data": "2026-11-07",
+  "titulo": "Você sabia que quem pede demissão também recebe férias e 13º proporcionais?",
+  "resumo": "Mesmo com menos de um ano de empresa, o trabalhador que se demite tem direito às férias proporcionais.",
+  "corpo": "<p>Muitos trabalhadores acreditam que, ao pedir demissão, perdem todos os direitos. Não é verdade: algumas verbas são devidas em qualquer caso, e outras também na demissão a pedido.</p>\n<h2>O que a lei e a jurisprudência preveem</h2>\n<ul>\n<li><b>Férias vencidas:</b> na cessação do contrato, qualquer que seja a causa, são devidas as férias cujo direito já tenha sido adquirido (CLT, art. 146).</li>\n<li><b>Férias proporcionais:</b> o Tribunal Superior do Trabalho firmou que o empregado que se demite antes de completar 12 meses de serviço tem direito às férias proporcionais (Súmula 261 do TST), com o acréscimo de um terço previsto na Constituição.</li>\n<li><b>13º salário proporcional:</b> também é devido quando a iniciativa de encerrar o contrato é do empregado (Súmula 157 do TST).</li>\n<li><b>Saldo de salário:</b> os dias trabalhados no mês da saída devem ser pagos.</li>\n</ul>\n<h2>Na prática</h2>\n<p>O recibo de rescisão deve discriminar cada parcela paga e o seu valor, e a quitação vale apenas para essas parcelas. Vale conferir o documento antes de assinar.</p>",
+  "faq": [
+    [
+      "Quem pede demissão com menos de um ano recebe férias?",
+      "Sim, as férias proporcionais, com o acréscimo de um terço (Súmula 261 do TST; Constituição, art. 7º, XVII)."
+    ],
+    [
+      "E o 13º salário?",
+      "O 13º proporcional também é devido quando o empregado pede demissão (Súmula 157 do TST)."
+    ]
+  ],
+  "base": [
+    "CLT, art. 146, e art. 477, § 2º",
+    "Constituição Federal, art. 7º, XVII",
+    "Súmulas 157 e 261 do TST"
+  ],
+  "fontes": []
+}

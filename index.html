@@ -4,19 +4,21 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Você sabia? Informativos | Ferreira Advogados</title>
-<meta name="description" content="Informativos da Ferreira Advogados sobre Direito de Família, Sucessões, Trabalhista, Consumidor e Previdenciário.">
+<meta name="description" content="Informativos da Ferreira Advogados sobre Direito de Família, Sucessões, Trabalhista, Civil, Consumidor e Previdenciário.">
 <meta name="theme-color" content="#39414a">
 <meta property="og:title" content="Você sabia? Informativos | Ferreira Advogados">
-<meta property="og:description" content="Informativos da Ferreira Advogados sobre Direito de Família, Sucessões, Trabalhista, Consumidor e Previdenciário.">
+<meta property="og:description" content="Informativos da Ferreira Advogados sobre Direito de Família, Sucessões, Trabalhista, Civil, Consumidor e Previdenciário.">
 <meta property="og:type" content="website">
 <meta property="og:locale" content="pt_BR">
+<meta property="og:site_name" content="Informativos Ferreira Advogados">
 <meta property="og:url" content="https://informativos.escritorioferreiraadv.com.br/">
 <meta property="og:image" content="https://informativos.escritorioferreiraadv.com.br/assets/emblema-prata.png">
+<meta name="twitter:card" content="summary_large_image">
 <link rel="canonical" href="https://informativos.escritorioferreiraadv.com.br/">
 <link rel="icon" type="image/png" href="assets/favicon.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600&family=Montserrat:wght@400;500;600&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600&family=Montserrat:wght@400;500;600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="assets/estilo.css">
 </head>
 <body>
@@ -40,7 +42,6 @@
 <section class="conteudo">
   <div class="filtros" role="group" aria-label="Filtrar por área"><button type="button" data-filtro="" aria-pressed="true">Todos</button><button type="button" data-filtro="familia" aria-pressed="false">Direito de Família</button><button type="button" data-filtro="sucessoes" aria-pressed="false">Sucessões</button><button type="button" data-filtro="trabalhista" aria-pressed="false">Direito Trabalhista</button><button type="button" data-filtro="consumidor" aria-pressed="false">Direito do Consumidor</button><button type="button" data-filtro="previdenciario" aria-pressed="false">Direito Previdenciário</button></div>
   <div class="lista">
-<!-- NOVOS POSTS: cole o cartão do novo post logo abaixo desta linha -->
   <a class="cartao" data-area="familia" href="posts/divorcio-em-cartorio-com-filhos-menores.html"><span class="meta">Direito de Família · 7 de novembro de 2026</span><h2>Você sabia que o divórcio pode ser feito em cartório mesmo com filhos menores?</h2><p>Desde 2024, a escritura é possível quando guarda, convivência e pensão dos filhos já foram resolvidas na Justiça.</p><span class="ler">Ler o informativo</span></a>
   <a class="cartao" data-area="familia" href="posts/pensao-nao-acaba-automaticamente-aos-18.html"><span class="meta">Direito de Família · 7 de novembro de 2026</span><h2>Você sabia que a pensão alimentícia não acaba automaticamente aos 18 anos?</h2><p>O fim da pensão do filho que atinge a maioridade depende de decisão judicial, com direito de defesa.</p><span class="ler">Ler o informativo</span></a>
   <a class="cartao" data-area="familia" href="posts/imovel-do-ex-conjuge-moradia-dos-filhos.html"><span class="meta">Direito de Família · 7 de novembro de 2026</span><h2>Você sabia que quem mora com os filhos no imóvel do ex-cônjuge pode não ter que pagar aluguel?</h2><p>Para o STJ, a moradia compartilhada com os filhos comuns não se confunde com uso exclusivo do imóvel.</p><span class="ler">Ler o informativo</span></a>
@@ -66,7 +67,7 @@
       <h3>Contato</h3>
       <ul>
         <li><a href="https://escritorioferreiraadv.com.br/">escritorioferreiraadv.com.br</a></li>
-        <li><a href="tel:+5527995187279">(27) 99518-7279</a></li>
+        <li><a href="https://wa.me/5527995187279" target="_blank" rel="noopener">WhatsApp (27) 99518-7279</a></li>
         <li><a href="mailto:dr.filipeferreirasantana@gmail.com">dr.filipeferreirasantana@gmail.com</a></li>
       </ul>
     </div>
@@ -76,7 +77,7 @@
 <script>
 (function () {
   var POR_VEZ = 12, mostrando = POR_VEZ, filtro = '';
-  var cartoes = [].slice.call(document.querySelectorAll('.cartao'));
+  var cartoes = [].slice.call(document.querySelectorAll('.lista .cartao'));
   var mais = document.getElementById('mais');
   function aplicar() {
     var visiveis = cartoes.filter(function (c) { return !filtro || c.dataset.area === filtro; });

@@ -1,7 +1,7 @@
 # Informativos "Você sabia?" da Ferreira Advogados
 
 Site separado do site institucional, em HTML puro, publicado pelo GitHub Pages.
-Não tem gerador nem etapa de construção: cada post é um arquivo HTML em `posts/`.
+Cada post é um arquivo de conteúdo em `conteudo/`; o `ferramentas/gerar.py` monta as páginas no padrão definido em `docs/padrao-dos-posts.md` (estrutura, cores, imagens, contato pelo WhatsApp).
 
 Endereço: https://informativos.escritorioferreiraadv.com.br/ (o arquivo `CNAME` informa esse domínio ao GitHub Pages).
 O site institucional (https://escritorioferreiraadv.com.br/, repositório `site-ferreira-advogados`) mostra uma faixa curta "Você sabia?" com o link para cá.
@@ -31,20 +31,11 @@ A tarefa agendada **informativo-voce-sabia** (app Claude, seção "Agendadas") r
 
 ## Como acrescentar um post à mão
 
-1. Copie `modelo-post.html` para `posts/nome-do-post.html` (letras minúsculas, sem acento, palavras separadas por hífen).
-2. Troque tudo o que está em MAIÚSCULAS e apague a linha `<meta name="robots" content="noindex">` e o comentário do topo.
-3. No `index.html`, logo abaixo da linha `<!-- NOVOS POSTS ... -->`, cole o cartão:
+1. Copie um arquivo de `conteudo/` para `conteudo/AAAA-MM-DD-nome-do-post.json` e troque os campos (o formato está no topo de `ferramentas/gerar.py`).
+2. Rode `python ferramentas/gerar.py`. Ele cria a página em `posts/`, a capa de compartilhamento e a arte do Instagram em `imagens/`, e refaz a página inicial e o `sitemap.xml`.
+3. Faça o commit e o push. O GitHub Pages publica sozinho.
 
-```html
-<a class="cartao" data-area="familia" href="posts/nome-do-post.html"><span class="meta">Direito de Família · 7 de novembro de 2026</span><h2>Você sabia que ...?</h2><p>Resumo curto.</p><span class="ler">Ler o informativo</span></a>
-```
-
-   Valores de `data-area`: `familia`, `sucessoes`, `trabalhista`, `consumidor`, `previdenciario`.
-   Se usar uma área nova, acrescente o botão correspondente em `<div class="filtros">`.
-4. Acrescente o endereço do post no `sitemap.xml`.
-5. Faça o commit e o push. O GitHub Pages publica sozinho.
-
-A página inicial mostra 12 cartões por vez, só com texto, e carrega o restante pelo botão "Ver mais informativos". Por isso ela continua leve mesmo com muitos posts.
+Áreas aceitas: `familia`, `sucessoes`, `trabalhista`, `civil`, `consumidor`, `previdenciario`. O gerador recusa texto com travessão.
 
 ## De onde vêm os temas
 
