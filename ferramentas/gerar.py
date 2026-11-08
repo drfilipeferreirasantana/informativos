@@ -66,6 +66,13 @@ ICONE_WHATS = '<svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><
 e = html.escape
 
 
+def versao(caminho):
+    """Hash curto do arquivo: muda quando o arquivo muda, e o navegador baixa a versão nova em vez da guardada."""
+    import hashlib
+    arq = RAIZ / caminho
+    return hashlib.md5(arq.read_bytes()).hexdigest()[:8] if arq.exists() else "0"
+
+
 def data_extenso(iso):
     a, m, d = iso.split("-")
     return f"{int(d)} de {MESES[int(m) - 1]} de {a}"
@@ -133,7 +140,7 @@ def cabeca(titulo, descricao, url, base, tipo="website", imagem=None, extra="", 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@400;500;600;700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="{base}assets/estilo.css">{extra}
+<link rel="stylesheet" href="{base}assets/estilo.css?v={versao('assets/estilo.css')}">{extra}
 </head>
 <body>
 <a class="pular" href="#conteudo">Ir para o conteúdo</a>
@@ -262,7 +269,8 @@ def pagina_post(p, posts):
 <div class="barra-whats"><a class="botao botao-whatsapp" href="{whats}" target="_blank" rel="noopener">{ICONE_WHATS}Conversar pelo WhatsApp</a></div>
 """
     return (cabeca(f"{p['titulo']} | {NOME_CURTO}, advogado", p["resumo"], url, "../", "article",
-                   f"{BASE}imagens/{p['slug']}-capa.jpg", f'\n<script type="application/ld+json">{ld}</script>', foto)
+                   f"{BASE}imagens/{p['slug']}-capa.jpg?v={versao('imagens/' + p['slug'] + '-capa.jpg')}",
+                   f'\n<script type="application/ld+json">{ld}</script>', foto)
             + corpo + RODAPE + "</body>\n</html>\n")
 
 
@@ -320,13 +328,15 @@ def pagina_artes(posts):
     """Página só para o Dr. Filipe (fora do Google): artes e links prontos para as redes."""
     itens = []
     for p in posts:
+        vi = versao('imagens/' + p['slug'] + '-instagram.jpg')
+        vc = versao('imagens/' + p['slug'] + '-capa.jpg')
         url = f"{BASE}posts/{p['slug']}.html"
         compartilhar = f"https://wa.me/?text={quote(p['titulo'] + ' ' + url + '?v=' + str(p['numero']))}"
         itens.append(f"""<div class="arte">
-  <img src="imagens/{p['slug']}-instagram.jpg" width="1080" height="1350" loading="lazy" alt="">
+  <img src="imagens/{p['slug']}-instagram.jpg?v={vi}" width="1080" height="1350" loading="lazy" alt="">
   <div><b>Nº {p['numero']} · {e(p['titulo'])}</b>
-  <a class="botao botao-linha" href="imagens/{p['slug']}-instagram.jpg" download>Baixar arte do Instagram</a>
-  <a class="botao botao-linha" href="imagens/{p['slug']}-capa.jpg" download>Baixar capa (WhatsApp e Facebook)</a>
+  <a class="botao botao-linha" href="imagens/{p['slug']}-instagram.jpg?v={vi}" download>Baixar arte do Instagram</a>
+  <a class="botao botao-linha" href="imagens/{p['slug']}-capa.jpg?v={vc}" download>Baixar capa (WhatsApp e Facebook)</a>
   <a class="botao botao-whatsapp" href="{compartilhar}" target="_blank" rel="noopener">{ICONE_WHATS}Enviar no WhatsApp</a>
   <a class="botao botao-linha" href="posts/{p['slug']}.html">Abrir o post</a></div>
 </div>""")
@@ -463,13 +473,13 @@ def main():
         sys.exit("Nenhum arquivo em conteudo/. Nada foi alterado.")
     (RAIZ / "posts").mkdir(exist_ok=True)
     (RAIZ / "imagens").mkdir(exist_ok=True)
-    for p in posts:
-        (RAIZ / "posts" / f"{p['slug']}.html").write_text(pagina_post(p, posts), encoding="utf-8")
+    for p in posts:  # imagens antes das páginas: a versão da capa entra no og:image
         capa = RAIZ / "imagens" / f"{p['slug']}-capa.jpg"
         insta = RAIZ / "imagens" / f"{p['slug']}-instagram.jpg"
         if "--imagens" in sys.argv or not capa.exists() or not insta.exists():
             imagem(p, 1200, 630, capa, False)
             imagem(p, 1080, 1350, insta, True)
+        (RAIZ / "posts" / f"{p['slug']}.html").write_text(pagina_post(p, posts), encoding="utf-8")
     (RAIZ / "index.html").write_text(pagina_inicial(posts), encoding="utf-8")
     (RAIZ / "artes.html").write_text(pagina_artes(posts), encoding="utf-8")
     urls = [BASE] + [f"{BASE}posts/{p['slug']}.html" for p in posts]
