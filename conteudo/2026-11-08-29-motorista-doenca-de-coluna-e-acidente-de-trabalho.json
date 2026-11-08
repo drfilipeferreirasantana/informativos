@@ -1,0 +1,47 @@
+{
+  "slug": "motorista-doenca-de-coluna-e-acidente-de-trabalho",
+  "area": "previdenciario",
+  "data": "2026-11-08",
+  "serie": "motoristas",
+  "ordem": 14,
+  "titulo": "Hérnia de disco e dor na coluna do motorista podem ser acidente de trabalho?",
+  "resumo": "A lei equipara ao acidente do trabalho a doença adquirida ou agravada pelas condições em que o trabalho é feito, inclusive quando o trabalho é uma das causas, e não a única.",
+  "destaque": "Podem, conforme o caso.",
+  "pontos": [
+    [
+      "saude",
+      "Doença causada ou desencadeada pelas condições do trabalho é equiparada a acidente."
+    ],
+    [
+      "balanca",
+      "Basta que o trabalho tenha contribuído diretamente, mesmo sem ser a causa única."
+    ],
+    [
+      "alerta",
+      "A lei exclui a doença puramente degenerativa ou própria da idade."
+    ]
+  ],
+  "exemplo": "Depois de quinze anos dirigindo carreta, Joel teve uma hérnia de disco diagnosticada e o INSS concedeu o benefício como doença comum, sem relação com o trabalho.",
+  "corpo": "<h2>O que a lei prevê</h2><p>A Lei 8.213/1991 considera acidente do trabalho a doença do trabalho, adquirida ou desencadeada em função das condições especiais em que o trabalho é realizado e com ele relacionada diretamente.</p><p>A lei também equipara ao acidente do trabalho o acidente ou a doença ligados ao trabalho que, embora não sejam a causa única, tenham contribuído diretamente para a redução ou perda da capacidade. É a chamada concausa.</p><p>Por outro lado, a lei diz que não são doença do trabalho a doença degenerativa, a inerente à faixa etária e a que não produz incapacidade.</p><h2>Na prática</h2><ul><li>Horas seguidas ao volante, vibração e esforço de carga e descarga entram na análise das condições do trabalho.</li><li>Laudos médicos, exames e a descrição da rotina de trabalho ajudam a mostrar a relação com a atividade.</li><li>O reconhecimento como doença do trabalho muda o tipo de benefício e leva à estabilidade de 12 meses.</li></ul>",
+  "faq": [
+    [
+      "Se a doença também tem causa degenerativa, perde o direito?",
+      "Não necessariamente. A lei equipara a acidente a doença para a qual o trabalho contribuiu diretamente, mesmo sem ser a causa única (Lei 8.213/1991, art. 21, I). A doença exclusivamente degenerativa fica fora (art. 20, § 1º, a)."
+    ],
+    [
+      "Qual a diferença para o motorista?",
+      "O benefício acidentário leva à estabilidade de 12 meses após a alta (Lei 8.213/1991, art. 118)."
+    ]
+  ],
+  "base": [
+    "Lei 8.213/1991, art. 20, II e § 1º",
+    "Lei 8.213/1991, art. 21, I",
+    "Lei 8.213/1991, art. 118"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/7298429/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

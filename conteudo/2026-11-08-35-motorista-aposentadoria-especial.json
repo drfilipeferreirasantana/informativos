@@ -1,0 +1,47 @@
+{
+  "slug": "motorista-aposentadoria-especial",
+  "area": "previdenciario",
+  "data": "2026-11-08",
+  "serie": "motoristas",
+  "ordem": 20,
+  "titulo": "Motorista de caminhão ou de ônibus tem direito a aposentadoria especial?",
+  "resumo": "Até 28 de abril de 1995, o tempo como motorista de caminhão ou de ônibus podia ser reconhecido como especial só pela profissão. Depois disso, é preciso provar exposição a agentes nocivos.",
+  "destaque": "Depende da época trabalhada.",
+  "pontos": [
+    [
+      "calendario",
+      "Até 28/4/1995, o enquadramento podia ser feito pela categoria profissional."
+    ],
+    [
+      "documento",
+      "Depois dessa data, é preciso provar a exposição a agentes nocivos, normalmente pelo PPP."
+    ],
+    [
+      "alerta",
+      "Tempo especial antigo pode aumentar ou antecipar a aposentadoria."
+    ]
+  ],
+  "exemplo": "Seu Antônio dirigiu ônibus de viagem de 1982 a 1994 e caminhão depois disso. No pedido de aposentadoria, o INSS contou todo o período como tempo comum.",
+  "corpo": "<h2>O que a norma do INSS prevê</h2><p>A instrução normativa do INSS assegura a caracterização do tempo especial por categoria profissional até 28 de abril de 1995, véspera da publicação da Lei 9.032/1995. Nesse período, o enquadramento pode ser feito pela atividade anotada na carteira de trabalho, sem os formulários exigidos depois, quando nenhuma outra informação for necessária.</p><p>A Justiça Federal tem reconhecido que as atividades de motorista de caminhão e de ônibus estavam entre as categorias profissionais previstas nos decretos da época.</p><p>A partir de 29 de abril de 1995, o reconhecimento depende da comprovação de exposição efetiva a agentes nocivos à saúde, como ruído ou vibração acima dos limites.</p><h2>Na prática</h2><ul><li>Reúna carteiras de trabalho antigas: elas comprovam a função no período anterior a 1995.</li><li>Para períodos posteriores, peça o PPP às empresas.</li><li>A Reforma da Previdência de 2019 mudou regras de aposentadoria especial; o tempo antigo continua relevante na contagem.</li></ul>",
+  "faq": [
+    [
+      "Preciso de formulário para o tempo antes de 1995?",
+      "Quando o enquadramento é por categoria profissional e a carteira de trabalho basta, a norma do INSS dispensa os formulários (Instrução Normativa PRES/INSS 128/2022)."
+    ],
+    [
+      "Ajudante de caminhão também entra?",
+      "A Justiça Federal tem reconhecido o enquadramento de motoristas e ajudantes de caminhão até 28/4/1995. Cada caso depende da documentação."
+    ]
+  ],
+  "base": [
+    "Instrução Normativa PRES/INSS 128/2022, art. 261",
+    "Lei 9.032/1995",
+    "Lei 8.213/1991, art. 57"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/28284109/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

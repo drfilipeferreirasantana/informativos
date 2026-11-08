@@ -1,0 +1,47 @@
+{
+  "slug": "motorista-sequela-pensao-paga-pela-empresa",
+  "area": "civil",
+  "data": "2026-11-08",
+  "serie": "motoristas",
+  "ordem": 17,
+  "titulo": "Motorista que fica com sequela de acidente pode receber pensão da empresa?",
+  "resumo": "Se o acidente deixa o motorista sem poder exercer a profissão ou com a capacidade reduzida, a indenização inclui pensão proporcional à perda, além das despesas de tratamento e do que deixou de ganhar.",
+  "destaque": "Pode, além do INSS.",
+  "pontos": [
+    [
+      "saude",
+      "A indenização cobre despesas de tratamento e o que o motorista deixou de ganhar."
+    ],
+    [
+      "carteira",
+      "Inclui pensão correspondente à perda ou redução da capacidade de trabalho."
+    ],
+    [
+      "documento",
+      "O motorista pode pedir que a indenização seja paga de uma só vez."
+    ]
+  ],
+  "exemplo": "Depois de um tombamento na serra, Anderson perdeu parte do movimento do braço direito e não conseguiu mais renovar a CNH profissional.",
+  "corpo": "<h2>O que a lei prevê</h2><p>O Código Civil determina que, se da lesão resultar defeito pelo qual a pessoa não possa exercer o seu ofício ou profissão, ou tenha diminuída a capacidade de trabalho, a indenização inclua, além das despesas de tratamento e dos lucros cessantes até o fim da convalescença, uma pensão correspondente à importância do trabalho para o qual ficou inabilitada ou à depreciação que sofreu.</p><p>O prejudicado pode exigir que essa indenização seja arbitrada e paga de uma só vez.</p><p>No transporte rodoviário, atividade de risco, o empregador pode responder mesmo sem culpa, conforme o Código Civil e o Tema 932 do Supremo Tribunal Federal.</p><h2>Na prática</h2><ul><li>Os benefícios do INSS não impedem a indenização devida pela empresa.</li><li>O tamanho da pensão depende do grau de perda da capacidade, normalmente apurado em perícia.</li></ul>",
+  "faq": [
+    [
+      "Quem recebe auxílio-acidente do INSS ainda pode pedir pensão à empresa?",
+      "Sim. São responsabilidades diferentes: o benefício é do INSS, e a indenização do Código Civil é do causador do dano (Código Civil, art. 950)."
+    ],
+    [
+      "A pensão pode ser paga de uma vez?",
+      "Sim, se o prejudicado preferir (Código Civil, art. 950, parágrafo único)."
+    ]
+  ],
+  "base": [
+    "Código Civil, art. 950",
+    "Código Civil, art. 927, parágrafo único",
+    "STF, Tema 932 da repercussão geral (responsabilidade objetiva do empregador em atividade de risco)"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/8097984/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

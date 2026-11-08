@@ -1,0 +1,53 @@
+{
+  "slug": "motorista-assalto-na-estrada-indenizacao",
+  "area": "civil",
+  "data": "2026-11-08",
+  "serie": "motoristas",
+  "ordem": 18,
+  "titulo": "Motorista assaltado na estrada tem direito a indenização da empresa?",
+  "resumo": "O TST entende que o transporte de cargas é atividade de risco e que a empresa responde pelos danos do assalto mesmo sem culpa. Em 2025, garantiu indenização a um motorista trancado no baú durante um roubo.",
+  "destaque": "Sim, segundo o TST.",
+  "pontos": [
+    [
+      "alerta",
+      "Transporte de carga é atividade de risco reconhecida pelo TST."
+    ],
+    [
+      "balanca",
+      "A responsabilidade da empresa independe de culpa no assalto."
+    ],
+    [
+      "escudo",
+      "Ser rendido e ameaçado já basta: não é preciso provar abalo psicológico."
+    ]
+  ],
+  "exemplo": "Carlos foi rendido por homens armados num posto de combustível, teve a carga levada e ficou horas amarrado. Na volta, a empresa disse que assalto é caso de polícia, não dela.",
+  "corpo": "<h2>O que foi decidido</h2><p>Em outubro de 2025, a Terceira Turma do Tribunal Superior do Trabalho reconheceu o direito à indenização por dano moral de um motorista de São Paulo que foi abordado por criminosos armados, levado para outro bairro e trancado com cadeado no baú do caminhão por cerca de uma hora, enquanto a carga era retirada.</p><p>Para o relator, o transporte de cargas é atividade de risco reconhecido, pela vulnerabilidade do motorista a abordagens criminosas nas estradas. Segundo a jurisprudência do TST, a responsabilidade do empregador nesse caso independe de culpa. O relator também afirmou que ser rendido, trancado e ameaçado de morte já ofende a dignidade do trabalhador, sem necessidade de provar abalo psicológico.</p><h2>Na prática</h2><ul><li>Registre o boletim de ocorrência e guarde a cópia.</li><li>Atendimento médico ou psicológico depois do assalto também deve ser documentado.</li><li>O valor da indenização depende das circunstâncias de cada caso.</li></ul>",
+  "faq": [
+    [
+      "A lei prevê proteção ao motorista contra crimes na estrada?",
+      "Sim. A Lei do Motorista garante o direito de receber proteção do Estado contra ações criminosas no exercício da profissão (Lei 13.103/2015, art. 2º, III). A indenização pela empresa é tratada pelo Código Civil e pela jurisprudência do TST."
+    ],
+    [
+      "Qual a base legal?",
+      "A obrigação de reparar sem culpa em atividade de risco (Código Civil, art. 927, parágrafo único), admitida pelo STF no Tema 932."
+    ]
+  ],
+  "base": [
+    "Código Civil, art. 927, parágrafo único",
+    "STF, Tema 932 da repercussão geral (responsabilidade objetiva do empregador em atividade de risco)",
+    "Lei 13.103/2015, art. 2º, III",
+    "TST, Terceira Turma, RR-1000317-84.2024.5.02.0316 (2025)"
+  ],
+  "fontes": [
+    [
+      "TST: Motorista trancado no baú do caminhão durante assalto deve receber indenização (14/10/2025)",
+      "https://www.tst.jus.br/en/-/motorista-trancado-no-bau-do-caminhao-durante-assalto-deve-receber-indenizacao"
+    ]
+  ],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/14984574/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

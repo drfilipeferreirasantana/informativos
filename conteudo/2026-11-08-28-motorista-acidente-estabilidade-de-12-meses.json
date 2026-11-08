@@ -1,0 +1,45 @@
+{
+  "slug": "motorista-acidente-estabilidade-de-12-meses",
+  "area": "previdenciario",
+  "data": "2026-11-08",
+  "serie": "motoristas",
+  "ordem": 13,
+  "titulo": "Motorista que se acidenta na estrada pode ser demitido quando volta ao trabalho?",
+  "resumo": "Quem sofre acidente do trabalho e recebe o auxílio por incapacidade acidentário tem garantido o emprego por pelo menos 12 meses depois que o benefício termina.",
+  "destaque": "Tem 12 meses de estabilidade.",
+  "pontos": [
+    [
+      "escudo",
+      "A estabilidade é de no mínimo 12 meses após o fim do benefício acidentário."
+    ],
+    [
+      "documento",
+      "A empresa deve comunicar o acidente ao INSS (CAT) até o primeiro dia útil seguinte."
+    ],
+    [
+      "alerta",
+      "Se a empresa não emitir a CAT, o próprio motorista, a família, o sindicato ou o médico podem emitir."
+    ]
+  ],
+  "exemplo": "Ronaldo quebrou a perna num acidente com a carreta da empresa, ficou quatro meses afastado pelo INSS e foi demitido na semana em que voltou ao trabalho.",
+  "corpo": "<h2>O que a lei prevê</h2><p>Acidente do trabalho é o que acontece no exercício do trabalho a serviço da empresa e provoca lesão ou perturbação que cause morte, perda ou redução da capacidade para o trabalho. Para o motorista, o acidente na estrada durante a viagem a serviço se enquadra nessa definição.</p><p>A empresa deve comunicar o acidente à Previdência Social até o primeiro dia útil seguinte e, em caso de morte, de imediato. Se ela não fizer, a comunicação pode ser feita pelo próprio acidentado, pelos dependentes, pelo sindicato, pelo médico que o atendeu ou por qualquer autoridade pública.</p><p>Depois que o auxílio por incapacidade acidentário termina, o segurado tem garantida a manutenção do contrato de trabalho por no mínimo 12 meses.</p><h2>Na prática</h2><ul><li>Peça cópia da CAT: a lei garante cópia ao acidentado e aos dependentes.</li><li>A estabilidade vale mesmo que o motorista não receba auxílio-acidente depois.</li><li>A demissão sem justa causa dentro desse prazo contraria a garantia da lei.</li></ul>",
+  "faq": [
+    [
+      "Quem pode emitir a CAT se a empresa não emitir?",
+      "O próprio acidentado, os dependentes, o sindicato, o médico que o atendeu ou qualquer autoridade pública (Lei 8.213/1991, art. 22, § 2º)."
+    ],
+    [
+      "A estabilidade depende de receber auxílio-acidente?",
+      "Não. A garantia vale após a cessação do auxílio por incapacidade acidentário, independentemente de auxílio-acidente (Lei 8.213/1991, art. 118)."
+    ]
+  ],
+  "base": [
+    "Lei 8.213/1991, arts. 19, 22 e 118"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/10395785/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

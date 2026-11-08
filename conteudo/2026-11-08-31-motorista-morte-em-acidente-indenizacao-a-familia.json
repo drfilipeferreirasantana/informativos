@@ -1,0 +1,47 @@
+{
+  "slug": "motorista-morte-em-acidente-indenizacao-a-familia",
+  "area": "civil",
+  "data": "2026-11-08",
+  "serie": "motoristas",
+  "ordem": 16,
+  "titulo": "A empresa indeniza a família do motorista morto na estrada?",
+  "resumo": "O STF admite a responsabilidade do empregador sem culpa quando a atividade expõe o trabalhador a risco especial, como o transporte rodoviário. A indenização inclui despesas, funeral e pensão para quem dependia do motorista.",
+  "destaque": "Pode dever, mesmo sem culpa.",
+  "pontos": [
+    [
+      "balanca",
+      "Em atividade de risco, o empregador pode responder mesmo sem culpa (STF, Tema 932)."
+    ],
+    [
+      "carteira",
+      "A indenização inclui despesas de tratamento, funeral e luto da família."
+    ],
+    [
+      "filhos",
+      "Inclui também pensão para quem dependia do motorista."
+    ]
+  ],
+  "exemplo": "A transportadora pagou o funeral de Marcelo, morto numa colisão com outro caminhão, e disse à viúva e aos dois filhos que não devia mais nada porque o acidente foi culpa do outro motorista.",
+  "corpo": "<h2>O que a lei prevê</h2><p>O Código Civil prevê a obrigação de reparar o dano, independentemente de culpa, quando a atividade normalmente desenvolvida implica, por sua natureza, risco para os direitos de outrem.</p><p>Ao julgar o Tema 932 da repercussão geral, o Supremo Tribunal Federal fixou que é constitucional a responsabilidade objetiva do empregador por acidentes de trabalho quando a atividade apresenta exposição habitual a risco especial e impõe ao trabalhador ônus maior do que aos demais. A Justiça do Trabalho tem aplicado esse entendimento ao transporte rodoviário.</p><p>Em caso de morte, a indenização inclui as despesas com tratamento, funeral e luto da família e a prestação de alimentos às pessoas a quem o falecido os devia, considerada a duração provável da vida da vítima.</p><h2>Na prática</h2><ul><li>Pensão do INSS e indenização da empresa são coisas diferentes e podem coexistir.</li><li>Cada caso depende de como o acidente aconteceu e da atividade exercida.</li></ul>",
+  "faq": [
+    [
+      "Se o culpado foi outro motorista, a empresa fica livre?",
+      "Não necessariamente. Em atividade de risco, a responsabilidade do empregador independe de culpa (Código Civil, art. 927, parágrafo único; STF, Tema 932). Cada caso depende dos fatos."
+    ],
+    [
+      "Quem recebe a pensão da indenização?",
+      "As pessoas a quem o falecido devia alimentos, como cônjuge e filhos (Código Civil, art. 948, II)."
+    ]
+  ],
+  "base": [
+    "Código Civil, art. 927, parágrafo único",
+    "Código Civil, art. 948",
+    "STF, Tema 932 da repercussão geral (responsabilidade objetiva do empregador em atividade de risco)"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/28574011/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

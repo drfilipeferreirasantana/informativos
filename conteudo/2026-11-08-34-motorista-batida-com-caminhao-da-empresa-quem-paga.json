@@ -1,0 +1,47 @@
+{
+  "slug": "motorista-batida-com-caminhao-da-empresa-quem-paga",
+  "area": "civil",
+  "data": "2026-11-08",
+  "serie": "motoristas",
+  "ordem": 19,
+  "titulo": "Batida com o caminhão da empresa: quem paga os danos do outro veículo?",
+  "resumo": "O Código Civil faz o empregador responder pelos danos causados pelo empregado no trabalho, mesmo sem culpa própria. Depois, a empresa só pode cobrar do motorista nas hipóteses previstas em lei.",
+  "destaque": "Em regra, a empresa.",
+  "pontos": [
+    [
+      "balanca",
+      "O empregador responde pelos danos causados pelo empregado no trabalho."
+    ],
+    [
+      "escudo",
+      "Essa responsabilidade existe mesmo sem culpa da empresa."
+    ],
+    [
+      "documento",
+      "Cobrar do motorista depois exige acordo prévio ou dolo, conforme a CLT."
+    ]
+  ],
+  "exemplo": "Tiago bateu na traseira de um carro num congestionamento. O dono do carro foi direto cobrar dele, e a empresa avisou que o problema era do motorista.",
+  "corpo": "<h2>O que a lei prevê</h2><p>O Código Civil diz que o empregador é responsável pela reparação civil dos danos causados por seus empregados no exercício do trabalho ou em razão dele. Essa responsabilidade existe ainda que não haja culpa da empresa.</p><p>Quem paga o dano causado por outra pessoa pode, depois, cobrar dela o que pagou. Na relação de emprego, porém, a CLT limita esse caminho: o desconto por dano causado pelo empregado só é lícito se essa possibilidade foi combinada ou se houve dolo.</p><p>Além disso, a Lei do Motorista diz que o motorista empregado não responde por prejuízo decorrente de ação de terceiro, salvo dolo ou desídia comprovados.</p><h2>Na prática</h2><ul><li>A vítima do acidente pode cobrar da empresa dona do caminhão.</li><li>Registre o boletim de ocorrência e avise a empresa imediatamente.</li><li>Desconto no salário pelo conserto do outro veículo segue as mesmas limitações da CLT.</li></ul>",
+  "faq": [
+    [
+      "A vítima pode processar o motorista diretamente?",
+      "A lei responsabiliza o empregador pelos atos do empregado no trabalho (Código Civil, arts. 932, III, e 933). O caminho mais comum é a cobrança à empresa; cada caso depende dos fatos."
+    ],
+    [
+      "A empresa pode descontar do meu salário o que pagou?",
+      "Só se o desconto por dano foi combinado ou se houve dolo (CLT, art. 462, § 1º)."
+    ]
+  ],
+  "base": [
+    "Código Civil, arts. 932, III, 933 e 934",
+    "CLT, art. 462, § 1º",
+    "Lei 13.103/2015, art. 2º, V, a"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/11985980/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

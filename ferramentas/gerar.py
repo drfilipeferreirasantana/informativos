@@ -71,7 +71,7 @@ SERIES = {
         "titulo": "Direitos do motorista",
         "aba": "Motoristas",
         "pagina": "motoristas.html",
-        "descricao": "Uma série de 12 informativos sobre os direitos que mais aparecem na Justiça do Trabalho para motoristas de caminhão e de ônibus de viagem com carteira assinada: jornada, tempo de espera, descanso, adicional noturno, descontos, exame toxicológico, seguro de vida e mais.",
+        "descricao": "Informativos sobre os direitos dos motoristas de caminhão e de ônibus de viagem com carteira assinada: jornada, tempo de espera, descanso e descontos, e também as situações graves da estrada, como acidente, assalto, doença de coluna, pensão do INSS e indenização à família.",
     },
 }
 MESES = ["janeiro", "fevereiro", "março", "abril", "maio", "junho", "julho", "agosto",

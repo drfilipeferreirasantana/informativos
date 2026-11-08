@@ -1,0 +1,46 @@
+{
+  "slug": "motorista-pensao-por-morte-para-a-familia",
+  "area": "previdenciario",
+  "data": "2026-11-08",
+  "serie": "motoristas",
+  "ordem": 15,
+  "titulo": "A família do motorista que morre em acidente tem direito a pensão do INSS?",
+  "resumo": "A pensão por morte é paga aos dependentes do segurado que falece. O prazo para pedir importa: pedida em até 90 dias, ou 180 dias para filhos menores de 16 anos, ela é paga desde a data do óbito.",
+  "destaque": "Sim, os dependentes têm.",
+  "pontos": [
+    [
+      "filhos",
+      "Têm direito, em primeiro lugar, cônjuge, companheira ou companheiro e filhos menores de 21 anos."
+    ],
+    [
+      "calendario",
+      "Pedida em até 90 dias do óbito, a pensão é paga desde a morte."
+    ],
+    [
+      "relogio",
+      "Para filhos menores de 16 anos, o prazo é de 180 dias."
+    ]
+  ],
+  "exemplo": "Três meses depois de perder o marido num acidente na BR-101, Simone ainda não tinha procurado o INSS, porque achava que a empresa resolveria tudo.",
+  "corpo": "<h2>O que a lei prevê</h2><p>A pensão por morte é devida ao conjunto dos dependentes do segurado que falecer, aposentado ou não. Na primeira classe de dependentes estão o cônjuge, a companheira, o companheiro e o filho menor de 21 anos, inválido ou com deficiência intelectual, mental ou grave. A existência de dependentes dessa classe exclui os das classes seguintes, como pais e irmãos.</p><p>A data de início depende de quando o pedido é feito. Se for pedida em até 90 dias após o óbito, ou em até 180 dias no caso de filhos menores de 16 anos, a pensão é paga desde a data da morte. Depois desse prazo, é paga a partir do pedido.</p><h2>Na prática</h2><ul><li>Pedir dentro do prazo evita perder os meses entre o óbito e o pedido.</li><li>A pensão do INSS não exclui a indenização que a empresa pode dever à família.</li><li>Enteado e menor sob guarda judicial podem ser equiparados a filho, nas condições da lei.</li></ul>",
+  "faq": [
+    [
+      "Pais do motorista têm direito?",
+      "Só se não houver dependentes da primeira classe, como cônjuge, companheira e filhos (Lei 8.213/1991, art. 16, § 1º)."
+    ],
+    [
+      "E se o pedido for feito depois de 90 dias?",
+      "A pensão passa a ser paga a partir da data do pedido (Lei 8.213/1991, art. 74, II)."
+    ]
+  ],
+  "base": [
+    "Lei 8.213/1991, art. 16",
+    "Lei 8.213/1991, art. 74, I e II"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/7278919/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}
