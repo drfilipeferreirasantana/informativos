@@ -65,3 +65,11 @@ O primeiro visual (marinho com dourado, Montserrat em negrito, selos arredondado
 - **Compartilhar no WhatsApp** com título e link.
 - **Leveza:** a página inicial só tem texto; imagens grandes só na capa de compartilhamento, que o leitor não baixa ao abrir o site.
 - **Para depois:** medir cliques no WhatsApp por post (hoje o site de informativos não mede nada e não usa cookies; medir exige atualizar uma política de privacidade).
+
+## Publicação programada
+
+- O campo `data` do JSON é o dia em que o post entra no site. Post com data futura fica guardado: não aparece na página inicial, nas séries, no sitemap nem tem página no ar.
+- Todo dia às 6h05 (Brasília) o GitHub roda `ferramentas/gerar.py` (arquivo `.github/workflows/publicar-programados.yml`) e publica os posts do dia. Para publicar na hora, use o botão "Run workflow" na aba Actions do repositório.
+- As artes (Instagram e capa) dos programados são geradas no computador do escritório, porque usam as fontes do Windows. Rode `python ferramentas/gerar.py` antes de enviar posts novos.
+- Prévia de como o site estará num dia: `python ferramentas/gerar.py --ate AAAA-MM-DD` (depois rode de novo sem `--ate`, antes de enviar).
+- Nome do arquivo: `AAAA-MM-DD-01-slug.json`, com a mesma data do campo `data`.

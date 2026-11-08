@@ -1,0 +1,52 @@
+{
+  "slug": "auxilio-acidente-quem-tem-direito",
+  "area": "previdenciario",
+  "data": "2026-12-02",
+  "titulo": "Quem tem direito ao auxílio-acidente? Autônomo e MEI recebem?",
+  "resumo": "O auxílio-acidente é devido ao empregado, ao empregado doméstico, ao trabalhador avulso e ao segurado especial. O contribuinte individual, como o autônomo e o MEI, e o facultativo ficam de fora.",
+  "destaque": "Autônomo e MEI ficam de fora.",
+  "pontos": [
+    [
+      "maleta",
+      "Têm direito o empregado, o empregado doméstico, o trabalhador avulso e o segurado especial."
+    ],
+    [
+      "alerta",
+      "O contribuinte individual, que inclui o autônomo e o MEI, e o segurado facultativo não têm direito."
+    ],
+    [
+      "check",
+      "O benefício não exige carência, ou seja, um número mínimo de contribuições."
+    ]
+  ],
+  "exemplo": "Eduardo é pedreiro autônomo e paga o INSS como contribuinte individual. Depois de uma queda da laje, ficou com limitação no movimento do braço direito.",
+  "corpo": "<p>O auxílio-acidente é uma indenização mensal paga pelo INSS a quem fica com sequela que reduz a capacidade para o trabalho habitual. Mas nem todo segurado pode recebê-lo. A lei escolhe as categorias cobertas, e muita gente só descobre isso depois do acidente.</p>\n<h2>O que a lei prevê</h2>\n<p>Pela Lei 8.213/1991, somente estes segurados podem receber o auxílio-acidente:</p>\n<ul>\n<li>empregado, urbano ou rural, inclusive o temporário;</li>\n<li>empregado doméstico;</li>\n<li>trabalhador avulso;</li>\n<li>segurado especial, como o pequeno produtor rural e o pescador artesanal que trabalham individualmente ou em regime de economia familiar.</li>\n</ul>\n<p>Ficam de fora o segurado facultativo e o contribuinte individual, categoria que inclui quem trabalha por conta própria, quem presta serviço eventual a empresas sem vínculo de emprego e o microempreendedor individual (MEI).</p>\n<p>Para quem está coberto, o benefício não exige carência. O acidente pode ser de qualquer natureza, no trabalho ou fora dele, desde que, após a consolidação das lesões, fique uma sequela que reduza a capacidade para o trabalho que a pessoa exercia habitualmente.</p>\n<h2>Na prática</h2>\n<p>O benefício começa no dia seguinte ao fim do auxílio por incapacidade temporária. Por isso, quem recebe alta do INSS ainda com sequela deve verificar se a redução da capacidade foi avaliada.</p>\n<p>Na perda auditiva, a lei é mais exigente: além da ligação entre o trabalho e a doença, é preciso comprovar a redução ou a perda da capacidade para a atividade habitual.</p>\n<p>Ninguém recebe mais de um auxílio-acidente ao mesmo tempo, e o benefício não se acumula com aposentadoria.</p>\n<p>Quem trabalha por conta própria deve saber que, mesmo contribuindo em dia, não terá esse benefício. A proteção, nesse caso, vem dos benefícios por incapacidade, quando cumpridos os requisitos.</p>",
+  "faq": [
+    [
+      "O MEI tem direito ao auxílio-acidente?",
+      "Não. O MEI é contribuinte individual, e o auxílio-acidente só pode ser pago a empregados, domésticos, avulsos e segurados especiais (Lei 8.213/1991, art. 18, § 1º; Decreto 3.048/1999, art. 9º, V, p)."
+    ],
+    [
+      "Precisa ter um número mínimo de contribuições?",
+      "Não. O auxílio-acidente independe de carência (Lei 8.213/1991, art. 26, I)."
+    ],
+    [
+      "A empregada doméstica tem direito?",
+      "Sim. O empregado doméstico está entre os segurados que podem receber o auxílio-acidente (Lei 8.213/1991, art. 11, II, e art. 18, § 1º)."
+    ]
+  ],
+  "base": [
+    "Lei 8.213/1991, art. 11, I, II, V, VI e VII",
+    "Lei 8.213/1991, art. 18, § 1º",
+    "Lei 8.213/1991, art. 26, I",
+    "Lei 8.213/1991, art. 86, caput e §§ 2º e 4º",
+    "Lei 8.213/1991, art. 124, V",
+    "Decreto 3.048/1999, art. 9º, V, p"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/7140013/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

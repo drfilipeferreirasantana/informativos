@@ -88,7 +88,21 @@ def versao(caminho):
     """Hash curto do arquivo: muda quando o arquivo muda, e o navegador baixa a versão nova em vez da guardada."""
     import hashlib
     arq = RAIZ / caminho
-    return hashlib.md5(arq.read_bytes()).hexdigest()[:8] if arq.exists() else "0"
+    if not arq.exists():
+        return "0"
+    dados = arq.read_bytes()
+    if arq.suffix in (".css", ".js", ".html", ".json"):
+        dados = dados.replace(bytes([13, 10]), bytes([10]))  # mesmo hash no Windows e no GitHub
+    return hashlib.md5(dados).hexdigest()[:8]
+
+
+def hoje():
+    """Data de hoje em Brasília (UTC-3), ou a data passada em --ate AAAA-MM-DD para ver uma prévia."""
+    from datetime import datetime, timedelta, timezone
+    for i, a in enumerate(sys.argv):
+        if a == "--ate" and i + 1 < len(sys.argv):
+            return sys.argv[i + 1]
+    return datetime.now(timezone(timedelta(hours=-3))).date().isoformat()
 
 
 def volume(iso):
@@ -649,17 +663,31 @@ def pagina_serie(chave, posts):
 
 
 def main():
-    posts = carregar()
-    if not posts:
+    todos = carregar()
+    if not todos:
         sys.exit("Nenhum arquivo em conteudo/. Nada foi alterado.")
+    # Publicação programada: o post só entra no site a partir da sua data ("data" no JSON).
+    # O GitHub roda este gerador todo dia de manhã (.github/workflows/publicar-programados.yml).
+    dia = hoje()
+    posts = [p for p in todos if p["data"] <= dia]
+    programados = [p for p in todos if p["data"] > dia]
+    if not posts:
+        sys.exit("Nenhum post com data até hoje. Nada foi alterado.")
     (RAIZ / "posts").mkdir(exist_ok=True)
     (RAIZ / "imagens").mkdir(exist_ok=True)
-    for p in posts:  # imagens antes das páginas: a versão da capa entra no og:image
+    tem_fontes = Path(FONTES_WIN + "SitkaVF.ttf").exists()
+    for p in todos:  # artes de todos, inclusive os programados (no GitHub as artes já vêm prontas)
         capa = RAIZ / "imagens" / f"{p['slug']}-capa.jpg"
         insta = RAIZ / "imagens" / f"{p['slug']}-instagram.jpg"
         if "--imagens" in sys.argv or not capa.exists() or not insta.exists():
+            if not tem_fontes:
+                print(f"Aviso: sem as fontes para gerar as artes de {p['slug']}; gere no computador do escritório.")
+                continue
             imagem(p, 1200, 630, capa, False)
             imagem(p, 1080, 1350, insta, True)
+    for p in programados:  # página de post programado não fica no ar antes da data
+        (RAIZ / "posts" / f"{p['slug']}.html").unlink(missing_ok=True)
+    for p in posts:
         (RAIZ / "posts" / f"{p['slug']}.html").write_text(pagina_post(p, posts), encoding="utf-8")
     (RAIZ / "index.html").write_text(pagina_inicial(posts), encoding="utf-8")
     (RAIZ / "artes.html").write_text(pagina_artes(posts), encoding="utf-8")
@@ -682,7 +710,9 @@ def main():
 </section>
 """ + rodape("/") + "</body>\n</html>\n"
     (RAIZ / "404.html").write_text(nao, encoding="utf-8")
-    print(f"{len(posts)} posts gerados.")
+    print(f"{len(posts)} posts publicados até {dia}.")
+    if programados:
+        print(f"{len(programados)} programados; o próximo entra em {min(p['data'] for p in programados)}.")
     print("Mais recente:", f"{BASE}posts/{posts[0]['slug']}.html")
 
 

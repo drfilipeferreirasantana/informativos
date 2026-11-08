@@ -1,0 +1,48 @@
+{
+  "slug": "arrependimento-devolucao-do-frete",
+  "area": "consumidor",
+  "data": "2026-12-04",
+  "titulo": "Desisti da compra pela internet. A loja tem que devolver o frete?",
+  "resumo": "Sim. No direito de arrependimento, a lei manda devolver de imediato os valores pagos a qualquer título, com atualização monetária, o que alcança o frete pago na compra.",
+  "destaque": "Sim, tudo o que foi pago.",
+  "pontos": [
+    [
+      "carteira",
+      "A devolução abrange os valores pagos a qualquer título, como o preço e o frete."
+    ],
+    [
+      "relogio",
+      "O dinheiro deve voltar de imediato e com atualização monetária."
+    ],
+    [
+      "alerta",
+      "É nula a cláusula que tire do consumidor a opção de reembolso nos casos previstos no CDC."
+    ]
+  ],
+  "exemplo": "Juliana comprou uma cafeteira num site e pagou o frete à parte. Três dias depois de receber, desistiu da compra, e a loja ofereceu devolver só o preço do produto.",
+  "corpo": "<p>Quem desiste de uma compra feita pela internet costuma ouvir que vai receber de volta só o preço do produto, sem o frete, ou que o reembolso vai virar crédito na loja. O Código de Defesa do Consumidor trata desse ponto de forma expressa.</p>\n<h2>O que a lei prevê</h2>\n<p>Nas compras feitas fora da loja física, o consumidor pode desistir em até 7 dias, contados da assinatura do contrato ou do recebimento do produto ou serviço. É o chamado prazo de reflexão.</p>\n<p>Quando o consumidor exerce esse direito, o parágrafo único do artigo 49 determina que os valores eventualmente pagos, a qualquer título, durante esse prazo sejam devolvidos de imediato e monetariamente atualizados. Cada parte dessa frase tem consequência prática:</p>\n<ul>\n<li>\"A qualquer título\": a devolução não se limita ao preço do produto. Alcança também o frete e outras quantias pagas na compra.</li>\n<li>\"De imediato\": a lei não concede à loja um prazo longo para reembolsar.</li>\n<li>\"Monetariamente atualizados\": o valor deve ser corrigido, para não perder poder de compra.</li>\n</ul>\n<p>O CDC também considera nula de pleno direito a cláusula que retire do consumidor a opção de reembolso da quantia já paga, nos casos previstos no próprio código.</p>\n<h2>Na prática</h2>\n<p>Faça o pedido de desistência dentro dos 7 dias e por um meio que deixe registro, como e-mail, chat do site ou formulário da loja. Guarde a data e o número do protocolo.</p>\n<p>Se a loja propuser devolver só uma parte, descontar taxas ou dar um vale-compras no lugar do dinheiro, peça a resposta por escrito. A lei fala em devolução dos valores pagos e não prevê descontos nem troca por crédito.</p>\n<p>Se o pagamento foi no cartão de crédito, acompanhe as faturas seguintes para conferir se o estorno foi lançado. Se o valor não voltar, a reclamação pode ser registrada no Procon ou levada ao Judiciário, com os comprovantes do pedido, do pagamento e da desistência.</p>",
+  "faq": [
+    [
+      "A loja pode descontar o frete do reembolso?",
+      "A lei manda devolver os valores pagos a qualquer título, de imediato e atualizados, sem prever desconto do frete (CDC, art. 49, parágrafo único)."
+    ],
+    [
+      "Sou obrigado a aceitar um vale-compras?",
+      "A lei prevê a devolução dos valores pagos, e é nula a cláusula que tire do consumidor a opção de reembolso nos casos do CDC (CDC, arts. 49, parágrafo único, e 51, II)."
+    ],
+    [
+      "Até quando posso desistir?",
+      "Em até 7 dias, contados da assinatura do contrato ou do recebimento do produto ou serviço (CDC, art. 49)."
+    ]
+  ],
+  "base": [
+    "Código de Defesa do Consumidor, art. 49, caput e parágrafo único",
+    "Código de Defesa do Consumidor, art. 51, II"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/6958455/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

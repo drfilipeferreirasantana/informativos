@@ -1,0 +1,54 @@
+{
+  "slug": "demitido-por-justa-causa-o-que-recebe",
+  "area": "trabalhista",
+  "data": "2026-11-18",
+  "titulo": "Fui demitido por justa causa. O que ainda tenho para receber?",
+  "resumo": "Mesmo na justa causa, o trabalhador recebe o saldo de salário e as férias vencidas com um terço. Outras verbas, como aviso prévio e multa do FGTS, deixam de ser pagas.",
+  "destaque": "Saldo de salário e férias vencidas.",
+  "pontos": [
+    [
+      "carteira",
+      "Continuam devidos o saldo de salário e as férias vencidas, com um terço."
+    ],
+    [
+      "alerta",
+      "Ficam de fora aviso prévio, 13º e férias proporcionais, multa do FGTS e seguro-desemprego."
+    ],
+    [
+      "balanca",
+      "A justa causa precisa estar entre os motivos listados na CLT."
+    ]
+  ],
+  "exemplo": "Ricardo, operador de empilhadeira, foi dispensado por justa causa depois de uma discussão com o encarregado. Ele recebeu um termo de rescisão com valores bem menores do que esperava.",
+  "corpo": "<p>A dispensa por justa causa é a forma mais grave de encerrar um contrato de trabalho. Ela reduz bastante o acerto final, mas não zera tudo. E, por ter consequências tão pesadas, só pode ser aplicada nas situações previstas em lei.</p>\n<h2>O que a lei prevê</h2>\n<p>A CLT lista os motivos de justa causa, como ato de improbidade, desídia no trabalho, embriaguez habitual ou em serviço, indisciplina ou insubordinação, abandono de emprego e ofensas físicas ou à honra no serviço.</p>\n<p>Mesmo nesses casos, continuam devidos:</p>\n<ul>\n<li>o saldo de salário dos dias trabalhados;</li>\n<li>as férias vencidas, cujo direito já foi adquirido, com o acréscimo de um terço previsto na Constituição.</li>\n</ul>\n<p>Deixam de ser pagos, porque a lei os reserva para outras formas de saída:</p>\n<ul>\n<li>férias proporcionais e 13º salário proporcional;</li>\n<li>aviso prévio;</li>\n<li>multa de 40% do FGTS e saque da conta;</li>\n<li>seguro-desemprego.</li>\n</ul>\n<p>Os depósitos do FGTS, porém, não desaparecem. Eles continuam na conta e podem ser sacados em outras situações previstas na lei, como a aposentadoria.</p>\n<h2>Na prática</h2>\n<p>Pela regra da CLT sobre o ônus da prova, cabe à empresa provar o fato que impede o direito do trabalhador às verbas. Por isso, a justa causa sem prova, ou baseada em motivo que não está na lei, pode ser questionada na Justiça do Trabalho.</p>\n<p>A CLT também proíbe a empresa de fazer anotações desabonadoras sobre a conduta do empregado na carteira de trabalho.</p>\n<p>Guarde a carta de dispensa, advertências e suspensões anteriores, mensagens e o termo de rescisão. Esses documentos mostram o motivo alegado e o histórico do contrato. Lembre que o prazo para entrar com a ação é de até 2 anos após a saída.</p>",
+  "faq": [
+    [
+      "Quem é demitido por justa causa recebe as férias?",
+      "Recebe as férias vencidas, cujo direito já foi adquirido. As proporcionais não são devidas na justa causa (CLT, art. 146, caput e parágrafo único)."
+    ],
+    [
+      "E o 13º salário?",
+      "A gratificação proporcional é paga na extinção do contrato, exceto na rescisão com justa causa (Decreto 10.854/2021, art. 82)."
+    ],
+    [
+      "Posso sacar o FGTS?",
+      "Não na dispensa por justa causa. O saldo fica na conta e pode ser sacado em outras hipóteses da lei, como a aposentadoria (Lei 8.036/1990, art. 20, I e III)."
+    ]
+  ],
+  "base": [
+    "CLT, art. 482",
+    "CLT, art. 146, caput e parágrafo único",
+    "CLT, art. 29, § 4º",
+    "CLT, art. 818, II",
+    "Constituição Federal, art. 7º, XVII e XXIX",
+    "Decreto 10.854/2021, art. 82",
+    "Lei 8.036/1990, arts. 18, § 1º, e 20, I e III",
+    "Lei 7.998/1990, art. 3º"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/7927534/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

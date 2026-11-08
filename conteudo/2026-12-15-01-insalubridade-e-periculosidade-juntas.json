@@ -1,0 +1,50 @@
+{
+  "slug": "insalubridade-e-periculosidade-juntas",
+  "area": "trabalhista",
+  "data": "2026-12-15",
+  "titulo": "Posso receber insalubridade e periculosidade ao mesmo tempo?",
+  "resumo": "A CLT prevê que o empregado em atividade perigosa pode optar pelo adicional de insalubridade que lhe seja devido. A lei fala em escolha, e não em soma.",
+  "destaque": "A CLT prevê a escolha de um deles.",
+  "pontos": [
+    [
+      "balanca",
+      "Quem tem direito aos dois pode optar pelo adicional de insalubridade."
+    ],
+    [
+      "carteira",
+      "A periculosidade é de 30% sobre o salário, sem gratificações, prêmios ou participação nos lucros."
+    ],
+    [
+      "saude",
+      "A insalubridade é de 10%, 20% ou 40%, conforme o grau mínimo, médio ou máximo."
+    ]
+  ],
+  "exemplo": "Rogério trabalha na manutenção de uma indústria, exposto a ruído e também a instalações elétricas energizadas. No contracheque, aparece apenas um adicional.",
+  "corpo": "<p>Há trabalhos que expõem o empregado, ao mesmo tempo, a agentes nocivos à saúde e a riscos de acidente grave. Nesses casos, é comum surgir a dúvida: os dois adicionais podem ser pagos juntos?</p>\n<h2>O que a lei prevê</h2>\n<p>A CLT trata dos dois adicionais em regras diferentes:</p>\n<ul>\n<li>Insalubridade: devida a quem trabalha acima dos limites de tolerância fixados pelo Ministério do Trabalho. O percentual é de 40%, 20% ou 10%, conforme o grau máximo, médio ou mínimo.</li>\n<li>Periculosidade: devida em atividades com risco acentuado por exposição permanente a inflamáveis, explosivos ou energia elétrica, ou a roubos e violência física em segurança pessoal ou patrimonial, entre outras previstas em lei, como o trabalho em motocicleta. O adicional é de 30% sobre o salário, sem os acréscimos de gratificações, prêmios ou participação nos lucros.</li>\n</ul>\n<p>Sobre a soma dos dois, a CLT diz que o empregado pode optar pelo adicional de insalubridade que porventura lhe seja devido. A regra da lei, portanto, é de escolha.</p>\n<p>O direito a qualquer dos adicionais termina quando o risco à saúde ou à integridade física é eliminado.</p>\n<h2>Na prática</h2>\n<p>A escolha deve considerar qual adicional resulta em valor maior, porque as bases de cálculo são diferentes. A periculosidade incide sobre o salário, e a insalubridade tem base e percentuais próprios.</p>\n<p>A caracterização e a classificação de cada adicional dependem de perícia feita por médico do trabalho ou engenheiro do trabalho. Quando o pedido vai à Justiça, o juiz designa um perito habilitado.</p>\n<p>Guarde contracheques, a descrição das funções, laudos ambientais e fichas de entrega de equipamentos de proteção. Esses documentos ajudam a mostrar a que o trabalhador estava exposto e por quanto tempo.</p>",
+  "faq": [
+    [
+      "Os dois adicionais podem ser somados?",
+      "A CLT prevê que o empregado pode optar pelo adicional de insalubridade que lhe seja devido, o que indica escolha entre eles (CLT, art. 193, § 2º)."
+    ],
+    [
+      "Quanto é o adicional de periculosidade?",
+      "30% sobre o salário, sem os acréscimos de gratificações, prêmios ou participação nos lucros (CLT, art. 193, § 1º)."
+    ],
+    [
+      "Quem define se há insalubridade ou periculosidade?",
+      "Uma perícia feita por médico do trabalho ou engenheiro do trabalho. Na Justiça, o juiz designa o perito (CLT, art. 195, caput e § 2º)."
+    ]
+  ],
+  "base": [
+    "Constituição Federal, art. 7º, XXIII",
+    "CLT, art. 192",
+    "CLT, art. 193, caput e §§ 1º, 2º e 4º",
+    "CLT, arts. 194 e 195, caput e § 2º"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/17166070/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

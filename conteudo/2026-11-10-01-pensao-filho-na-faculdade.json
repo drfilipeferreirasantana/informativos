@@ -1,0 +1,50 @@
+{
+  "slug": "pensao-filho-na-faculdade",
+  "area": "familia",
+  "data": "2026-11-10",
+  "titulo": "Filho maior de idade na faculdade continua recebendo pensão?",
+  "resumo": "Pode continuar. Depois dos 18 anos, a pensão depende de o filho mostrar que ainda precisa, por exemplo porque estuda e não consegue se sustentar.",
+  "destaque": "Pode continuar, se ele precisar.",
+  "pontos": [
+    [
+      "livro",
+      "A lei inclui as necessidades de educação entre as que a pensão deve atender."
+    ],
+    [
+      "balanca",
+      "Depois dos 18 anos, o filho precisa mostrar que não consegue se manter sozinho."
+    ],
+    [
+      "alerta",
+      "A pensão só deixa de ser devida por decisão judicial, com direito de defesa do filho."
+    ]
+  ],
+  "exemplo": "Lucas fez 18 anos no primeiro semestre de Engenharia, estuda em tempo integral e não trabalha. O pai avisou que vai parar de depositar a pensão no mês que vem.",
+  "corpo": "<p>Quando o filho entra na faculdade, muitas famílias ficam em dúvida se a pensão continua depois dos 18 anos. A resposta depende menos da idade e mais da situação real do filho.</p>\n<h2>O que a lei prevê</h2>\n<p>Aos 18 anos termina o poder familiar, que é o conjunto de deveres dos pais sobre o filho menor (Código Civil, art. 1.635, III). Mas o dever de prestar alimentos não depende só disso: ele também decorre do parentesco e é recíproco entre pais e filhos (art. 1.696).</p>\n<p>O Código Civil permite que parentes peçam alimentos uns aos outros para viver de modo compatível com a sua condição social, inclusive para atender às necessidades de educação (art. 1.694). E os alimentos são devidos quando quem pede não tem bens suficientes nem consegue se manter pelo próprio trabalho (art. 1.695).</p>\n<ul>\n<li>O valor continua seguindo a necessidade de quem recebe e os recursos de quem paga (art. 1.694, § 1º).</li>\n<li>Se a situação de qualquer um mudar, é possível pedir ao juiz a redução, o aumento ou o fim da pensão (art. 1.699).</li>\n<li>Pela Súmula 358 do STJ, o cancelamento da pensão do filho que completou 18 anos depende de decisão judicial, com direito de defesa.</li>\n</ul>\n<h2>Na prática</h2>\n<p>Depois da maioridade, o filho deve estar pronto para mostrar que continua precisando da pensão. A lei não fixa uma idade-limite para isso. O que pesa é o caso concreto.</p>\n<p>Ajudam a mostrar a necessidade:</p>\n<ul>\n<li>comprovante de matrícula e de frequência no curso;</li>\n<li>gastos com mensalidade, transporte e material de estudo;</li>\n<li>a falta de renda própria, ou uma renda insuficiente para se manter.</li>\n</ul>\n<p>Do outro lado, a conclusão do curso, um emprego que permita ao filho se sustentar ou o abandono dos estudos são mudanças que podem levar quem paga a pedir o fim da pensão. Esse pedido é feito ao juiz, e o filho tem a chance de se manifestar.</p>\n<p>Por isso, quem paga não deve simplesmente cortar o depósito. Parar por conta própria pode gerar dívida e cobrança judicial. E quem recebe deve guardar os documentos do curso, porque são eles que sustentam a continuidade da pensão.</p>",
+  "faq": [
+    [
+      "A pensão do filho universitário tem idade para acabar?",
+      "A lei não fixa idade-limite. O que se analisa é a necessidade do filho e os recursos de quem paga (Código Civil, arts. 1.694, § 1º, e 1.695)."
+    ],
+    [
+      "O filho terminou a faculdade e arrumou emprego. A pensão acaba sozinha?",
+      "Não. Quem paga deve pedir ao juiz o fim da pensão, e o filho pode se manifestar antes da decisão (Súmula 358 do STJ; Código Civil, art. 1.699)."
+    ],
+    [
+      "A pensão pode cobrir gastos com estudo?",
+      "Sim. A lei inclui as necessidades de educação entre as que os alimentos devem atender (Código Civil, art. 1.694)."
+    ]
+  ],
+  "base": [
+    "Código Civil, art. 1.635, III",
+    "Código Civil, arts. 1.694, caput e § 1º, 1.695 e 1.696",
+    "Código Civil, art. 1.699",
+    "Súmula 358 do STJ"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/29275615/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

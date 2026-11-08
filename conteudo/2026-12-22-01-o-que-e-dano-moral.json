@@ -1,0 +1,52 @@
+{
+  "slug": "o-que-e-dano-moral",
+  "area": "civil",
+  "data": "2026-12-22",
+  "titulo": "O que é dano moral e quando ele dá direito a indenização?",
+  "resumo": "Dano moral é a ofensa a direitos da pessoa, como honra, imagem, intimidade e vida privada. A Constituição e o Código Civil asseguram indenização a quem sofre esse tipo de dano.",
+  "destaque": "Ofensa à honra, imagem ou intimidade.",
+  "pontos": [
+    [
+      "escudo",
+      "Honra, imagem, intimidade e vida privada são protegidas pela Constituição."
+    ],
+    [
+      "balanca",
+      "Quem causa dano, ainda que só moral, comete ato ilícito e deve repará-lo."
+    ],
+    [
+      "carteira",
+      "A indenização se mede pela extensão do dano, conforme o caso concreto."
+    ]
+  ],
+  "exemplo": "Paulo teve uma foto sua usada, sem autorização, na propaganda de uma loja nas redes sociais. Amigos e clientes começaram a perguntar se ele trabalhava para a empresa.",
+  "corpo": "<p>A expressão dano moral é muito usada, mas nem sempre bem entendida. Ela não se refere a um prejuízo no bolso, e sim a uma ofensa que atinge a própria pessoa: o nome, a reputação, a imagem, a privacidade.</p>\n<h2>O que a lei prevê</h2>\n<p>A Constituição declara invioláveis a intimidade, a vida privada, a honra e a imagem das pessoas e assegura indenização pelo dano material ou moral decorrente da sua violação. Também assegura, ao lado do direito de resposta, indenização por dano material, moral ou à imagem.</p>\n<p>O Código Civil segue a mesma linha:</p>\n<ul>\n<li>comete ato ilícito quem, por ação ou omissão voluntária, negligência ou imprudência, viola direito e causa dano a outra pessoa, ainda que exclusivamente moral;</li>\n<li>quem causa dano por ato ilícito fica obrigado a repará-lo;</li>\n<li>é possível exigir que cesse a ameaça ou a lesão a direito da personalidade, além de pedir perdas e danos;</li>\n<li>o uso não autorizado da imagem de alguém pode ser proibido, sem prejuízo da indenização, quando atinge a honra, a boa fama ou a respeitabilidade, ou quando tem fins comerciais.</li>\n</ul>\n<p>A indenização se mede pela extensão do dano. O Código Civil não traz tabela de valores: cabe ao juiz fixar a quantia conforme as circunstâncias de cada caso. Pela Súmula 37 do STJ, o dano material e o moral que vêm do mesmo fato podem ser cobrados juntos.</p>\n<h2>Na prática</h2>\n<p>Nem todo incômodo gera indenização. É preciso demonstrar a violação de um direito e o dano que ela causou, e isso exige prova.</p>\n<ul>\n<li>Quando a ofensa ocorre na internet, salve prints com data, link e nome de quem publicou.</li>\n<li>Reúna testemunhas que presenciaram a situação.</li>\n<li>Registre boletim de ocorrência, se o fato também puder ser crime.</li>\n<li>Anote como a ofensa afetou a sua rotina, o seu trabalho e as suas relações.</li>\n</ul>\n<p>O prazo para pedir a reparação civil, em regra, é de 3 anos.</p>",
+  "faq": [
+    [
+      "Dano moral e dano material podem ser cobrados juntos?",
+      "Sim. A Súmula 37 do STJ admite a cumulação quando os dois decorrem do mesmo fato, e a Constituição assegura a indenização de ambos (Constituição Federal, art. 5º, V e X)."
+    ],
+    [
+      "Quem define o valor da indenização?",
+      "O juiz, conforme o caso, já que a indenização se mede pela extensão do dano (Código Civil, art. 944)."
+    ],
+    [
+      "Posso pedir que a ofensa pare, além da indenização?",
+      "Sim. É possível exigir que cesse a ameaça ou a lesão a direito da personalidade e reclamar perdas e danos (Código Civil, art. 12)."
+    ]
+  ],
+  "base": [
+    "Constituição Federal, art. 5º, V e X",
+    "Código Civil, arts. 12 e 20",
+    "Código Civil, arts. 186 e 927",
+    "Código Civil, art. 944",
+    "Código Civil, art. 206, § 3º, V",
+    "Súmula 37 do STJ"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/5699825/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

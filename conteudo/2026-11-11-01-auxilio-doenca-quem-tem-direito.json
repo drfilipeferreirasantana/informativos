@@ -1,0 +1,49 @@
+{
+  "slug": "auxilio-doenca-quem-tem-direito",
+  "area": "previdenciario",
+  "data": "2026-11-11",
+  "titulo": "Quem tem direito ao auxílio-doença do INSS?",
+  "resumo": "O benefício, hoje chamado auxílio por incapacidade temporária, é pago a quem fica sem condições de trabalhar por mais de 15 dias seguidos, comprovado em perícia.",
+  "destaque": "Quem fica incapaz por mais de 15 dias.",
+  "pontos": [
+    [
+      "saude",
+      "A incapacidade para o trabalho precisa durar mais de 15 dias seguidos e ser comprovada em perícia."
+    ],
+    [
+      "calendario",
+      "Em regra, exige 12 contribuições mensais, a chamada carência."
+    ],
+    [
+      "alerta",
+      "Em acidente de qualquer natureza, a carência não é exigida."
+    ]
+  ],
+  "exemplo": "Rosana, costureira com carteira assinada, operou o joelho e recebeu atestado de 60 dias. A empresa pagou os primeiros 15 dias e disse que o restante era com o INSS.",
+  "corpo": "<p>O auxílio-doença mudou de nome, mas continua sendo o benefício de quem fica temporariamente sem condições de trabalhar por causa de doença ou acidente.</p>\n<h2>O que a lei prevê</h2>\n<p>A Lei 8.213/1991 garante o benefício ao segurado que, cumprida a carência quando exigida, fica incapacitado para o seu trabalho ou para a sua atividade habitual por mais de 15 dias consecutivos.</p>\n<ul>\n<li>A carência, em regra, é de 12 contribuições mensais.</li>\n<li>Não se exige carência em acidente de qualquer natureza, em doença profissional ou do trabalho e nas doenças graves listadas pelos Ministérios da Saúde e da Previdência.</li>\n<li>Para o empregado, os primeiros 15 dias de afastamento são pagos pela empresa. O INSS paga a partir do 16º dia.</li>\n<li>Para os demais segurados, o benefício conta desde o início da incapacidade.</li>\n</ul>\n<h2>Na prática</h2>\n<p>O prazo para pedir importa. Se o segurado afastado há mais de 30 dias só fizer o pedido depois, o benefício passa a ser pago a partir da data do requerimento, e os dias anteriores ficam de fora.</p>\n<p>Também é preciso estar na qualidade de segurado quando a incapacidade começa. Quem parou de contribuir pode ainda estar protegido pelo chamado período de graça.</p>",
+  "faq": [
+    [
+      "Quem paga os primeiros 15 dias de afastamento?",
+      "Para o empregado, a empresa paga o salário integral nos primeiros 15 dias consecutivos. O INSS paga a partir do 16º dia (Lei 8.213/1991, art. 60, caput e § 3º)."
+    ],
+    [
+      "E se eu demorar para fazer o pedido?",
+      "Se o pedido for feito com mais de 30 dias de afastamento, o benefício é pago a partir da data do requerimento (Lei 8.213/1991, art. 60, § 1º)."
+    ],
+    [
+      "Toda doença dispensa a carência?",
+      "Não. Dispensam a carência o acidente de qualquer natureza, a doença profissional ou do trabalho e as doenças graves da lista oficial (Lei 8.213/1991, art. 26, II)."
+    ]
+  ],
+  "base": [
+    "Lei 8.213/1991, art. 25, I",
+    "Lei 8.213/1991, art. 26, II",
+    "Lei 8.213/1991, arts. 59 e 60, caput, §§ 1º e 3º"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/7579823/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

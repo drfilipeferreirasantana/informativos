@@ -1,0 +1,50 @@
+{
+  "slug": "plano-de-saude-urgencia-na-carencia",
+  "area": "consumidor",
+  "data": "2026-12-20",
+  "titulo": "O plano de saúde pode negar urgência por causa da carência?",
+  "resumo": "Não, passadas 24 horas da contratação. A lei fixa esse prazo máximo de carência para urgência e emergência e torna obrigatória a cobertura desses atendimentos.",
+  "destaque": "Não, depois de 24 horas do contrato.",
+  "pontos": [
+    [
+      "relogio",
+      "Para urgência e emergência, a carência máxima é de 24 horas."
+    ],
+    [
+      "saude",
+      "Emergência é o risco imediato de vida ou de lesão irreparável, declarado pelo médico."
+    ],
+    [
+      "documento",
+      "Peça a negativa por escrito e guarde o relatório médico."
+    ]
+  ],
+  "exemplo": "Sandra contratou um plano de saúde e, um mês depois, foi levada ao pronto-socorro após cair da escada de casa. O hospital informou que o plano recusou a internação por causa da carência.",
+  "corpo": "<p>Carência é o período, contado da contratação, em que o plano ainda não cobre certos atendimentos. Ela é permitida, mas tem limites fixados em lei, e o mais curto deles é justamente o dos casos de urgência e emergência.</p>\n<h2>O que a lei prevê</h2>\n<p>A Lei dos Planos de Saúde permite que o contrato fixe carências, mas estabelece prazos máximos:</p>\n<ul>\n<li>300 dias para partos a termo;</li>\n<li>180 dias para os demais casos;</li>\n<li>24 horas para a cobertura dos casos de urgência e emergência.</li>\n</ul>\n<p>A mesma lei torna obrigatória a cobertura do atendimento nesses casos e define cada um deles:</p>\n<ul>\n<li>emergência: situação que implica risco imediato de vida ou de lesões irreparáveis para o paciente, caracterizada em declaração do médico assistente;</li>\n<li>urgência: situação resultante de acidente pessoal ou de complicação no processo gestacional.</li>\n</ul>\n<p>O STJ consolidou o tema na Súmula 597: a cláusula de plano de saúde que prevê carência para urgência ou emergência é abusiva se ultrapassado o prazo máximo de 24 horas contado da contratação.</p>\n<h2>Na prática</h2>\n<p>Numa negativa no pronto-socorro, o tempo pesa. Algumas medidas ajudam:</p>\n<ul>\n<li>peça ao médico um relatório que descreva a urgência ou a emergência e o risco envolvido;</li>\n<li>solicite a negativa do plano por escrito, com o motivo, e anote o número do protocolo;</li>\n<li>guarde o contrato, com a data de início da vigência, e os comprovantes das mensalidades;</li>\n<li>registre reclamação na ANS.</li>\n</ul>\n<p>Se for preciso pagar o atendimento para não interromper o tratamento, guarde todas as notas e recibos. Diante de recusa indevida, é possível pedir a cobertura ao Judiciário, inclusive com pedido de tutela de urgência.</p>",
+  "faq": [
+    [
+      "Qual é a carência máxima para urgência e emergência?",
+      "24 horas, contadas da contratação (Lei 9.656/1998, art. 12, V, c)."
+    ],
+    [
+      "Quem diz que o caso é de emergência?",
+      "A lei considera emergência o risco imediato de vida ou de lesões irreparáveis, caracterizado em declaração do médico assistente (Lei 9.656/1998, art. 35-C, I)."
+    ],
+    [
+      "E as outras carências?",
+      "O máximo é de 300 dias para parto a termo e de 180 dias para os demais casos (Lei 9.656/1998, art. 12, V, a e b)."
+    ]
+  ],
+  "base": [
+    "Lei 9.656/1998, art. 12, V",
+    "Lei 9.656/1998, art. 35-C, I e II",
+    "Súmula 597 do STJ",
+    "CPC, art. 300"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/6129870/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

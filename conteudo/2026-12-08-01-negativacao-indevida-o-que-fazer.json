@@ -1,0 +1,50 @@
+{
+  "slug": "negativacao-indevida-o-que-fazer",
+  "area": "consumidor",
+  "data": "2026-12-08",
+  "titulo": "Meu nome foi negativado por uma dívida que não devo. O que fazer?",
+  "resumo": "O consumidor pode exigir a correção imediata do registro indevido, e a negativação indevida pode gerar indenização por dano moral, salvo se já havia outra anotação legítima.",
+  "destaque": "Pode caber retirada e indenização.",
+  "pontos": [
+    [
+      "alerta",
+      "A abertura de registro que o consumidor não pediu deve ser comunicada a ele por escrito."
+    ],
+    [
+      "documento",
+      "Dado errado deve ser corrigido de imediato, com aviso aos destinatários em 5 dias úteis."
+    ],
+    [
+      "balanca",
+      "Se já havia outra anotação legítima, o STJ afasta o dano moral, mas o registro indevido cai."
+    ]
+  ],
+  "exemplo": "Patrícia teve um financiamento recusado e descobriu que seu nome estava negativado por uma linha de celular que nunca contratou. Ela não recebeu nenhum aviso antes do registro.",
+  "corpo": "<p>Descobrir uma negativação na hora de pedir crédito já é ruim. Pior ainda quando a dívida não existe, já foi paga ou foi feita por outra pessoa com os seus dados. Nesses casos o registro é indevido, e o Código de Defesa do Consumidor dá instrumentos para reagir.</p>\n<h2>O que a lei prevê</h2>\n<ul>\n<li>O consumidor tem direito de acessar as informações que existem sobre ele nos cadastros e de saber de onde elas vieram.</li>\n<li>Os dados precisam ser verdadeiros, e a abertura de registro não solicitada pelo consumidor deve ser comunicada a ele por escrito.</li>\n<li>Encontrando dado incorreto, o consumidor pode exigir a correção imediata. O arquivista tem 5 dias úteis para comunicar a alteração a quem recebeu a informação errada.</li>\n<li>A efetiva reparação dos danos materiais e morais é direito básico do consumidor.</li>\n<li>Deixar de corrigir de imediato informação que se sabe ou deveria saber inexata é crime previsto no próprio CDC.</li>\n</ul>\n<p>O STJ tem súmulas importantes sobre o tema. A Súmula 359 diz que cabe ao órgão mantenedor do cadastro notificar o devedor antes da inscrição. A Súmula 385 diz que, se já existia anotação legítima anterior, não cabe indenização por dano moral, ressalvado o direito ao cancelamento do registro irregular.</p>\n<h2>Na prática</h2>\n<ul>\n<li>Consulte o seu CPF nos cadastros de crédito e guarde o comprovante com o nome do credor, o valor e a data do registro.</li>\n<li>Reúna o que mostra que a dívida é indevida: comprovante de pagamento, cancelamento do contrato, protocolo de contestação ou boletim de ocorrência, se houve fraude.</li>\n<li>Peça a correção por escrito ao credor e ao cadastro, e guarde os protocolos.</li>\n</ul>\n<p>Se a dívida já foi paga e o nome continua lá, a Súmula 548 do STJ atribui ao credor a exclusão do registro em até 5 dias úteis após o pagamento integral.</p>\n<p>Se o registro não for retirado, é possível pedir à Justiça a exclusão e a indenização cabível. Antes disso, confira se não há outra negativação legítima em seu nome, porque isso muda o que pode ser pedido.</p>",
+  "faq": [
+    [
+      "Eu tinha que ser avisado antes da negativação?",
+      "A abertura de registro não solicitada deve ser comunicada por escrito, e a Súmula 359 do STJ atribui essa notificação prévia ao órgão do cadastro (CDC, art. 43, § 2º)."
+    ],
+    [
+      "Já tenho outra negativação. Ainda posso pedir indenização?",
+      "Se a anotação anterior era legítima, a Súmula 385 do STJ afasta o dano moral, mas o registro indevido deve ser corrigido (CDC, art. 43, § 3º)."
+    ],
+    [
+      "Quanto tempo o cadastro tem para corrigir?",
+      "A correção deve ser imediata, e o arquivista tem 5 dias úteis para comunicar a alteração aos destinatários da informação errada (CDC, art. 43, § 3º)."
+    ]
+  ],
+  "base": [
+    "Código de Defesa do Consumidor, art. 6º, VI",
+    "Código de Defesa do Consumidor, art. 43, caput e §§ 1º a 3º",
+    "Código de Defesa do Consumidor, art. 73",
+    "Súmulas 359, 385 e 548 do STJ"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/5900136/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

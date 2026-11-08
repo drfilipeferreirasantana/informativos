@@ -1,0 +1,51 @@
+{
+  "slug": "batida-de-carro-o-que-posso-cobrar",
+  "area": "civil",
+  "data": "2026-12-06",
+  "titulo": "Bateram no meu carro. O que posso cobrar de quem causou o acidente?",
+  "resumo": "Quem causa o acidente por imprudência ou negligência deve reparar o dano: o conserto, o que a vítima deixou de ganhar e, se houve lesão, o tratamento e outros prejuízos provados.",
+  "destaque": "O conserto e outros prejuízos provados.",
+  "pontos": [
+    [
+      "documento",
+      "O conserto e as despesas que você efetivamente teve entram na indenização."
+    ],
+    [
+      "carteira",
+      "O que você razoavelmente deixou de ganhar por causa da batida também pode ser cobrado."
+    ],
+    [
+      "saude",
+      "Se houve lesão, entram o tratamento e os ganhos perdidos até a recuperação."
+    ]
+  ],
+  "exemplo": "Marcos, motorista de aplicativo, teve o carro atingido na traseira enquanto esperava o sinal abrir. O veículo ficou duas semanas na oficina, e ele ficou sem trabalhar nesse período.",
+  "corpo": "<p>Depois de uma batida, a primeira preocupação costuma ser o conserto. Mas o prejuízo de quem foi atingido muitas vezes vai além da oficina, e o Código Civil indica o que pode ser cobrado de quem causou o acidente.</p>\n<h2>O que a lei prevê</h2>\n<p>Comete ato ilícito quem, por ação ou omissão voluntária, negligência ou imprudência, viola direito e causa dano a outra pessoa, ainda que o dano seja só moral. E quem causa dano por ato ilícito fica obrigado a repará-lo.</p>\n<p>A indenização se mede pela extensão do dano. Por isso, pode incluir:</p>\n<ul>\n<li>o que a vítima efetivamente perdeu, como o conserto do veículo e outras despesas causadas pela batida;</li>\n<li>o que ela razoavelmente deixou de ganhar, os chamados lucros cessantes;</li>\n<li>se houve lesão, as despesas do tratamento e os lucros cessantes até o fim da recuperação, além de outro prejuízo que a vítima prove ter sofrido;</li>\n<li>se a lesão deixou sequela que impeça ou reduza a capacidade de trabalho, uma pensão correspondente.</li>\n</ul>\n<p>Se a própria vítima também agiu com culpa, a indenização é fixada levando em conta a gravidade da culpa dela em confronto com a do outro motorista.</p>\n<h2>Na prática</h2>\n<p>A cobrança depende de prova. Logo após o acidente:</p>\n<ul>\n<li>registre o boletim de ocorrência;</li>\n<li>fotografe a posição dos veículos, os danos e a sinalização do local;</li>\n<li>anote nome, placa e contato do outro motorista e de testemunhas;</li>\n<li>faça mais de um orçamento e guarde notas fiscais e recibos.</li>\n</ul>\n<p>Para cobrar o que deixou de ganhar, reúna documentos da renda perdida, como extratos de aplicativo, contratos ou notas de serviço do período parado.</p>\n<p>O prazo para pedir a reparação civil, em regra, é de 3 anos. Quem espera demais pode perder o direito de cobrar.</p>",
+  "faq": [
+    [
+      "Posso cobrar os dias em que fiquei sem trabalhar com o carro parado?",
+      "Pode, se houver prova do que você razoavelmente deixou de ganhar, que integra as perdas e danos (Código Civil, art. 402)."
+    ],
+    [
+      "E se eu também tive parte da culpa?",
+      "A indenização é fixada considerando a gravidade da sua culpa em confronto com a do autor do dano (Código Civil, art. 945)."
+    ],
+    [
+      "Qual é o prazo para cobrar?",
+      "Em regra, 3 anos para a pretensão de reparação civil (Código Civil, art. 206, § 3º, V)."
+    ]
+  ],
+  "base": [
+    "Código Civil, arts. 186 e 927",
+    "Código Civil, arts. 402 e 944",
+    "Código Civil, arts. 949 e 950",
+    "Código Civil, art. 945",
+    "Código Civil, art. 206, § 3º, V"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/38339706/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

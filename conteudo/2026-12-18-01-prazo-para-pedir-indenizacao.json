@@ -1,0 +1,51 @@
+{
+  "slug": "prazo-para-pedir-indenizacao",
+  "area": "civil",
+  "data": "2026-12-18",
+  "titulo": "Qual é o prazo para pedir indenização por um dano?",
+  "resumo": "No Código Civil, a pretensão de reparação civil prescreve, em regra, em 3 anos. Algumas situações impedem ou interrompem a contagem, e as relações de consumo têm prazo próprio.",
+  "destaque": "Em regra, 3 anos.",
+  "pontos": [
+    [
+      "calendario",
+      "A pretensão de reparação civil prescreve, em regra, em 3 anos."
+    ],
+    [
+      "relogio",
+      "A prescrição não corre contra menores de 16 anos."
+    ],
+    [
+      "alerta",
+      "Dano causado por defeito de produto ou serviço de consumo tem prazo de 5 anos."
+    ]
+  ],
+  "exemplo": "André sofreu um acidente de moto causado por outro motorista há dois anos e meio. Ainda em tratamento, só agora começou a juntar os recibos para cobrar o prejuízo.",
+  "corpo": "<p>Quem sofre um dano costuma deixar a cobrança para depois: primeiro vêm o tratamento, o conserto, a rotina. O problema é que o direito de pedir indenização tem prazo, e quem passa dele pode perder a possibilidade de cobrar.</p>\n<h2>O que a lei prevê</h2>\n<p>Quando um direito é violado, nasce para a vítima a pretensão de cobrar a reparação. Essa pretensão se extingue pela prescrição, nos prazos fixados em lei.</p>\n<p>Para a reparação civil, o Código Civil fixa, em regra, o prazo de 3 anos. Ele alcança danos materiais e morais causados, por exemplo, em acidentes, ofensas e outros atos ilícitos. Algumas regras mudam essa contagem:</p>\n<ul>\n<li>A prescrição não corre contra menores de 16 anos.</li>\n<li>Quando a ação nasce de fato que deva ser apurado no juízo criminal, a prescrição não corre antes da sentença definitiva.</li>\n<li>A prescrição pode ser interrompida uma única vez, por exemplo, pelo despacho do juiz que ordena a citação, por protesto ou por ato inequívoco em que o devedor reconheça o direito.</li>\n</ul>\n<p>Interrompida, a prescrição recomeça a correr da data do ato que a interrompeu.</p>\n<p>Nas relações de consumo, a reparação de danos causados por defeito de produto ou serviço prescreve em 5 anos, contados do conhecimento do dano e de quem o causou. As relações de trabalho também têm regra própria.</p>\n<h2>Na prática</h2>\n<ul>\n<li>Anote a data do fato e guarde boletins de ocorrência, laudos, recibos e conversas desde o início.</li>\n<li>Não espere o fim do tratamento para organizar os documentos: provas se perdem e testemunhas esquecem.</li>\n<li>Guarde mensagens em que o responsável admite a dívida ou propõe pagar, porque o reconhecimento do direito pelo devedor pode interromper a prescrição.</li>\n</ul>\n<p>Cada caso tem particularidades, como a data em que o dano foi conhecido e a natureza da relação entre as partes. Por isso, vale conferir o prazo com antecedência, e não na véspera.</p>",
+  "faq": [
+    [
+      "O prazo de 3 anos vale também para o dano moral?",
+      "Sim. O dano exclusivamente moral também é ato ilícito, e a pretensão de reparação civil prescreve em 3 anos (Código Civil, arts. 186 e 206, § 3º, V)."
+    ],
+    [
+      "Se o caso virou processo criminal, o prazo continua correndo?",
+      "Quando a ação nasce de fato que deva ser apurado no juízo criminal, a prescrição não corre antes da sentença definitiva (Código Civil, art. 200)."
+    ],
+    [
+      "E se o dano veio de um produto ou serviço com defeito?",
+      "O prazo é de 5 anos, contados do conhecimento do dano e de sua autoria (CDC, art. 27)."
+    ]
+  ],
+  "base": [
+    "Código Civil, art. 189",
+    "Código Civil, arts. 198, I, e 200",
+    "Código Civil, art. 202",
+    "Código Civil, art. 206, § 3º, V",
+    "Código de Defesa do Consumidor, art. 27"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/30335440/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

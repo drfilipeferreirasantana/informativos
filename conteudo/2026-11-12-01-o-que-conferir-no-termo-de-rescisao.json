@@ -1,0 +1,47 @@
+{
+  "slug": "o-que-conferir-no-termo-de-rescisao",
+  "area": "trabalhista",
+  "data": "2026-11-12",
+  "titulo": "O que conferir no termo de rescisão antes de assinar?",
+  "resumo": "O termo deve trazer cada parcela paga com o seu valor. A quitação vale só para o que está discriminado nele, por isso vale conferir item por item.",
+  "destaque": "Cada parcela e o seu valor.",
+  "pontos": [
+    [
+      "documento",
+      "Cada parcela paga deve aparecer com a sua natureza e o seu valor."
+    ],
+    [
+      "carteira",
+      "Os descontos no acerto não podem passar de um mês de remuneração."
+    ],
+    [
+      "calendario",
+      "Pagamento e documentos devem ser entregues em até 10 dias do fim do contrato."
+    ]
+  ],
+  "exemplo": "Paulo trabalhou quatro anos como auxiliar de almoxarifado e foi dispensado. No dia do acerto, recebeu o termo de rescisão com uma lista de valores e um campo de descontos que ele não entendeu.",
+  "corpo": "<p>O termo de rescisão é o documento que resume o acerto final do contrato de trabalho. Muita gente assina sem ler, com pressa de receber. Mas é ele que mostra o que foi pago e, por consequência, o que ficou de fora.</p>\n<h2>O que a lei prevê</h2>\n<p>No fim do contrato, a empresa deve anotar a saída na carteira de trabalho, comunicar a dispensa aos órgãos competentes e pagar as verbas rescisórias no prazo e na forma da CLT.</p>\n<ul>\n<li>O termo de rescisão, qualquer que seja a forma de saída, deve especificar a natureza de cada parcela paga e discriminar o seu valor.</li>\n<li>A quitação vale apenas para as parcelas que estão discriminadas no documento.</li>\n<li>Qualquer compensação no pagamento não pode passar do equivalente a um mês de remuneração do empregado.</li>\n<li>O pagamento pode ser feito em dinheiro, depósito bancário ou cheque visado. Se o empregado for analfabeto, só em dinheiro ou depósito.</li>\n<li>Os documentos e o pagamento devem ser entregues em até 10 dias contados do término do contrato.</li>\n</ul>\n<h2>Na prática</h2>\n<p>Ao receber o termo, confira com calma:</p>\n<ul>\n<li>as datas de admissão e de saída e o motivo da rescisão;</li>\n<li>o salário usado como base de cálculo;</li>\n<li>se aparecem as parcelas esperadas para aquela forma de saída, como saldo de salário, férias e 13º;</li>\n<li>cada desconto, com a sua origem e o seu valor.</li>\n</ul>\n<p>Uma parcela que não aparece no termo não fica quitada só porque o documento foi assinado. Por isso, guarde uma cópia do termo e o comprovante do pagamento.</p>\n<p>A anotação do fim do contrato na carteira também serve para pedir o seguro-desemprego e sacar o FGTS, nos casos previstos em lei, desde que a empresa tenha feito a comunicação da dispensa.</p>",
+  "faq": [
+    [
+      "Assinei o termo. Perdi o direito de cobrar o que faltou?",
+      "A quitação vale apenas para as parcelas especificadas no documento, com o valor discriminado (CLT, art. 477, § 2º)."
+    ],
+    [
+      "A empresa pode descontar qualquer valor no acerto?",
+      "Não. A compensação no pagamento da rescisão não pode passar de um mês de remuneração do empregado (CLT, art. 477, § 5º)."
+    ],
+    [
+      "Para que serve a anotação da saída na carteira?",
+      "Ela serve para pedir o seguro-desemprego e movimentar o FGTS, nos casos legais, desde que a dispensa tenha sido comunicada (CLT, art. 477, § 10)."
+    ]
+  ],
+  "base": [
+    "CLT, art. 477, caput e §§ 2º, 4º, 5º, 6º e 10"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/11773871/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "slug": "heranca-na-partilha-do-divorcio",
+  "area": "familia",
+  "data": "2026-11-28",
+  "titulo": "Herança recebida durante o casamento entra na partilha do divórcio?",
+  "resumo": "Na comunhão parcial, não: o bem herdado fica com quem o recebeu. Mas os rendimentos dele durante o casamento, como aluguéis, entram na divisão.",
+  "destaque": "Na comunhão parcial, fica de fora.",
+  "pontos": [
+    [
+      "escudo",
+      "Na comunhão parcial, o bem herdado fica só com quem o recebeu."
+    ],
+    [
+      "carteira",
+      "Aluguéis e outros rendimentos do bem herdado durante o casamento entram na divisão."
+    ],
+    [
+      "alerta",
+      "Na comunhão universal, a herança entra, salvo cláusula de incomunicabilidade."
+    ]
+  ],
+  "exemplo": "Paulo herdou uma casa do pai no quinto ano de casamento e passou a alugá-la. Agora, no divórcio, a esposa pede metade da casa e dos aluguéis recebidos.",
+  "corpo": "<p>Receber uma herança durante o casamento é comum, e a dúvida aparece na hora do divórcio: aquele bem passou a ser do casal? A resposta depende do regime de bens.</p>\n<h2>O que a lei prevê</h2>\n<p>Na comunhão parcial, que vale quando o casal não escolhe outro regime (Código Civil, art. 1.640), ficam fora da divisão os bens que cada um recebe por doação ou herança durante o casamento, e também os adquiridos no lugar deles (art. 1.659, I).</p>\n<p>Mas há pontos de atenção (art. 1.660):</p>\n<ul>\n<li>a herança deixada em favor dos dois cônjuges entra na comunhão;</li>\n<li>os frutos dos bens particulares percebidos durante o casamento, como aluguéis, entram na comunhão;</li>\n<li>as benfeitorias feitas no bem particular de cada cônjuge também entram.</li>\n</ul>\n<p>Na comunhão universal, a lógica se inverte: os bens se comunicam, mas ficam de fora os herdados com cláusula de incomunicabilidade e os que os substituírem (arts. 1.667 e 1.668, I). Na separação convencional, cada cônjuge administra e pode dispor livremente dos próprios bens (art. 1.687).</p>\n<h2>Na prática</h2>\n<p>O problema mais comum é a mistura de patrimônio. Quando o dinheiro da herança é depositado na conta do casal e usado junto com outros valores, fica mais difícil provar o que era só de um.</p>\n<p>Para proteger o bem herdado, ajuda guardar:</p>\n<ul>\n<li>o formal de partilha ou a escritura do inventário;</li>\n<li>extratos que mostrem o caminho do dinheiro até a compra de um novo bem;</li>\n<li>documentos de reformas feitas no imóvel, com a origem do pagamento.</li>\n</ul>\n<p>Na união estável sem contrato escrito, valem as mesmas regras da comunhão parcial (art. 1.725). Em qualquer caso, é o regime de bens do casal que define a resposta, por isso ele deve ser conferido na certidão de casamento ou no contrato de convivência.</p>",
+  "faq": [
+    [
+      "O imóvel que comprei com o dinheiro da herança também fica fora?",
+      "Sim, quando comprado com valores só seus, no lugar do bem herdado (Código Civil, art. 1.659, I e II)."
+    ],
+    [
+      "O aluguel do imóvel herdado entra na partilha?",
+      "Os frutos dos bens particulares percebidos durante o casamento entram na comunhão (Código Civil, art. 1.660, V)."
+    ],
+    [
+      "E se a herança foi deixada para o casal?",
+      "Nesse caso, ela entra na comunhão (Código Civil, art. 1.660, III)."
+    ]
+  ],
+  "base": [
+    "Código Civil, arts. 1.640 e 1.659, I e II",
+    "Código Civil, art. 1.660, III a V",
+    "Código Civil, arts. 1.667, 1.668, I, e 1.687",
+    "Código Civil, art. 1.725"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/17857994/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

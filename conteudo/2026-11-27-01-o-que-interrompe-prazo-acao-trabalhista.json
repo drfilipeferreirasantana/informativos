@@ -1,0 +1,51 @@
+{
+  "slug": "o-que-interrompe-prazo-acao-trabalhista",
+  "area": "trabalhista",
+  "data": "2026-11-27",
+  "titulo": "O que interrompe o prazo para entrar com ação trabalhista?",
+  "resumo": "Pela CLT, a prescrição só é interrompida pelo ajuizamento de uma reclamação trabalhista, e apenas para os pedidos iguais aos feitos naquela ação.",
+  "destaque": "Só a própria ação trabalhista.",
+  "pontos": [
+    [
+      "balanca",
+      "A interrupção vale mesmo que a ação seja extinta sem julgamento do mérito."
+    ],
+    [
+      "alerta",
+      "Ela só protege os pedidos idênticos aos da primeira ação."
+    ],
+    [
+      "calendario",
+      "Contra menores de 18 anos não corre prazo de prescrição."
+    ]
+  ],
+  "exemplo": "Márcio entrou com uma ação contra a ex-empregadora pedindo horas extras, mas o processo foi arquivado. Meses depois, quis entrar de novo e incluir também o adicional noturno.",
+  "corpo": "<p>Quem sai da empresa tem até 2 anos para entrar com a ação e pode cobrar os últimos 5 anos de contrato. Muita gente acredita que reclamar com a empresa, mandar mensagem ou fazer uma denúncia segura esse prazo. A CLT, porém, é bem específica sobre o que interrompe a contagem.</p>\n<h2>O que a lei prevê</h2>\n<p>Segundo a CLT, a interrupção da prescrição somente ocorre pelo ajuizamento de reclamação trabalhista.</p>\n<ul>\n<li>Vale mesmo que a ação tenha sido proposta em juízo incompetente.</li>\n<li>Vale ainda que a ação venha a ser extinta sem resolução do mérito, como no arquivamento.</li>\n<li>Produz efeitos apenas em relação aos pedidos idênticos aos da ação proposta.</li>\n</ul>\n<p>Depois de interrompida, a prescrição recomeça a correr da data do ato que a interrompeu, ou do último ato do processo. Essa regra está no Código Civil, que a CLT admite como fonte subsidiária do direito do trabalho.</p>\n<p>A CLT também protege os mais jovens: contra menores de 18 anos não corre nenhum prazo de prescrição.</p>\n<h2>Na prática</h2>\n<ul>\n<li>Conversas com a empresa, e-mails e reclamações internas não estão entre as formas de interrupção previstas na CLT.</li>\n<li>Se uma ação foi arquivada, a nova contagem protege apenas o que foi pedido nela. Pedidos diferentes continuam sujeitos ao prazo que já vinha correndo.</li>\n<li>Guarde a cópia da primeira ação e as datas do processo, porque elas mostram desde quando o prazo voltou a contar.</li>\n<li>Liste tudo o que pretende cobrar antes de entrar com a ação. Um pedido esquecido não se beneficia da interrupção.</li>\n</ul>\n<p>Como o prazo é curto, vale organizar contracheques, cartões de ponto e mensagens logo após a saída, e não deixar a decisão para os últimos meses.</p>",
+  "faq": [
+    [
+      "Uma ação arquivada interrompe o prazo?",
+      "Sim. A interrupção ocorre mesmo que a ação seja extinta sem resolução do mérito, mas só para os pedidos idênticos (CLT, art. 11, § 3º)."
+    ],
+    [
+      "Depois de interrompido, como fica o prazo?",
+      "A prescrição recomeça a correr da data do ato que a interrompeu, ou do último ato do processo (Código Civil, art. 202, parágrafo único; CLT, art. 8º, § 1º)."
+    ],
+    [
+      "Quem tem menos de 18 anos segue a mesma regra?",
+      "Não. Contra menores de 18 anos não corre nenhum prazo de prescrição (CLT, art. 440)."
+    ]
+  ],
+  "base": [
+    "Constituição Federal, art. 7º, XXIX",
+    "CLT, art. 11, caput e § 3º",
+    "CLT, art. 440",
+    "CLT, art. 8º, § 1º",
+    "Código Civil, art. 202, parágrafo único"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/11069123/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

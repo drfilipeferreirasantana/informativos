@@ -1,0 +1,52 @@
+{
+  "slug": "autonomo-precisa-pagar-inss",
+  "area": "previdenciario",
+  "data": "2026-12-21",
+  "titulo": "Trabalho por conta própria. Sou obrigado a pagar o INSS?",
+  "resumo": "Sim. Quem trabalha por conta própria é segurado obrigatório, como contribuinte individual, e deve recolher a própria contribuição até o dia 15 do mês seguinte.",
+  "destaque": "Sim, como contribuinte individual.",
+  "pontos": [
+    [
+      "carteira",
+      "A alíquota geral é de 20% sobre o que a pessoa ganha no mês, respeitados o mínimo e o teto."
+    ],
+    [
+      "calendario",
+      "O pagamento é feito pelo próprio segurado, até o dia 15 do mês seguinte."
+    ],
+    [
+      "alerta",
+      "Meses anteriores pagos em atraso não contam para a carência."
+    ]
+  ],
+  "exemplo": "Fernanda é cabeleireira, atende em casa há seis anos e nunca pagou o INSS. Agora quer começar a contribuir e ficou em dúvida entre o plano de 20% e o de 11%.",
+  "corpo": "<p>Quem trabalha para si, como cabeleireira, eletricista, pintor ou vendedor autônomo, muitas vezes acha que contribuir para o INSS é opcional. Não é: a lei trata essa pessoa como segurada obrigatória.</p>\n<h2>O que a lei prevê</h2>\n<p>A Lei 8.213/1991 classifica como contribuinte individual quem exerce, por conta própria, atividade econômica urbana e quem presta serviço eventual a empresas sem relação de emprego. A Lei 8.212/1991 prevê estas formas de contribuir:</p>\n<ul>\n<li>Plano normal: 20% sobre a remuneração do mês, respeitados o salário mínimo e o teto do INSS.</li>\n<li>Plano simplificado: 11% sobre o salário mínimo, para quem trabalha por conta própria, sem relação de trabalho com empresa. Quem escolhe esse plano abre mão da aposentadoria por tempo de contribuição.</li>\n<li>Microempreendedor individual (MEI): 5% sobre o salário mínimo, com a mesma restrição.</li>\n</ul>\n<p>A contribuição é recolhida pelo próprio segurado, até o dia 15 do mês seguinte ao da competência.</p>\n<h2>Na prática</h2>\n<p>Quem pagou 11% ou 5% e depois quiser contar esse tempo para a aposentadoria por tempo de contribuição pode complementar a diferença até 20%, com juros.</p>\n<p>O ponto que mais pega é a carência. Para o contribuinte individual, ela só é contada a partir do primeiro pagamento feito sem atraso. Contribuições de meses anteriores pagas em atraso não entram nessa conta.</p>\n<p>Por isso, quem quer proteção em caso de doença ou acidente deve começar a pagar em dia, e não deixar para regularizar depois. Sem recolhimentos, a carência não se forma e o acesso a benefícios como o auxílio por incapacidade temporária, o salário-maternidade e a aposentadoria fica comprometido.</p>",
+  "faq": [
+    [
+      "Paguei meses atrasados. Eles contam para a carência?",
+      "Não. Para o contribuinte individual, a carência conta a partir do primeiro pagamento sem atraso, e as contribuições atrasadas de competências anteriores não são consideradas (Lei 8.213/1991, art. 27, II)."
+    ],
+    [
+      "Quem paga 11% perde algum direito?",
+      "Perde a aposentadoria por tempo de contribuição, salvo se complementar a diferença até 20%, com juros (Lei 8.212/1991, art. 21, §§ 2º e 3º)."
+    ],
+    [
+      "Até quando devo pagar a contribuição do mês?",
+      "Até o dia 15 do mês seguinte ao da competência (Lei 8.212/1991, art. 30, II)."
+    ]
+  ],
+  "base": [
+    "Lei 8.213/1991, art. 11, V, g e h",
+    "Lei 8.213/1991, arts. 18, § 3º, 27, II, e 55, § 4º",
+    "Lei 8.212/1991, art. 21, caput e §§ 2º e 3º",
+    "Lei 8.212/1991, art. 28, III e § 3º",
+    "Lei 8.212/1991, art. 30, II",
+    "Decreto 3.048/1999, art. 9º, V, p"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/37255841/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

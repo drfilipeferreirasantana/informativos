@@ -1,0 +1,50 @@
+{
+  "slug": "pedi-demissao-preciso-cumprir-aviso-previo",
+  "area": "trabalhista",
+  "data": "2026-11-09",
+  "titulo": "Pedi demissão: preciso cumprir o aviso prévio?",
+  "resumo": "Em regra, sim. Quem pede demissão deve avisar a empresa com antecedência. Se não cumprir o aviso, a empresa pode descontar os salários do período.",
+  "destaque": "Sim, ou a empresa pode descontar.",
+  "pontos": [
+    [
+      "calendario",
+      "Para quem recebe por mês ou por quinzena, o aviso é de 30 dias."
+    ],
+    [
+      "carteira",
+      "Sem o aviso, a empresa pode descontar os salários correspondentes ao prazo."
+    ],
+    [
+      "alerta",
+      "A redução de 2 horas por dia está prevista para a dispensa feita pela empresa."
+    ]
+  ],
+  "exemplo": "Juliana trabalha há três anos como recepcionista em uma clínica e recebeu uma proposta de outro emprego para começar em uma semana. Ela ainda não sabe como fica o aviso prévio se pedir demissão agora.",
+  "corpo": "<p>Quem decide sair do emprego costuma ter pressa, principalmente quando já tem outra vaga em vista. Mas a CLT trata o aviso prévio como um dever das duas partes: vale para a empresa que dispensa e também para o empregado que pede para sair. Entender a regra evita surpresas no acerto final.</p>\n<h2>O que a lei prevê</h2>\n<p>Pela CLT, quem quer encerrar um contrato sem prazo definido, sem justo motivo, deve avisar a outra parte com antecedência mínima de:</p>\n<ul>\n<li>8 dias, se o pagamento for semanal ou por período menor;</li>\n<li>30 dias, para quem recebe por quinzena ou por mês, ou para quem tem mais de 12 meses de empresa.</li>\n</ul>\n<p>Se o empregado não der o aviso, a empresa tem o direito de descontar os salários correspondentes a esse prazo.</p>\n<p>Durante o aviso, o contrato continua valendo normalmente. A redução da jornada em 2 horas por dia, ou a troca por dias de folga, está prevista na lei para quando a rescisão é promovida pelo empregador. Quem pede demissão, portanto, cumpre o aviso no horário de sempre.</p>\n<h2>Na prática</h2>\n<p>Antes de entregar a carta de demissão, vale planejar a data de saída para que o aviso caiba no tempo disponível. Assim, o desconto no acerto pode ser evitado.</p>\n<p>É recomendável dar o aviso por escrito e guardar uma cópia com a data de recebimento, porque o prazo é contado a partir dela.</p>\n<p>Também é possível voltar atrás. Se quem deu o aviso se arrepender antes do fim do prazo, a outra parte pode aceitar ou não a reconsideração. Se aceitar, o contrato segue como se o aviso não tivesse sido dado.</p>\n<p>Por fim, as regras do contrato continuam valendo no período. O empregado que comete falta grave durante o aviso perde o direito ao restante do prazo.</p>",
+  "faq": [
+    [
+      "Quantos dias de aviso deve cumprir quem pede demissão?",
+      "Trinta dias para quem recebe por quinzena ou por mês, ou tem mais de 12 meses de empresa, e 8 dias para quem recebe por semana ou período menor (CLT, art. 487, I e II)."
+    ],
+    [
+      "E se eu não cumprir o aviso?",
+      "A empresa pode descontar os salários correspondentes ao prazo do aviso (CLT, art. 487, § 2º)."
+    ],
+    [
+      "Posso desistir do pedido de demissão?",
+      "Se a reconsideração ocorrer antes do fim do aviso, a empresa pode aceitá-la ou não. Aceita, o contrato continua (CLT, art. 489)."
+    ]
+  ],
+  "base": [
+    "CLT, art. 487, caput, I e II, e § 2º",
+    "CLT, art. 488",
+    "CLT, art. 489",
+    "CLT, art. 491"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/7581040/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "banco-de-horas-como-funciona",
+  "area": "trabalhista",
+  "data": "2026-11-15",
+  "titulo": "Como funciona o banco de horas?",
+  "resumo": "O banco de horas troca as horas a mais de um dia por folga em outro, sem o adicional de hora extra, desde que respeitados os prazos e limites da CLT.",
+  "destaque": "Hora a mais vira folga, com prazo.",
+  "pontos": [
+    [
+      "relogio",
+      "A jornada no banco de horas não pode passar de 10 horas por dia."
+    ],
+    [
+      "documento",
+      "Por acordo individual escrito, a compensação deve ocorrer em até seis meses."
+    ],
+    [
+      "carteira",
+      "Horas não compensadas até a saída devem ser pagas como extras."
+    ]
+  ],
+  "exemplo": "Sandra trabalha em uma loja de materiais de construção e ficou duas horas a mais várias vezes no mês. A gerente disse que essas horas iriam para o banco e seriam folgadas depois.",
+  "corpo": "<p>Em vez de pagar a hora extra, muitas empresas oferecem folga em outro dia. É o chamado banco de horas. Ele é permitido pela CLT, mas a lei impõe condições, e o trabalhador deve acompanhar o próprio saldo.</p>\n<h2>O que a lei prevê</h2>\n<p>A CLT dispensa o acréscimo de salário quando o excesso de horas de um dia é compensado pela diminuição em outro, sem ultrapassar o limite de 10 horas diárias. O prazo para compensar depende da forma do acordo:</p>\n<ul>\n<li>por convenção ou acordo coletivo, em até um ano;</li>\n<li>por acordo individual escrito, em até seis meses;</li>\n<li>por acordo individual, tácito ou escrito, quando a compensação ocorre no mesmo mês.</li>\n</ul>\n<p>Se o contrato terminar antes de as horas serem compensadas, o trabalhador recebe as horas extras não compensadas, calculadas sobre a remuneração da data da rescisão.</p>\n<p>A lei também diz que fazer horas extras com frequência não descaracteriza, por si só, o banco de horas.</p>\n<h2>Na prática</h2>\n<ul>\n<li>Peça para ver o acordo que criou o banco de horas e confira se ele é coletivo ou individual escrito. Isso define o prazo de compensação.</li>\n<li>Anote os dias em que ficou além do horário e os dias de folga recebidos. Compare com o saldo informado pela empresa.</li>\n<li>Acompanhe o vencimento do prazo. Horas que não forem compensadas no período previsto merecem análise.</li>\n<li>Na saída, verifique se o saldo positivo foi pago no acerto.</li>\n</ul>\n<p>Quando as horas do banco são convertidas em pagamento, valem as regras da hora extra, com adicional de pelo menos 50% sobre a hora normal.</p>\n<p>Guarde espelhos de ponto, mensagens com pedidos para ficar além do horário e comunicados sobre folgas. São esses registros que permitem conferir se o saldo está correto.</p>",
+  "faq": [
+    [
+      "Qual é o prazo para compensar as horas?",
+      "Até um ano, se o banco for criado por convenção ou acordo coletivo, e até seis meses, se for por acordo individual escrito (CLT, art. 59, §§ 2º e 5º)."
+    ],
+    [
+      "Saí da empresa com horas no banco. Recebo?",
+      "Sim. As horas não compensadas são pagas como extras, calculadas sobre a remuneração na data da rescisão (CLT, art. 59, § 3º)."
+    ],
+    [
+      "Quantas horas posso trabalhar por dia no banco de horas?",
+      "A compensação não pode ultrapassar o limite máximo de 10 horas diárias (CLT, art. 59, § 2º)."
+    ]
+  ],
+  "base": [
+    "CLT, art. 59, §§ 1º, 2º, 3º, 5º e 6º",
+    "CLT, art. 59-B, parágrafo único"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/36713389/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

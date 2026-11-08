@@ -1,0 +1,50 @@
+{
+  "slug": "aviso-previo-reducao-de-jornada",
+  "area": "trabalhista",
+  "data": "2026-12-03",
+  "titulo": "No aviso prévio, tenho direito a sair 2 horas mais cedo?",
+  "resumo": "Sim, quando a dispensa parte da empresa. O trabalhador pode escolher entre reduzir 2 horas por dia ou faltar 7 dias corridos, sem desconto no salário.",
+  "destaque": "Sim, ou 7 dias corridos de folga.",
+  "pontos": [
+    [
+      "relogio",
+      "A jornada diminui 2 horas por dia, sem prejuízo do salário integral."
+    ],
+    [
+      "calendario",
+      "Ou o empregado folga 7 dias corridos, também sem desconto."
+    ],
+    [
+      "alerta",
+      "A redução vale quando a rescisão foi promovida pelo empregador."
+    ]
+  ],
+  "exemplo": "Cláudio, conferente em um supermercado, foi avisado da dispensa e vai cumprir 30 dias de aviso. O encarregado disse que ele deve continuar no horário normal até o último dia.",
+  "corpo": "<p>O aviso prévio trabalhado dá ao empregado dispensado um tempo para se organizar e procurar nova colocação. Para isso, a CLT garante uma redução na jornada durante esse período, sem perda de salário.</p>\n<h2>O que a lei prevê</h2>\n<p>Quando a rescisão é promovida pelo empregador, o horário normal de trabalho durante o aviso é reduzido em 2 horas por dia, sem prejuízo do salário integral.</p>\n<ul>\n<li>O empregado pode preferir trabalhar sem a redução diária e, em troca, faltar ao serviço por 7 dias corridos, sem desconto, no aviso de 30 dias.</li>\n<li>No aviso de 8 dias, para quem recebe por semana ou período menor, a troca é por 1 dia de folga.</li>\n<li>A lei dá essa escolha ao empregado.</li>\n</ul>\n<p>Se a empresa não der o aviso, deve pagar os salários do período, que também é contado como tempo de serviço.</p>\n<h2>Na prática</h2>\n<ul>\n<li>Informe à empresa, se possível por escrito, qual opção escolheu: sair 2 horas mais cedo todos os dias ou folgar 7 dias corridos.</li>\n<li>Anote os horários cumpridos durante o aviso e guarde a comunicação da dispensa.</li>\n<li>Pagar as 2 horas como extras, em vez de reduzir a jornada, não substitui a redução. A Súmula 230 do TST considera ilegal essa troca.</li>\n<li>Se a empresa exigiu o horário cheio, sem a redução e sem a folga, a situação merece análise.</li>\n</ul>\n<p>A regra é diferente quando é o empregado quem pede demissão. A lei prevê a redução apenas para a dispensa feita pela empresa. Nesse caso, o aviso é cumprido no horário normal.</p>\n<p>Guarde também o termo de rescisão e confira se o período do aviso foi pago corretamente.</p>",
+  "faq": [
+    [
+      "Posso escolher entre as 2 horas e os 7 dias?",
+      "Sim. A lei faculta ao empregado trabalhar sem a redução diária e faltar 7 dias corridos, sem prejuízo do salário (CLT, art. 488, parágrafo único)."
+    ],
+    [
+      "A empresa pode pagar as 2 horas em vez de reduzir a jornada?",
+      "Não. É ilegal substituir a redução da jornada no aviso pelo pagamento das horas correspondentes (Súmula 230 do TST; CLT, art. 488)."
+    ],
+    [
+      "Quem pede demissão também tem a redução?",
+      "A lei prevê a redução quando a rescisão é promovida pelo empregador (CLT, art. 488)."
+    ]
+  ],
+  "base": [
+    "Constituição Federal, art. 7º, XXI",
+    "CLT, art. 487, I e II, e § 1º",
+    "CLT, art. 488, caput e parágrafo único",
+    "Súmula 230 do TST"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/7792841/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

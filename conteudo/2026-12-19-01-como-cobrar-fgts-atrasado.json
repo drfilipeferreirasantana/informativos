@@ -1,0 +1,51 @@
+{
+  "slug": "como-cobrar-fgts-atrasado",
+  "area": "trabalhista",
+  "data": "2026-12-19",
+  "titulo": "Como cobrar o FGTS que a empresa não depositou?",
+  "resumo": "O trabalhador pode conferir os depósitos pelos serviços digitais do FGTS, comunicar a fiscalização do trabalho e cobrar a empresa diretamente na Justiça do Trabalho.",
+  "destaque": "Confira o extrato e cobre na Justiça.",
+  "pontos": [
+    [
+      "documento",
+      "Confira o extrato da conta e compare com os meses trabalhados."
+    ],
+    [
+      "alerta",
+      "O atraso gera atualização, juros de 0,5% ao mês e multa para a empresa."
+    ],
+    [
+      "balanca",
+      "O trabalhador, o sindicato ou os dependentes podem cobrar na Justiça do Trabalho."
+    ]
+  ],
+  "exemplo": "Adriana trabalha há dois anos como auxiliar de limpeza. Ao consultar o extrato do FGTS para planejar a compra de uma casa, viu que vários meses estavam sem depósito.",
+  "corpo": "<p>O FGTS é depositado pela empresa todo mês, mas o trabalhador nem sempre acompanha. Muitas vezes, a falta de depósitos só aparece na hora de sacar. Saber conferir e cobrar evita surpresas e perda de valores.</p>\n<h2>O que a lei prevê</h2>\n<p>A Lei do FGTS obriga o empregador a depositar, até o dia 20 de cada mês, 8% da remuneração paga ou devida no mês anterior.</p>\n<ul>\n<li>O Poder Executivo deve oferecer serviços digitais com informações sobre os créditos do trabalhador e o acionamento da inspeção do trabalho em caso de falta de depósito.</li>\n<li>Quem não deposita no prazo responde pela atualização pela TR, juros de mora de 0,5% ao mês e multa de 5% no mês do vencimento ou de 10% a partir do mês seguinte.</li>\n<li>O próprio trabalhador, seus dependentes e sucessores, ou o sindicato, podem acionar a empresa diretamente na Justiça do Trabalho para obrigá-la a depositar.</li>\n<li>Na ação, o juiz determina que a empresa condenada recolha imediatamente os valores devidos.</li>\n</ul>\n<h2>Na prática</h2>\n<ul>\n<li>Consulte o extrato pelo aplicativo oficial do FGTS e compare os depósitos com os contracheques, mês a mês.</li>\n<li>Guarde imagens do extrato e os contracheques que mostram o salário de cada período.</li>\n<li>A falta de depósito pode ser levada à fiscalização do trabalho, que apura os débitos e notifica a empresa.</li>\n<li>A cobrança pode ser feita ainda durante o contrato. A falta de depósitos também pode ser enquadrada como descumprimento das obrigações do contrato, hipótese de rescisão indireta prevista na CLT.</li>\n</ul>\n<p>Atenção ao prazo: segundo a Súmula 362 do TST, a cobrança do FGTS não depositado segue a prescrição de 5 anos, observado o limite de 2 anos após o fim do contrato.</p>",
+  "faq": [
+    [
+      "Posso cobrar o FGTS ainda trabalhando na empresa?",
+      "Sim. O próprio trabalhador pode acionar a empresa na Justiça do Trabalho para obrigá-la a depositar (Lei 8.036/1990, art. 25)."
+    ],
+    [
+      "O sindicato pode cobrar por mim?",
+      "Sim. A lei permite que o sindicato a que o trabalhador está vinculado acione diretamente a empresa (Lei 8.036/1990, art. 25)."
+    ],
+    [
+      "Quem fiscaliza os depósitos?",
+      "Cabe ao Ministério do Trabalho verificar o cumprimento da lei e apurar os débitos dos empregadores (Lei 8.036/1990, art. 23)."
+    ]
+  ],
+  "base": [
+    "Constituição Federal, art. 7º, III e XXIX",
+    "Lei 8.036/1990, arts. 15, 17, I, e 22",
+    "Lei 8.036/1990, arts. 23, 25 e 26, parágrafo único",
+    "CLT, art. 483, d",
+    "Súmula 362 do TST"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/8374249/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

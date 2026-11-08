@@ -1,0 +1,49 @@
+{
+  "slug": "objeto-caiu-do-predio-quem-responde",
+  "area": "civil",
+  "data": "2026-12-14",
+  "titulo": "Caiu um objeto de um prédio e me atingiu. Quem responde?",
+  "resumo": "Responde quem habita o prédio, ou a parte dele, de onde a coisa caiu ou foi lançada. Se o dano vier da ruína do edifício por falta de reparos, responde o dono.",
+  "destaque": "Quem mora no imóvel de onde caiu.",
+  "pontos": [
+    [
+      "predio",
+      "Responde quem habita o imóvel de onde a coisa caiu ou foi lançada."
+    ],
+    [
+      "alerta",
+      "A regra vale para o que cai por acidente e para o que é jogado."
+    ],
+    [
+      "balanca",
+      "Se a queda vier da ruína do edifício por falta de reparos, responde o dono."
+    ]
+  ],
+  "exemplo": "Eduardo estacionou em frente a um prédio e, ao voltar, encontrou o para-brisa quebrado por um vaso que caiu de uma sacada do terceiro andar. O morador disse que o vaso estava bem preso.",
+  "corpo": "<p>Vasos, garrafas, ferramentas, pedaços de reboco. Objetos que caem de janelas e sacadas atingem pedestres e carros com frequência, e a primeira dúvida é sempre a mesma: quem paga pelo prejuízo?</p>\n<h2>O que a lei prevê</h2>\n<p>O Código Civil tem uma regra direta: quem habita o prédio, ou a parte dele, responde pelo dano causado pelas coisas que dele caírem ou forem lançadas em lugar indevido.</p>\n<ul>\n<li>A lei fala em quem habita, e não no proprietário. Num apartamento alugado, a regra alcança quem mora ali.</li>\n<li>Vale tanto para o que cai por acidente quanto para o que é jogado.</li>\n<li>O texto não condiciona o dever de indenizar à prova de culpa do morador. O ponto central é de onde a coisa caiu.</li>\n</ul>\n<p>Há ainda uma regra vizinha. Se o dano resultar da ruína do próprio edifício, como parte da fachada que se solta, responde o dono, quando a ruína vier da falta de reparos cuja necessidade era evidente.</p>\n<p>Se a queda causar lesão, a indenização inclui as despesas do tratamento, os lucros cessantes até o fim da recuperação e outros prejuízos que a vítima provar.</p>\n<h2>Na prática</h2>\n<ul>\n<li>Fotografe o objeto, o local e a fachada, mostrando de qual janela ou sacada ele pode ter vindo.</li>\n<li>Peça ao síndico ou à administração as imagens das câmeras, se houver, antes que sejam apagadas.</li>\n<li>Anote o contato de testemunhas e do porteiro.</li>\n<li>Guarde laudos, atestados, orçamentos e recibos.</li>\n</ul>\n<p>Quando não é possível identificar a unidade de onde o objeto caiu, a solução depende das circunstâncias e merece análise específica. Por isso, registrar logo as provas sobre a origem da queda faz diferença.</p>",
+  "faq": [
+    [
+      "O apartamento é alugado. Responde o dono ou o inquilino?",
+      "A lei atribui a responsabilidade a quem habita o prédio, ou a parte dele, de onde a coisa caiu ou foi lançada (Código Civil, art. 938)."
+    ],
+    [
+      "E se o que caiu foi um pedaço da fachada?",
+      "Se o dano resultar da ruína do edifício por falta de reparos de necessidade evidente, responde o dono (Código Civil, art. 937)."
+    ],
+    [
+      "O que posso cobrar se fiquei ferido?",
+      "As despesas do tratamento, os lucros cessantes até o fim da recuperação e outros prejuízos provados (Código Civil, art. 949)."
+    ]
+  ],
+  "base": [
+    "Código Civil, art. 937",
+    "Código Civil, art. 938",
+    "Código Civil, art. 949"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/11631278/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

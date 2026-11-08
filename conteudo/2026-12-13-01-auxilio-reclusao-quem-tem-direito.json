@@ -1,0 +1,50 @@
+{
+  "slug": "auxilio-reclusao-quem-tem-direito",
+  "area": "previdenciario",
+  "data": "2026-12-13",
+  "titulo": "Quem tem direito ao auxílio-reclusão do INSS?",
+  "resumo": "Os dependentes do segurado de baixa renda preso em regime fechado, se ele tiver 24 contribuições e não receber salário nem outro benefício. O preso não recebe nada.",
+  "destaque": "A família do segurado preso.",
+  "pontos": [
+    [
+      "filhos",
+      "O benefício é pago aos dependentes, nas mesmas condições da pensão por morte."
+    ],
+    [
+      "calendario",
+      "Exige carência de 24 contribuições mensais do segurado."
+    ],
+    [
+      "predio",
+      "Só vale para prisão em regime fechado de segurado de baixa renda."
+    ]
+  ],
+  "exemplo": "Luciana tem dois filhos pequenos. O marido, que trabalhava com carteira assinada havia cinco anos, foi condenado e começou a cumprir pena em regime fechado.",
+  "corpo": "<p>O auxílio-reclusão é cercado de mitos. Ele não é pago ao preso nem a qualquer família: é um benefício dos dependentes de quem contribuía para o INSS e foi recolhido à prisão, porque a família perdeu a renda do trabalho dele.</p>\n<h2>O que a lei prevê</h2>\n<p>A Lei 8.213/1991 exige, ao mesmo tempo:</p>\n<ul>\n<li>carência de 24 contribuições mensais do segurado;</li>\n<li>prisão em regime fechado;</li>\n<li>segurado de baixa renda, apurada pela média dos salários de contribuição dos 12 meses anteriores ao mês da prisão, comparada a um limite corrigido pelos reajustes dos benefícios do INSS;</li>\n<li>que o segurado não receba remuneração da empresa nem esteja recebendo auxílio por incapacidade, pensão por morte, salário-maternidade, aposentadoria ou abono de permanência.</li>\n</ul>\n<p>Os dependentes são os mesmos da pensão por morte: em primeiro lugar, cônjuge, companheira ou companheiro e filhos menores de 21 anos, inválidos ou com deficiência intelectual, mental ou grave.</p>\n<h2>Na prática</h2>\n<p>O pedido deve ter certidão judicial que comprove o recolhimento efetivo à prisão. Para manter o benefício, é preciso provar que o segurado continua preso.</p>\n<p>O prazo do pedido faz diferença. O Decreto 3.048/1999 prevê o pagamento desde a data da prisão se o requerimento for feito em até 90 dias, ou em até 180 dias para filhos menores de 16 anos. Depois disso, o benefício conta a partir do pedido.</p>\n<p>O valor não pode passar de um salário mínimo. O benefício só é devido enquanto o segurado estiver em regime fechado e é suspenso em caso de fuga. Se o segurado falecer na prisão, o auxílio cessa e dá lugar à pensão por morte.</p>\n<p>Trabalhar dentro da prisão, cumprindo pena em regime fechado, não faz a família perder o benefício.</p>",
+  "faq": [
+    [
+      "O preso recebe o auxílio-reclusão?",
+      "Não. O benefício é devido aos dependentes do segurado recolhido à prisão (Lei 8.213/1991, art. 80)."
+    ],
+    [
+      "Se o preso trabalhar na prisão, a família perde o benefício?",
+      "Não. A atividade remunerada do recluso em regime fechado não acarreta a perda do benefício pelos dependentes (Lei 8.213/1991, art. 80, § 7º)."
+    ],
+    [
+      "Quanto tempo de contribuição é exigido?",
+      "São 24 contribuições mensais do segurado (Lei 8.213/1991, art. 25, IV)."
+    ]
+  ],
+  "base": [
+    "Lei 8.213/1991, art. 16",
+    "Lei 8.213/1991, art. 25, IV",
+    "Lei 8.213/1991, art. 80, caput e §§ 1º, 3º, 4º e 7º",
+    "Decreto 3.048/1999, arts. 116 a 119"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/23224857/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

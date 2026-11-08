@@ -1,0 +1,50 @@
+{
+  "slug": "revisao-do-valor-da-pensao",
+  "area": "familia",
+  "data": "2026-12-01",
+  "titulo": "Dá para aumentar ou diminuir o valor da pensão alimentícia?",
+  "resumo": "Sim. Se a situação financeira de quem paga ou de quem recebe mudar, é possível pedir ao juiz o aumento, a redução ou até o fim da pensão.",
+  "destaque": "Sim, se a situação financeira mudar.",
+  "pontos": [
+    [
+      "balanca",
+      "A revisão depende de mudança na situação financeira de quem paga ou de quem recebe."
+    ],
+    [
+      "documento",
+      "A mudança do valor precisa ser pedida ao juiz, e não feita por conta própria."
+    ],
+    [
+      "calendario",
+      "O novo valor retroage à data da citação no processo de revisão."
+    ]
+  ],
+  "exemplo": "Marcelo paga pensão à filha desde 2021. No ano passado foi demitido, e hoje ganha bem menos trabalhando como autônomo.",
+  "corpo": "<p>A pensão é fixada de acordo com a realidade de um momento. Como a vida muda, a lei permite ajustar o valor quando essa realidade deixa de ser a mesma.</p>\n<h2>O que a lei prevê</h2>\n<p>Se, depois de fixada a pensão, mudar a situação financeira de quem paga ou de quem recebe, o interessado pode pedir ao juiz a exoneração, a redução ou o aumento do valor (Código Civil, art. 1.699).</p>\n<p>A Lei de Alimentos reforça que a decisão sobre alimentos pode ser revista a qualquer tempo diante da modificação da situação financeira dos interessados (Lei 5.478/1968, art. 15). O novo valor continua sendo medido pela necessidade de quem recebe e pelos recursos de quem paga (Código Civil, art. 1.694, § 1º).</p>\n<ul>\n<li>Pela Súmula 621 do STJ, o novo valor retroage à data da citação, sem compensação nem devolução do que já foi pago.</li>\n<li>Revisão é diferente de correção: a atualização das prestações por índice oficial já está prevista na lei (Código Civil, art. 1.710).</li>\n</ul>\n<h2>Na prática</h2>\n<p>A revisão não é automática. Quem paga e reduz o valor por conta própria continua devendo a diferença, que pode ser cobrada com protesto e até prisão (CPC, art. 528).</p>\n<p>Exemplos de mudanças que podem ser levadas ao juiz:</p>\n<ul>\n<li>perda do emprego ou queda relevante da renda de quem paga;</li>\n<li>aumento da renda de quem paga;</li>\n<li>novas despesas do filho, como tratamento de saúde ou mudança de escola;</li>\n<li>o filho maior que conclui os estudos e passa a se sustentar.</li>\n</ul>\n<p>O que decide o pedido é a prova. Vale reunir documentos de antes e de depois da mudança: contracheques, termo de rescisão, extratos, recibos de escola e de saúde.</p>\n<p>Como o novo valor só retroage até a citação, adiar o pedido pode significar meses pagando ou recebendo um valor que já não corresponde à realidade.</p>",
+  "faq": [
+    [
+      "Posso diminuir a pensão por conta própria se perdi o emprego?",
+      "Não. A mudança do valor depende de pedido ao juiz, com base na alteração da situação financeira (Código Civil, art. 1.699)."
+    ],
+    [
+      "A partir de quando vale o novo valor?",
+      "Os efeitos da decisão que reduz, aumenta ou encerra a pensão retroagem à data da citação, sem compensação nem devolução (Súmula 621 do STJ)."
+    ],
+    [
+      "Pensão fixada em acordo também pode ser revista?",
+      "Sim. Se a situação financeira mudar depois de fixados os alimentos, o interessado pode pedir a revisão ao juiz (Código Civil, art. 1.699)."
+    ]
+  ],
+  "base": [
+    "Código Civil, arts. 1.694, § 1º, 1.699 e 1.710",
+    "Lei 5.478/1968, art. 15",
+    "CPC, art. 528",
+    "Súmula 621 do STJ"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/7680736/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

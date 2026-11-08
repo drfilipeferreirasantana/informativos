@@ -1,0 +1,49 @@
+{
+  "slug": "uniao-estavel-divisao-de-bens",
+  "area": "familia",
+  "data": "2026-11-22",
+  "titulo": "Na união estável, os bens são divididos na separação?",
+  "resumo": "Sem contrato escrito, vale a comunhão parcial: o que foi adquirido de forma onerosa durante a união é dividido, mesmo que esteja no nome de um só.",
+  "destaque": "Sim, como na comunhão parcial.",
+  "pontos": [
+    [
+      "documento",
+      "Sem contrato escrito, aplica-se o regime da comunhão parcial de bens."
+    ],
+    [
+      "casa",
+      "Entra na divisão o que foi comprado durante a união, mesmo no nome de um só."
+    ],
+    [
+      "escudo",
+      "Ficam de fora os bens anteriores e os recebidos por herança ou doação."
+    ]
+  ],
+  "exemplo": "Mariana viveu sete anos com Diego sem casar. O carro e o apartamento comprados nesse período estão só no nome dele, e agora os dois decidiram se separar.",
+  "corpo": "<p>Muitos casais vivem juntos por anos sem casar e sem assinar nenhum documento. Quando a relação termina, surge a dúvida sobre o que cada um leva.</p>\n<h2>O que a lei prevê</h2>\n<p>A união estável é reconhecida como entidade familiar quando há convivência pública, contínua e duradoura, com o objetivo de constituir família (Código Civil, art. 1.723). Ela não depende de papel assinado.</p>\n<p>Quanto aos bens, salvo contrato escrito entre os companheiros, vale, no que couber, o regime da comunhão parcial (art. 1.725). Na prática, isso significa que:</p>\n<ul>\n<li>entram na divisão os bens adquiridos durante a união de forma onerosa, como numa compra, ainda que só em nome de um (art. 1.660, I);</li>\n<li>ficam de fora os bens que cada um já tinha, os recebidos por doação ou herança e os adquiridos no lugar deles (art. 1.659, I e II);</li>\n<li>também ficam de fora as dívidas anteriores à união (art. 1.659, III).</li>\n</ul>\n<p>A Lei 9.278/1996 segue a mesma linha: os bens adquiridos a título oneroso durante a união são considerados fruto do trabalho e da colaboração comum e pertencem aos dois em partes iguais, salvo contrato escrito em contrário (art. 5º).</p>\n<h2>Na prática</h2>\n<p>Uma disputa frequente é sobre as datas: quando a união começou e quando terminou. É esse período que define quais bens entram na conta. Fotos, contas no mesmo endereço, declarações de dependência e testemunhas ajudam a demonstrar a convivência.</p>\n<p>Também é importante reunir os documentos de compra dos bens, com data e forma de pagamento. Isso pesa ainda mais quando algum bem foi pago com dinheiro que um dos dois já tinha antes da união, porque nesse caso ele pode ficar fora da divisão (Lei 9.278/1996, art. 5º, § 1º).</p>\n<p>Quem quer outro regime precisa de contrato escrito. Sem ele, a regra é a comunhão parcial, com as mesmas inclusões e exclusões do casamento.</p>",
+  "faq": [
+    [
+      "Precisa ter contrato para os bens serem divididos?",
+      "Não. Sem contrato escrito, aplica-se a comunhão parcial de bens (Código Civil, art. 1.725)."
+    ],
+    [
+      "Imóvel no nome de um só entra na divisão?",
+      "Se foi adquirido de forma onerosa durante a união, sim, ainda que esteja em nome de um só (Código Civil, art. 1.660, I)."
+    ],
+    [
+      "E o que comprei com dinheiro que eu já tinha antes da união?",
+      "Fica de fora quando a compra foi feita com valores só seus, no lugar de um bem particular (Código Civil, art. 1.659, II; Lei 9.278/1996, art. 5º, § 1º)."
+    ]
+  ],
+  "base": [
+    "Código Civil, arts. 1.723 e 1.725",
+    "Código Civil, arts. 1.659, I a III, e 1.660, I",
+    "Lei 9.278/1996, art. 5º, caput e § 1º"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/8730048/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

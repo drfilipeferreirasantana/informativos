@@ -1,0 +1,53 @@
+{
+  "slug": "inss-negou-beneficio-o-que-fazer",
+  "area": "previdenciario",
+  "data": "2026-11-29",
+  "titulo": "O INSS negou meu benefício. O que posso fazer?",
+  "resumo": "Dá para recorrer ao Conselho de Recursos da Previdência Social em 30 dias da ciência da decisão ou entrar com ação na Justiça. A escolha depende do motivo da negativa.",
+  "destaque": "Recorrer em 30 dias ou ir à Justiça.",
+  "pontos": [
+    [
+      "documento",
+      "A carta de indeferimento mostra o motivo da negativa e orienta o próximo passo."
+    ],
+    [
+      "calendario",
+      "O recurso administrativo tem prazo de 30 dias, contado da ciência da decisão."
+    ],
+    [
+      "balanca",
+      "Entrar na Justiça com o mesmo pedido encerra o recurso administrativo."
+    ]
+  ],
+  "exemplo": "Cláudio pediu auxílio por incapacidade depois de uma cirurgia na coluna, e a perícia do INSS concluiu que ele podia trabalhar. A carta de indeferimento chegou na semana passada.",
+  "corpo": "<p>Receber um \"não\" do INSS é frustrante, mas a decisão pode ser revista. O primeiro passo é entender por que o pedido foi negado: falta de documento, perícia desfavorável, carência, qualidade de segurado ou outro requisito.</p>\n<h2>O que a lei prevê</h2>\n<p>Existem dois caminhos, que não devem correr ao mesmo tempo:</p>\n<ul>\n<li>Recurso administrativo: é julgado pelo Conselho de Recursos da Previdência Social, primeiro nas Juntas de Recursos e, depois, nas Câmaras de Julgamento. O prazo é de 30 dias, contado da ciência da decisão.</li>\n<li>Ação judicial: em regra, na Justiça Federal. Causas de até 60 salários mínimos são do Juizado Especial Federal. As causas de acidente do trabalho ficam fora da Justiça Federal e são julgadas pela Justiça Estadual (Súmula 15 do STJ).</li>\n</ul>\n<p>Ao receber o recurso, o próprio INSS pode rever sua decisão e, se reconhecer o direito, deixa de enviá-lo ao Conselho.</p>\n<p>Atenção: entrar na Justiça com o mesmo pedido importa renúncia ao recurso administrativo e desistência do recurso já apresentado.</p>\n<h2>Na prática</h2>\n<p>Quando a negativa vem de documento faltando ou de prova incompleta, o recurso permite juntar o que faltou. Quando o problema é a perícia médica ou a interpretação da lei pelo INSS, vale lembrar que, na Justiça, a perícia é feita por perito nomeado pelo juiz.</p>\n<p>O STF decidiu, no Tema 350, que em regra é preciso ter feito o pedido ao INSS antes de ir à Justiça, mas não é necessário esgotar os recursos administrativos.</p>\n<p>Não convém deixar o assunto parado: as parcelas atrasadas prescrevem em 5 anos, contados da data em que deveriam ter sido pagas.</p>\n<p>Guarde a carta de indeferimento, a cópia do processo administrativo e os laudos e exames. Eles servem de base para qualquer um dos dois caminhos.</p>",
+  "faq": [
+    [
+      "Qual é o prazo para recorrer ao Conselho de Recursos?",
+      "São 30 dias, contados da ciência da decisão (Decreto 3.048/1999, art. 305, § 1º, II)."
+    ],
+    [
+      "Posso recorrer e entrar na Justiça ao mesmo tempo?",
+      "Não. A ação com pedido idêntico importa renúncia ao direito de recorrer na esfera administrativa e desistência do recurso interposto (Lei 8.213/1991, art. 126, § 3º)."
+    ],
+    [
+      "Perdi o prazo do recurso. Acabou?",
+      "Não necessariamente. Ainda é possível buscar a Justiça, mas as parcelas vencidas há mais de 5 anos prescrevem (Lei 8.213/1991, art. 103, parágrafo único)."
+    ]
+  ],
+  "base": [
+    "Decreto 3.048/1999, art. 303, § 1º, I e II",
+    "Decreto 3.048/1999, art. 305, I, § 1º, II, e § 3º",
+    "Lei 8.213/1991, art. 126, I e § 3º",
+    "Lei 8.213/1991, art. 103, parágrafo único",
+    "Constituição Federal, art. 109, I",
+    "Lei 10.259/2001, art. 3º",
+    "CPC, art. 465"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/7927259/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

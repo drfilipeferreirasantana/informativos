@@ -1,0 +1,52 @@
+{
+  "slug": "aposentado-que-volta-a-trabalhar",
+  "area": "previdenciario",
+  "data": "2026-12-17",
+  "titulo": "Aposentado que volta a trabalhar paga INSS? E o que ganha com isso?",
+  "resumo": "Paga. O aposentado que trabalha é segurado obrigatório, mas essas contribuições só dão direito a salário-família e reabilitação profissional, quando ele é empregado.",
+  "destaque": "Paga, mas com poucos benefícios.",
+  "pontos": [
+    [
+      "carteira",
+      "Quem volta a trabalhar contribui normalmente, com carteira assinada ou por conta própria."
+    ],
+    [
+      "check",
+      "As novas contribuições só garantem salário-família e reabilitação profissional ao empregado."
+    ],
+    [
+      "alerta",
+      "Na aposentadoria por invalidez e na especial, voltar à atividade pode cancelar o benefício."
+    ]
+  ],
+  "exemplo": "Sérgio se aposentou por idade aos 65 anos e foi convidado a voltar à oficina onde trabalhava, agora com carteira assinada. Ele quer saber se terá desconto de INSS no salário.",
+  "corpo": "<p>Muitos aposentados continuam trabalhando, seja para completar a renda, seja por gosto. A dúvida é se precisam pagar o INSS de novo e o que ganham com essas novas contribuições.</p>\n<h2>O que a lei prevê</h2>\n<p>A Lei 8.213/1991 e a Lei 8.212/1991 dizem que o aposentado do INSS que continua ou volta a exercer atividade abrangida pelo regime é segurado obrigatório em relação a essa atividade. Ou seja, contribui normalmente, como empregado, doméstico ou contribuinte individual.</p>\n<p>Em troca, essas contribuições não dão direito a nenhuma nova prestação da Previdência, com duas exceções para quem é empregado:</p>\n<ul>\n<li>salário-família;</li>\n<li>reabilitação profissional.</li>\n</ul>\n<p>Além disso, a lei proíbe receber mais de uma aposentadoria ao mesmo tempo, e também aposentadoria junto com auxílio-doença.</p>\n<h2>Na prática</h2>\n<p>Na maioria dos casos, como na aposentadoria por idade ou por tempo de contribuição, o benefício continua sendo pago normalmente enquanto a pessoa trabalha. O desconto do INSS sobre o novo salário segue as mesmas regras aplicadas aos demais trabalhadores da mesma categoria, sem nenhum tratamento diferente por já estar aposentado.</p>\n<p>Há duas exceções importantes. O aposentado por invalidez que volta voluntariamente à atividade tem a aposentadoria cancelada automaticamente a partir do retorno. E o aposentado especial que continua em atividade com exposição aos agentes nocivos fica sujeito à mesma regra.</p>\n<p>O Decreto 3.048/1999 também garante o salário-maternidade à segurada aposentada que retorna à atividade.</p>\n<p>O STF, no Tema 503, entendeu que não há previsão legal para a chamada desaposentação, isto é, trocar a aposentadoria por outra usando as contribuições feitas depois dela.</p>\n<p>Antes de voltar a trabalhar, principalmente se a aposentadoria for por invalidez ou especial, confira na carta de concessão qual é a espécie do benefício.</p>",
+  "faq": [
+    [
+      "As novas contribuições aumentam minha aposentadoria?",
+      "Não. O aposentado que volta a trabalhar não tem direito a prestação alguma em razão dessa atividade, exceto salário-família e reabilitação profissional, quando empregado (Lei 8.213/1991, art. 18, § 2º)."
+    ],
+    [
+      "Aposentado por invalidez pode voltar a trabalhar?",
+      "Se retornar voluntariamente à atividade, a aposentadoria é cancelada automaticamente a partir da data do retorno (Lei 8.213/1991, art. 46)."
+    ],
+    [
+      "Se eu ficar doente, recebo auxílio-doença junto com a aposentadoria?",
+      "Não. A lei proíbe o recebimento conjunto de aposentadoria e auxílio-doença, salvo direito adquirido (Lei 8.213/1991, art. 124, I)."
+    ]
+  ],
+  "base": [
+    "Lei 8.213/1991, art. 11, § 3º",
+    "Lei 8.213/1991, art. 18, § 2º",
+    "Lei 8.213/1991, arts. 46 e 57, § 8º",
+    "Lei 8.213/1991, art. 124, I e II",
+    "Lei 8.212/1991, art. 12, § 4º",
+    "Decreto 3.048/1999, art. 103"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/3846000/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

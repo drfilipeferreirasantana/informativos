@@ -1,0 +1,51 @@
+{
+  "slug": "salario-maternidade-para-desempregada",
+  "area": "previdenciario",
+  "data": "2026-11-26",
+  "titulo": "Desempregada tem direito a salário-maternidade?",
+  "resumo": "Tem, se o parto ou a adoção acontecer enquanto ela ainda mantém a qualidade de segurada, no chamado período de graça. Nesse caso, o INSS paga o benefício diretamente.",
+  "destaque": "Sim, se ainda for segurada do INSS.",
+  "pontos": [
+    [
+      "filhos",
+      "O benefício dura 120 dias e vale também para adoção ou guarda judicial para fins de adoção."
+    ],
+    [
+      "calendario",
+      "O parto precisa ocorrer dentro do período de graça, em regra até 12 meses após a última contribuição."
+    ],
+    [
+      "carteira",
+      "O valor é 1/12 da soma dos últimos 12 salários de contribuição, nunca menor que um salário mínimo."
+    ]
+  ],
+  "exemplo": "Juliana trabalhou dois anos como vendedora com carteira assinada e saiu do emprego para se mudar de cidade. Dez meses depois, ainda sem trabalho, teve o primeiro filho.",
+  "corpo": "<p>Muitas mulheres acreditam que, sem emprego, não existe salário-maternidade. Não é bem assim. O que decide o direito não é ter carteira assinada no dia do parto, e sim manter a qualidade de segurada do INSS.</p>\n<h2>O que a lei prevê</h2>\n<p>A Lei 8.213/1991 garante o salário-maternidade à segurada por 120 dias, com início entre 28 dias antes do parto e a data do parto. O benefício também é devido em caso de adoção ou de guarda judicial para fins de adoção.</p>\n<p>Quem deixa de trabalhar continua segurada durante o período de graça:</p>\n<ul>\n<li>em regra, por até 12 meses após a última contribuição;</li>\n<li>por até 24 meses, para quem tem mais de 120 contribuições sem perda da qualidade de segurada;</li>\n<li>por mais 12 meses, para a desempregada que comprove a situação no órgão próprio do Ministério do Trabalho.</li>\n</ul>\n<p>O Decreto 3.048/1999 prevê que, durante o período de graça, a segurada desempregada recebe o salário-maternidade diretamente da Previdência Social. O valor é de 1/12 da soma dos últimos 12 salários de contribuição, apurados em período de até 15 meses, garantido um salário mínimo.</p>\n<h2>Na prática</h2>\n<p>O nascimento, a adoção ou a guarda precisam acontecer dentro do período de graça. Para o pedido, o documento principal é a certidão de nascimento da criança.</p>\n<p>Também é preciso olhar a carência. A lei a dispensa para a empregada, a empregada doméstica e a trabalhadora avulsa, e exige 10 contribuições mensais da contribuinte individual, da segurada especial e da facultativa.</p>\n<p>Se a qualidade de segurada já foi perdida, a mulher que volta a contribuir precisa cumprir metade da carência, nos casos em que ela é exigida. Por isso, vale conferir no extrato de contribuições a data do último recolhimento antes de fazer o pedido.</p>",
+  "faq": [
+    [
+      "Quem paga o salário-maternidade da desempregada?",
+      "O INSS, diretamente, quando o fato ocorre durante o período de graça (Decreto 3.048/1999, art. 97, parágrafo único)."
+    ],
+    [
+      "Como é calculado o valor?",
+      "É 1/12 da soma dos 12 últimos salários de contribuição, apurados em até 15 meses, assegurado um salário mínimo (Lei 8.213/1991, art. 73, III e parágrafo único)."
+    ],
+    [
+      "Quantos dias dura o benefício?",
+      "São 120 dias, com início entre 28 dias antes do parto e a data do parto (Lei 8.213/1991, art. 71)."
+    ]
+  ],
+  "base": [
+    "Lei 8.213/1991, art. 15",
+    "Lei 8.213/1991, arts. 25, III, 26, VI, e 27-A",
+    "Lei 8.213/1991, arts. 71, 71-A e 73, III e parágrafo único",
+    "Decreto 3.048/1999, art. 97, parágrafo único",
+    "Decreto 3.048/1999, art. 101, III e § 3º"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/7282831/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

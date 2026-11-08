@@ -1,0 +1,48 @@
+{
+  "slug": "valor-da-pensao-alimenticia",
+  "area": "familia",
+  "data": "2026-11-13",
+  "titulo": "Qual é o valor da pensão alimentícia? Existe percentual fixo?",
+  "resumo": "A lei não fixa percentual. O valor é definido pela necessidade de quem recebe e pelos recursos de quem paga, e os pais contribuem na proporção do que têm.",
+  "destaque": "A lei não fixa percentual.",
+  "pontos": [
+    [
+      "balanca",
+      "O valor segue a necessidade de quem recebe e os recursos de quem paga."
+    ],
+    [
+      "filhos",
+      "Pai e mãe contribuem para o sustento dos filhos na proporção dos seus recursos."
+    ],
+    [
+      "calendario",
+      "Ao receber o pedido, o juiz já fixa alimentos provisórios, salvo se quem pede os dispensar."
+    ]
+  ],
+  "exemplo": "Juliana se separou e tem dois filhos pequenos. O ex-companheiro trabalha como autônomo e diz que vai pagar um percentual fixo porque ouviu dizer que essa é a regra.",
+  "corpo": "<p>A ideia de que a pensão corresponde sempre a um percentual fixo do salário é muito comum, mas não está na lei. O valor é definido caso a caso, e entender os critérios ajuda tanto quem pede quanto quem paga.</p>\n<h2>O que a lei prevê</h2>\n<p>O Código Civil manda fixar os alimentos na proporção das necessidades de quem pede e dos recursos de quem deve pagar (art. 1.694, § 1º). Esse equilíbrio é o centro de qualquer cálculo.</p>\n<ul>\n<li>A pensão deve permitir viver de modo compatível com a condição social, incluindo as necessidades de educação (art. 1.694).</li>\n<li>Para a manutenção dos filhos, os pais contribuem na proporção dos seus recursos (art. 1.703).</li>\n<li>Se quem deve em primeiro lugar não consegue arcar com tudo, parentes de grau seguinte, como os avós, podem ser chamados a complementar (art. 1.698).</li>\n<li>As prestações são atualizadas por índice oficial (art. 1.710).</li>\n</ul>\n<p>Na ação de alimentos, ao receber o pedido, o juiz fixa desde logo alimentos provisórios, salvo se quem pede declarar que não precisa deles (Lei 5.478/1968, art. 4º). E os alimentos fixados retroagem à data da citação (art. 13, § 2º).</p>\n<h2>Na prática</h2>\n<p>Por isso, duas famílias com renda parecida podem ter pensões diferentes. Pesam o custo real dos filhos e o padrão de vida de quem paga.</p>\n<p>Quem pede a pensão deve reunir:</p>\n<ul>\n<li>os gastos do filho com escola, saúde, alimentação e moradia, com recibos e comprovantes;</li>\n<li>sinais da renda de quem paga, como contracheques, extratos e o padrão de vida que ele demonstra.</li>\n</ul>\n<p>A lei fala em recursos de quem paga, e não apenas em salário registrado. Quem trabalha por conta própria ou sem carteira também tem a obrigação, e a renda pode ser demonstrada por outros meios de prova.</p>\n<p>Depois de fixada, a pensão não fica congelada para sempre. Se a situação financeira de quem paga ou de quem recebe mudar, é possível pedir ao juiz a revisão do valor (art. 1.699).</p>",
+  "faq": [
+    [
+      "Existe um percentual mínimo ou máximo de pensão?",
+      "Não. A lei manda fixar o valor pela necessidade de quem recebe e pelos recursos de quem paga (Código Civil, art. 1.694, § 1º)."
+    ],
+    [
+      "Quem cuida do filho no dia a dia também contribui?",
+      "Sim. Os pais contribuem para a manutenção dos filhos na proporção dos seus recursos (Código Civil, art. 1.703)."
+    ],
+    [
+      "Preciso esperar o fim do processo para receber?",
+      "Não necessariamente. Ao despachar o pedido, o juiz fixa alimentos provisórios, salvo se quem pede declarar que não precisa deles (Lei 5.478/1968, art. 4º)."
+    ]
+  ],
+  "base": [
+    "Código Civil, arts. 1.694, caput e § 1º, 1.698, 1.699, 1.703 e 1.710",
+    "Lei 5.478/1968, arts. 4º e 13, § 2º"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/3985093/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

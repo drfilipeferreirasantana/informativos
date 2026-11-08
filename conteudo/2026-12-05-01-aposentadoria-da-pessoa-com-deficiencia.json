@@ -1,0 +1,48 @@
+{
+  "slug": "aposentadoria-da-pessoa-com-deficiencia",
+  "area": "previdenciario",
+  "data": "2026-12-05",
+  "titulo": "Pessoa com deficiência pode se aposentar mais cedo pelo INSS?",
+  "resumo": "Sim. A Lei Complementar 142/2013 prevê aposentadoria com idade ou tempo de contribuição menores para o segurado com deficiência, conforme o grau avaliado pelo INSS.",
+  "destaque": "Sim, com idade e tempo menores.",
+  "pontos": [
+    [
+      "calendario",
+      "Por idade: 60 anos (homem) e 55 anos (mulher), com 15 anos de contribuição com deficiência."
+    ],
+    [
+      "relogio",
+      "Por tempo: de 25 a 33 anos (homem) e de 20 a 28 anos (mulher), conforme o grau da deficiência."
+    ],
+    [
+      "saude",
+      "O grau, que pode ser leve, moderado ou grave, é definido em perícia própria do INSS."
+    ]
+  ],
+  "exemplo": "Patrícia nasceu com baixa visão e trabalha há 22 anos como recepcionista de uma clínica. Ela tem 48 anos e achava que só poderia se aposentar aos 62.",
+  "corpo": "<p>A Reforma da Previdência de 2019 não acabou com a aposentadoria da pessoa com deficiência no INSS. A própria Emenda Constitucional 103/2019 manteve as regras da Lei Complementar 142/2013, inclusive quanto ao cálculo, até que uma nova lei trate do assunto.</p>\n<h2>O que a lei prevê</h2>\n<p>Para essa lei, pessoa com deficiência é quem tem impedimento de longo prazo de natureza física, mental, intelectual ou sensorial que, em interação com barreiras, pode obstruir sua participação plena na sociedade. Há duas formas de aposentadoria:</p>\n<ul>\n<li>Por tempo de contribuição, sem idade mínima: 25 anos (homem) e 20 anos (mulher) na deficiência grave; 29 e 24 anos na moderada; 33 e 28 anos na leve.</li>\n<li>Por idade: 60 anos (homem) e 55 anos (mulher), qualquer que seja o grau, com 15 anos de contribuição e deficiência comprovada pelo mesmo período.</li>\n</ul>\n<p>Na primeira, o valor é de 100% do salário de benefício. Na aposentadoria por idade, é de 70%, mais 1% a cada grupo de 12 contribuições, até o máximo de 30% a mais.</p>\n<h2>Na prática</h2>\n<p>A avaliação da deficiência é médica e funcional, feita por perícia própria do INSS, que também fixa a data provável de início da deficiência. Para períodos anteriores à vigência da lei, em 2013, não se aceita prova apenas por testemunhas.</p>\n<p>Se a deficiência surgiu depois que a pessoa começou a contribuir, ou se o grau mudou, os tempos são ajustados proporcionalmente aos anos trabalhados com e sem deficiência.</p>\n<p>A redução não pode ser somada, no mesmo período, à da atividade especial, aquela exercida com exposição a agentes nocivos. E, se outra aposentadoria do INSS for mais vantajosa, a pessoa pode optar por ela.</p>\n<p>Reunir laudos, exames e relatórios que mostrem desde quando existe a deficiência ajuda na perícia e evita que o INSS fixe uma data de início mais recente do que a real.</p>",
+  "faq": [
+    [
+      "Quem define o grau da deficiência?",
+      "A perícia própria do INSS, com avaliação médica e funcional (LC 142/2013, arts. 4º e 5º)."
+    ],
+    [
+      "E se a deficiência surgiu depois de anos de trabalho?",
+      "O tempo exigido é ajustado proporcionalmente aos anos trabalhados com e sem deficiência (LC 142/2013, art. 7º)."
+    ],
+    [
+      "A Reforma de 2019 mudou essas regras?",
+      "Não. A Emenda manda aplicar a LC 142/2013, inclusive quanto ao cálculo, até que lei nova discipline o tema (EC 103/2019, art. 22)."
+    ]
+  ],
+  "base": [
+    "LC 142/2013, arts. 2º a 10",
+    "EC 103/2019, art. 22"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/8127981/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

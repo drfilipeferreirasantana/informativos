@@ -1,0 +1,51 @@
+{
+  "slug": "prisao-por-pensao-atrasada",
+  "area": "familia",
+  "data": "2026-11-25",
+  "titulo": "Pensão atrasada pode dar prisão?",
+  "resumo": "Pode. A prisão civil alcança até as 3 prestações anteriores ao pedido de cobrança e as que vencerem durante o processo, pelo prazo de 1 a 3 meses.",
+  "destaque": "Sim, pelas parcelas mais recentes.",
+  "pontos": [
+    [
+      "relogio",
+      "A prisão alcança até as 3 prestações anteriores ao pedido e as que vencerem depois."
+    ],
+    [
+      "alerta",
+      "O prazo é de 1 a 3 meses, em regime fechado e separado dos presos comuns."
+    ],
+    [
+      "carteira",
+      "Pagar a pensão suspende a ordem de prisão, mas cumprir a prisão não apaga a dívida."
+    ]
+  ],
+  "exemplo": "Fernanda recebe a pensão do filho com atraso há quatro meses. O pai diz que está sem dinheiro, mas continua trabalhando normalmente.",
+  "corpo": "<p>A Constituição proíbe a prisão por dívida, com uma exceção: a de quem deixa de pagar pensão alimentícia de forma voluntária e inescusável (art. 5º, LXVII). Conhecer as regras evita surpresas dos dois lados.</p>\n<h2>O que a lei prevê</h2>\n<p>Na cobrança da pensão, o devedor é intimado pessoalmente para, em 3 dias, pagar, provar que pagou ou justificar por que não consegue pagar (CPC, art. 528).</p>\n<ul>\n<li>Só a prova de um fato que torne o pagamento absolutamente impossível justifica o atraso (§ 2º).</li>\n<li>Sem pagamento, ou com justificativa recusada, o juiz manda protestar a decisão e decreta a prisão por 1 a 3 meses (§§ 1º e 3º).</li>\n<li>A prisão é cumprida em regime fechado, com o preso separado dos presos comuns (§ 4º).</li>\n<li>A dívida que autoriza a prisão abrange até as 3 prestações anteriores ao pedido e as que vencerem no curso do processo (§ 7º), no mesmo sentido da Súmula 309 do STJ.</li>\n<li>Paga a pensão, o juiz suspende a ordem de prisão (§ 6º). Mas cumprir a prisão não livra o devedor das parcelas vencidas e das que ainda vão vencer (§ 5º).</li>\n</ul>\n<h2>Na prática</h2>\n<p>As parcelas que ficam fora desse limite também podem ser cobradas, mas pelo caminho da penhora de bens, no qual não cabe prisão (art. 528, §§ 7º e 8º). Por isso, quem recebe não deve deixar a dívida acumular por muito tempo antes de agir.</p>\n<p>Se o devedor tem emprego com carteira assinada ou é servidor público, também é possível pedir o desconto da pensão direto na folha de pagamento (CPC, art. 529).</p>\n<p>Quem paga e passou a ter dificuldade real deve agir antes do atraso, pedindo ao juiz a revisão do valor (Código Civil, art. 1.699). Simplesmente deixar de pagar abre caminho para a cobrança, o protesto e a prisão.</p>\n<p>Quem recebe deve guardar os comprovantes dos depósitos e anotar os meses em atraso. Isso facilita o cálculo do valor devido e a escolha do caminho de cobrança.</p>",
+  "faq": [
+    [
+      "Ficar desempregado impede a prisão?",
+      "Não automaticamente. Só a comprovação de fato que gere a impossibilidade absoluta de pagar justifica o atraso (CPC, art. 528, § 2º)."
+    ],
+    [
+      "Depois de cumprir a prisão, a dívida acaba?",
+      "Não. O cumprimento da prisão não livra o devedor das prestações vencidas e das que vencerem (CPC, art. 528, § 5º)."
+    ],
+    [
+      "Se a pensão for paga, a prisão acaba?",
+      "Paga a prestação alimentícia, o juiz suspende o cumprimento da ordem de prisão (CPC, art. 528, § 6º)."
+    ]
+  ],
+  "base": [
+    "Constituição Federal, art. 5º, LXVII",
+    "CPC, art. 528, caput e §§ 1º a 8º",
+    "CPC, art. 529",
+    "Súmula 309 do STJ",
+    "Código Civil, art. 1.699"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/38253321/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

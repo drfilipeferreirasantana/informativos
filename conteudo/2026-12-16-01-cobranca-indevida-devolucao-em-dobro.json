@@ -1,0 +1,49 @@
+{
+  "slug": "cobranca-indevida-devolucao-em-dobro",
+  "area": "consumidor",
+  "data": "2026-12-16",
+  "titulo": "Paguei uma cobrança indevida. Tenho direito a receber em dobro?",
+  "resumo": "Sim. O consumidor que pagou quantia cobrada indevidamente tem direito ao dobro do que pagou em excesso, com correção e juros, salvo engano justificável do fornecedor.",
+  "destaque": "Sim, salvo engano justificável.",
+  "pontos": [
+    [
+      "carteira",
+      "A devolução é do dobro do que foi pago a mais, com correção e juros."
+    ],
+    [
+      "alerta",
+      "A exceção prevista na lei é o engano justificável do fornecedor."
+    ],
+    [
+      "documento",
+      "Toda cobrança deve trazer nome, endereço e CPF ou CNPJ do fornecedor."
+    ]
+  ],
+  "exemplo": "Fernanda percebeu que a operadora de internet cobrava havia quatro meses um serviço adicional que ela nunca pediu. Ela pagou todas as faturas para não ter a conexão cortada.",
+  "corpo": "<p>Tarifas que ninguém contratou, serviços adicionais na fatura, parcelas cobradas duas vezes. Muitas vezes o consumidor só percebe a cobrança indevida depois de pagar. O Código de Defesa do Consumidor prevê, nesse caso, uma devolução que vai além do valor pago.</p>\n<h2>O que a lei prevê</h2>\n<p>O consumidor cobrado em quantia indevida tem direito à repetição do indébito, isto é, à devolução do que pagou sem dever. Essa devolução corresponde ao dobro do que foi pago em excesso, com correção monetária e juros legais.</p>\n<p>A exceção prevista no artigo é a hipótese de engano justificável do fornecedor. Outros pontos importantes:</p>\n<ul>\n<li>A regra fala em valor pago. Se a cobrança chegou e não foi paga, o caminho é contestá-la e pedir o cancelamento.</li>\n<li>O dobro incide sobre o que foi pago a mais, e não sobre a fatura inteira.</li>\n<li>Na cobrança de dívidas, o consumidor não pode ser exposto a ridículo nem submetido a constrangimento ou ameaça. Usar esses meios na cobrança é crime previsto no CDC.</li>\n<li>Todo documento de cobrança deve informar nome, endereço e CPF ou CNPJ do fornecedor.</li>\n</ul>\n<h2>Na prática</h2>\n<ul>\n<li>Reúna as faturas e os comprovantes de pagamento de todo o período cobrado.</li>\n<li>Separe o contrato ou a oferta, para mostrar que aquele valor não foi contratado.</li>\n<li>Peça o cancelamento e a devolução por escrito ou pelos canais oficiais da empresa, e anote os protocolos.</li>\n</ul>\n<p>Se a empresa devolver só o valor simples, ou não devolver nada, a reclamação pode ser feita no Procon ou levada ao Judiciário com esses documentos.</p>\n<p>Quanto mais organizado estiver o histórico de faturas e protocolos, mais fácil é mostrar quanto foi pago indevidamente e por quanto tempo.</p>",
+  "faq": [
+    [
+      "Recebi a cobrança, mas não paguei. Recebo em dobro?",
+      "Não. O dobro é calculado sobre o que foi pago em excesso; sem pagamento, cabe contestar a cobrança (CDC, art. 42, parágrafo único)."
+    ],
+    [
+      "Quando a empresa não precisa devolver em dobro?",
+      "Na hipótese de engano justificável, que é a exceção prevista na lei (CDC, art. 42, parágrafo único)."
+    ],
+    [
+      "A empresa pode me cobrar de forma constrangedora?",
+      "Não. Na cobrança, o consumidor não pode ser exposto a ridículo nem submetido a constrangimento ou ameaça (CDC, art. 42, caput)."
+    ]
+  ],
+  "base": [
+    "Código de Defesa do Consumidor, art. 42, caput e parágrafo único",
+    "Código de Defesa do Consumidor, art. 42-A",
+    "Código de Defesa do Consumidor, art. 71"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/7926679/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

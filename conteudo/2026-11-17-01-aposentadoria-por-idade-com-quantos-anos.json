@@ -1,0 +1,50 @@
+{
+  "slug": "aposentadoria-por-idade-com-quantos-anos",
+  "area": "previdenciario",
+  "data": "2026-11-17",
+  "titulo": "Com quantos anos eu me aposento por idade depois da Reforma?",
+  "resumo": "Quem se filiou ao INSS depois da Reforma de 2019 se aposenta aos 62 anos (mulher) e 65 (homem). Quem já contribuía antes segue a regra de transição, com 15 anos de contribuição.",
+  "destaque": "Mulher aos 62 e homem aos 65.",
+  "pontos": [
+    [
+      "calendario",
+      "Quem já era filiado antes da Reforma precisa de 15 anos de contribuição, para homens e mulheres."
+    ],
+    [
+      "relogio",
+      "Quem se filiou depois da Reforma precisa de 15 anos de contribuição (mulher) ou 20 anos (homem)."
+    ],
+    [
+      "maleta",
+      "O trabalhador rural se aposenta por idade aos 60 anos (homem) e aos 55 anos (mulher)."
+    ]
+  ],
+  "exemplo": "Sandra tem 61 anos e contribui para o INSS desde 1998, com alguns intervalos sem carteira assinada. Ela quer saber se já pode pedir a aposentadoria ou se precisa esperar.",
+  "corpo": "<p>A Reforma da Previdência, feita pela Emenda Constitucional 103, de novembro de 2019, mudou a aposentadoria por idade no INSS. A resposta para a pergunta \"com quantos anos?\" depende de uma data: quando a pessoa se filiou à Previdência.</p>\n<h2>O que a lei prevê</h2>\n<p>Quem já era filiado ao INSS quando a Reforma entrou em vigor segue a regra de transição do art. 18 da Emenda:</p>\n<ul>\n<li>homem: 65 anos de idade e 15 anos de contribuição;</li>\n<li>mulher: 15 anos de contribuição e idade mínima que partiu de 60 anos e subiu 6 meses por ano a partir de 2020, até chegar a 62 anos, o que ocorreu em 2023.</li>\n</ul>\n<p>Quem se filiou depois da Reforma segue o art. 19: 62 anos e 15 anos de contribuição para a mulher; 65 anos e 20 anos de contribuição para o homem.</p>\n<p>Para os trabalhadores rurais e para quem trabalha em regime de economia familiar, como o produtor rural e o pescador artesanal, a Constituição prevê 60 anos para o homem e 55 anos para a mulher.</p>\n<h2>Na prática</h2>\n<p>A idade é só uma parte da conta. O valor também mudou: em regra, a aposentadoria corresponde a 60% da média dos salários de contribuição desde julho de 1994, com mais 2 pontos percentuais para cada ano que passar de 20 anos de contribuição, no caso do homem, ou de 15 anos, no caso da mulher.</p>\n<p>Quem ficou um tempo sem contribuir não perde o direito só por isso. Na aposentadoria por idade, a perda da qualidade de segurado não é considerada, desde que a pessoa tenha, na data do pedido, o tempo de contribuição exigido como carência.</p>\n<p>Antes de pedir, confira o extrato de contribuições (CNIS). Vínculos que não aparecem ou meses sem recolhimento podem mudar a data em que os requisitos ficam completos, e corrigir isso antes evita uma negativa.</p>",
+  "faq": [
+    [
+      "Comecei a contribuir antes de 2019. Preciso de 20 anos de contribuição?",
+      "Não. Na regra de transição, o tempo mínimo é de 15 anos de contribuição para ambos os sexos (EC 103/2019, art. 18, II)."
+    ],
+    [
+      "Fiquei anos sem pagar o INSS. Ainda posso me aposentar por idade?",
+      "Pode, se tiver na data do pedido o tempo de contribuição exigido como carência, porque a perda da qualidade de segurado não é considerada (Lei 10.666/2003, art. 3º, § 1º)."
+    ],
+    [
+      "Como é calculado o valor?",
+      "Em regra, 60% da média dos salários de contribuição, mais 2 pontos percentuais por ano acima de 20 anos de contribuição (homem) ou de 15 anos (mulher) (EC 103/2019, art. 26, §§ 2º e 5º)."
+    ]
+  ],
+  "base": [
+    "Constituição Federal, art. 201, § 7º",
+    "EC 103/2019, arts. 18 e 19",
+    "EC 103/2019, art. 26, caput e §§ 2º e 5º",
+    "Lei 10.666/2003, art. 3º, § 1º"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/5710556/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}
