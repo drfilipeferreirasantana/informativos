@@ -139,3 +139,7 @@ p{margin:0}
 .cartao h2{font-size:1.12rem}
 .artigo h1{font-size:clamp(1.7rem,4vw,2.5rem)}
 .artigo h2,.contato-post h2{font-size:1.25rem}
+
+/* Número do informativo */
+.cartao .numero{display:inline-block;padding:.1rem .45rem;margin-right:.1rem;border-radius:2px;background:var(--grafite);color:var(--claro);font-weight:700;letter-spacing:.04em}
+.cartao:hover .numero{background:var(--claro);color:var(--grafite)}

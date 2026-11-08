@@ -79,9 +79,14 @@ def carregar():
             sys.exit(f"{arq.name}: o texto tem travessão; troque por vírgula, ponto ou dois-pontos")
         p.setdefault("faq", [])
         p.setdefault("fontes", [])
+        p["_arquivo"] = arq.name
         posts.append(p)
-    # mais recente primeiro; no mesmo dia, mantém a ordem dos arquivos
-    return sorted(posts, key=lambda p: p["data"], reverse=True)
+    # Número do informativo pela ordem de publicação (data e nome do arquivo): o primeiro é o nº 1
+    posts.sort(key=lambda p: (p["data"], p["_arquivo"]))
+    for n, p in enumerate(posts, 1):
+        p["numero"] = n
+    # Na lista, o mais recente aparece primeiro
+    return posts[::-1]
 
 
 def cabeca(titulo, descricao, url, base, tipo="website", imagem=None, extra=""):
@@ -150,7 +155,7 @@ RODAPE = f"""</main>
 
 def cartao(p, base=""):
     return (f'<a class="cartao" data-area="{p["area"]}" href="{base}posts/{p["slug"]}.html">'
-            f'<span class="meta">{AREAS[p["area"]]} · {data_extenso(p["data"])}</span>'
+            f'<span class="meta"><b class="numero">Nº {p["numero"]}</b> · {AREAS[p["area"]]} · {data_extenso(p["data"])}</span>'
             f'<h2>{e(p["titulo"])}</h2><p>{e(p["resumo"])}</p><span class="ler">Ler o informativo</span></a>')
 
 
@@ -187,7 +192,7 @@ def pagina_post(p, posts):
     compartilhar = f"https://wa.me/?text={quote(p['titulo'] + ' ' + url)}"
     corpo = f"""<article class="artigo"><div class="conteudo"><div class="corpo">
   <p class="migalha"><a href="../index.html">Informativos</a> / {area}</p>
-  <span class="rotulo">{area}</span>
+  <span class="rotulo">Informativo nº {p['numero']} · {area}</span>
   <h1>{e(p['titulo'])}</h1>
   <div class="resposta"><b>Resposta curta</b><p>{e(p['resumo'])}</p></div>
   <p class="data"><time datetime="{p['data']}">{data_extenso(p['data'])}</time> · {minutos} min de leitura · Por {ADVOGADO}, {OAB}</p>
