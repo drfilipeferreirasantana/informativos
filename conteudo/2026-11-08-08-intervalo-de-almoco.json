@@ -1,0 +1,43 @@
+{
+  "slug": "intervalo-de-almoco",
+  "area": "trabalhista",
+  "data": "2026-11-08",
+  "titulo": "Você sabia que o intervalo de almoço não concedido deve ser pago com 50% a mais?",
+  "resumo": "Quem trabalha mais de 6 horas tem direito a no mínimo 1 hora de intervalo. O tempo suprimido é pago com acréscimo de 50%.",
+  "destaque": "MÍNIMO DE 1 HORA",
+  "pontos": [
+    [
+      "relogio",
+      "Jornada acima de 6 horas: intervalo de no mínimo 1 hora."
+    ],
+    [
+      "calendario",
+      "Jornada entre 4 e 6 horas: intervalo de 15 minutos."
+    ],
+    [
+      "carteira",
+      "O tempo de intervalo suprimido é pago com 50% a mais."
+    ]
+  ],
+  "exemplo": "Imagine: Fernanda trabalha 8 horas por dia numa loja, mas almoça em 20 minutos no estoque porque o gerente pede para ela voltar logo ao balcão.",
+  "corpo": "<h2>O que a lei prevê</h2><p>A CLT torna obrigatório, em todo trabalho contínuo acima de 6 horas, um intervalo para repouso ou alimentação de no mínimo 1 hora. Quando a jornada passa de 4 horas sem exceder 6, o intervalo é de 15 minutos.</p><p>A não concessão ou a concessão parcial do intervalo mínimo gera o pagamento, de natureza indenizatória, do período suprimido com acréscimo de 50% sobre a hora normal.</p><h2>Na prática</h2><ul><li>O intervalo é para descanso: almoçar trabalhando não conta.</li><li>Intervalo marcado no ponto, mas não usufruído, pode ser discutido com outras provas.</li><li>O intervalo de almoço está entre os dez assuntos mais levados à Justiça do Trabalho.</li></ul>",
+  "faq": [
+    [
+      "Quanto tempo de intervalo é obrigatório?",
+      "No mínimo 1 hora em jornadas acima de 6 horas (CLT, art. 71)."
+    ],
+    [
+      "Como é pago o intervalo não concedido?",
+      "O tempo suprimido, com 50% a mais (CLT, art. 71, § 4º)."
+    ]
+  ],
+  "base": [
+    "CLT, art. 71, caput, § 1º e § 4º"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/8691845/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

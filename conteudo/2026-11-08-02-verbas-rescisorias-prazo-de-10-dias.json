@@ -1,0 +1,43 @@
+{
+  "slug": "verbas-rescisorias-prazo-de-10-dias",
+  "area": "trabalhista",
+  "data": "2026-11-08",
+  "titulo": "Você sabia que a empresa tem só 10 dias para pagar a rescisão, sob pena de multa?",
+  "resumo": "Os valores da rescisão e os documentos devem ser entregues em até 10 dias após o fim do contrato. O atraso gera multa de um salário a favor do trabalhador.",
+  "destaque": "PRAZO: 10 DIAS",
+  "pontos": [
+    [
+      "calendario",
+      "Pagamento e documentos da rescisão em até 10 dias após o fim do contrato."
+    ],
+    [
+      "carteira",
+      "O atraso gera multa equivalente a um salário do trabalhador."
+    ],
+    [
+      "alerta",
+      "A multa não é devida se o próprio trabalhador causou o atraso."
+    ]
+  ],
+  "exemplo": "Imagine: Diego foi dispensado no começo do mês. Já se passaram três semanas e a empresa ainda não pagou a rescisão nem entregou as guias.",
+  "corpo": "<h2>O que a lei prevê</h2><p>A CLT determina que a entrega dos documentos da extinção do contrato e o pagamento dos valores da rescisão sejam feitos em até dez dias, contados do término do contrato.</p><p>Se o prazo não for cumprido, a empresa paga ao empregado uma multa no valor do seu salário, salvo quando o próprio trabalhador der causa ao atraso. Verbas rescisórias e a multa do art. 477 estão entre os cinco assuntos mais levados à Justiça do Trabalho.</p><h2>Na prática</h2><ul><li>O prazo vale para qualquer forma de saída: dispensa, pedido de demissão ou fim de contrato.</li><li>Guarde o termo de rescisão e os comprovantes de pagamento.</li><li>Confira se cada parcela está discriminada no recibo.</li></ul>",
+  "faq": [
+    [
+      "A multa vale também se eu pedi demissão?",
+      "Sim. O prazo de 10 dias vale para o término do contrato, qualquer que seja a forma (CLT, art. 477, § 6º)."
+    ],
+    [
+      "De quanto é a multa?",
+      "Um valor equivalente ao salário do empregado, corrigido (CLT, art. 477, § 8º)."
+    ]
+  ],
+  "base": [
+    "CLT, art. 477, §§ 6º e 8º"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/30754336/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "fgts-nao-depositado",
+  "area": "trabalhista",
+  "data": "2026-11-08",
+  "titulo": "Você sabia que a empresa é obrigada a depositar 8% do seu salário no FGTS todo mês?",
+  "resumo": "O depósito de 8% da remuneração deve ser feito todo mês. Dá para conferir pelo extrato se algum mês ficou faltando.",
+  "destaque": "8% TODO MÊS",
+  "pontos": [
+    [
+      "calendario",
+      "O depósito é mensal, sobre a remuneração do mês anterior."
+    ],
+    [
+      "carteira",
+      "Entram na conta o salário, as gorjetas, adicionais e o 13º."
+    ],
+    [
+      "documento",
+      "O extrato mostra cada depósito. Confira com frequência."
+    ]
+  ],
+  "exemplo": "Imagine: Patrícia foi olhar o extrato do FGTS para comprar um imóvel e descobriu que a empresa não deposita nada há oito meses.",
+  "corpo": "<h2>O que a lei prevê</h2><p>A Lei do FGTS obriga todos os empregadores a depositar mensalmente, em conta vinculada, 8% da remuneração paga ou devida a cada trabalhador no mês anterior, incluindo parcelas da remuneração e o 13º salário.</p><p>O FGTS aparece entre os dez assuntos mais levados à Justiça do Trabalho, segundo dados do TST de 2025.</p><h2>Na prática</h2><ul><li>Depósitos que faltam diminuem também a multa de 40% numa futura dispensa.</li><li>O extrato pode ser consultado pelo aplicativo oficial do FGTS.</li><li>A falta de depósitos pode ser discutida ainda durante o contrato.</li></ul>",
+  "faq": [
+    [
+      "De quanto é o depósito?",
+      "8% da remuneração do mês anterior (Lei 8.036/1990, art. 15)."
+    ],
+    [
+      "O 13º também entra?",
+      "Sim. A lei inclui a gratificação de Natal no cálculo do depósito."
+    ]
+  ],
+  "base": [
+    "Lei 8.036/1990, art. 15"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/27797871/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "prazo-para-cobrar-direitos-trabalhistas",
+  "area": "trabalhista",
+  "data": "2026-11-08",
+  "titulo": "Você sabia que, depois de sair da empresa, o trabalhador tem só 2 anos para cobrar seus direitos?",
+  "resumo": "A ação deve ser proposta em até 2 anos após o fim do contrato, e alcança os direitos dos últimos 5 anos.",
+  "destaque": "PRAZO: 2 ANOS",
+  "pontos": [
+    [
+      "calendario",
+      "Até 2 anos depois do fim do contrato para entrar com a ação."
+    ],
+    [
+      "documento",
+      "A cobrança alcança os últimos 5 anos de trabalho."
+    ],
+    [
+      "alerta",
+      "Passado o prazo, o direito de cobrar pode ser perdido."
+    ]
+  ],
+  "exemplo": "Imagine: Gustavo saiu da empresa há um ano e meio sem receber as horas extras de três anos. Ele ainda está pensando se vale a pena cobrar.",
+  "corpo": "<h2>O que a lei prevê</h2><p>A CLT estabelece que a pretensão quanto a créditos resultantes das relações de trabalho prescreve em 5 anos para trabalhadores urbanos e rurais, até o limite de 2 anos após a extinção do contrato.</p><p>Na prática, quem sai da empresa tem até 2 anos para entrar com a ação, e pode cobrar o que deixou de receber nos 5 anos anteriores ao ajuizamento.</p><h2>Na prática</h2><ul><li>Quanto mais se espera, mais meses antigos vão ficando para trás do limite de 5 anos.</li><li>Guarde contracheques, ponto e mensagens mesmo depois de sair.</li><li>Alguns casos têm regras próprias, que dependem de análise.</li></ul>",
+  "faq": [
+    [
+      "Qual é o prazo para entrar com a ação?",
+      "Até 2 anos depois do fim do contrato (CLT, art. 11)."
+    ],
+    [
+      "Quantos anos posso cobrar?",
+      "Os últimos 5 anos, contados do ajuizamento da ação (CLT, art. 11)."
+    ]
+  ],
+  "base": [
+    "CLT, art. 11"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/7224866/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

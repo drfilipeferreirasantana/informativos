@@ -1,0 +1,43 @@
+{
+  "slug": "descanso-de-11-horas-entre-jornadas",
+  "area": "trabalhista",
+  "data": "2026-11-08",
+  "titulo": "Você sabia que entre o fim de um dia de trabalho e o início do outro deve haver pelo menos 11 horas de descanso?",
+  "resumo": "A CLT garante no mínimo 11 horas consecutivas de descanso entre duas jornadas.",
+  "destaque": "MÍNIMO DE 11 HORAS",
+  "pontos": [
+    [
+      "relogio",
+      "11 horas seguidas de descanso entre uma jornada e outra."
+    ],
+    [
+      "alerta",
+      "Sair tarde e entrar cedo no dia seguinte pode desrespeitar a regra."
+    ],
+    [
+      "documento",
+      "Os horários de saída e de entrada no ponto mostram o intervalo."
+    ]
+  ],
+  "exemplo": "Imagine: Tiago fecha a loja às 23h e precisa abrir no dia seguinte às 7h. Entre um turno e outro, ele descansa só 8 horas.",
+  "corpo": "<h2>O que a lei prevê</h2><p>A CLT determina que, entre duas jornadas de trabalho, haverá um período mínimo de 11 horas consecutivas para descanso.</p><p>Esse intervalo é diferente do intervalo de almoço e do descanso semanal, e todos são direitos separados.</p><h2>Na prática</h2><ul><li>O desrespeito ao intervalo costuma aparecer em escalas de comércio, saúde e transporte.</li><li>Guarde os registros de ponto e as escalas.</li><li>A forma de compensação das horas suprimidas depende da análise do caso.</li></ul>",
+  "faq": [
+    [
+      "Qual é o intervalo mínimo entre jornadas?",
+      "11 horas consecutivas (CLT, art. 66)."
+    ],
+    [
+      "É o mesmo que o intervalo de almoço?",
+      "Não. O almoço é dentro da jornada. As 11 horas são entre uma jornada e outra."
+    ]
+  ],
+  "base": [
+    "CLT, art. 66"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/1028741/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

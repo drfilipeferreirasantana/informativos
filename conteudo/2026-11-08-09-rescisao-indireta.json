@@ -1,0 +1,43 @@
+{
+  "slug": "rescisao-indireta",
+  "area": "trabalhista",
+  "data": "2026-11-08",
+  "titulo": "Você sabia que o trabalhador pode encerrar o contrato por falta grave da empresa e sair com todos os direitos?",
+  "resumo": "A rescisão indireta é a justa causa do empregador: quando a empresa descumpre o contrato, o empregado pode encerrá-lo e pedir as indenizações.",
+  "destaque": "SAI COM OS DIREITOS",
+  "pontos": [
+    [
+      "alerta",
+      "Exemplos: salário ou FGTS atrasados, rigor excessivo, perigo, ofensas."
+    ],
+    [
+      "balanca",
+      "O empregado considera o contrato rescindido e pede as indenizações na Justiça."
+    ],
+    [
+      "documento",
+      "Em alguns casos, pode continuar trabalhando até a decisão."
+    ]
+  ],
+  "exemplo": "Imagine: há meses a empresa de Carlos atrasa o salário e não deposita o FGTS. Ele quer sair, mas tem medo de perder os direitos se pedir demissão.",
+  "corpo": "<h2>O que a lei prevê</h2><p>A CLT lista situações em que o empregado pode considerar rescindido o contrato e pedir indenização. Entre elas: exigir serviços superiores às forças ou alheios ao contrato, tratamento com rigor excessivo, perigo manifesto, descumprimento das obrigações do contrato e ofensas à honra ou físicas.</p><p>Nos casos de descumprimento das obrigações do contrato, o empregado pode pedir a rescisão permanecendo ou não no serviço até a decisão final. A rescisão indireta está entre os dez assuntos mais levados à Justiça do Trabalho.</p><h2>Na prática</h2><ul><li>É diferente de pedir demissão, que tem consequências mais restritas.</li><li>Reúna provas: contracheques, extrato do FGTS, mensagens.</li><li>A decisão sobre como sair depende de análise do caso.</li></ul>",
+  "faq": [
+    [
+      "Atraso de salário pode justificar a rescisão indireta?",
+      "O descumprimento das obrigações do contrato pelo empregador está entre as hipóteses da lei (CLT, art. 483, d)."
+    ],
+    [
+      "Preciso parar de trabalhar para pedir?",
+      "Nas hipóteses das letras d e g, não necessariamente (CLT, art. 483, § 3º)."
+    ]
+  ],
+  "base": [
+    "CLT, art. 483, alíneas a a g e § 3º"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/7927581/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

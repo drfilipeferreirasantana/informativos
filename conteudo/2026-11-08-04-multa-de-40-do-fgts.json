@@ -1,0 +1,43 @@
+{
+  "slug": "multa-de-40-do-fgts",
+  "area": "trabalhista",
+  "data": "2026-11-08",
+  "titulo": "Você sabia que a multa de 40% do FGTS é calculada sobre todo o contrato?",
+  "resumo": "Na dispensa sem justa causa, a empresa deposita 40% sobre todos os depósitos de FGTS feitos durante o contrato, com correção e juros.",
+  "destaque": "40% DE TODO O FGTS",
+  "pontos": [
+    [
+      "carteira",
+      "A multa é de 40% sobre todos os depósitos do contrato, corrigidos."
+    ],
+    [
+      "check",
+      "É devida na dispensa sem justa causa."
+    ],
+    [
+      "documento",
+      "Confira o extrato do FGTS para ver se nenhum mês ficou de fora."
+    ]
+  ],
+  "exemplo": "Imagine: Rafael trabalhou seis anos numa empresa e foi dispensado sem justa causa. Ao conferir o extrato, viu que a multa foi calculada só sobre o último ano.",
+  "corpo": "<h2>O que a lei prevê</h2><p>A Lei do FGTS determina que, na despedida sem justa causa, o empregador deposite na conta do trabalhador 40% do montante de todos os depósitos feitos durante o contrato, atualizados e com juros.</p><p>A multa de 40% está entre os assuntos mais levados à Justiça do Trabalho, segundo dados do TST de 2025.</p><h2>Na prática</h2><ul><li>Se a empresa deixou de depositar algum mês, a multa também fica menor.</li><li>O extrato do FGTS pode ser consultado pelo aplicativo oficial.</li><li>Na saída por acordo entre empregado e empregador, as regras são diferentes.</li></ul>",
+  "faq": [
+    [
+      "A multa é só sobre o saldo que está na conta?",
+      "É sobre o montante de todos os depósitos feitos durante o contrato, atualizados (Lei 8.036/1990, art. 18, § 1º)."
+    ],
+    [
+      "Vale para quem pediu demissão?",
+      "Não. A multa de 40% é devida na despedida sem justa causa."
+    ]
+  ],
+  "base": [
+    "Lei 8.036/1990, art. 18, § 1º"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/6052793/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}
