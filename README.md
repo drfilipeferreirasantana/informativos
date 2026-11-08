@@ -25,6 +25,10 @@ git push -u origin main
    - Tipo `CNAME`, nome `informativos`, destino `drfilipeferreirasantana.github.io`, proxy **desligado** (nuvem cinza, "DNS only").
 5. Volte em **Settings > Pages**, espere o certificado ficar pronto e marque **Enforce HTTPS**.
 
+## Artes para as redes
+
+Todas as artes ficam em https://informativos.escritorioferreiraadv.com.br/artes.html (página fora do Google): arte do Instagram, capa para WhatsApp e Facebook, e botão que envia o link já com a prévia.
+
 ## Automação
 
 A tarefa agendada **informativo-voce-sabia** (app Claude, seção "Agendadas") roda às 8h, a cada 2 dias: lê os Alertas do Google, pesquisa novidades na internet, confere a base legal na biblioteca do escritório, escreve o post, publica (commit e push) e manda por e-mail o link, uma legenda pronta para as redes e o link de compartilhamento no WhatsApp. Ela só roda com o app Claude aberto; se ele estiver fechado no horário, roda quando o app abrir.
