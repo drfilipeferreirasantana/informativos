@@ -21,7 +21,7 @@ O primeiro visual (marinho com dourado, Montserrat em negrito, selos arredondado
 - **Cores:** papel claro (#ece7de), tinta quase preta (#161616) e **bordô** (#7a2333), a cor da gravata da foto oficial, só nos detalhes. Verde só no botão do WhatsApp. Nada de sombras fortes ou cantos arredondados.
 - **Assinatura:** extraída da foto enviada pelo Dr. Filipe, em bordô e com 260 px de largura de propósito (marca visual, sem resolução para virar cópia em papel). Na página principal fica centralizada abaixo de "Advogado · OAB/ES 37.159 · Linhares/ES", sem repetir a foto. Proteções (pedido de 8/11/2026): no site ela é fundo desenhado e não imagem, então não aparece "salvar imagem", não se arrasta e não reage a toque longo; o próprio arquivo tem linhas diagonais transparentes que picotam o traço quando ampliado. Nenhuma página consegue impedir um print de tela; por isso a defesa principal é a cópia sair inútil (baixa resolução, bordô e picotada).
 - **Texto:** título como a pergunta direta que a pessoa faria ("A pensão acaba quando o filho faz 18 anos?"); "Você sabia?" é só o nome da série. A resposta curta é uma frase normal ("Não automaticamente."), não um selo em maiúsculas. De 2 a 4 pontos, conforme o tema. O exemplo do dia a dia não começa com "Imagine:".
-- **Próximos passos para ficar 100%:** fotos reais do Dr. Filipe e do escritório em vez das fotos de banco por área; variar os formatos (pergunta, mito ou verdade, prazo, "o que fazer quando").
+- **Próximos passos para ficar 100%:** fotos reais do Dr. Filipe e do escritório no lugar de parte das fotos do Pexels; variar os formatos (pergunta, mito ou verdade, prazo, "o que fazer quando").
 
 ## 3. Estrutura do post
 
@@ -36,6 +36,9 @@ O primeiro visual (marinho com dourado, Montserrat em negrito, selos arredondado
 9. Leia também: 3 informativos relacionados.
 
 ## 4. Imagens
+
+**Regra de execução (8/11/2026): nenhuma foto se repete.** Cada informativo tem a sua foto, ligada ao tema do post (ex.: contas e calculadora para nome negativado, caixa de pertences para pedido de demissão, mão com aliança assinando para divórcio em cartório). As fotos vêm do Pexels (licença gratuita para uso comercial, sem atribuição obrigatória; origem registrada no campo `foto` de cada post) e ficam em `assets/fotos/posts/`. O gerador recusa post sem foto própria ou com foto igual à de outro post. Evitar fotos com texto em inglês legível e pessoas que já apareceram em outro post.
+
 
 - **Foto real do advogado** perto do contato. Fornecedores relatam alta de 35% a 45% na conversão com fotos reais em vez de banco de imagens, em testes fora do setor jurídico. É indício, não prova ([AttorneySync](https://attorneysync.com/blog/photographs-real-lawyers-stock-images); [Custom Legal Marketing](https://custom.legal/practice-areas/personal-injury-law-firm-marketing/stock-photos-vs-ai-photos-vs-real-attorney-photos/)). A OAB permite foto, nome, OAB, formação e instituições (CED, art. 44, § 1º), e o TED-SP admitiu coluna com nome e foto do autor (16/10/2025).
 - **Sem foto de banco** (martelo, balança genérica, casal brigando) e sem imagem de clientes.
