@@ -39,7 +39,24 @@
     else sessionStorage.setItem('ffa_visita', JSON.stringify(visita));
   } catch (e) { /* sem armazenamento: vale a página atual */ }
 
-  if (location.pathname.indexOf('/artes') !== 0) enviar('visita', { pagina: location.pathname, origem: visita.origem, nova: nova });
+  if (location.pathname.indexOf('/artes') !== 0) {
+    enviar('visita', { pagina: location.pathname, origem: visita.origem, nova: nova });
+    // "Online agora": sinal a cada minuto enquanto a página está aberta e visível.
+    // Só um código sorteado da visita (some ao fechar a aba); nada identifica a pessoa.
+    var sessao = '';
+    try { sessao = sessionStorage.getItem('ffa_sessao') || ''; } catch (e) { sessao = ''; }
+    if (!/^[a-z0-9]{12}$/.test(sessao)) {
+      var r = new Uint8Array(12), abc = 'abcdefghijklmnopqrstuvwxyz0123456789';
+      (window.crypto || window.msCrypto).getRandomValues(r);
+      sessao = '';
+      for (var k = 0; k < 12; k++) sessao += abc[r[k] % 36];
+      try { sessionStorage.setItem('ffa_sessao', sessao); } catch (e) { /* vale só esta página */ }
+    }
+    var presenca = function () { if (!document.hidden) enviar('presenca', { sessao: sessao }); };
+    presenca();
+    setInterval(presenca, 60000);
+    document.addEventListener('visibilitychange', presenca);
+  }
 
   // Código curto do clique: 5 símbolos e 1 que confere os demais
   function gerarCodigo() {

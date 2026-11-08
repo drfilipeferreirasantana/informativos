@@ -480,6 +480,36 @@ SCRIPT_ARTES = """<script>
 </script>"""
 
 
+SCRIPT_CONTADOR = """<script>
+(function () {
+  var URL_RESUMO = 'https://sistema.filipeferreiraadv.com/api/public/site/resumo';
+  var caixa = document.getElementById('contador-site'), nota = document.getElementById('contador-nota');
+  function campo(n) { return caixa.querySelector('[data-c="' + n + '"]'); }
+  function num(v) { return typeof v === 'number' ? v.toLocaleString('pt-BR') : '...'; }
+  function atualizar() {
+    fetch(URL_RESUMO, { cache: 'no-store' }).then(function (r) {
+      if (!r.ok) throw new Error(r.status);
+      return r.json();
+    }).then(function (j) {
+      var s = 'informativos';
+      campo('online').textContent = num((j.online || {})[s]);
+      campo('hoje').textContent = num(((j.hoje || {})[s] || {}).visitas);
+      campo('mes').textContent = num(((j.mes || {})[s] || {}).visitas);
+      campo('total').textContent = num(((j.total || {})[s] || {}).visitas);
+      if (j.desde) { var d = j.desde.split('-'); campo('desde').textContent = 'visitas desde ' + d[2] + '/' + d[1] + '/' + d[0]; }
+      caixa.classList.add('ativo');
+      nota.textContent = 'Site de informativos. Cada entrada no site conta como uma visita (quem volta outro dia conta de novo). "Online agora" são as pessoas com uma página aberta nos últimos 2 minutos. Atualiza a cada 30 segundos; suas visitas a este painel não contam.';
+    }).catch(function () {
+      caixa.classList.remove('ativo');
+      nota.textContent = 'O contador passa a mostrar os números assim que o sistema do escritório for atualizado.';
+    });
+  }
+  atualizar();
+  setInterval(function () { if (!document.hidden) atualizar(); }, 30000);
+})();
+</script>"""
+
+
 def pagina_artes(posts, programados):
     """Página só para o Dr. Filipe (fora do Google): painel das artes, com busca pelo nº, tema ou área."""
     itens = []
@@ -521,6 +551,13 @@ def pagina_artes(posts, programados):
     corpo = f"""<section class="artes conteudo">
   <h1>Painel das artes</h1>
   <p>Página de uso do escritório. Cada informativo tem um número (Nº), que também vai no nome do arquivo baixado. Busque pelo número, pelo tema ou por uma palavra. Para achar pela postagem do Google, digite G e o número (ex.: G12).</p>
+  <div class="contador-site" id="contador-site" aria-live="polite">
+    <div class="online"><b data-c="online">...</b><small><i></i>online agora</small></div>
+    <div><b data-c="hoje">...</b><small>visitas hoje</small></div>
+    <div><b data-c="mes">...</b><small>visitas no mês</small></div>
+    <div><b data-c="total">...</b><small data-c="desde">visitas no total</small></div>
+    <p id="contador-nota">Buscando os números no sistema do escritório...</p>
+  </div>
   <div class="painel-busca">
     <label for="busca">Buscar arte</label>
     <input id="busca" type="search" placeholder="Ex.: 47, pensão, aviso prévio, G12" autocomplete="off">
@@ -532,7 +569,7 @@ def pagina_artes(posts, programados):
 </section>
 """
     return (cabeca(f"Painel das artes | {NOME}", "Artes dos informativos para as redes.", f"{BASE}artes.html", "", robots=True)
-            + corpo + rodape("") + SCRIPT_ARTES + "\n</body>\n</html>\n")
+            + corpo + rodape("") + SCRIPT_ARTES + SCRIPT_CONTADOR + "\n</body>\n</html>\n")
 
 
 # ---------- imagens ----------

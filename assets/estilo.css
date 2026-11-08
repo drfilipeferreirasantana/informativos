@@ -159,6 +159,17 @@ p{margin:0}
 .arte small{color:var(--cinza);font-size:.9rem}
 .arte small.programado{color:var(--bordo);font-weight:600}
 .arte .aviso-programado{margin:0;color:var(--cinza);font-size:.9rem}
+.contador-site{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:1px;margin:0 0 1.6rem;background:var(--linha);border:1px solid var(--linha)}
+.contador-site>div{background:#fff;padding:.9rem 1rem;display:grid;gap:.1rem}
+.contador-site b{font:700 2rem/1.1 var(--serifa);color:var(--tinta)}
+.contador-site small{color:var(--cinza);font-size:.92rem;display:flex;align-items:center;gap:.4rem}
+.contador-site .online{background:var(--tinta)}
+.contador-site .online b{color:#fff}
+.contador-site .online small{color:#d9d2c6}
+.contador-site i{width:.6rem;height:.6rem;border-radius:50%;background:#8a8a8a;display:inline-block}
+.contador-site.ativo i{background:#3fbf6b;box-shadow:0 0 0 3px rgba(63,191,107,.25)}
+.contador-site p{grid-column:1/-1;margin:0;padding:.6rem 1rem;background:var(--papel-claro);color:var(--cinza);font-size:.88rem}
+@media (max-width:640px){.contador-site{grid-template-columns:repeat(2,minmax(0,1fr))}}
 .painel-busca{display:flex;flex-wrap:wrap;align-items:center;gap:.5rem 1rem;margin-bottom:.4rem}
 .painel-busca label{font:700 1rem var(--condensada)}
 .painel-busca input{flex:1 1 260px;min-height:46px;padding:.5rem .8rem;border:1px solid var(--tinta);background:#fff;font:1.05rem var(--condensada);color:var(--tinta)}
