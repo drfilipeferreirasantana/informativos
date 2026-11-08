@@ -20,8 +20,13 @@ Formato de conteudo/AAAA-MM-DD-slug.json:
   "corpo": "<h2>O que a lei prevê</h2><p>...</p><h2>Na prática</h2><ul><li>...</li></ul>",
   "faq": [["Pergunta?", "Resposta."], ...],
   "base": ["Código Civil, art. ..."],
-  "fontes": [["Veículo: título (data)", "https://..."]]
+  "fontes": [["Veículo: título (data)", "https://..."]],
+  "foto": {"fonte": "Pexels", "url": "https://www.pexels.com/photo/ID/", "licenca": "https://www.pexels.com/license/"}
 }
+
+REGRA DAS FOTOS: cada informativo tem foto própria, ligada ao tema, em assets/fotos/posts/SLUG.jpg (1200x800)
+e assets/fotos/posts/SLUG-p.jpg (480x300). O gerador recusa post sem foto, sem o campo "foto" ou com foto
+igual à de outro post (mesmo arquivo ou mesma foto do Pexels).
 
 Visual (escolhido pelo Dr. Filipe em 8/11/2026): formato de jornal (foto em cima com borda reta,
 linhas finas, rodapé com nome e assinatura) e letras com serifa no título. Papel claro, tinta
@@ -108,6 +113,22 @@ def carregar():
         p.setdefault("exemplo", "")
         p["_arquivo"] = arq.name
         posts.append(p)
+    # Regra: cada informativo tem a sua foto, e nenhuma foto se repete
+    import hashlib
+    vistos_arquivo, vistos_url = {}, {}
+    for p in posts:
+        for sufixo in ("", "-p"):
+            arq = RAIZ / "assets" / "fotos" / "posts" / f"{p['slug']}{sufixo}.jpg"
+            if not arq.exists():
+                sys.exit(f"{p['_arquivo']}: falta a foto própria do post em {arq.relative_to(RAIZ)}")
+        if not (p.get("foto") or {}).get("url"):
+            sys.exit(f"{p['_arquivo']}: falta o campo 'foto' com a origem da imagem")
+        h = hashlib.md5((RAIZ / "assets" / "fotos" / "posts" / f"{p['slug']}.jpg").read_bytes()).hexdigest()
+        u = p["foto"]["url"].rstrip("/").split("/")[-1].split("-")[-1]
+        if h in vistos_arquivo or u in vistos_url:
+            outro = vistos_arquivo.get(h) or vistos_url.get(u)
+            sys.exit(f"{p['_arquivo']}: a foto repete a do post '{outro}'. Cada informativo precisa de foto própria.")
+        vistos_arquivo[h] = vistos_url[u] = p["slug"]
     # Número do informativo pela ordem de publicação (data e nome do arquivo): o primeiro é o nº 1
     posts.sort(key=lambda p: (p["data"], p["_arquivo"]))
     for n, p in enumerate(posts, 1):
@@ -191,7 +212,7 @@ def assinatura(base):
 
 def cartao(p, base=""):
     return (f'<a class="cartao" data-area="{p["area"]}" href="{base}posts/{p["slug"]}.html">'
-            f'<img src="{base}assets/fotos/{p["area"]}-p.jpg" width="480" height="300" loading="lazy" alt="">'
+            f'<img src="{base}assets/fotos/posts/{p["slug"]}-p.jpg" width="480" height="300" loading="lazy" alt="">'
             f'<span class="meta"><b>Nº {p["numero"]}</b> {AREAS[p["area"]]}</span>'
             f'<h2>{e(p["titulo"])}</h2>'
             f'<span class="resposta-curta">{e(p["destaque"])}</span></a>')
@@ -231,7 +252,7 @@ def pagina_post(p, posts):
     }, ensure_ascii=False)
     whats = link_whats(p["titulo"])
     compartilhar = f"https://wa.me/?text={quote(p['titulo'] + ' ' + url)}"
-    foto = f"../assets/fotos/{p['area']}.jpg"
+    foto = f"../assets/fotos/posts/{p['slug']}.jpg"
     corpo = f"""<article class="post">
 <div class="conteudo coluna">
   <p class="linha-topo"><b>Nº {p['numero']}</b> {area}<a href="../index.html">Todos os informativos</a></p>
@@ -421,7 +442,7 @@ def imagem(p, l, a, destino, instagram):
     from PIL import Image, ImageDraw, ImageOps
     img = Image.new("RGB", (l, a), PAPEL)
     d = ImageDraw.Draw(img)
-    foto = Image.open(RAIZ / "assets" / "fotos" / f"{p['area']}.jpg").convert("RGB")
+    foto = Image.open(RAIZ / "assets" / "fotos" / "posts" / f"{p['slug']}.jpg").convert("RGB")
     area = AREAS[p["area"]]
     if instagram:
         m = 72

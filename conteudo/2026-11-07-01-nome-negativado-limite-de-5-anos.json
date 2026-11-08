@@ -34,5 +34,10 @@
   "base": [
     "Código de Defesa do Consumidor, art. 43, §§ 1º, 2º e 5º"
   ],
-  "fontes": []
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/5900144/",
+    "licenca": "https://www.pexels.com/license/"
+  }
 }
