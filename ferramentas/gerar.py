@@ -261,7 +261,8 @@ def rodape(base):
       <ul class="contatos">{itens}</ul>
     </div>
   </div>
-  <p class="legal">Conteúdo de caráter informativo, que não substitui a análise individual de cada situação.</p>
+  <p class="legal"><span class="direitos"><span class="copyright" aria-label="Copyright">©</span> {hoje()[:4]} {NOME}, Escritório de Advocacia. Todos os direitos reservados.</span>
+  Conteúdo de caráter informativo, que não substitui a análise individual de cada situação.</p>
 </div></footer>
 <script src="{base}assets/rastreio.js?v={versao('assets/rastreio.js')}" defer></script>
 """
