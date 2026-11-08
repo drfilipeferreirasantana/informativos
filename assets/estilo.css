@@ -147,14 +147,28 @@ p{margin:0}
 .nao-encontrada{padding-block:3rem}
 .nao-encontrada h1{margin:1.2rem 0 1.6rem;font-size:2.4rem}
 
-/* Rodapé */
-.rodape{margin-top:0;background:var(--tinta);color:#cfc8bd;font-size:.98rem;padding-block:2.4rem 1.8rem}
-.rodape .grade{display:grid;grid-template-columns:1.4fr 1fr;gap:2rem}
+/* Rodapé: logo à esquerda, publicação, contatos com o símbolo de cada rede */
+.rodape{background:var(--tinta);color:#cfc8bd;font-size:.98rem;padding-block:2.6rem 1.6rem}
+.rodape .grade{display:grid;grid-template-columns:auto 1.3fr 1fr;gap:2.4rem;align-items:start}
+.rodape-logo{display:flex;flex-direction:column;align-items:center;gap:.5rem;text-align:center}
+.rodape-logo img{width:96px;height:96px}
+.rodape-logo b{font:700 1.02rem var(--serifa);color:#fff;letter-spacing:.04em;text-transform:uppercase}
+.rodape-logo small{font-size:.76rem;letter-spacing:.12em;text-transform:uppercase;color:#9b958c}
 .rodape h3{font-size:1.15rem;color:#fff;margin-bottom:.6rem}
-.rodape ul{list-style:none;margin:0;padding:0;display:grid;gap:.35rem}
 .rodape p+p{margin-top:.3rem}
 .rodape a{text-underline-offset:4px;overflow-wrap:anywhere}
+.contatos{list-style:none;margin:0;padding:0;display:grid;gap:.6rem}
+.contatos a{display:flex;align-items:center;gap:.65rem;text-decoration:none}
+.contatos a:hover span{text-decoration:underline}
+.contatos svg{width:22px;height:22px;flex:none;color:#bdb6aa}
 .rodape .legal{margin-top:1.8rem;padding-top:1rem;border-top:1px solid #3a3a3a;font-size:.88rem;color:#9b958c}
+
+/* Expediente */
+.expediente{padding-block:2rem 3rem}
+.expediente h1{margin:1rem 0 1.4rem;font-size:2.4rem}
+.expediente dl{display:grid;grid-template-columns:12rem minmax(0,1fr);gap:.7rem 1.4rem;margin:0}
+.expediente dt{font-weight:700;color:var(--tinta)}
+.expediente dd{margin:0;color:var(--tinta-2)}
 
 /* Barra fixa do WhatsApp no celular */
 .barra-whats{display:none}
@@ -169,6 +183,9 @@ p{margin:0}
   .autor-foto{width:140px}
   .acoes .botao{width:100%}
   .rodape .grade{grid-template-columns:1fr}
+  .rodape-logo{align-items:flex-start;text-align:left}
+  .expediente dl{grid-template-columns:1fr;gap:.2rem}
+  .expediente dd{margin-bottom:.6rem}
   body:has(.barra-whats){padding-bottom:80px}
   .barra-whats{position:fixed;inset:auto 0 0;z-index:50;display:flex;padding:.7rem 1rem calc(.7rem + env(safe-area-inset-bottom));background:var(--papel);border-top:1px solid var(--tinta)}
   .barra-whats .botao{width:100%;min-height:50px}

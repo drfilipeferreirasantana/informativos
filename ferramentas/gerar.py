@@ -52,6 +52,9 @@ EMAIL = "dr.filipeferreirasantana@gmail.com"
 TELEFONE = "(27) 99518-7279"
 WHATSAPP = "https://wa.me/5527995187279"
 INSTAGRAM = "https://www.instagram.com/dr.filipeferreira"
+YOUTUBE = "https://www.youtube.com/@Filipeferreiraadvogado"
+# Número ISSN concedido pelo IBICT (cbissn.ibict.br). Enquanto vazio, o rodapé não mostra a linha do ISSN.
+ISSN = ""
 
 AREAS = {
     "familia": "Direito de Família",
@@ -76,6 +79,11 @@ def versao(caminho):
     import hashlib
     arq = RAIZ / caminho
     return hashlib.md5(arq.read_bytes()).hexdigest()[:8] if arq.exists() else "0"
+
+
+def data_curta(iso):
+    a, m, d = iso.split("-")
+    return f"{int(d)} {MESES[int(m) - 1][:3]}. {a}"
 
 
 def data_extenso(iso):
@@ -179,23 +187,44 @@ def cabeca(titulo, descricao, url, base, tipo="website", imagem=None, extra="", 
 """
 
 
-RODAPE = f"""</main>
+_C = 'viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" aria-hidden="true"'
+ICONES_CONTATO = {
+    "whatsapp": f'<svg {_C}><path d="M4.2 19.8 5.3 16A8.3 8.3 0 1 1 8.4 19z"/><path d="M9.3 8.6c-.3.9 0 2.1 1 3.3 1.1 1.3 2.4 2 3.4 2 .5 0 .9-.4 1-.8l.1-.5-1.5-.8-.7.6c-.8-.3-1.6-1.1-1.9-1.9l.6-.7-.8-1.5-.5.1c-.3.1-.6.4-.7.7Z" stroke-width="1.2"/></svg>',
+    "youtube": f'<svg {_C}><rect x="2.5" y="5.5" width="19" height="13" rx="3.5"/><path d="m10 9.2 5 2.8-5 2.8z"/></svg>',
+    "instagram": f'<svg {_C}><rect x="3.5" y="3.5" width="17" height="17" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.2" cy="6.8" r=".9" fill="currentColor" stroke="none"/></svg>',
+    "email": f'<svg {_C}><rect x="3" y="5.5" width="18" height="13" rx="2"/><path d="m3.5 6.5 8.5 6.5 8.5-6.5"/></svg>',
+    "site": f'<svg {_C}><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c2.5 2.6 3.8 5.6 3.8 9s-1.3 6.4-3.8 9c-2.5-2.6-3.8-5.6-3.8-9S9.5 5.6 12 3Z"/></svg>',
+}
+
+
+def rodape(base):
+    issn = f"\n      <p>ISSN {ISSN}</p>" if ISSN else ""
+    contatos = [
+        ("whatsapp", WHATSAPP, TELEFONE, "WhatsApp", True),
+        ("youtube", YOUTUBE, "youtube.com/@Filipeferreiraadvogado", "YouTube", True),
+        ("instagram", INSTAGRAM, "@dr.filipeferreira", "Instagram", True),
+        ("email", f"mailto:{EMAIL}", EMAIL, "E-mail", False),
+        ("site", SITE, "escritorioferreiraadv.com.br", "Site do escritório", False),
+    ]
+    itens = "".join(
+        f'<li><a href="{u}"{" target=\"_blank\" rel=\"noopener\"" if ext else ""} aria-label="{rot}">{ICONES_CONTATO[i]}<span>{txt}</span></a></li>'
+        for i, u, txt, rot, ext in contatos)
+    return f"""</main>
 <footer class="rodape"><div class="conteudo">
   <div class="grade">
+    <div class="rodape-logo">
+      <img src="{base}assets/emblema-prata.png" width="96" height="96" alt="Logo da {NOME}">
+      <b>{NOME}</b><small>Escritório de Advocacia</small>
+    </div>
     <div>
-      <h3>{NOME}</h3>
-      <p>Escritório de Advocacia</p>
-      <p>Advogado responsável: {ADVOGADO}, {OAB}</p>
+      <h3>Você sabia? Informativos {NOME}</h3>{issn}
+      <p>Editor responsável: {ADVOGADO}, {OAB}</p>
       <p>{ENDERECO}</p>
+      <p><a href="{base}expediente.html">Expediente</a></p>
     </div>
     <div>
       <h3>Contato</h3>
-      <ul>
-        <li><a href="{WHATSAPP}" target="_blank" rel="noopener">WhatsApp {TELEFONE}</a></li>
-        <li><a href="{INSTAGRAM}" target="_blank" rel="noopener">Instagram @dr.filipeferreira</a></li>
-        <li><a href="{SITE}">escritorioferreiraadv.com.br</a></li>
-        <li><a href="mailto:{EMAIL}">{EMAIL}</a></li>
-      </ul>
+      <ul class="contatos">{itens}</ul>
     </div>
   </div>
   <p class="legal">Conteúdo de caráter informativo, que não substitui a análise individual de cada situação.</p>
@@ -213,7 +242,7 @@ def assinatura(base):
 def cartao(p, base=""):
     return (f'<a class="cartao" data-area="{p["area"]}" href="{base}posts/{p["slug"]}.html">'
             f'<img src="{base}assets/fotos/posts/{p["slug"]}-p.jpg" width="480" height="300" loading="lazy" alt="">'
-            f'<span class="meta"><b>Nº {p["numero"]}</b> {AREAS[p["area"]]}</span>'
+            f'<span class="meta">{AREAS[p["area"]]} · {data_curta(p["data"])}</span>'
             f'<h2>{e(p["titulo"])}</h2>'
             f'<span class="resposta-curta">{e(p["destaque"])}</span></a>')
 
@@ -255,7 +284,7 @@ def pagina_post(p, posts):
     foto = f"../assets/fotos/posts/{p['slug']}.jpg"
     corpo = f"""<article class="post">
 <div class="conteudo coluna">
-  <p class="linha-topo"><b>Nº {p['numero']}</b> {area}<a href="../index.html">Todos os informativos</a></p>
+  <p class="linha-topo"><b>{area}</b> {data_extenso(p['data'])}<a href="../index.html">Todos os informativos</a></p>
   <img class="foto-post" src="{foto}" width="1200" height="800" fetchpriority="high" alt="">
   <h1>{e(p['titulo'])}</h1>
   <div class="resposta"><strong>{e(p['destaque'])}</strong> {e(p['resumo'])}</div>
@@ -292,7 +321,7 @@ def pagina_post(p, posts):
     return (cabeca(f"{p['titulo']} | {NOME_CURTO}, advogado", p["resumo"], url, "../", "article",
                    f"{BASE}imagens/{p['slug']}-capa.jpg?v={versao('imagens/' + p['slug'] + '-capa.jpg')}",
                    f'\n<script type="application/ld+json">{ld}</script>', foto)
-            + corpo + RODAPE + "</body>\n</html>\n")
+            + corpo + rodape("../") + "</body>\n</html>\n")
 
 
 SCRIPT_LISTA = """<script>
@@ -342,7 +371,7 @@ def pagina_inicial(posts):
 """
     return (cabeca(f"Você sabia? Informativos de {NOME_CURTO} | {NOME}",
                    "Dúvidas comuns sobre família, herança, trabalho, compras e INSS, respondidas por Filipe Ferreira, advogado em Linhares/ES.",
-                   BASE, "") + corpo + RODAPE + SCRIPT_LISTA + "\n</body>\n</html>\n")
+                   BASE, "") + corpo + rodape("") + SCRIPT_LISTA + "\n</body>\n</html>\n")
 
 
 def pagina_artes(posts):
@@ -355,7 +384,7 @@ def pagina_artes(posts):
         compartilhar = f"https://wa.me/?text={quote(p['titulo'] + ' ' + url + '?v=' + str(p['numero']))}"
         itens.append(f"""<div class="arte">
   <img src="imagens/{p['slug']}-instagram.jpg?v={vi}" width="1080" height="1350" loading="lazy" alt="">
-  <div><b>Nº {p['numero']} · {e(p['titulo'])}</b>
+  <div><b>{e(p['titulo'])}</b>
   <a class="botao botao-linha" href="imagens/{p['slug']}-instagram.jpg?v={vi}" download>Baixar arte do Instagram</a>
   <a class="botao botao-linha" href="imagens/{p['slug']}-capa.jpg?v={vc}" download>Baixar capa (WhatsApp e Facebook)</a>
   <a class="botao botao-whatsapp" href="{compartilhar}" target="_blank" rel="noopener">{ICONE_WHATS}Enviar no WhatsApp</a>
@@ -368,7 +397,7 @@ def pagina_artes(posts):
 </section>
 """
     return (cabeca(f"Artes para as redes | {NOME}", "Artes dos informativos para as redes.", f"{BASE}artes.html", "", robots=True)
-            + corpo + RODAPE + "</body>\n</html>\n")
+            + corpo + rodape("") + "</body>\n</html>\n")
 
 
 # ---------- imagens ----------
@@ -447,10 +476,7 @@ def imagem(p, l, a, destino, instagram):
     if instagram:
         m = 72
         d.line((m, 92, l - m, 92), fill=TINTA, width=3)
-        num = f"Nº {p['numero']}"
-        d.text((m, 106), num, font=condensada(38, "Bold Condensed"), fill=BORDO)
-        x_area = m + d.textlength(num, font=condensada(38, "Bold Condensed")) + 26
-        d.text((x_area, 110), area, font=serifa(34, "Text"), fill=CINZA)
+        d.text((m, 110), area, font=serifa(34, "Text Semibold"), fill=BORDO)
         serie = "Você sabia?"
         d.text((l - m - d.textlength(serie, font=serifa(34, "Text Semibold")), 110), serie, font=serifa(34, "Text Semibold"), fill=TINTA)
         y_rod = a - 175
@@ -474,9 +500,8 @@ def imagem(p, l, a, destino, instagram):
         m = 56
         largura = l - lado_foto - 2 * m
         d.line((m, 52, l - lado_foto - m, 52), fill=TINTA, width=3)
-        num = f"Nº {p['numero']}"
-        d.text((m, 64), num, font=condensada(30, "Bold Condensed"), fill=BORDO)
-        d.text((m + d.textlength(num, font=condensada(30, "Bold Condensed")) + 18, 66), f"{area} · Você sabia?", font=serifa(26, "Text"), fill=CINZA)
+        d.text((m, 66), area, font=serifa(26, "Text Semibold"), fill=BORDO)
+        d.text((m + d.textlength(area, font=serifa(26, "Text Semibold")) + 14, 66), "· Você sabia?", font=serifa(26, "Text"), fill=CINZA)
         y_rod = a - 128
         f_dest = condensada(32, "SemiBold SemiCondensed")
         f_tit, linhas = titulo_que_cabe(d, p["titulo"], largura, y_rod - 118 - 110, [58, 54, 50, 46, 42, 38])
@@ -486,6 +511,33 @@ def imagem(p, l, a, destino, instagram):
         d.text((m, y + 22), p["destaque"], font=f_dest, fill=BORDO)
         rodape_imagem(img, d, m, y_rod, l - lado_foto, 76, serifa(32, "Subheading Semibold"), condensada(22), 92)
     img.save(destino, "JPEG", quality=86, optimize=True, progressive=True)
+
+
+def pagina_expediente(posts):
+    """Expediente da publicação: dados exigidos pelo Centro Brasileiro do ISSN (IBICT) para conceder o ISSN."""
+    primeiro = min(p["data"] for p in posts)
+    a, m, _ = primeiro.split("-")
+    issn = f"<dt>ISSN</dt><dd>{ISSN}</dd>" if ISSN else ""
+    corpo = f"""<section class="conteudo coluna expediente">
+  <p class="linha-topo"><b>Expediente</b> Você sabia? Informativos {NOME}</p>
+  <h1>Expediente</h1>
+  <dl>
+    <dt>Título</dt><dd>Você sabia? Informativos {NOME}</dd>{issn}
+    <dt>Editor responsável</dt><dd>{ADVOGADO}, advogado, {OAB}</dd>
+    <dt>Instituição</dt><dd>{NOME}, Escritório de Advocacia</dd>
+    <dt>Endereço</dt><dd>{ENDERECO}, CEP 29901-554</dd>
+    <dt>Contato</dt><dd><a href="mailto:{EMAIL}">{EMAIL}</a> · {TELEFONE}</dd>
+    <dt>Suporte</dt><dd>On-line, em <a href="{BASE}">{BASE.removeprefix("https://").rstrip("/")}</a></dd>
+    <dt>Periodicidade</dt><dd>Contínua, com publicação de novos informativos em média a cada dois dias</dd>
+    <dt>Início da publicação</dt><dd>{MESES[int(m) - 1]} de {a}</dd>
+    <dt>Idioma</dt><dd>Português</dd>
+    <dt>Assuntos</dt><dd>Direito de Família, Sucessões, Direito Trabalhista, Direito Civil, Direito do Consumidor e Direito Previdenciário</dd>
+    <dt>Linha editorial</dt><dd>Textos informativos e em tese sobre direitos do dia a dia, com base legal conferida em fontes oficiais, de acordo com o Provimento 205/2021 do Conselho Federal da OAB. Não substituem a análise individual de cada situação.</dd>
+  </dl>
+</section>
+"""
+    return (cabeca(f"Expediente | Você sabia? Informativos {NOME}", "Expediente da publicação Você sabia? Informativos Ferreira Advogados.",
+                   f"{BASE}expediente.html", "") + corpo + rodape("") + "</body>\n</html>\n")
 
 
 def main():
@@ -503,7 +555,8 @@ def main():
         (RAIZ / "posts" / f"{p['slug']}.html").write_text(pagina_post(p, posts), encoding="utf-8")
     (RAIZ / "index.html").write_text(pagina_inicial(posts), encoding="utf-8")
     (RAIZ / "artes.html").write_text(pagina_artes(posts), encoding="utf-8")
-    urls = [BASE] + [f"{BASE}posts/{p['slug']}.html" for p in posts]
+    (RAIZ / "expediente.html").write_text(pagina_expediente(posts), encoding="utf-8")
+    urls = [BASE, f"{BASE}expediente.html"] + [f"{BASE}posts/{p['slug']}.html" for p in posts]
     linhas = "\n".join(f"  <url><loc>{u}</loc></url>" for u in urls)
     (RAIZ / "sitemap.xml").write_text(
         f'<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n{linhas}\n</urlset>\n',
@@ -514,7 +567,7 @@ def main():
   <h1>Este endereço não existe ou mudou de lugar.</h1>
   <p><a class="botao botao-linha" href="/index.html">Ver os informativos</a></p>
 </section>
-""" + RODAPE + "</body>\n</html>\n"
+""" + rodape("/") + "</body>\n</html>\n"
     (RAIZ / "404.html").write_text(nao, encoding="utf-8")
     print(f"{len(posts)} posts gerados.")
     print("Mais recente:", f"{BASE}posts/{posts[0]['slug']}.html")
