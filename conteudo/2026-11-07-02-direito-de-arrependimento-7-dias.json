@@ -4,6 +4,22 @@
   "data": "2026-11-07",
   "titulo": "Você sabia que o prazo de 7 dias para desistir vale para compras feitas fora da loja?",
   "resumo": "O direito de arrependimento alcança compras pela internet, por telefone ou a domicílio, não as feitas no balcão.",
+  "destaque": "PRAZO: 7 DIAS",
+  "pontos": [
+    [
+      "carrinho",
+      "Vale para compras pela internet, por telefone ou em casa."
+    ],
+    [
+      "carteira",
+      "O valor pago volta de imediato, corrigido."
+    ],
+    [
+      "alerta",
+      "Na compra dentro da loja, a troca depende da política da loja."
+    ]
+  ],
+  "exemplo": "Imagine: Carla comprou um celular pelo site, numa promoção. Ao receber, percebeu que não era o que queria e, quatro dias depois, decidiu desistir da compra.",
   "corpo": "<p>O direito de arrependimento é um dos mais conhecidos do Código de Defesa do Consumidor, mas costuma ser entendido de forma ampla demais.</p>\n<h2>O que a lei prevê</h2>\n<p>O consumidor pode desistir do contrato em até 7 dias, contados da assinatura ou do recebimento do produto ou serviço, quando a contratação ocorre fora do estabelecimento comercial, especialmente por telefone ou a domicílio. A mesma lógica se aplica às compras pela internet.</p>\n<p>Exercido o arrependimento, os valores pagos devem ser devolvidos de imediato, com atualização monetária.</p>\n<h2>Na prática</h2>\n<ul>\n<li>Na compra feita dentro da loja, a lei não garante a troca por simples arrependimento. A troca, nesse caso, depende da política da própria loja.</li>\n<li>Se o produto tiver defeito, as regras são outras, e valem tanto para compras na loja quanto fora dela.</li>\n</ul>",
   "faq": [
     [

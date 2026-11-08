@@ -4,6 +4,22 @@
   "data": "2026-11-07",
   "titulo": "Você sabia que o auxílio-acidente pode ser recebido junto com o salário?",
   "resumo": "O benefício é uma indenização por sequela que reduz a capacidade de trabalho e não impede voltar a trabalhar.",
+  "destaque": "RECEBE COM SALÁRIO",
+  "pontos": [
+    [
+      "saude",
+      "É pago a quem ficou com sequela que reduz a capacidade para o trabalho."
+    ],
+    [
+      "carteira",
+      "O valor é de 50% do salário de benefício."
+    ],
+    [
+      "maleta",
+      "Voltar a trabalhar e receber salário não corta o benefício."
+    ]
+  ],
+  "exemplo": "Imagine: Marcos sofreu um acidente de moto num fim de semana. Ficou com limitação no movimento da mão e voltou ao trabalho de mecânico, agora com mais dificuldade.",
   "corpo": "<p>O auxílio-acidente é um dos benefícios do INSS menos conhecidos. Ele não substitui o salário: funciona como uma indenização.</p>\n<h2>O que a lei prevê</h2>\n<p>A Lei 8.213/1991 prevê o auxílio-acidente ao segurado que, depois da consolidação das lesões decorrentes de acidente de qualquer natureza, fica com sequelas que reduzem a capacidade para o trabalho que exercia habitualmente.</p>\n<ul>\n<li>O valor mensal corresponde a 50% do salário de benefício.</li>\n<li>É devido a partir do dia seguinte ao fim do auxílio por incapacidade temporária, independentemente de qualquer remuneração recebida pelo segurado.</li>\n<li>Receber salário não interrompe o benefício.</li>\n<li>Não pode ser acumulado com aposentadoria: é pago até a véspera do início de qualquer aposentadoria.</li>\n</ul>\n<h2>Na prática</h2>\n<p>O acidente não precisa ter ocorrido no trabalho. O que se exige é a sequela que reduza a capacidade para a atividade habitual, o que normalmente é avaliado em perícia.</p>",
   "faq": [
     [
