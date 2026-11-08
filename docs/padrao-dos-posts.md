@@ -73,3 +73,10 @@ O primeiro visual (marinho com dourado, Montserrat em negrito, selos arredondado
 - As artes (Instagram e capa) dos programados são geradas no computador do escritório, porque usam as fontes do Windows. Rode `python ferramentas/gerar.py` antes de enviar posts novos.
 - Prévia de como o site estará num dia: `python ferramentas/gerar.py --ate AAAA-MM-DD` (depois rode de novo sem `--ate`, antes de enviar).
 - Nome do arquivo: `AAAA-MM-DD-01-slug.json`, com a mesma data do campo `data`.
+
+## Painel das artes (artes.html)
+
+- Cada informativo tem um número (Nº 001, 002...) pela ordem de publicação. Post novo entra no fim da fila, então os números não mudam.
+- O número vai no nome do arquivo baixado (ex.: `047-slug-instagram.jpg`). Na arte e no post ele não aparece.
+- O painel mostra publicados e programados, com busca pelo número, pelo tema ou por palavra, e filtros por área e situação.
+- Post que veio de uma postagem do Google Meu Negócio leva o campo `"google": N` no JSON (logo depois de `data`). No painel aparece "Google nº N", e a busca `G12` acha a postagem 12.

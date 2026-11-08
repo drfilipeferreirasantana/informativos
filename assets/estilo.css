@@ -152,6 +152,18 @@ p{margin:0}
 .arte div{padding:1rem;display:grid;gap:.5rem}
 .arte b{font-family:var(--serifa)}
 .arte .botao{min-height:42px;font-size:.95rem}
+.arte[hidden]{display:none}
+.arte .ficha{display:flex;flex-wrap:wrap;gap:.4rem;margin:0}
+.arte .codigo{background:var(--tinta);color:#fff;font:700 .95rem var(--condensada);padding:.15rem .55rem;letter-spacing:.04em}
+.arte .selo-google{border:1px solid var(--linha);color:var(--cinza);font:500 .9rem var(--condensada);padding:.1rem .5rem}
+.arte small{color:var(--cinza);font-size:.9rem}
+.arte small.programado{color:var(--bordo);font-weight:600}
+.arte .aviso-programado{margin:0;color:var(--cinza);font-size:.9rem}
+.painel-busca{display:flex;flex-wrap:wrap;align-items:center;gap:.5rem 1rem;margin-bottom:.4rem}
+.painel-busca label{font:700 1rem var(--condensada)}
+.painel-busca input{flex:1 1 260px;min-height:46px;padding:.5rem .8rem;border:1px solid var(--tinta);background:#fff;font:1.05rem var(--condensada);color:var(--tinta)}
+.painel-busca span{color:var(--cinza);font-size:.95rem}
+#f-situacao{margin-top:-.8rem}
 .nao-encontrada{padding-block:3rem}
 .nao-encontrada h1{margin:1.2rem 0 1.6rem;font-size:2.4rem}
 

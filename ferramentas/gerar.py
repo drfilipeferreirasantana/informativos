@@ -433,30 +433,106 @@ def pagina_inicial(todos):
                    BASE, "") + corpo + rodape("") + SCRIPT_LISTA + "\n</body>\n</html>\n")
 
 
-def pagina_artes(posts):
-    """Página só para o Dr. Filipe (fora do Google): artes e links prontos para as redes."""
+def sem_acento(t):
+    import unicodedata
+    return "".join(c for c in unicodedata.normalize("NFD", t.lower()) if unicodedata.category(c) != "Mn")
+
+
+def codigo(p):
+    return f"{p['numero']:03d}"
+
+
+SCRIPT_ARTES = """<script>
+(function () {
+  var itens = [].slice.call(document.querySelectorAll('#painel .arte'));
+  var campo = document.getElementById('busca'), contador = document.getElementById('contador');
+  var area = '', situacao = '';
+  function limpo(t) { return t.toLowerCase().normalize('NFD').replace(/[\\u0300-\\u036f]/g, '').trim(); }
+  function aplicar() {
+    var q = limpo(campo.value).replace(/^n[ºo°]?\\s*(?=\\d)/, ''), n = 0;
+    var g = /^g\\s*(\\d+)$/.exec(q), num = /^\\d+$/.test(q);
+    itens.forEach(function (el) {
+      var ok = (!area || el.dataset.area === area) && (!situacao || el.dataset.situacao === situacao);
+      if (ok && q) {
+        if (g) ok = el.dataset.google === String(parseInt(g[1], 10));
+        else if (num) ok = el.dataset.numero === String(parseInt(q, 10));
+        else ok = q.split(/\\s+/).every(function (w) { return el.dataset.busca.indexOf(w) > -1; });
+      }
+      el.hidden = !ok;
+      if (ok) n++;
+    });
+    contador.textContent = n === 1 ? '1 arte' : n + ' artes';
+  }
+  function grupo(sel, definir) {
+    var bs = [].slice.call(document.querySelectorAll(sel + ' button'));
+    bs.forEach(function (b) {
+      b.addEventListener('click', function () {
+        bs.forEach(function (x) { x.setAttribute('aria-pressed', x === b ? 'true' : 'false'); });
+        definir(b.dataset.valor); aplicar();
+      });
+    });
+  }
+  grupo('#f-area', function (v) { area = v; });
+  grupo('#f-situacao', function (v) { situacao = v; });
+  campo.addEventListener('input', aplicar);
+  aplicar();
+})();
+</script>"""
+
+
+def pagina_artes(posts, programados):
+    """Página só para o Dr. Filipe (fora do Google): painel das artes, com busca pelo nº, tema ou área."""
     itens = []
-    for p in posts:
+    ordem = sorted(posts, key=lambda p: -p["numero"]) + sorted(programados, key=lambda p: p["numero"])
+    for p in ordem:
+        no_ar = p in posts
+        cod = codigo(p)
         vi = versao('imagens/' + p['slug'] + '-instagram.jpg')
         vc = versao('imagens/' + p['slug'] + '-capa.jpg')
         url = f"{BASE}posts/{p['slug']}.html"
         compartilhar = f"https://wa.me/?text={quote(p['titulo'] + ' ' + url + '?v=' + str(p['numero']))}"
-        itens.append(f"""<div class="arte">
+        google = p.get("google")
+        busca = sem_acento(" ".join([p["titulo"], p["slug"].replace("-", " "), AREAS[p["area"]], p.get("destaque", "")]))
+        situacao = (f"Publicado em {data_curta(p['data'])}" if no_ar
+                    else f"Programado para {data_curta(p['data'])}")
+        extra = f'<span class="selo-google">Google nº {google:02d}</span>' if google else ""
+        if no_ar:
+            acoes = f"""<a class="botao botao-whatsapp" href="{compartilhar}" target="_blank" rel="noopener">{ICONE_WHATS}Enviar no WhatsApp</a>
+  <a class="botao botao-linha" href="posts/{p['slug']}.html">Abrir o post</a>"""
+        else:
+            acoes = '<p class="aviso-programado">O post e o link entram no ar nessa data.</p>'
+        itens.append(f"""<div class="arte" data-numero="{p['numero']}" data-area="{p['area']}" data-situacao="{'publicado' if no_ar else 'programado'}" data-google="{google or ''}" data-busca="{e(busca)}">
   <img src="imagens/{p['slug']}-instagram.jpg?v={vi}" width="1080" height="1350" loading="lazy" alt="">
-  <div><b>{e(p['titulo'])}</b>
-  <a class="botao botao-linha" href="imagens/{p['slug']}-instagram.jpg?v={vi}" download>Baixar arte do Instagram</a>
-  <a class="botao botao-linha" href="imagens/{p['slug']}-capa.jpg?v={vc}" download>Baixar capa (WhatsApp e Facebook)</a>
-  <a class="botao botao-whatsapp" href="{compartilhar}" target="_blank" rel="noopener">{ICONE_WHATS}Enviar no WhatsApp</a>
-  <a class="botao botao-linha" href="posts/{p['slug']}.html">Abrir o post</a></div>
+  <div><p class="ficha"><span class="codigo">Nº {cod}</span>{extra}</p>
+  <b>{e(p['titulo'])}</b>
+  <small class="{'' if no_ar else 'programado'}">{AREAS[p['area']]} · {situacao}</small>
+  <a class="botao botao-linha" href="imagens/{p['slug']}-instagram.jpg?v={vi}" download="{cod}-{p['slug']}-instagram.jpg">Baixar arte do Instagram</a>
+  <a class="botao botao-linha" href="imagens/{p['slug']}-capa.jpg?v={vc}" download="{cod}-{p['slug']}-capa.jpg">Baixar capa (WhatsApp e Facebook)</a>
+  {acoes}</div>
 </div>""")
+    curto = {"familia": "Família", "sucessoes": "Sucessões", "trabalhista": "Trabalhista", "civil": "Civil",
+             "consumidor": "Consumidor", "previdenciario": "Previdenciário"}
+    usadas = [k for k in AREAS if any(p["area"] == k for p in ordem)]
+    b_area = '<button type="button" data-valor="" aria-pressed="true">Todas as áreas</button>' + "".join(
+        f'<button type="button" data-valor="{k}" aria-pressed="false">{curto.get(k, AREAS[k])}</button>' for k in usadas)
+    b_sit = ('<button type="button" data-valor="" aria-pressed="true">Publicadas e programadas</button>'
+             f'<button type="button" data-valor="publicado" aria-pressed="false">Publicadas ({len(posts)})</button>'
+             f'<button type="button" data-valor="programado" aria-pressed="false">Programadas ({len(programados)})</button>')
     corpo = f"""<section class="artes conteudo">
-  <h1>Artes para as redes</h1>
-  <p>Página de uso do escritório. Baixe a arte para postar no Instagram ou no Status do WhatsApp, ou envie o link já com a prévia.</p>
-  <div class="lista">{"".join(itens)}</div>
+  <h1>Painel das artes</h1>
+  <p>Página de uso do escritório. Cada informativo tem um número (Nº), que também vai no nome do arquivo baixado. Busque pelo número, pelo tema ou por uma palavra. Para achar pela postagem do Google, digite G e o número (ex.: G12).</p>
+  <div class="painel-busca">
+    <label for="busca">Buscar arte</label>
+    <input id="busca" type="search" placeholder="Ex.: 47, pensão, aviso prévio, G12" autocomplete="off">
+    <span id="contador" aria-live="polite"></span>
+  </div>
+  <div class="filtros" id="f-area" role="group" aria-label="Filtrar por área">{b_area}</div>
+  <div class="filtros" id="f-situacao" role="group" aria-label="Filtrar por situação">{b_sit}</div>
+  <div class="lista" id="painel">{"".join(itens)}</div>
 </section>
 """
-    return (cabeca(f"Artes para as redes | {NOME}", "Artes dos informativos para as redes.", f"{BASE}artes.html", "", robots=True)
-            + corpo + rodape("") + "</body>\n</html>\n")
+    return (cabeca(f"Painel das artes | {NOME}", "Artes dos informativos para as redes.", f"{BASE}artes.html", "", robots=True)
+            + corpo + rodape("") + SCRIPT_ARTES + "\n</body>\n</html>\n")
 
 
 # ---------- imagens ----------
@@ -686,7 +762,7 @@ def main():
     for p in posts:
         (RAIZ / "posts" / f"{p['slug']}.html").write_text(pagina_post(p, posts), encoding="utf-8")
     (RAIZ / "index.html").write_text(pagina_inicial(posts), encoding="utf-8")
-    (RAIZ / "artes.html").write_text(pagina_artes(posts), encoding="utf-8")
+    (RAIZ / "artes.html").write_text(pagina_artes(posts, programados), encoding="utf-8")
     (RAIZ / "expediente.html").write_text(pagina_expediente(posts), encoding="utf-8")
     (RAIZ / "apresentacao.html").write_text(pagina_apresentacao(posts), encoding="utf-8")
     (RAIZ / "volumes.html").write_text(pagina_volumes(posts), encoding="utf-8")
