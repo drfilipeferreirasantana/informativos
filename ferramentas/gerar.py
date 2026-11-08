@@ -81,6 +81,12 @@ def versao(caminho):
     return hashlib.md5(arq.read_bytes()).hexdigest()[:8] if arq.exists() else "0"
 
 
+def volume(iso):
+    """Designação numérica exigida pelo ISSN: um volume por ano civil, a partir de 2026."""
+    ano = int(iso[:4])
+    return f"Vol. {ano - 2025} ({ano})"
+
+
 def data_curta(iso):
     a, m, d = iso.split("-")
     return f"{int(d)} {MESES[int(m) - 1][:3]}. {a}"
@@ -220,7 +226,7 @@ def rodape(base):
       <h3>Você sabia? Informativos {NOME}</h3>{issn}
       <p>Editor responsável: {ADVOGADO}, {OAB}</p>
       <p>{ENDERECO}</p>
-      <p><a href="{base}expediente.html">Expediente</a></p>
+      <p class="rodape-links"><a href="{base}apresentacao.html">Apresentação</a> · <a href="{base}volumes.html">Volumes publicados</a> · <a href="{base}expediente.html">Expediente</a></p>
     </div>
     <div>
       <h3>Contato</h3>
@@ -284,7 +290,7 @@ def pagina_post(p, posts):
     foto = f"../assets/fotos/posts/{p['slug']}.jpg"
     corpo = f"""<article class="post">
 <div class="conteudo coluna">
-  <p class="linha-topo"><b>{area}</b> {data_extenso(p['data'])}<a href="../index.html">Todos os informativos</a></p>
+  <p class="linha-topo"><b>{area}</b> {volume(p['data'])} · {data_extenso(p['data'])}<a href="../index.html">Todos os informativos</a></p>
   <img class="foto-post" src="{foto}" width="1200" height="800" fetchpriority="high" alt="">
   <h1>{e(p['titulo'])}</h1>
   <div class="resposta"><strong>{e(p['destaque'])}</strong> {e(p['resumo'])}</div>
@@ -528,8 +534,9 @@ def pagina_expediente(posts):
     <dt>Endereço</dt><dd>{ENDERECO}, CEP 29901-554</dd>
     <dt>Contato</dt><dd><a href="mailto:{EMAIL}">{EMAIL}</a> · {TELEFONE}</dd>
     <dt>Suporte</dt><dd>On-line, em <a href="{BASE}">{BASE.removeprefix("https://").rstrip("/")}</a></dd>
-    <dt>Periodicidade</dt><dd>Contínua, com publicação de novos informativos em média a cada dois dias</dd>
-    <dt>Início da publicação</dt><dd>{MESES[int(m) - 1]} de {a}</dd>
+    <dt>Periodicidade</dt><dd>Fluxo contínuo, com publicação de novas matérias em média a cada dois dias</dd>
+    <dt>Início da publicação</dt><dd>{MESES[int(m) - 1]} de {a}, Vol. 1</dd>
+    <dt>Designação numérica</dt><dd>Um volume por ano civil: Vol. 1 (2026), Vol. 2 (2027) e assim por diante</dd>
     <dt>Idioma</dt><dd>Português</dd>
     <dt>Assuntos</dt><dd>Direito de Família, Sucessões, Direito Trabalhista, Direito Civil, Direito do Consumidor e Direito Previdenciário</dd>
     <dt>Linha editorial</dt><dd>Textos informativos e em tese sobre direitos do dia a dia, com base legal conferida em fontes oficiais, de acordo com o Provimento 205/2021 do Conselho Federal da OAB. Não substituem a análise individual de cada situação.</dd>
@@ -538,6 +545,42 @@ def pagina_expediente(posts):
 """
     return (cabeca(f"Expediente | Você sabia? Informativos {NOME}", "Expediente da publicação Você sabia? Informativos Ferreira Advogados.",
                    f"{BASE}expediente.html", "") + corpo + rodape("") + "</body>\n</html>\n")
+
+
+def pagina_apresentacao(posts):
+    corpo = f"""<section class="conteudo coluna expediente">
+  <p class="linha-topo"><b>Apresentação</b> Você sabia? Informativos {NOME}</p>
+  <h1>Apresentação</h1>
+  <div class="texto">
+    <p><b>Você sabia? Informativos {NOME}</b> é uma publicação on-line de divulgação jurídica, editada por {ADVOGADO}, advogado ({OAB}), em Linhares/ES.</p>
+    <p>Cada matéria responde, de forma direta, uma dúvida comum sobre direitos do dia a dia, nas áreas de Direito de Família, Sucessões, Direito do Trabalho, Direito Civil, Direito do Consumidor e Direito Previdenciário.</p>
+    <p>O público é o cidadão que não é da área jurídica. Por isso as matérias trazem a resposta logo no início, os pontos principais em poucas linhas, um exemplo do dia a dia e, para quem quiser se aprofundar, o texto completo, as perguntas frequentes e a base legal.</p>
+    <p>Toda afirmação jurídica é conferida no texto oficial da lei, de súmulas ou de decisões de tribunais superiores. As matérias são informativas e em tese, de acordo com o Provimento 205/2021 do Conselho Federal da OAB, e não substituem a análise individual de cada situação.</p>
+    <p>A publicação é contínua: novas matérias entram à medida que ficam prontas, organizadas em um volume por ano. Veja os <a href="volumes.html">volumes publicados</a> e o <a href="expediente.html">expediente</a>.</p>
+  </div>
+</section>
+"""
+    return (cabeca(f"Apresentação | Você sabia? Informativos {NOME}", "Apresentação da publicação Você sabia? Informativos Ferreira Advogados.",
+                   f"{BASE}apresentacao.html", "") + corpo + rodape("") + "</body>\n</html>\n")
+
+
+def pagina_volumes(posts):
+    anos = sorted({p["data"][:4] for p in posts}, reverse=True)
+    blocos = []
+    for ano in anos:
+        do_ano = [p for p in posts if p["data"][:4] == ano]
+        itens = "".join(f'<li><a href="posts/{p["slug"]}.html">{e(p["titulo"])}</a><small>{AREAS[p["area"]]} · {data_curta(p["data"])}</small></li>' for p in do_ano)
+        atual = " (volume atual)" if ano == anos[0] else ""
+        blocos.append(f'<section class="volume"><h2>{volume(ano + "-01-01")}{atual}</h2><p>{len(do_ano)} matérias publicadas</p><ol>{itens}</ol></section>')
+    corpo = f"""<section class="conteudo coluna expediente">
+  <p class="linha-topo"><b>Volumes publicados</b> Você sabia? Informativos {NOME}</p>
+  <h1>Volumes publicados</h1>
+  <p class="chamada">Um volume por ano civil. As matérias entram no volume do ano em que são publicadas.</p>
+  {"".join(blocos)}
+</section>
+"""
+    return (cabeca(f"Volumes publicados | Você sabia? Informativos {NOME}", "Volumes publicados de Você sabia? Informativos Ferreira Advogados.",
+                   f"{BASE}volumes.html", "") + corpo + rodape("") + "</body>\n</html>\n")
 
 
 def main():
@@ -556,7 +599,9 @@ def main():
     (RAIZ / "index.html").write_text(pagina_inicial(posts), encoding="utf-8")
     (RAIZ / "artes.html").write_text(pagina_artes(posts), encoding="utf-8")
     (RAIZ / "expediente.html").write_text(pagina_expediente(posts), encoding="utf-8")
-    urls = [BASE, f"{BASE}expediente.html"] + [f"{BASE}posts/{p['slug']}.html" for p in posts]
+    (RAIZ / "apresentacao.html").write_text(pagina_apresentacao(posts), encoding="utf-8")
+    (RAIZ / "volumes.html").write_text(pagina_volumes(posts), encoding="utf-8")
+    urls = [BASE, f"{BASE}apresentacao.html", f"{BASE}volumes.html", f"{BASE}expediente.html"] + [f"{BASE}posts/{p['slug']}.html" for p in posts]
     linhas = "\n".join(f"  <url><loc>{u}</loc></url>" for u in urls)
     (RAIZ / "sitemap.xml").write_text(
         f'<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n{linhas}\n</urlset>\n',

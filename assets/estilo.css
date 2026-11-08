@@ -163,6 +163,16 @@ p{margin:0}
 .contatos svg{width:22px;height:22px;flex:none;color:#bdb6aa}
 .rodape .legal{margin-top:1.8rem;padding-top:1rem;border-top:1px solid #3a3a3a;font-size:.88rem;color:#9b958c}
 
+/* Apresentação e volumes */
+.volume{margin-top:2rem;padding-top:1rem;border-top:3px solid var(--tinta)}
+.volume h2{font-size:1.6rem}
+.volume>p{color:var(--cinza);margin:.2rem 0 .8rem}
+.volume ol{margin:0;padding-left:1.4rem;display:grid;gap:.55rem}
+.volume li a{font:600 1.08rem var(--serifa);text-decoration:none}
+.volume li a:hover{text-decoration:underline}
+.volume li small{display:block;color:var(--cinza);font-size:.9rem}
+.expediente .texto p{margin-bottom:1rem;font-size:1.12rem}
+
 /* Expediente */
 .expediente{padding-block:2rem 3rem}
 .expediente h1{margin:1rem 0 1.4rem;font-size:2.4rem}
