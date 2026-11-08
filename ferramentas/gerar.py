@@ -178,10 +178,6 @@ def carregar():
     return posts[::-1]  # na lista, o mais recente primeiro
 
 
-def abas(base):
-    return "".join(f'\n    <a href="{base}{s["pagina"]}">{s["aba"]}</a>' for s in SERIES.values())
-
-
 def cabeca(titulo, descricao, url, base, tipo="website", imagem=None, extra="", preload="", robots=""):
     imagem = imagem or f"{BASE}assets/emblema-prata.png"
     pre = f'\n<link rel="preload" as="image" href="{preload}">' if preload else ""
@@ -216,7 +212,7 @@ def cabeca(titulo, descricao, url, base, tipo="website", imagem=None, extra="", 
     <b>Você sabia?</b><span>{NOME}</span>
   </a>
   <nav aria-label="Principal">
-    <a href="{base}index.html">Informativos</a>{abas(base)}
+    <a href="{base}index.html">Informativos</a>
     <a href="{SITE}">Site do escritório</a>
     <a class="nav-whats" href="{WHATS_GERAL}" target="_blank" rel="noopener">{ICONE_WHATS}<span>WhatsApp</span></a>
   </nav>
