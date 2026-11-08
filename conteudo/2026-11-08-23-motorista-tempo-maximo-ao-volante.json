@@ -1,0 +1,50 @@
+{
+  "slug": "motorista-tempo-maximo-ao-volante",
+  "area": "trabalhista",
+  "data": "2026-11-08",
+  "serie": "motoristas",
+  "ordem": 8,
+  "titulo": "Quanto tempo o motorista pode dirigir sem parar?",
+  "resumo": "O Código de Trânsito proíbe o motorista profissional de dirigir mais de 5 horas e meia seguidas. No transporte de cargas, são 30 minutos de descanso a cada 6 horas; no de passageiros, a cada 4 horas.",
+  "destaque": "No máximo 5 horas e meia.",
+  "pontos": [
+    [
+      "relogio",
+      "O limite é de 5 horas e meia de direção ininterrupta."
+    ],
+    [
+      "calendario",
+      "Carga: 30 minutos de descanso a cada 6 horas ao volante."
+    ],
+    [
+      "check",
+      "Passageiros: 30 minutos de descanso a cada 4 horas."
+    ],
+    [
+      "alerta",
+      "Ninguém pode ordenar que o motorista viaje sem o descanso obrigatório."
+    ]
+  ],
+  "exemplo": "Rogério recebeu a carga atrasada e ouviu do despachante que precisava chegar ao destino sem parar, para não perder o horário de entrega.",
+  "corpo": "<h2>O que a lei prevê</h2><p>O Código de Trânsito proíbe o motorista profissional de dirigir por mais de 5 horas e meia ininterruptas veículos de transporte rodoviário de cargas ou de passageiros.</p><p>No transporte de carga, devem ser observados 30 minutos de descanso dentro de cada 6 horas ao volante, que podem ser divididos, desde que não se ultrapassem 5 horas e meia contínuas de direção. No transporte de passageiros, são 30 minutos a cada 4 horas.</p><p>A lei também proíbe transportadores, embarcadores e demais envolvidos de ordenar que o motorista conduza sem o descanso obrigatório.</p><h2>Na prática</h2><ul><li>Prazo de entrega não justifica dirigir além do limite.</li><li>O tempo de direção é só o período efetivamente ao volante.</li><li>O motorista deve controlar e registrar o tempo de condução.</li></ul>",
+  "faq": [
+    [
+      "A empresa pode exigir que eu dirija direto?",
+      "Não. O Código de Trânsito proíbe que transportador ou embarcador ordene a condução sem a observância do descanso (CTB, art. 67-C, § 7º)."
+    ],
+    [
+      "Quem controla o tempo ao volante?",
+      "O motorista é responsável por controlar e registrar o tempo de condução (CTB, art. 67-E)."
+    ]
+  ],
+  "base": [
+    "Código de Trânsito Brasileiro (Lei 9.503/1997), art. 67-C, caput e §§ 1º, 1º-A, 4º e 7º",
+    "Código de Trânsito Brasileiro, art. 67-E"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/977213/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

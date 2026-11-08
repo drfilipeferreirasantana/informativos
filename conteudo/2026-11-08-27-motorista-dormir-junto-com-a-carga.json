@@ -1,0 +1,51 @@
+{
+  "slug": "motorista-dormir-junto-com-a-carga",
+  "area": "trabalhista",
+  "data": "2026-11-08",
+  "serie": "motoristas",
+  "ordem": 12,
+  "titulo": "Dormir no caminhão junto com a carga dá direito a indenização?",
+  "resumo": "Para o TST, dormir na cabine, por si só, não gera indenização. Mas um motorista do Espírito Santo que dormia no baú, em cima das mercadorias, sem condições adequadas de descanso, teve a indenização confirmada.",
+  "destaque": "Pode dar.",
+  "pontos": [
+    [
+      "alerta",
+      "Em regra, pernoitar na cabine, sozinho, não gera indenização."
+    ],
+    [
+      "balanca",
+      "Gera quando faltam condições adequadas de descanso, como dormir em cima da carga."
+    ],
+    [
+      "casa",
+      "A lei admite o repouso no veículo ou em alojamento, desde que em condições adequadas."
+    ]
+  ],
+  "exemplo": "Edson faz entregas de alimentos e, sem alojamento na rota, dorme no baú entre as caixas, porque a cabine do caminhão não tem cama.",
+  "corpo": "<h2>O que foi decidido</h2><p>Em junho de 2025, a Primeira Turma do Tribunal Superior do Trabalho manteve a condenação de uma indústria de alimentos de Viana (ES) a indenizar um motorista que precisava dormir no baú do caminhão, em cima das mercadorias. A indenização foi fixada em R$ 25 mil pelo Tribunal Regional do Trabalho da 17ª Região.</p><p>Segundo o relator, o TST entende que pernoitar na cabine, isoladamente, não gera direito a indenização por dano extrapatrimonial. No caso, porém, as condições do pernoite bastaram para demonstrar a lesão, porque o motorista não tinha condições adequadas de repouso, com reflexo na saúde e na segurança dele e de quem trafega pela estrada.</p><h2>Na prática</h2><ul><li>A lei permite o repouso no veículo ou em alojamento, desde que o local ofereça condições adequadas.</li><li>Cada caso depende das condições concretas do descanso.</li></ul>",
+  "faq": [
+    [
+      "Dormir na cabine com cama gera indenização?",
+      "Em regra, não. O TST entende que o pernoite na cabine, isoladamente, não gera indenização (TST, RR-1184-25.2019.5.17.0002)."
+    ],
+    [
+      "Onde a lei permite o descanso nas viagens longas?",
+      "No veículo ou em alojamento do empregador, do contratante, do embarcador ou do destinatário, ou em outro local com condições adequadas (CLT, art. 235-C, § 4º)."
+    ]
+  ],
+  "base": [
+    "CLT, art. 235-C, § 4º",
+    "TST, Primeira Turma, RR-1184-25.2019.5.17.0002 (2025)"
+  ],
+  "fontes": [
+    [
+      "TST: Indústria terá de indenizar motorista que pernoitava no baú do caminhão (17/6/2025)",
+      "https://www.tst.jus.br/en/-/ind%C3%BAstria-ter%C3%A1-de-indenizar-motorista-que-pernoitava-no-ba%C3%BA-do-caminh%C3%A3o"
+    ]
+  ],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/4489417/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

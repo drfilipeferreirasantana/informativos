@@ -1,0 +1,52 @@
+{
+  "slug": "motorista-descanso-de-11-horas",
+  "area": "trabalhista",
+  "data": "2026-11-08",
+  "serie": "motoristas",
+  "ordem": 6,
+  "titulo": "Quantas horas de descanso o motorista deve ter entre um dia e outro?",
+  "resumo": "Dentro de cada período de 24 horas, o motorista empregado tem direito a 11 horas de descanso. O STF invalidou a regra que permitia dividir esse descanso em partes.",
+  "destaque": "11 horas seguidas.",
+  "pontos": [
+    [
+      "relogio",
+      "São 11 horas de descanso dentro de cada período de 24 horas."
+    ],
+    [
+      "alerta",
+      "Depois da decisão do STF, esse descanso não pode ser fracionado."
+    ],
+    [
+      "check",
+      "A viagem só deve começar depois do descanso completo."
+    ]
+  ],
+  "exemplo": "Valter chegou de viagem à 1h da manhã e recebeu ordem de sair de novo às 7h, com outra carga.",
+  "corpo": "<h2>O que a lei prevê</h2><p>A CLT assegura ao motorista profissional empregado 11 horas de descanso dentro de cada período de 24 horas. A lei permitia dividir esse descanso, desde que a primeira parte tivesse pelo menos 8 horas seguidas.</p><p>Em 2023, ao julgar a ADI 5322, o Supremo Tribunal Federal invalidou o fracionamento desse descanso. Assim, as 11 horas devem ser seguidas.</p><p>O Código de Trânsito também determina que o condutor só inicie uma viagem depois de cumprir integralmente o descanso.</p><h2>Na prática</h2><ul><li>Entre o fim de uma jornada e o início da outra devem passar 11 horas.</li><li>Nas viagens longas, o descanso pode ser feito no veículo ou em alojamento, desde que em condições adequadas.</li></ul>",
+  "faq": [
+    [
+      "Pode descansar dentro do caminhão?",
+      "Nas viagens de longa distância, o repouso diário pode ser feito no veículo ou em alojamento que ofereça condições adequadas (CLT, art. 235-C, § 4º)."
+    ],
+    [
+      "A empresa pode mandar sair antes do fim do descanso?",
+      "O Código de Trânsito proíbe iniciar viagem sem o descanso completo e proíbe que transportadores ou embarcadores ordenem isso (CTB, art. 67-C, §§ 6º e 7º)."
+    ]
+  ],
+  "base": [
+    "CLT, art. 235-C, §§ 3º e 4º",
+    "STF, ADI 5322",
+    "Código de Trânsito Brasileiro, art. 67-C, §§ 6º e 7º"
+  ],
+  "fontes": [
+    [
+      "STF: STF invalida dispositivos da Lei dos Caminhoneiros sobre tempo de espera, jornada e descanso (2023)",
+      "https://noticias.stf.jus.br/postsnoticias/stf-invalida-dispositivos-da-lei-dos-caminhoneiros-sobre-tempo-de-espera-jornada-e-descanso/"
+    ]
+  ],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/11911883/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

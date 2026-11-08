@@ -1,0 +1,46 @@
+{
+  "slug": "motorista-descontos-por-multas-e-avarias",
+  "area": "trabalhista",
+  "data": "2026-11-08",
+  "serie": "motoristas",
+  "ordem": 9,
+  "titulo": "A empresa pode descontar do salário do motorista multas e danos no caminhão?",
+  "resumo": "O desconto por dano causado pelo empregado só é permitido se foi combinado ou se houve dolo. E o motorista não responde por prejuízo causado por terceiros, salvo dolo ou desídia comprovados.",
+  "destaque": "Só em casos previstos.",
+  "pontos": [
+    [
+      "documento",
+      "Desconto por dano só se foi combinado no contrato ou se houve dolo."
+    ],
+    [
+      "escudo",
+      "Prejuízo causado por terceiro, como batida de outro veículo ou roubo, não é do motorista."
+    ],
+    [
+      "alerta",
+      "A exceção é o dolo ou a desídia do motorista, que precisam ser comprovados."
+    ]
+  ],
+  "exemplo": "Luciano teve a carreta atingida por outro veículo num posto e, no mês seguinte, encontrou no contracheque um desconto para pagar o conserto.",
+  "corpo": "<h2>O que a lei prevê</h2><p>A CLT proíbe descontos no salário, salvo adiantamentos e casos previstos em lei ou em norma coletiva. Se o empregado causar um dano, o desconto só é lícito quando essa possibilidade foi combinada ou quando houve dolo.</p><p>Para o motorista, a Lei 13.103/2015 vai além: o motorista empregado não responde perante o empregador por prejuízo patrimonial decorrente de ação de terceiro, ressalvado o dolo ou a desídia do motorista, que precisam ser comprovados.</p><h2>Na prática</h2><ul><li>Batida causada por outro veículo, roubo de carga ou vandalismo não podem virar desconto, salvo dolo ou desídia comprovados.</li><li>Multas de trânsito e danos causados pelo próprio motorista seguem a regra geral da CLT: dependem de acordo ou de dolo.</li><li>Confira no contracheque a descrição de cada desconto.</li></ul>",
+  "faq": [
+    [
+      "Assinei contrato permitindo desconto. Podem descontar qualquer prejuízo?",
+      "O acordo permite o desconto por dano causado pelo empregado (CLT, art. 462, § 1º). O prejuízo causado por terceiro continua fora, salvo dolo ou desídia comprovados (Lei 13.103/2015, art. 2º, V, a)."
+    ],
+    [
+      "Roubo de carga pode ser descontado?",
+      "Roubo é ação de terceiro. O motorista só responde se ficar comprovado dolo ou desídia dele (Lei 13.103/2015, art. 2º, V, a)."
+    ]
+  ],
+  "base": [
+    "CLT, art. 462, caput e § 1º",
+    "Lei 13.103/2015, art. 2º, V, a"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/6270443/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

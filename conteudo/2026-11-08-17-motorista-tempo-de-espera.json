@@ -1,0 +1,55 @@
+{
+  "slug": "motorista-tempo-de-espera",
+  "area": "trabalhista",
+  "data": "2026-11-08",
+  "serie": "motoristas",
+  "ordem": 2,
+  "titulo": "O tempo esperando carga e descarga conta como jornada do motorista?",
+  "resumo": "O STF decidiu que, enquanto espera carga, descarga ou fiscalização, o motorista continua à disposição da empresa. Por isso esse tempo entra na jornada.",
+  "destaque": "Sim, desde 2023.",
+  "pontos": [
+    [
+      "alerta",
+      "A regra que deixava a espera fora da jornada foi invalidada pelo STF na ADI 5322."
+    ],
+    [
+      "relogio",
+      "Se a espera fizer a jornada passar do limite, o tempo a mais é hora extra."
+    ],
+    [
+      "calendario",
+      "Para períodos anteriores ao julgamento, o STF manteve a regra antiga."
+    ]
+  ],
+  "exemplo": "Gilberto chegou ao armazém às 14h, mas a carreta só foi carregada às 21h. A empresa não contou essas sete horas na jornada dele.",
+  "corpo": "<h2>O que foi decidido</h2><p>A Lei do Motorista dizia que o tempo em que o motorista empregado fica aguardando carga ou descarga, ou parado em barreira fiscal, não contava como jornada nem como hora extra, e era pago à parte, com 30% do salário-hora.</p><p>Em 2023, ao julgar a ADI 5322, o Supremo Tribunal Federal invalidou essa regra. Para o STF, durante a espera o motorista continua à disposição do empregador, e por isso esse tempo é trabalho.</p><p>Depois, ao analisar recursos sobre a decisão, o STF definiu que ela não alcança períodos anteriores ao julgamento. Para esses períodos, vale a regra antiga.</p><h2>Na prática</h2><ul><li>O tempo de espera soma na jornada do dia.</li><li>Se a soma passar do limite da jornada, as horas a mais devem ser pagas como extras.</li><li>O registro da jornada, em diário de bordo, papeleta ou rastreador, mostra os horários de chegada e de saída.</li></ul>",
+  "faq": [
+    [
+      "Quanto se pagava pela espera antes da decisão?",
+      "A lei previa indenização de 30% do salário-hora normal (CLT, art. 235-C, § 9º), regra que o STF invalidou na ADI 5322."
+    ],
+    [
+      "A espera em barreira fiscal também conta?",
+      "Sim. A regra invalidada tratava da espera por carga e descarga e do tempo gasto com fiscalização da mercadoria (CLT, art. 235-C, § 8º)."
+    ]
+  ],
+  "base": [
+    "CLT, art. 235-C, §§ 1º, 8º e 9º",
+    "STF, ADI 5322 (julgamento concluído em 2023)"
+  ],
+  "fontes": [
+    [
+      "STF: STF invalida dispositivos da Lei dos Caminhoneiros sobre tempo de espera, jornada e descanso (2023)",
+      "https://noticias.stf.jus.br/postsnoticias/stf-invalida-dispositivos-da-lei-dos-caminhoneiros-sobre-tempo-de-espera-jornada-e-descanso/"
+    ],
+    [
+      "TST: Caminhoneiro deve receber por tempo de espera com carga e descarga (2024)",
+      "https://www.tst.jus.br/en/-/caminhoneiro-deve-receber-por-tempo-de-espera-com-carga-e-descarga"
+    ]
+  ],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/5876475/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

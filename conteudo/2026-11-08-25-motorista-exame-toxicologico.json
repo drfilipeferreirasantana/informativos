@@ -1,0 +1,50 @@
+{
+  "slug": "motorista-exame-toxicologico",
+  "area": "trabalhista",
+  "data": "2026-11-08",
+  "serie": "motoristas",
+  "ordem": 10,
+  "titulo": "O motorista precisa fazer exame toxicológico, e quem paga?",
+  "resumo": "O exame toxicológico é exigido na admissão e no desligamento do motorista profissional. A CLT o trata no artigo dos exames médicos obrigatórios, que são feitos por conta do empregador, com direito a contraprova e sigilo.",
+  "destaque": "Sim, e por conta da empresa.",
+  "pontos": [
+    [
+      "saude",
+      "O exame é exigido antes da admissão e no desligamento."
+    ],
+    [
+      "carteira",
+      "Os exames médicos obrigatórios do art. 168 da CLT são por conta do empregador."
+    ],
+    [
+      "escudo",
+      "Resultado positivo dá direito a contraprova, e o resultado é confidencial."
+    ],
+    [
+      "calendario",
+      "Durante o contrato, há exame pelo menos a cada 2 anos e 6 meses."
+    ]
+  ],
+  "exemplo": "Paulo foi contratado por uma transportadora e soube que o valor do exame toxicológico seria descontado do primeiro salário.",
+  "corpo": "<h2>O que a lei prevê</h2><p>A CLT exige exame toxicológico do motorista profissional antes da admissão e no desligamento, com direito à contraprova em caso de resultado positivo e com confidencialidade dos resultados. O exame deve ter janela de detecção mínima de 90 dias.</p><p>Essa regra está no art. 168 da CLT, que trata dos exames médicos obrigatórios e determina que eles sejam feitos por conta do empregador.</p><p>Durante o contrato, o motorista deve se submeter a exame toxicológico e a programa de controle de uso de drogas e álcool instituído pelo empregador, pelo menos uma vez a cada 2 anos e 6 meses.</p><h2>Na prática</h2><ul><li>O exame feito para a CNH pode ser aproveitado, se realizado nos últimos 60 dias.</li><li>A recusa em fazer o exame é considerada infração disciplinar.</li></ul>",
+  "faq": [
+    [
+      "Posso recusar o exame?",
+      "A recusa é considerada infração disciplinar, passível de penalidade (CLT, art. 235-B, parágrafo único)."
+    ],
+    [
+      "Vale o exame feito para a CNH?",
+      "Sim, pode ser usado o exame do Código de Trânsito realizado nos últimos 60 dias (CLT, art. 168, § 7º)."
+    ]
+  ],
+  "base": [
+    "CLT, art. 168, caput e §§ 6º e 7º",
+    "CLT, art. 235-B, VII e parágrafo único"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/6629374/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

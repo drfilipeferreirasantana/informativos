@@ -1,0 +1,46 @@
+{
+  "slug": "motorista-controle-de-jornada",
+  "area": "trabalhista",
+  "data": "2026-11-08",
+  "serie": "motoristas",
+  "ordem": 4,
+  "titulo": "A empresa é obrigada a registrar a jornada do motorista que viaja?",
+  "resumo": "A Lei do Motorista garante ao motorista empregado jornada controlada e registrada de maneira fidedigna, em diário de bordo, papeleta, ficha de trabalho externo ou sistema eletrônico do veículo.",
+  "destaque": "Sim, de forma fiel.",
+  "pontos": [
+    [
+      "documento",
+      "O registro pode ser em diário de bordo, papeleta, ficha ou sistema eletrônico do caminhão."
+    ],
+    [
+      "check",
+      "A empresa escolhe o meio, mas o registro precisa mostrar os horários reais."
+    ],
+    [
+      "alerta",
+      "O motorista responde pela guarda e pela exatidão das anotações até entregar o veículo."
+    ]
+  ],
+  "exemplo": "Márcio anota tudo no diário de bordo, mas a empresa só aceita a papeleta com horários iguais todos os dias, já preenchida pelo escritório.",
+  "corpo": "<h2>O que a lei prevê</h2><p>A Lei 13.103/2015 lista entre os direitos do motorista empregado ter a jornada controlada e registrada de maneira fidedigna. O registro pode ser feito por anotação em diário de bordo, papeleta ou ficha de trabalho externo, ou por sistema e meios eletrônicos instalados no veículo, à escolha do empregador.</p><p>A CLT acrescenta que o empregado é responsável pela guarda, preservação e exatidão das informações anotadas, até que o veículo seja entregue à empresa. Os dados podem ser enviados à distância, com o documento original anexado depois.</p><h2>Na prática</h2><ul><li>Horário que não corresponde à realidade não cumpre a lei.</li><li>Rastreador e telemetria também servem como registro da jornada.</li><li>Guarde cópia ou foto das anotações de cada viagem.</li></ul>",
+  "faq": [
+    [
+      "Trabalho externo dispensa controle de jornada?",
+      "Para o motorista profissional empregado, não: a lei garante a jornada controlada e registrada (Lei 13.103/2015, art. 2º, V, b)."
+    ],
+    [
+      "Os dados do rastreador valem como registro?",
+      "Sim. A lei admite sistemas e meios eletrônicos instalados nos veículos (Lei 13.103/2015, art. 2º, V, b; CLT, art. 235-C, § 14)."
+    ]
+  ],
+  "base": [
+    "Lei 13.103/2015, art. 2º, V, b",
+    "CLT, art. 235-C, §§ 14 e 15"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/6720527/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

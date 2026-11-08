@@ -66,6 +66,14 @@ p{margin:0}
 /* A assinatura é fundo desenhado, não imagem: sem "salvar imagem", sem arrastar, sem toque longo no celular */
 .assinatura-traco{display:block;width:120px;aspect-ratio:260/242;margin-top:.4rem;background:url("assinatura-bordo.png") center/contain no-repeat;pointer-events:none;user-select:none;-webkit-user-select:none;-webkit-touch-callout:none}
 
+/* Destaque de série na página principal */
+.serie-destaque{display:grid;gap:.4rem;margin:1.6rem 0 .4rem;padding:1.4rem 1.6rem;background:var(--tinta);color:#e9e4da;text-decoration:none;border-left:6px solid var(--bordo)}
+.serie-destaque .rotulo{color:#d9a7ae;margin:0}
+.serie-destaque b{font:700 clamp(1.6rem,4vw,2.2rem)/1.1 var(--serifa);color:#fff}
+.serie-destaque .desc{max-width:46rem;color:#cfc8bd}
+.serie-destaque .ver{font-weight:700;color:#fff;text-decoration:underline;text-underline-offset:4px}
+.serie-destaque:hover .ver{color:#d9a7ae}
+
 /* Filtros e lista */
 .vitrine{padding-bottom:3rem}
 .filtros{display:flex;flex-wrap:wrap;gap:.3rem 1.2rem;margin:1.4rem 0 1.6rem;padding-bottom:.8rem;border-bottom:1px solid var(--linha)}

@@ -1,0 +1,52 @@
+{
+  "slug": "motorista-jornada-e-horas-extras",
+  "area": "trabalhista",
+  "data": "2026-11-08",
+  "serie": "motoristas",
+  "ordem": 3,
+  "titulo": "Qual é a jornada do motorista de caminhão e quanto vale a hora extra?",
+  "resumo": "A jornada do motorista empregado é de 8 horas por dia, com até 2 horas extras, ou até 4 se a convenção ou o acordo coletivo permitir. A hora extra vale pelo menos 50% a mais.",
+  "destaque": "8 horas, mais até 2 extras.",
+  "pontos": [
+    [
+      "relogio",
+      "A jornada normal é de 8 horas por dia."
+    ],
+    [
+      "calendario",
+      "São até 2 horas extras por dia, ou até 4 com previsão em norma coletiva."
+    ],
+    [
+      "carteira",
+      "A hora extra vale pelo menos 50% a mais, ou é compensada em banco de horas."
+    ]
+  ],
+  "exemplo": "Adriano dirige das 6h às 19h quase todos os dias, com uma hora de almoço. No fim do mês, o salário é sempre o mesmo.",
+  "corpo": "<h2>O que a lei prevê</h2><p>A CLT fixa a jornada diária do motorista profissional empregado em 8 horas. Ela pode ser prorrogada por até 2 horas extras, ou por até 4 horas se houver previsão em convenção ou acordo coletivo.</p><p>As horas extras são pagas com o acréscimo previsto na Constituição, de pelo menos 50% sobre a hora normal, ou compensadas em banco de horas, na forma da CLT.</p><p>Conta como trabalho o tempo em que o motorista está à disposição do empregador, sem contar os intervalos de refeição e de descanso. Desde a decisão do STF na ADI 5322, o tempo de espera por carga e descarga também entra nessa conta.</p><h2>Na prática</h2><ul><li>Some as horas de direção, de carga e descarga e de espera do dia.</li><li>O que passar de 8 horas é hora extra.</li><li>O limite diário serve também para a segurança na estrada.</li></ul>",
+  "faq": [
+    [
+      "Quem trabalha na estrada pode ficar sem controle de horas?",
+      "Não. A lei garante ao motorista empregado jornada controlada e registrada de maneira fiel (Lei 13.103/2015, art. 2º, V, b)."
+    ],
+    [
+      "Banco de horas é permitido?",
+      "Sim. As horas extras podem ser compensadas na forma do art. 59, § 2º, da CLT (CLT, art. 235-C, § 5º)."
+    ]
+  ],
+  "base": [
+    "CLT, art. 235-C, caput e §§ 1º e 5º",
+    "Constituição Federal, art. 7º, XVI",
+    "STF, ADI 5322"
+  ],
+  "fontes": [
+    [
+      "STF: STF invalida dispositivos da Lei dos Caminhoneiros sobre tempo de espera, jornada e descanso (2023)",
+      "https://noticias.stf.jus.br/postsnoticias/stf-invalida-dispositivos-da-lei-dos-caminhoneiros-sobre-tempo-de-espera-jornada-e-descanso/"
+    ]
+  ],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/24343234/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

@@ -66,6 +66,14 @@ AREAS = {
 }
 ICONES = {"casa", "filhos", "carteira", "documento", "balanca", "calendario", "alerta", "check", "relogio",
           "carrinho", "escudo", "saude", "maleta", "livro", "predio"}
+SERIES = {
+    "motoristas": {
+        "titulo": "Direitos do motorista",
+        "aba": "Motoristas",
+        "pagina": "motoristas.html",
+        "descricao": "Uma série de 12 informativos sobre os direitos que mais aparecem na Justiça do Trabalho para motoristas de caminhão e de ônibus de viagem com carteira assinada: jornada, tempo de espera, descanso, adicional noturno, descontos, exame toxicológico, seguro de vida e mais.",
+    },
+}
 MESES = ["janeiro", "fevereiro", "março", "abril", "maio", "junho", "julho", "agosto",
          "setembro", "outubro", "novembro", "dezembro"]
 
@@ -125,6 +133,10 @@ def carregar():
         p.setdefault("faq", [])
         p.setdefault("fontes", [])
         p.setdefault("exemplo", "")
+        p.setdefault("serie", "")
+        p.setdefault("ordem", 0)
+        if p["serie"] and p["serie"] not in SERIES:
+            sys.exit(f"{arq.name}: série desconhecida: {p['serie']}")
         p["_arquivo"] = arq.name
         posts.append(p)
     # Regra: cada informativo tem a sua foto, e nenhuma foto se repete
@@ -148,6 +160,10 @@ def carregar():
     for n, p in enumerate(posts, 1):
         p["numero"] = n
     return posts[::-1]  # na lista, o mais recente primeiro
+
+
+def abas(base):
+    return "".join(f'\n    <a href="{base}{s["pagina"]}">{s["aba"]}</a>' for s in SERIES.values())
 
 
 def cabeca(titulo, descricao, url, base, tipo="website", imagem=None, extra="", preload="", robots=""):
@@ -184,7 +200,7 @@ def cabeca(titulo, descricao, url, base, tipo="website", imagem=None, extra="", 
     <b>Você sabia?</b><span>{NOME}</span>
   </a>
   <nav aria-label="Principal">
-    <a href="{base}index.html">Informativos</a>
+    <a href="{base}index.html">Informativos</a>{abas(base)}
     <a href="{SITE}">Site do escritório</a>
     <a class="nav-whats" href="{WHATSAPP}" target="_blank" rel="noopener">{ICONE_WHATS}<span>WhatsApp</span></a>
   </nav>
@@ -253,8 +269,19 @@ def cartao(p, base=""):
             f'<span class="resposta-curta">{e(p["destaque"])}</span></a>')
 
 
+def link_topo(p):
+    if p.get("serie"):
+        s = SERIES[p["serie"]]
+        return f'<a href="../{s["pagina"]}">Série {s["titulo"]}</a>'
+    return '<a href="../index.html">Todos os informativos</a>'
+
+
 def relacionados(p, posts):
     outros = [o for o in posts if o["slug"] != p["slug"]]
+    if p.get("serie"):
+        mesma = sorted([o for o in outros if o.get("serie") == p["serie"]], key=lambda o: o["ordem"])
+        return ([o for o in mesma if o["ordem"] > p["ordem"]] + [o for o in mesma if o["ordem"] < p["ordem"]])[:3]
+    outros = [o for o in outros if not o.get("serie")]
     return ([o for o in outros if o["area"] == p["area"]] + [o for o in outros if o["area"] != p["area"]])[:3]
 
 
@@ -290,7 +317,7 @@ def pagina_post(p, posts):
     foto = f"../assets/fotos/posts/{p['slug']}.jpg"
     corpo = f"""<article class="post">
 <div class="conteudo coluna">
-  <p class="linha-topo"><b>{area}</b> {volume(p['data'])} · {data_extenso(p['data'])}<a href="../index.html">Todos os informativos</a></p>
+  <p class="linha-topo"><b>{area}</b> {volume(p['data'])} · {data_extenso(p['data'])}{link_topo(p)}</p>
   <img class="foto-post" src="{foto}" width="1200" height="800" fetchpriority="high" alt="">
   <h1>{e(p['titulo'])}</h1>
   <div class="resposta"><strong>{e(p['destaque'])}</strong> {e(p['resumo'])}</div>
@@ -354,7 +381,19 @@ SCRIPT_LISTA = """<script>
 </script>"""
 
 
-def pagina_inicial(posts):
+def destaques_series(posts):
+    blocos = []
+    for k, s in SERIES.items():
+        n = sum(1 for p in posts if p.get("serie") == k)
+        if n:
+            blocos.append(f'''<a class="serie-destaque" href="{s["pagina"]}"><span class="rotulo">Série · {n} informativos</span>
+    <b>{s["titulo"]}</b><span class="desc">{s["descricao"]}</span><span class="ver">Ver a série</span></a>''')
+    return "".join(blocos)
+
+
+def pagina_inicial(todos):
+    destaques = destaques_series(todos)
+    posts = [p for p in todos if not p.get("serie")]
     usadas = [k for k in AREAS if any(p["area"] == k for p in posts)]
     botoes = '<button type="button" data-filtro="" aria-pressed="true">Todos</button>' + "".join(
         f'<button type="button" data-filtro="{k}" aria-pressed="false">{AREAS[k]}</button>' for k in usadas)
@@ -368,6 +407,7 @@ def pagina_inicial(posts):
   </div>
 </div></section>
 <section class="conteudo vitrine">
+  {destaques}
   <div class="filtros" role="group" aria-label="Filtrar por área">{botoes}</div>
   <div class="lista" id="lista">
 {cartoes}
@@ -583,6 +623,28 @@ def pagina_volumes(posts):
                    f"{BASE}volumes.html", "") + corpo + rodape("") + "</body>\n</html>\n")
 
 
+def pagina_serie(chave, posts):
+    s = SERIES[chave]
+    da_serie = sorted([p for p in posts if p.get("serie") == chave], key=lambda p: p["ordem"])
+    cartoes = "\n".join("  " + cartao(p) for p in da_serie)
+    corpo = f"""<section class="abertura"><div class="conteudo">
+  <div>
+    <p class="linha-topo"><b>Série</b> {len(da_serie)} informativos</p>
+    <h1>{s["titulo"]}</h1>
+    <p class="chamada">{s["descricao"]}</p>
+    {assinatura("")}
+  </div>
+</div></section>
+<section class="conteudo vitrine">
+  <div class="lista">
+{cartoes}
+  </div>
+</section>
+"""
+    return (cabeca(f"{s['titulo']} | Você sabia? Informativos {NOME}", s["descricao"], f"{BASE}{s['pagina']}", "")
+            + corpo + rodape("") + "</body>\n</html>\n")
+
+
 def main():
     posts = carregar()
     if not posts:
@@ -601,7 +663,10 @@ def main():
     (RAIZ / "expediente.html").write_text(pagina_expediente(posts), encoding="utf-8")
     (RAIZ / "apresentacao.html").write_text(pagina_apresentacao(posts), encoding="utf-8")
     (RAIZ / "volumes.html").write_text(pagina_volumes(posts), encoding="utf-8")
-    urls = [BASE, f"{BASE}apresentacao.html", f"{BASE}volumes.html", f"{BASE}expediente.html"] + [f"{BASE}posts/{p['slug']}.html" for p in posts]
+    for chave, s in SERIES.items():
+        if any(p.get("serie") == chave for p in posts):
+            (RAIZ / s["pagina"]).write_text(pagina_serie(chave, posts), encoding="utf-8")
+    urls = [BASE] + [f"{BASE}{s['pagina']}" for s in SERIES.values()] + [f"{BASE}apresentacao.html", f"{BASE}volumes.html", f"{BASE}expediente.html"] + [f"{BASE}posts/{p['slug']}.html" for p in posts]
     linhas = "\n".join(f"  <url><loc>{u}</loc></url>" for u in urls)
     (RAIZ / "sitemap.xml").write_text(
         f'<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n{linhas}\n</urlset>\n',

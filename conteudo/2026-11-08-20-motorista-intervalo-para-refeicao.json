@@ -1,0 +1,46 @@
+{
+  "slug": "motorista-intervalo-para-refeicao",
+  "area": "trabalhista",
+  "data": "2026-11-08",
+  "serie": "motoristas",
+  "ordem": 5,
+  "titulo": "Motorista tem direito a uma hora de almoço?",
+  "resumo": "A CLT garante ao motorista profissional empregado intervalo mínimo de 1 hora para refeição, que pode coincidir com a parada obrigatória exigida pelo Código de Trânsito.",
+  "destaque": "Sim, no mínimo 1 hora.",
+  "pontos": [
+    [
+      "relogio",
+      "O intervalo mínimo para refeição é de 1 hora."
+    ],
+    [
+      "check",
+      "Ele pode coincidir com a parada obrigatória do Código de Trânsito."
+    ],
+    [
+      "carteira",
+      "Intervalo não concedido é pago com 50% a mais sobre o tempo que faltou."
+    ]
+  ],
+  "exemplo": "Joana dirige ônibus de viagem e almoça em 20 minutos no posto, porque a escala não deixa mais tempo para parar.",
+  "corpo": "<h2>O que a lei prevê</h2><p>A CLT assegura ao motorista profissional empregado intervalo mínimo de 1 hora para refeição. Esse período pode coincidir com o tempo de parada obrigatória na condução do veículo, previsto no Código de Trânsito.</p><p>Quando o intervalo não é concedido, ou é concedido só em parte, a empresa deve pagar o período que faltou, com acréscimo de 50% sobre a hora normal.</p><h2>Na prática</h2><ul><li>Um almoço de 20 minutos deixa 40 minutos de intervalo a pagar.</li><li>No transporte coletivo de passageiros, a lei permite que convenção ou acordo coletivo reduza ou fracione o intervalo, em condições específicas.</li><li>O registro da jornada deve mostrar o horário do intervalo.</li></ul>",
+  "faq": [
+    [
+      "O intervalo pode ser feito com o caminhão parado na fila de descarga?",
+      "O intervalo pode coincidir com a parada obrigatória do Código de Trânsito (CLT, art. 235-C, § 2º). Já o tempo de espera por carga e descarga conta como jornada, segundo o STF na ADI 5322."
+    ],
+    [
+      "Como é pago o intervalo não concedido?",
+      "Paga-se o período suprimido, com acréscimo de 50% sobre a hora normal (CLT, art. 71, § 4º)."
+    ]
+  ],
+  "base": [
+    "CLT, art. 235-C, § 2º",
+    "CLT, art. 71, §§ 4º e 5º"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/13335061/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}
