@@ -153,6 +153,33 @@
   .selo i { width: 8px; height: 8px; border-radius: 50%; background: var(--cinza); display: inline-block; }
   .selo.on i { background: var(--verde); box-shadow: 0 0 0 3px rgba(76,195,138,.2); }
 
+  /* Ramo Google Ads: sai da linha dos sites para a esquerda (no computador) */
+  .li-ads { padding: 12px 0 0 20px; }
+  .li-ads::before { display: none; }
+  .ads-h, .ads-v { display: none; }
+  .ads {
+    --corte: 11px;
+    background: var(--escovado), var(--ouro-metal); color: var(--navy-1);
+    padding: 12px 14px; box-shadow: 0 6px 24px rgba(233,176,12,.35);
+  }
+  .ads-cab { display: flex; gap: 12px; align-items: center; }
+  .ads .icone { width: 34px; height: 34px; border-radius: 8px; background: var(--navy-1); color: var(--ouro-claro); }
+  .ads .icone svg { width: 18px; height: 18px; }
+  .ads h3 { font-size: 17px; font-weight: 700; }
+  .ads .end { font-size: 12.5px; color: #3d2c00; }
+  .ads-lista { list-style: none; margin-top: 10px; display: grid; gap: 6px; }
+  .ads-lista a { display: block; text-decoration: none; color: var(--marfim); background: var(--navy-1); border-radius: 6px; padding: 8px 10px; transition: filter .15s ease, transform .15s ease; }
+  .ads-lista a:hover, .ads-lista a:focus-visible { filter: brightness(1.15); transform: translateX(2px); outline: none; }
+  .ads-lista b { display: block; font-size: 15px; font-weight: 600; }
+  .ads-lista span { display: block; font-size: 12px; color: var(--texto-suave); overflow-wrap: anywhere; }
+  @media (min-width: 861px) {
+    .li-ads { padding: 0; height: 0; position: relative; z-index: 3; }
+    .ads-h, .ads-v { display: block; position: absolute; background: var(--linha); }
+    .ads-h { top: 6px; right: 100%; width: 170px; height: 2px; }
+    .ads-v { top: 6px; right: calc(100% + 168px); width: 2px; height: 26px; }
+    .ads-v::after { content: ''; position: absolute; bottom: -2px; left: -4px; border-left: 5px solid transparent; border-right: 5px solid transparent; border-top: 8px solid var(--ouro); }
+    .ads { position: absolute; top: 38px; right: calc(100% + 30px); width: 290px; }
+  }
   footer { position: relative; z-index: 1; text-align: center; font-size: 13.5px; color: var(--texto-suave); padding: 26px 16px 30px; letter-spacing: .03em; }
   footer b { color: var(--ouro); font-weight: 600; }
 
@@ -179,7 +206,7 @@
     <div class="saudacao" id="saudacao">Olá, Dr. Filipe Ferreira</div>
     <div class="lado-data">
       <div class="data" id="data"></div>
-      <a class="saldo" href="https://platform.claude.com/settings/billing" target="_blank" rel="noopener" title="Abre a página de cobrança da Claude, com o saldo atual">
+      <a class="saldo" id="botao-saldo" href="https://sistema.filipeferreiraadv.com/saldo-api.html" target="_blank" rel="noopener" title="Mostra o saldo estimado da API da Claude (precisa estar conectado no sistema)">
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="6" width="20" height="13" rx="2"/><path d="M2 10h20M16 15h2"/></svg>
         Saldo na API
       </a>
@@ -286,6 +313,18 @@
             <div><h3>Site institucional</h3><div class="end">escritorioferreiraadv.com.br</div><div class="info selo" id="st-institucional"><i></i> conferindo…</div></div>
           </a>
         </li>
+        <li class="li-ads">
+          <span class="ads-h" aria-hidden="true"></span><span class="ads-v" aria-hidden="true"></span>
+          <div class="no ads">
+            <div class="ads-cab">
+              <div class="icone"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 11v2a1 1 0 001 1h2l5 4V6L6 10H4a1 1 0 00-1 1z"/><path d="M15.5 8.5a5 5 0 010 7M18.5 5.5a9 9 0 010 13"/></svg></div>
+              <div><h3>Google Ads</h3><div class="end">Landing pages dos anúncios</div></div>
+            </div>
+            <ul class="ads-lista">
+              <li><a href="https://escritorioferreiraadv.com.br/lp/direito-trabalhista/" target="_blank" rel="noopener"><b>Direito Trabalhista</b><span>escritorioferreiraadv.com.br/lp/direito-trabalhista</span></a></li>
+            </ul>
+          </div>
+        </li>
         <li>
           <a class="no folha" href="https://filipeferreiraadv.com/" target="_blank" rel="noopener">
             <div class="icone"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v18M5 7h14M5 7l-3 7a3.5 3.5 0 006 0zM19 7l-3 7a3.5 3.5 0 006 0z"/></svg></div>
@@ -322,6 +361,12 @@
     var d = agora.toLocaleDateString('pt-BR', { weekday: 'long', day: '2-digit', month: 'long', year: 'numeric' });
     document.getElementById('data').textContent = d.charAt(0).toUpperCase() + d.slice(1);
   })();
+
+  // Saldo na API: abre uma janelinha do sistema (que sabe quem está conectado) com o valor
+  document.getElementById('botao-saldo').addEventListener('click', function (e) {
+    var w = window.open(this.href, 'saldoApi', 'width=440,height=640');
+    if (w) { e.preventDefault(); w.focus(); }
+  });
 
   function selo(id, ligado, texto) {
     var el = document.getElementById(id);
