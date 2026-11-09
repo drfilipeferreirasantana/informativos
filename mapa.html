@@ -252,7 +252,7 @@
             <div class="end">informativos.escritorioferreiraadv.com.br</div>
           </div>
         </div>
-        <p class="desc">O “Você sabia?” com os informativos para o público, o painel das artes e o site institucional.</p>
+        <p class="desc">O “Você sabia?” com os informativos para o público, o site institucional, o site de divórcio e o painel das artes.</p>
         <div class="etiquetas"><span>Você sabia?</span><span>Artes</span><span>Visitas</span></div>
         <span class="abrir">Abrir os informativos →</span>
       </a>
@@ -267,6 +267,12 @@
           <a class="no folha" href="https://escritorioferreiraadv.com.br/" target="_blank" rel="noopener">
             <div class="icone"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 21h18M5 21V10l7-5 7 5v11M9 21v-6h6v6"/></svg></div>
             <div><h3>Site institucional</h3><div class="end">escritorioferreiraadv.com.br</div><div class="info selo" id="st-institucional"><i></i> conferindo…</div></div>
+          </a>
+        </li>
+        <li>
+          <a class="no folha" href="https://filipeferreiraadv.com/" target="_blank" rel="noopener">
+            <div class="icone"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v18M5 7h14M5 7l-3 7a3.5 3.5 0 006 0zM19 7l-3 7a3.5 3.5 0 006 0z"/></svg></div>
+            <div><h3>Site de divórcio</h3><div class="end">filipeferreiraadv.com</div><div class="info selo" id="st-filipeferreira"><i></i> conferindo…</div></div>
           </a>
         </li>
         <li>
@@ -331,11 +337,16 @@
         }
         selo('st-informativos', (on.informativos || 0) > 0, linha('informativos'));
         selo('st-institucional', (on.institucional || 0) > 0, linha('institucional'));
+        // Site de divórcio (Lovable): só conta depois que o contador for colocado no site
+        var totalFF = ((d.total || {}).filipeferreira || {}).visitas || 0;
+        if (totalFF > 0 || (on.filipeferreira || 0) > 0) selo('st-filipeferreira', (on.filipeferreira || 0) > 0, linha('filipeferreira'));
+        else selo('st-filipeferreira', false, 'Contador ainda não colocado no site');
       })
       .catch(function () {
         selo('st-sistema', false, 'Sem resposta do sistema agora');
         selo('st-informativos', false, 'Números indisponíveis agora');
         selo('st-institucional', false, 'Números indisponíveis agora');
+        selo('st-filipeferreira', false, 'Números indisponíveis agora');
       });
   }
 
