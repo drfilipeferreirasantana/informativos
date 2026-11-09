@@ -1,0 +1,65 @@
+{
+  "slug": "separacao-total-de-bens-heranca-do-conjuge",
+  "area": "sucessoes",
+  "data": "2026-11-09",
+  "titulo": "Casou com separação total de bens: o cônjuge ainda tem direito à herança?",
+  "destaque": "Sim, em regra o cônjuge herda.",
+  "resumo": "A separação de bens define o que é de cada um durante o casamento. Com a morte, valem as regras da herança, e o STJ entende que o cônjuge casado em separação convencional é herdeiro e concorre com os filhos.",
+  "pontos": [
+    [
+      "escudo",
+      "Separação convencional: o cônjuge é herdeiro necessário, segundo o STJ."
+    ],
+    [
+      "filhos",
+      "Havendo filhos, ele concorre com eles; sem filhos, concorre com os pais do falecido."
+    ],
+    [
+      "alerta",
+      "Na separação obrigatória (como a do maior de 70 anos), não concorre com os filhos."
+    ],
+    [
+      "casa",
+      "O direito de morar no imóvel da família vale em qualquer regime."
+    ]
+  ],
+  "exemplo": "Marta e Roberto se casaram com pacto antenupcial de separação total de bens. Quando Roberto morreu, Marta ouviu de um conhecido que, por causa do pacto, não teria direito a nada. Ela ficou na dúvida se precisava mesmo sair da casa e abrir mão da herança.",
+  "corpo": "<p>Muita gente acredita que escolher a separação de bens no casamento deixa o outro de fora da herança. A lei e o STJ tratam o assunto de forma diferente.</p>\n<h2>O que a lei prevê</h2>\n<p>Na separação de bens, cada cônjuge administra e pode vender os seus bens livremente (Código Civil, art. 1.687). Essa regra organiza a vida do casal enquanto os dois estão vivos.</p>\n<p>Quando um deles morre, passa a valer a ordem da herança:</p>\n<ul>\n<li>os descendentes herdam em concorrência com o cônjuge sobrevivente, salvo se o casamento era em comunhão universal ou em separação obrigatória de bens (art. 1.829, I);</li>\n<li>a separação convencional, escolhida em pacto antenupcial, não está nessa lista de exceções;</li>\n<li>o cônjuge é herdeiro necessário (art. 1.845), e a metade da herança é reservada aos herdeiros necessários (art. 1.846);</li>\n<li>concorrendo com os filhos, o cônjuge recebe quota igual à de cada um deles, e não menos que a quarta parte da herança se for também pai ou mãe de todos os herdeiros com quem concorre (art. 1.832);</li>\n<li>sem descendentes, o cônjuge concorre com os ascendentes (art. 1.829, II) e, se não houver nem uns nem outros, recebe a herança inteira (art. 1.838).</li>\n</ul>\n<p>Esse é o entendimento da Terceira Turma do STJ, por exemplo no REsp 1.294.404, segundo o qual o pacto antenupcial regula os bens durante o casamento e deixa de produzir efeitos com a morte, quando passam a valer as regras do direito sucessório.</p>\n<h2>Na prática</h2>\n<p>Alguns pontos merecem atenção:</p>\n<ul>\n<li>A separação obrigatória, como a imposta à pessoa maior de 70 anos (art. 1.641, II), é tratada de outra forma: o cônjuge não concorre com os descendentes.</li>\n<li>O direito sucessório só é reconhecido se, ao tempo da morte, o casal não estava separado judicialmente nem separado de fato há mais de dois anos, salvo prova de que a convivência se tornou impossível sem culpa do sobrevivente (art. 1.830).</li>\n<li>Em qualquer regime, o cônjuge tem direito real de habitação sobre o imóvel da residência da família, se ele for o único daquela natureza a inventariar (art. 1.831).</li>\n<li>Não se pode fazer contrato sobre a herança de pessoa viva (art. 426). Por isso, quem quer organizar a sucessão de outro modo precisa estudar as ferramentas previstas em lei, como o testamento, dentro dos limites da parte reservada aos herdeiros necessários.</li>\n</ul>\n<p>Cada caso depende das datas, do regime e dos bens. Um documento como o pacto antenupcial deve ser lido com cuidado antes de qualquer conclusão.</p>",
+  "faq": [
+    [
+      "Separação total de bens e separação obrigatória são a mesma coisa?",
+      "Não. A convencional é escolhida em pacto antenupcial; a obrigatória é imposta por lei, como no caso da pessoa maior de 70 anos (Código Civil, arts. 1.641, II, e 1.829, I)."
+    ],
+    [
+      "Quanto o cônjuge recebe quando há filhos?",
+      "Em regra, quinhão igual ao de cada filho, com mínimo de um quarto da herança se for ascendente de todos os herdeiros com quem concorre (art. 1.832)."
+    ],
+    [
+      "O cônjuge pode ser obrigado a deixar a casa da família?",
+      "Em tese, não, desde que o imóvel seja o único dessa natureza a inventariar. Ele tem direito real de habitação em qualquer regime (art. 1.831)."
+    ]
+  ],
+  "base": [
+    "Código Civil, art. 426",
+    "Código Civil, art. 1.641, II",
+    "Código Civil, art. 1.687",
+    "Código Civil, arts. 1.829, I e II, 1.830, 1.831, 1.832 e 1.838",
+    "Código Civil, arts. 1.845 e 1.846",
+    "STJ, Terceira Turma, REsp 1.294.404"
+  ],
+  "fontes": [
+    [
+      "STJ: Viúvo é herdeiro necessário da esposa mesmo no casamento com separação total de bens (10/11/2015)",
+      "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias-antigas/2015/2015-11-10_07-00_Viuvo-e-herdeiro-necessario-da-esposa-mesmo-no-casamento-com-separacao-total-de-bens.aspx"
+    ],
+    [
+      "STJ: Cônjuge casado em separação convencional é herdeiro necessário e concorre com descendentes (2014)",
+      "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias-antigas/2014/2014-11-13_17-42_Conjuge-casado-em-separacao-convencional-e-herdeiro-necessario-e-concorre-com-descendentes.aspx"
+    ]
+  ],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/16475250/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}
