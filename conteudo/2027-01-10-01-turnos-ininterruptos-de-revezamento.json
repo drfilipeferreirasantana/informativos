@@ -1,0 +1,55 @@
+{
+  "slug": "turnos-ininterruptos-de-revezamento",
+  "area": "trabalhista",
+  "data": "2027-01-10",
+  "serie": "grandes-causas",
+  "ordem": 19,
+  "titulo": "Quem trabalha em turnos que se revezam tem jornada de 6 horas?",
+  "destaque": "Sim, salvo negociação coletiva.",
+  "resumo": "Quem trabalha em turnos que alternam manhã, tarde e noite tem direito a jornada de 6 horas. A jornada só pode ir até 8 horas se houver acordo ou convenção coletiva.",
+  "pontos": [
+    [
+      "relogio",
+      "A jornada em turnos de revezamento é de 6 horas."
+    ],
+    [
+      "documento",
+      "Só a negociação coletiva pode ampliar até 8 horas."
+    ],
+    [
+      "calendario",
+      "Alternar turno do dia com turno da noite já caracteriza."
+    ],
+    [
+      "alerta",
+      "Horas extras habituais além da 8ª podem invalidar o acordo."
+    ]
+  ],
+  "exemplo": "Sérgio trabalha numa fábrica de celulose em escala que alterna semanas de manhã, de tarde e de noite, sempre com 8 horas por dia e, com frequência, mais 2 horas extras no fim do turno.",
+  "corpo": "<p>O revezamento de turnos é comum em indústrias que funcionam 24 horas. Como o corpo não se acostuma a mudar de horário, a Constituição prevê uma jornada menor para quem trabalha assim.</p>\n<h2>O que a lei prevê</h2>\n<ul>\n<li>A jornada é de 6 horas para o trabalho em turnos ininterruptos de revezamento, salvo negociação coletiva (Constituição, art. 7º, XIV).</li>\n<li>Se a jornada for ampliada até 8 horas por negociação coletiva, a 7ª e a 8ª horas não são pagas como extras (TST, Súmula 423).</li>\n<li>A alternância entre turno diurno e noturno, mesmo em apenas dois turnos, já caracteriza o revezamento (OJ 360 da SDI-1).</li>\n</ul>\n<h2>Na prática</h2>\n<ul>\n<li>Sem acordo ou convenção coletiva válida, as horas além da 6ª são extras.</li>\n<li>O TST tem considerado inválida a ampliação quando o empregado faz habitualmente horas extras além da 8ª, o que pode tornar devidas como extras todas as horas além da 6ª.</li>\n<li>Escalas, cartões de ponto e as normas coletivas do período são os documentos principais.</li>\n<li>O prazo para cobrar é de 2 anos após a saída, alcançando os últimos 5 anos (Constituição, art. 7º, XXIX).</li>\n</ul>",
+  "faq": [
+    [
+      "Trabalho em dois turnos, dia e noite. É revezamento?",
+      "Sim. A alternância entre turno diurno e noturno já caracteriza (OJ 360 da SDI-1 do TST)."
+    ],
+    [
+      "A empresa pode fixar 8 horas em turnos?",
+      "Só por acordo ou convenção coletiva (Constituição, art. 7º, XIV; Súmula 423 do TST)."
+    ],
+    [
+      "E se eu faço horas extras todo dia além das 8 horas?",
+      "A jurisprudência do TST tem considerado inválida a ampliação nesses casos, e as horas além da 6ª podem ser cobradas."
+    ]
+  ],
+  "base": [
+    "Constituição Federal, art. 7º, XIV",
+    "TST, Súmula 423",
+    "TST, Orientação Jurisprudencial 360 da SDI-1"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/36720213/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "slug": "desvio-de-funcao-diferenca-salarial",
+  "area": "trabalhista",
+  "data": "2027-01-08",
+  "serie": "grandes-causas",
+  "ordem": 17,
+  "titulo": "Trabalho em função diferente da contratada: tenho direito a diferença salarial?",
+  "destaque": "No desvio de função, pode ter.",
+  "resumo": "Quem passa a exercer de forma habitual uma função mais bem paga que a sua pode ter direito às diferenças de salário. Já fazer tarefas extras compatíveis com o cargo nem sempre gera pagamento.",
+  "pontos": [
+    [
+      "maleta",
+      "Desvio é exercer, de fato, outra função mais bem paga."
+    ],
+    [
+      "carteira",
+      "O desvio pode gerar o pagamento das diferenças salariais."
+    ],
+    [
+      "alerta",
+      "Tarefas extras compatíveis com o cargo nem sempre geram pagamento."
+    ],
+    [
+      "documento",
+      "Plano de cargos e a convenção coletiva ajudam a provar."
+    ]
+  ],
+  "exemplo": "Diego foi contratado como auxiliar de almoxarifado, mas há três anos faz o trabalho de encarregado: coordena a equipe, faz pedidos e responde pelo estoque. O salário continua o de auxiliar.",
+  "corpo": "<p>É comum que, com o tempo, o empregado passe a fazer o trabalho de um cargo superior sem receber por isso. A Justiça diferencia o desvio de função do simples acréscimo de tarefas.</p>\n<h2>O que a lei prevê</h2>\n<ul>\n<li>Na falta de prova ou de cláusula expressa, entende-se que o empregado se obrigou a todo serviço compatível com a sua condição pessoal (CLT, art. 456, parágrafo único).</li>\n<li>Para o TST, o desvio de função não dá direito a novo enquadramento, mas gera o pagamento das diferenças salariais do período (OJ 125 da SDI-1).</li>\n<li>A alteração do contrato que traga prejuízo ao empregado é nula (CLT, art. 468).</li>\n</ul>\n<h2>Na prática</h2>\n<ul>\n<li>O desvio fica mais claro quando a empresa tem plano de cargos e salários, ou quando a convenção coletiva fixa pisos diferentes para cada função.</li>\n<li>O acúmulo de funções compatíveis com o cargo, em regra, não gera adicional, salvo previsão em lei ou norma coletiva.</li>\n<li>Descrições de cargo, organogramas, e-mails, assinaturas em documentos e testemunhas ajudam a provar as tarefas reais.</li>\n<li>As diferenças refletem em férias, 13º salário, FGTS e horas extras.</li>\n<li>O prazo para cobrar é de 2 anos após a saída, alcançando os últimos 5 anos (Constituição, art. 7º, XXIX).</li>\n</ul>",
+  "faq": [
+    [
+      "Desvio de função me dá direito a mudar de cargo?",
+      "Não. Gera o pagamento das diferenças salariais do período (OJ 125 da SDI-1 do TST)."
+    ],
+    [
+      "Fazer tarefas a mais é desvio de função?",
+      "Nem sempre. Tarefas compatíveis com o cargo, em regra, fazem parte do contrato (CLT, art. 456, parágrafo único)."
+    ],
+    [
+      "Como provo qual era a minha função real?",
+      "Com descrições de cargo, documentos assinados, e-mails e testemunhas."
+    ]
+  ],
+  "base": [
+    "CLT, arts. 456, parágrafo único, 460 e 468",
+    "TST, Orientação Jurisprudencial 125 da SDI-1"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/4480986/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

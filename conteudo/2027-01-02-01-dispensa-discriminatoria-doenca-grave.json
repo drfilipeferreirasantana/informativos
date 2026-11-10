@@ -1,0 +1,55 @@
+{
+  "slug": "dispensa-discriminatoria-doenca-grave",
+  "area": "trabalhista",
+  "data": "2027-01-02",
+  "serie": "grandes-causas",
+  "ordem": 11,
+  "titulo": "Demitido depois de descobrir doença grave: a dispensa é válida?",
+  "destaque": "Pode ser considerada discriminatória.",
+  "resumo": "Quando o empregado com doença grave que causa estigma é dispensado, a Justiça presume que houve discriminação. Cabe à empresa provar outro motivo.",
+  "pontos": [
+    [
+      "saude",
+      "Doença grave que gera estigma faz presumir a discriminação."
+    ],
+    [
+      "balanca",
+      "Cabe à empresa provar que a dispensa teve outro motivo."
+    ],
+    [
+      "carteira",
+      "O trabalhador pode pedir a volta ou a remuneração em dobro."
+    ],
+    [
+      "alerta",
+      "Pode haver também indenização por dano moral."
+    ]
+  ],
+  "exemplo": "Márcia trabalhava havia oito anos em uma indústria. Dois meses depois de contar ao chefe que estava em tratamento de câncer, foi dispensada sem justa causa, sem nenhuma queixa anterior sobre o seu trabalho.",
+  "corpo": "<p>Receber o diagnóstico de uma doença grave já é difícil. Ser dispensado logo depois torna tudo mais pesado. A lei e a Justiça do Trabalho tratam essa situação com cuidado especial.</p>\n<h2>O que a lei prevê</h2>\n<ul>\n<li>A Lei 9.029/1995 proíbe qualquer prática discriminatória para manter a relação de emprego (art. 1º).</li>\n<li>Se a dispensa for discriminatória, o trabalhador pode escolher entre a reintegração, com o pagamento do período de afastamento, ou a remuneração em dobro desse período, além da indenização por dano moral (art. 4º).</li>\n<li>Para o TST, presume-se discriminatória a dispensa do empregado com HIV ou outra doença grave que cause estigma ou preconceito. Nesse caso, o empregado tem direito à reintegração (Súmula 443).</li>\n</ul>\n<h2>Na prática</h2>\n<ul>\n<li>A presunção inverte a lógica comum: é a empresa que precisa provar que a dispensa teve motivo técnico, econômico ou disciplinar.</li>\n<li>Câncer, HIV, doenças psiquiátricas graves e outras que geram preconceito costumam ser analisadas com base nessa súmula.</li>\n<li>A data do diagnóstico, a data em que a empresa soube da doença, atestados e mensagens são provas importantes.</li>\n<li>O prazo para cobrar é de 2 anos após a saída, alcançando os últimos 5 anos (Constituição, art. 7º, XXIX).</li>\n</ul>",
+  "faq": [
+    [
+      "A empresa pode dispensar quem está em tratamento de câncer?",
+      "A dispensa é presumida discriminatória quando a doença grave causa estigma. A empresa precisa provar outro motivo (Súmula 443 do TST)."
+    ],
+    [
+      "O que o trabalhador pode pedir?",
+      "A reintegração com os salários do período ou a remuneração em dobro, além de dano moral (Lei 9.029/1995, art. 4º)."
+    ],
+    [
+      "E se a empresa não sabia da doença?",
+      "A presunção depende de a empresa ter conhecimento da doença. Por isso a prova desse conhecimento é importante."
+    ]
+  ],
+  "base": [
+    "Lei 9.029/1995, arts. 1º e 4º",
+    "TST, Súmula 443",
+    "Constituição Federal, arts. 3º, IV, e 7º, XXIX"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/6919716/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

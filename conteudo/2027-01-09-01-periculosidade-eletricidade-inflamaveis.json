@@ -1,0 +1,55 @@
+{
+  "slug": "periculosidade-eletricidade-inflamaveis",
+  "area": "trabalhista",
+  "data": "2027-01-09",
+  "serie": "grandes-causas",
+  "ordem": 18,
+  "titulo": "Quem trabalha com eletricidade ou inflamáveis recebe periculosidade?",
+  "destaque": "Sim, adicional de 30%.",
+  "resumo": "Atividades com risco acentuado, como contato com inflamáveis, explosivos ou energia elétrica, dão direito a adicional de 30% sobre o salário, mesmo que a exposição não seja o dia todo.",
+  "pontos": [
+    [
+      "alerta",
+      "Inflamáveis, explosivos e energia elétrica geram periculosidade."
+    ],
+    [
+      "carteira",
+      "O adicional é de 30% sobre o salário-base."
+    ],
+    [
+      "relogio",
+      "Exposição intermitente também dá direito ao adicional."
+    ],
+    [
+      "documento",
+      "O direito é verificado por perícia técnica."
+    ]
+  ],
+  "exemplo": "Valter é mecânico de manutenção em uma usina e várias vezes por semana entra na área dos tanques de combustível para consertar bombas. A empresa nunca pagou adicional de periculosidade.",
+  "corpo": "<p>O adicional de periculosidade é um dos pedidos mais comuns em indústrias, postos de combustível, empresas de energia e de vigilância. Ele também reflete em outras verbas do contrato.</p>\n<h2>O que a lei prevê</h2>\n<ul>\n<li>São perigosas as atividades que expõem o trabalhador a risco acentuado por inflamáveis, explosivos ou energia elétrica, e a roubos ou violência física nas atividades de segurança (CLT, art. 193, I e II). O trabalho com motocicleta também é previsto (art. 193, § 4º).</li>\n<li>O adicional é de 30% sobre o salário, sem os acréscimos de gratificações, prêmios ou participação nos lucros (art. 193, § 1º).</li>\n<li>As atividades e áreas de risco são detalhadas na Norma Regulamentadora 16.</li>\n<li>Para o TST, o adicional é devido na exposição permanente ou intermitente. Só não é devido quando o contato é eventual ou, sendo habitual, por tempo extremamente reduzido (Súmula 364, I).</li>\n</ul>\n<h2>Na prática</h2>\n<ul>\n<li>A caracterização depende de perícia técnica feita no processo (CLT, art. 195).</li>\n<li>Fornecer equipamento de proteção não afasta, por si só, a periculosidade.</li>\n<li>O adicional reflete em férias, 13º salário, FGTS e horas extras.</li>\n<li>O prazo para cobrar é de 2 anos após a saída, alcançando os últimos 5 anos (Constituição, art. 7º, XXIX).</li>\n</ul>",
+  "faq": [
+    [
+      "Preciso ficar o dia todo em área de risco para receber?",
+      "Não. A exposição intermitente também dá direito (Súmula 364, I, do TST)."
+    ],
+    [
+      "Sobre qual valor é calculado o adicional?",
+      "Sobre o salário, sem gratificações, prêmios ou participação nos lucros (CLT, art. 193, § 1º)."
+    ],
+    [
+      "Como se prova a periculosidade?",
+      "Por perícia técnica no processo (CLT, art. 195)."
+    ]
+  ],
+  "base": [
+    "CLT, arts. 193 e 195",
+    "Norma Regulamentadora 16",
+    "TST, Súmula 364"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/11477908/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

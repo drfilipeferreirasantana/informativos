@@ -1,0 +1,55 @@
+{
+  "slug": "terceirizado-empresa-contratante-responde",
+  "area": "trabalhista",
+  "data": "2027-01-04",
+  "serie": "grandes-causas",
+  "ordem": 13,
+  "titulo": "Terceirizado sem receber: a empresa contratante também responde?",
+  "destaque": "Sim, de forma subsidiária.",
+  "resumo": "Se a empresa terceirizada não paga os direitos, a empresa que contratou o serviço responde pelas dívidas do período em que o trabalhador prestou serviços a ela.",
+  "pontos": [
+    [
+      "predio",
+      "A tomadora responde se a terceirizada não pagar."
+    ],
+    [
+      "calendario",
+      "Vale para o período em que o serviço foi prestado a ela."
+    ],
+    [
+      "documento",
+      "As duas empresas devem ser incluídas na ação desde o início."
+    ],
+    [
+      "alerta",
+      "Com órgão público, é preciso provar falha na fiscalização."
+    ]
+  ],
+  "exemplo": "Josiane fazia a limpeza de um hospital particular, contratada por uma empresa terceirizada. A terceirizada fechou as portas sem pagar a rescisão nem o FGTS dos últimos meses.",
+  "corpo": "<p>Na terceirização, o trabalhador é contratado por uma empresa e presta serviços para outra. Quando a contratada desaparece ou não paga, a dúvida é se a empresa que recebeu o serviço também tem obrigação.</p>\n<h2>O que a lei prevê</h2>\n<ul>\n<li>A empresa contratante é subsidiariamente responsável pelas obrigações trabalhistas do período em que o serviço foi prestado (Lei 6.019/1974, art. 5º-A, § 5º).</li>\n<li>Responsabilidade subsidiária significa que a tomadora paga se a empresa contratada não pagar.</li>\n<li>A contratante deve garantir condições de segurança, higiene e saúde quando o trabalho é feito nas suas dependências (art. 5º-A, § 3º).</li>\n<li>O TST tem o mesmo entendimento, desde que a tomadora tenha participado do processo (Súmula 331, IV).</li>\n</ul>\n<h2>Na prática</h2>\n<ul>\n<li>A tomadora precisa ser incluída na ação desde o início. Não basta procurá-la só na hora de receber.</li>\n<li>Quando a tomadora é órgão público, ela só responde se ficar provado que falhou na fiscalização do contrato. Segundo o STF, essa prova cabe a quem pede (Temas 246 e 1.118).</li>\n<li>Crachás, uniformes, escalas e testemunhas ajudam a mostrar onde e para quem o serviço era prestado.</li>\n<li>O prazo para cobrar é de 2 anos após a saída, alcançando os últimos 5 anos (Constituição, art. 7º, XXIX).</li>\n</ul>",
+  "faq": [
+    [
+      "A empresa onde eu trabalhava como terceirizado paga a minha rescisão?",
+      "Se a terceirizada não pagar, a contratante responde pelo período em que você trabalhou para ela (Lei 6.019/1974, art. 5º-A, § 5º)."
+    ],
+    [
+      "Preciso incluir as duas empresas na ação?",
+      "Sim. A tomadora deve participar do processo desde o início (Súmula 331, IV, do TST)."
+    ],
+    [
+      "E se o serviço era para a prefeitura?",
+      "O ente público só responde se ficar provada falha na fiscalização do contrato (STF, Temas 246 e 1.118)."
+    ]
+  ],
+  "base": [
+    "Lei 6.019/1974, art. 5º-A, §§ 3º e 5º",
+    "TST, Súmula 331, IV e V",
+    "STF, Temas 246 e 1.118 de Repercussão Geral"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/33357392/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "slug": "grupo-economico-empresas-respondem",
+  "area": "trabalhista",
+  "data": "2027-01-05",
+  "serie": "grandes-causas",
+  "ordem": 14,
+  "titulo": "As outras empresas do grupo também respondem pela dívida trabalhista?",
+  "destaque": "Sim, se formarem grupo econômico.",
+  "resumo": "Empresas do mesmo grupo econômico respondem juntas pelas dívidas trabalhistas. Mas, segundo o STF, a empresa precisa participar do processo desde o início.",
+  "pontos": [
+    [
+      "predio",
+      "Empresas do mesmo grupo respondem solidariamente."
+    ],
+    [
+      "documento",
+      "Só ter os mesmos sócios não basta para formar grupo."
+    ],
+    [
+      "alerta",
+      "Segundo o STF, a empresa deve estar no processo desde o início."
+    ],
+    [
+      "check",
+      "Incluir todas as empresas na ação evita perder o direito de cobrar."
+    ]
+  ],
+  "exemplo": "Rogério trabalhava em uma transportadora que fechou. Ele sabe que os mesmos donos têm um posto de combustível e uma revendedora de peças, que funcionam no mesmo endereço e dividem empregados.",
+  "corpo": "<p>Muitas vezes, a empresa que contratou o trabalhador fecha ou não tem bens, mas faz parte de um grupo com outras empresas saudáveis. A lei permite cobrar o grupo, desde que alguns cuidados sejam tomados.</p>\n<h2>O que a lei prevê</h2>\n<ul>\n<li>Quando uma ou mais empresas estão sob a direção, o controle ou a administração de outra, ou integram grupo econômico, todas respondem solidariamente pelas obrigações trabalhistas (CLT, art. 2º, § 2º).</li>\n<li>A mera identidade de sócios não caracteriza o grupo. É preciso demonstrar o interesse integrado, a comunhão de interesses e a atuação conjunta das empresas (art. 2º, § 3º).</li>\n</ul>\n<h2>A decisão do STF</h2>\n<p>Em 2025, no Tema 1.232, o STF decidiu que, em regra, a empresa do grupo que não participou da fase de conhecimento do processo não pode ser incluída apenas na execução. A inclusão posterior fica restrita a situações excepcionais, como o abuso da personalidade jurídica.</p>\n<h2>Na prática</h2>\n<ul>\n<li>As empresas do grupo devem ser identificadas e incluídas na ação desde o começo.</li>\n<li>Contratos sociais, endereço comum, empregados compartilhados, mesma administração e mesma marca ajudam a demonstrar o grupo.</li>\n<li>O prazo para cobrar é de 2 anos após a saída, alcançando os últimos 5 anos (Constituição, art. 7º, XXIX).</li>\n</ul>",
+  "faq": [
+    [
+      "Empresas com os mesmos donos formam grupo econômico?",
+      "Não automaticamente. É preciso demonstrar interesse integrado e atuação conjunta (CLT, art. 2º, § 3º)."
+    ],
+    [
+      "Posso cobrar outra empresa do grupo só na hora de receber?",
+      "Em regra, não. Segundo o STF, ela precisa ter participado do processo desde o início (Tema 1.232)."
+    ],
+    [
+      "As empresas do grupo pagam juntas?",
+      "Sim. A responsabilidade é solidária (CLT, art. 2º, § 2º)."
+    ]
+  ],
+  "base": [
+    "CLT, art. 2º, §§ 2º e 3º",
+    "Código Civil, art. 50",
+    "STF, Tema 1.232 de Repercussão Geral"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/15261597/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

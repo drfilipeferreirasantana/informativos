@@ -1,0 +1,55 @@
+{
+  "slug": "sobreaviso-celular-fora-do-horario",
+  "area": "trabalhista",
+  "data": "2027-01-06",
+  "serie": "grandes-causas",
+  "ordem": 15,
+  "titulo": "Ficar à disposição pelo celular fora do horário deve ser pago?",
+  "destaque": "Sim, se for plantão de sobreaviso.",
+  "resumo": "Só ter celular da empresa não basta. Mas quem fica de plantão à distância, aguardando ser chamado a qualquer momento, tem direito ao sobreaviso, e as horas de trabalho efetivo são extras.",
+  "pontos": [
+    [
+      "relogio",
+      "Ficar de plantão aguardando chamado é sobreaviso."
+    ],
+    [
+      "carteira",
+      "O sobreaviso é pago com um terço do valor da hora normal."
+    ],
+    [
+      "check",
+      "Se for acionado, as horas trabalhadas são extras."
+    ],
+    [
+      "alerta",
+      "Só ter o celular da empresa, sem escala de plantão, não basta."
+    ]
+  ],
+  "exemplo": "Fábio é técnico de manutenção e, uma semana por mês, fica de plantão em casa à noite e nos fins de semana. Ele não pode viajar nem beber, porque precisa atender o celular e ir à fábrica se houver problema.",
+  "corpo": "<p>Com o celular, o trabalho passou a alcançar o descanso. A Justiça do Trabalho diferencia quem apenas pode ser procurado de quem realmente fica preso à espera de um chamado.</p>\n<h2>O que a lei prevê</h2>\n<ul>\n<li>A CLT considera de sobreaviso o empregado que permanece em casa aguardando, a qualquer momento, o chamado para o serviço. Essas horas são pagas com um terço do salário normal (art. 244, § 2º). A regra foi criada para os ferroviários e é aplicada a outras categorias.</li>\n<li>O uso de celular ou outro meio da empresa, por si só, não caracteriza sobreaviso (TST, Súmula 428, I).</li>\n<li>Está de sobreaviso quem, à distância e controlado pela empresa por meios telemáticos, fica em regime de plantão aguardando ser chamado (Súmula 428, II).</li>\n<li>O tempo em que o empregado é efetivamente acionado e trabalha conta como jornada, e pode gerar horas extras.</li>\n</ul>\n<h2>Na prática</h2>\n<ul>\n<li>Escalas de plantão, mensagens de acionamento, registros de chamadas e relatórios de atendimento são as principais provas.</li>\n<li>A limitação da liberdade, como não poder se afastar da cidade, reforça o direito.</li>\n<li>O prazo para cobrar é de 2 anos após a saída, alcançando os últimos 5 anos (Constituição, art. 7º, XXIX).</li>\n</ul>",
+  "faq": [
+    [
+      "Ter celular da empresa dá direito a sobreaviso?",
+      "Não por si só. É preciso estar em plantão, aguardando chamado (TST, Súmula 428)."
+    ],
+    [
+      "Quanto vale a hora de sobreaviso?",
+      "Um terço da hora normal (CLT, art. 244, § 2º, aplicado por analogia)."
+    ],
+    [
+      "E quando sou chamado e trabalho?",
+      "Esse tempo é trabalho efetivo e pode ser pago como hora extra."
+    ]
+  ],
+  "base": [
+    "CLT, art. 4º",
+    "CLT, art. 244, § 2º",
+    "TST, Súmula 428"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/40756118/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

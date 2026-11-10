@@ -1,0 +1,55 @@
+{
+  "slug": "plr-proporcional-apos-saida",
+  "area": "trabalhista",
+  "data": "2027-01-11",
+  "serie": "grandes-causas",
+  "ordem": 20,
+  "titulo": "Saí da empresa antes do pagamento da PLR: tenho direito?",
+  "destaque": "Sim, proporcional aos meses.",
+  "resumo": "Quem sai da empresa antes da data de pagamento da participação nos lucros tem direito à parte proporcional aos meses trabalhados, se contribuiu para os resultados.",
+  "pontos": [
+    [
+      "carteira",
+      "A PLR é proporcional aos meses trabalhados no período."
+    ],
+    [
+      "alerta",
+      "Cláusula que exige estar empregado na data do pagamento é inválida."
+    ],
+    [
+      "documento",
+      "As regras estão no acordo ou na convenção coletiva de PLR."
+    ],
+    [
+      "check",
+      "Bônus prometido em contrato também pode ser cobrado."
+    ]
+  ],
+  "exemplo": "Bruna era gerente de vendas e pediu demissão em outubro, depois de bater as metas do ano. A PLR foi paga em março aos que continuavam na empresa, e ela não recebeu nada.",
+  "corpo": "<p>A participação nos lucros e resultados, a PLR, costuma representar uma parte importante da remuneração de gerentes e executivos. Quem sai antes da data do pagamento muitas vezes ouve que perdeu o direito.</p>\n<h2>O que a lei prevê</h2>\n<ul>\n<li>A PLR é negociada entre empresa e empregados, por comissão ou por acordo ou convenção coletiva, com regras claras sobre metas e pagamento (Lei 10.101/2000, art. 2º).</li>\n<li>Ela não integra o salário para outras verbas (Constituição, art. 7º, XI; Lei 10.101/2000, art. 3º).</li>\n<li>Para o TST, a cláusula que condiciona a PLR a estar empregado na data do pagamento fere a igualdade. O ex-empregado que contribuiu para os resultados tem direito ao pagamento proporcional aos meses trabalhados (Súmula 451).</li>\n</ul>\n<h2>Na prática</h2>\n<ul>\n<li>O direito vale para quem pediu demissão e para quem foi dispensado.</li>\n<li>Bônus de desempenho prometidos em contrato, carta-proposta ou política interna também podem ser cobrados, conforme as regras previstas.</li>\n<li>O acordo de PLR, os demonstrativos de metas e os e-mails sobre resultados são as provas principais.</li>\n<li>O prazo para cobrar é de 2 anos após a saída, alcançando os últimos 5 anos (Constituição, art. 7º, XXIX).</li>\n</ul>",
+  "faq": [
+    [
+      "Pedi demissão. Ainda tenho direito à PLR?",
+      "Sim, proporcional aos meses trabalhados, se contribuiu para os resultados (Súmula 451 do TST)."
+    ],
+    [
+      "A empresa pode exigir que eu esteja empregado na data do pagamento?",
+      "Para o TST, essa exigência fere a igualdade (Súmula 451)."
+    ],
+    [
+      "A PLR entra no cálculo de férias e 13º?",
+      "Não. Ela não tem natureza salarial (Lei 10.101/2000, art. 3º)."
+    ]
+  ],
+  "base": [
+    "Constituição Federal, art. 7º, XI",
+    "Lei 10.101/2000, arts. 2º e 3º",
+    "TST, Súmula 451"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/7693713/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

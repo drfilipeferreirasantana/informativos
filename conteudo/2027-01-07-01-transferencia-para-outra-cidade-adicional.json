@@ -1,0 +1,54 @@
+{
+  "slug": "transferencia-para-outra-cidade-adicional",
+  "area": "trabalhista",
+  "data": "2027-01-07",
+  "serie": "grandes-causas",
+  "ordem": 16,
+  "titulo": "Fui transferido para outra cidade: tenho direito a adicional?",
+  "destaque": "Sim, de 25%, se for provisória.",
+  "resumo": "A transferência que obriga o empregado a mudar de casa depende, em regra, da concordância dele. Se for provisória, ele recebe adicional de pelo menos 25% do salário enquanto durar.",
+  "pontos": [
+    [
+      "casa",
+      "Transferência com mudança de domicílio depende de concordância."
+    ],
+    [
+      "carteira",
+      "Na transferência provisória, o adicional é de pelo menos 25%."
+    ],
+    [
+      "alerta",
+      "Cargo de confiança não afasta o adicional na provisória."
+    ],
+    [
+      "maleta",
+      "As despesas da mudança são pagas pela empresa."
+    ]
+  ],
+  "exemplo": "André foi mandado pela construtora para tocar uma obra em outro estado durante um ano e meio. Mudou com a família, mas recebeu o mesmo salário de antes.",
+  "corpo": "<p>Empresas com obras, filiais ou projetos em várias cidades costumam deslocar empregados. A lei protege o trabalhador que precisa mudar de casa por causa do trabalho.</p>\n<h2>O que a lei prevê</h2>\n<ul>\n<li>A empresa não pode transferir o empregado, sem a concordância dele, para local que exija mudança de domicílio (CLT, art. 469).</li>\n<li>Estão fora dessa proibição os cargos de confiança e os contratos que prevejam a transferência, quando houver real necessidade de serviço (art. 469, § 1º).</li>\n<li>Em caso de necessidade de serviço, a transferência é permitida, mas a empresa paga adicional de pelo menos 25% do salário enquanto durar a situação (art. 469, § 3º).</li>\n<li>As despesas da transferência ficam por conta do empregador (art. 470).</li>\n</ul>\n<h2>Na prática</h2>\n<ul>\n<li>Para o TST, o adicional é devido na transferência provisória. Ter cargo de confiança ou cláusula de transferência no contrato não afasta esse pagamento (OJ 113 da SDI-1).</li>\n<li>A transferência definitiva, em regra, não gera o adicional. A duração e o retorno do empregado ajudam a definir se ela foi provisória.</li>\n<li>O adicional reflete em férias, 13º salário e FGTS.</li>\n<li>O prazo para cobrar é de 2 anos após a saída, alcançando os últimos 5 anos (Constituição, art. 7º, XXIX).</li>\n</ul>",
+  "faq": [
+    [
+      "A empresa pode me transferir sem eu concordar?",
+      "Em regra, não, se exigir mudança de domicílio. Há exceções para cargos de confiança e contratos com essa previsão, havendo real necessidade (CLT, art. 469)."
+    ],
+    [
+      "Quem tem cargo de confiança recebe o adicional?",
+      "Sim, se a transferência for provisória (OJ 113 da SDI-1 do TST)."
+    ],
+    [
+      "Quem paga a mudança?",
+      "A empresa (CLT, art. 470)."
+    ]
+  ],
+  "base": [
+    "CLT, arts. 469 e 470",
+    "TST, Orientação Jurisprudencial 113 da SDI-1"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/4245990/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}
