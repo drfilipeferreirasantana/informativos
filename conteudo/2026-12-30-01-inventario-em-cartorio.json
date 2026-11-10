@@ -1,0 +1,57 @@
+{
+  "slug": "inventario-em-cartorio",
+  "area": "sucessoes",
+  "data": "2026-12-30",
+  "titulo": "Quando o inventário pode ser feito em cartório?",
+  "destaque": "Quando os herdeiros estão de acordo.",
+  "resumo": "O inventário pode ser feito por escritura pública em cartório quando todos os herdeiros concordam com a divisão. Desde 2024, isso vale também, com regras próprias, quando há herdeiro menor ou testamento.",
+  "pontos": [
+    [
+      "check",
+      "Todos os herdeiros precisam estar de acordo."
+    ],
+    [
+      "maleta",
+      "A presença de advogado é obrigatória."
+    ],
+    [
+      "filhos",
+      "Com herdeiro menor, a parte dele é dividida em frações de cada bem."
+    ],
+    [
+      "documento",
+      "Com testamento, é preciso autorização prévia da Justiça."
+    ]
+  ],
+  "exemplo": "Depois da morte da mãe, os irmãos Oliveira concordaram sobre como dividir o apartamento e a conta poupança. Um terceiro irmão já tinha falecido e deixou uma filha de 12 anos, que herda no lugar dele. A família não sabe se ainda pode fazer tudo em cartório.",
+  "corpo": "<p>O inventário em cartório, chamado de extrajudicial, costuma ser mais rápido que o processo na Justiça. Ele é feito por escritura pública, em qualquer cartório de notas escolhido pela família.</p>\n<h2>O que a lei prevê</h2>\n<p>O Código de Processo Civil permite o inventário por escritura pública quando todos os interessados são capazes e estão de acordo (art. 610, § 1º). O advogado é obrigatório e assina o ato junto com as partes (art. 610, § 2º).</p>\n<p>Em 2024, o Conselho Nacional de Justiça ampliou essa possibilidade (Resolução 571/2024, que alterou a Resolução 35/2007):</p>\n<ul>\n<li><b>Herdeiro menor ou incapaz:</b> o inventário pode ser feito em cartório se a parte dele for paga em frações ideais de cada bem, e a escritura só produz efeitos após manifestação favorável do Ministério Público.</li>\n<li><b>Testamento:</b> é admitido o inventário em cartório quando a Justiça autoriza, na ação de abertura e cumprimento do testamento.</li>\n</ul>\n<h2>Na prática</h2>\n<ul>\n<li>Basta um herdeiro discordar da divisão para o caso ir à Justiça.</li>\n<li>A escritura serve para transferir imóveis, veículos e contas bancárias, sem precisar de decisão judicial.</li>\n<li>O imposto sobre a herança (ITCMD) deve ser pago antes da escritura, conforme a lei de cada estado.</li>\n<li>Os documentos básicos são a certidão de óbito, os documentos dos herdeiros, as certidões dos bens e as certidões negativas de débitos.</li>\n</ul>",
+  "faq": [
+    [
+      "Precisa de advogado no inventário em cartório?",
+      "Sim. A lei exige advogado ou defensor público (CPC, art. 610, § 2º)."
+    ],
+    [
+      "Com herdeiro menor, ainda é obrigatório ir à Justiça?",
+      "Não necessariamente. Desde a Resolução CNJ 571/2024, o cartório é possível com regras próprias, como a manifestação favorável do Ministério Público."
+    ],
+    [
+      "E se um herdeiro não concordar?",
+      "Sem acordo de todos, o inventário deve ser feito na Justiça (CPC, art. 610)."
+    ]
+  ],
+  "base": [
+    "Código de Processo Civil, art. 610, §§ 1º e 2º",
+    "Resolução CNJ 35/2007, com as alterações da Resolução CNJ 571/2024"
+  ],
+  "fontes": [
+    [
+      "Colégio Notarial do Brasil, Seção SP: tabelião explica mudanças da resolução do CNJ sobre inventário com herdeiro menor ou incapaz (4/9/2024)",
+      "https://cnbsp.org.br/2024/09/04/inr-tabeliao-explica-mudancas-que-resolucao-do-cnj-traz-sobre-inventario-e-partilha-extrajudicial-com-herdeiro-menor-ou-incapaz-anoreg-sp/"
+    ]
+  ],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/7654118/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

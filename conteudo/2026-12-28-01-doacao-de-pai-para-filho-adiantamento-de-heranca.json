@@ -1,0 +1,55 @@
+{
+  "slug": "doacao-de-pai-para-filho-adiantamento-de-heranca",
+  "area": "sucessoes",
+  "data": "2026-12-28",
+  "titulo": "Pai pode doar um imóvel para um só filho sem a concordância dos outros?",
+  "destaque": "Pode, mas é adiantamento de herança.",
+  "resumo": "A doação de pai ou mãe para um filho não depende da concordância dos irmãos. Mas, em regra, ela é um adiantamento da herança e precisa ser informada no inventário.",
+  "pontos": [
+    [
+      "documento",
+      "Os outros filhos não precisam concordar com a doação."
+    ],
+    [
+      "balanca",
+      "Em regra, o valor doado é descontado da herança de quem recebeu."
+    ],
+    [
+      "escudo",
+      "A doação não pode passar da parte que o pai poderia deixar em testamento."
+    ],
+    [
+      "alerta",
+      "Venda de pai para filho é diferente e exige a concordância dos outros."
+    ]
+  ],
+  "exemplo": "Seu Antônio tem três filhos e quer doar a casa da praia para a filha mais nova, que cuida dele. Os outros dois filhos ficaram sabendo e perguntaram se a doação poderia ser feita sem a assinatura deles.",
+  "corpo": "<p>Muitos pais querem ajudar um filho em vida, seja com um imóvel, um carro ou dinheiro. A dúvida é se isso pode ser feito sem a aprovação dos irmãos e o que acontece com a herança depois.</p>\n<h2>O que a lei prevê</h2>\n<ul>\n<li>A doação de ascendente para descendente é considerada adiantamento do que o filho receberia de herança (Código Civil, art. 544).</li>\n<li>No inventário, quem recebeu doação deve informar o valor, para igualar as partes entre os herdeiros. Esse procedimento se chama colação (art. 2.002).</li>\n<li>O doador pode dispensar a colação, desde que a doação saia da parte disponível e isso conste na escritura de doação ou em testamento (arts. 2.005 e 2.006).</li>\n<li>É nula a doação na parte que ultrapassar o que o doador poderia deixar em testamento no momento da doação, porque metade dos bens é reservada aos herdeiros necessários (arts. 549 e 1.846).</li>\n</ul>\n<p>A venda é tratada de outro modo. A venda de pai para filho pode ser anulada se os outros descendentes e o cônjuge do vendedor não concordarem expressamente (art. 496).</p>\n<h2>Na prática</h2>\n<ul>\n<li>Se o pai é casado, em regra o cônjuge precisa autorizar a doação de imóvel, salvo no regime da separação absoluta de bens (art. 1.647, I).</li>\n<li>A doação de imóvel exige escritura pública e registro no cartório de imóveis, além do pagamento do imposto estadual sobre doações (ITCMD).</li>\n<li>Deixar claro na escritura se a doação é adiantamento de herança ou sai da parte disponível evita discussões no futuro inventário.</li>\n</ul>",
+  "faq": [
+    [
+      "Os irmãos precisam assinar a doação?",
+      "Não. A concordância dos outros descendentes é exigida na venda (Código Civil, art. 496), não na doação."
+    ],
+    [
+      "O filho que recebeu a doação perde direito à herança?",
+      "Não perde, mas o valor recebido é, em regra, descontado da parte dele no inventário (arts. 544 e 2.002)."
+    ],
+    [
+      "O pai pode doar tudo para um só filho?",
+      "Não. A doação que ultrapassa a parte disponível é nula no excesso (art. 549)."
+    ]
+  ],
+  "base": [
+    "Código Civil, art. 496",
+    "Código Civil, arts. 544 e 549",
+    "Código Civil, art. 1.647, I",
+    "Código Civil, art. 1.846",
+    "Código Civil, arts. 2.002, 2.005 e 2.006"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/8112169/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

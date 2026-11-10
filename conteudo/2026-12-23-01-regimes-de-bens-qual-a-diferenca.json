@@ -1,0 +1,61 @@
+{
+  "slug": "regimes-de-bens-qual-a-diferenca",
+  "area": "familia",
+  "data": "2026-12-23",
+  "titulo": "Comunhão parcial, universal ou separação: qual a diferença entre os regimes de bens?",
+  "destaque": "Muda o que é dividido no fim.",
+  "resumo": "O regime de bens define quais bens são de cada um e quais são do casal. Sem pacto antenupcial, vale a comunhão parcial: divide-se o que foi comprado durante o casamento.",
+  "pontos": [
+    [
+      "casa",
+      "Comunhão parcial: divide o que foi comprado durante o casamento."
+    ],
+    [
+      "filhos",
+      "Comunhão universal: divide quase tudo, inclusive o que era de antes."
+    ],
+    [
+      "escudo",
+      "Separação de bens: cada um fica com o que está em seu nome."
+    ],
+    [
+      "documento",
+      "Fora da comunhão parcial, é preciso pacto antenupcial em cartório."
+    ]
+  ],
+  "exemplo": "Larissa e Diego vão se casar no ano que vem. Ela já tem um apartamento e ele tem uma empresa pequena. No cartório, perguntaram qual regime de bens eles queriam, e os dois não souberam responder.",
+  "corpo": "<p>Na hora de marcar o casamento, o cartório pergunta qual será o regime de bens. Muita gente responde sem saber o que isso muda. Na prática, o regime é a regra que vai dizer o que é de cada um e o que será dividido se o casamento acabar.</p>\n<h2>O que a lei prevê</h2>\n<p>O Código Civil traz quatro regimes principais:</p>\n<ul>\n<li><b>Comunhão parcial de bens:</b> é o regime que vale quando o casal não faz pacto (art. 1.640). Entram na divisão os bens comprados durante o casamento (art. 1.658). Ficam de fora os bens que cada um já tinha antes e os recebidos por doação ou herança (art. 1.659).</li>\n<li><b>Comunhão universal de bens:</b> os bens presentes e futuros dos dois passam a ser do casal, com algumas exceções previstas em lei, como os bens doados ou herdados com cláusula de incomunicabilidade (arts. 1.667 e 1.668).</li>\n<li><b>Separação de bens:</b> cada um continua dono e administrador do que está em seu nome e pode vendê-lo livremente (art. 1.687).</li>\n<li><b>Participação final nos aquestos:</b> durante o casamento, cada um tem o seu patrimônio; se o casamento acabar, cada um tem direito à metade dos bens que o casal comprou durante a união (art. 1.672).</li>\n</ul>\n<p>Para escolher um regime diferente da comunhão parcial, o casal precisa fazer um pacto antenupcial por escritura pública, em cartório de notas, antes do casamento (art. 1.653).</p>\n<h2>Na prática</h2>\n<p>Alguns pontos costumam gerar dúvida:</p>\n<ul>\n<li>A lei impõe a separação de bens em alguns casos, como o da pessoa maior de 70 anos (art. 1.641, II). Em 2024, o STF decidiu que, nesse caso, o casal pode afastar a separação por escritura pública e escolher outro regime (Tema 1.236).</li>\n<li>Na união estável, vale a comunhão parcial, salvo contrato escrito entre os companheiros (art. 1.725).</li>\n<li>O regime também influencia a herança. O cônjuge pode ser herdeiro mesmo na separação de bens escolhida em pacto.</li>\n</ul>\n<p>Não existe regime melhor ou pior para todos. A escolha depende do patrimônio de cada um, da atividade profissional e dos planos do casal.</p>",
+  "faq": [
+    [
+      "Se não escolhermos nada, qual é o regime?",
+      "A comunhão parcial de bens (Código Civil, art. 1.640)."
+    ],
+    [
+      "Na comunhão parcial, a herança que eu receber será dividida?",
+      "Não. Bens recebidos por doação ou herança ficam fora da divisão (art. 1.659, I)."
+    ],
+    [
+      "Quem tem mais de 70 anos é obrigado a casar com separação de bens?",
+      "Segundo o STF (Tema 1.236), a separação prevista no art. 1.641, II, pode ser afastada por escritura pública."
+    ]
+  ],
+  "base": [
+    "Código Civil, arts. 1.640, 1.641 e 1.653",
+    "Código Civil, arts. 1.658 e 1.659",
+    "Código Civil, arts. 1.667 e 1.668",
+    "Código Civil, arts. 1.672 e 1.687",
+    "Código Civil, art. 1.725",
+    "STF, Tema 1.236 de Repercussão Geral (ARE 1.309.642)"
+  ],
+  "fontes": [
+    [
+      "IBDFAM: STF decide que separação de bens para maiores de 70 anos não é obrigatória (2024)",
+      "https://ibdfam.org.br/noticias/11527"
+    ]
+  ],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/34583565/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

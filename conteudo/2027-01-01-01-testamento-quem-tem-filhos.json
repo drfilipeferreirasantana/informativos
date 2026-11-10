@@ -1,0 +1,54 @@
+{
+  "slug": "testamento-quem-tem-filhos",
+  "area": "sucessoes",
+  "data": "2027-01-01",
+  "titulo": "Quem tem filhos pode deixar os bens para quem quiser em testamento?",
+  "destaque": "Só a metade dos bens.",
+  "resumo": "Quem tem filhos, pais ou cônjuge pode dispor em testamento de apenas metade do patrimônio. A outra metade é reservada por lei a esses herdeiros, chamados de necessários.",
+  "pontos": [
+    [
+      "filhos",
+      "Filhos, pais e cônjuge são herdeiros necessários."
+    ],
+    [
+      "balanca",
+      "Metade dos bens é reservada a eles por lei."
+    ],
+    [
+      "documento",
+      "A outra metade pode ir para qualquer pessoa ou instituição."
+    ],
+    [
+      "check",
+      "O testamento pode ser mudado ou revogado a qualquer tempo."
+    ]
+  ],
+  "exemplo": "Seu Valdir tem dois filhos e quer deixar uma parte dos bens para a sobrinha que cuidou dele durante uma doença. Ele quer saber se pode fazer isso em testamento e quanto pode deixar para ela.",
+  "corpo": "<p>O testamento é uma forma de organizar a sucessão e evitar conflitos. Mas a lei limita o que pode ser feito quando existem certos herdeiros.</p>\n<h2>O que a lei prevê</h2>\n<ul>\n<li>São herdeiros necessários os descendentes, os ascendentes e o cônjuge (Código Civil, art. 1.845).</li>\n<li>A eles pertence, por lei, metade dos bens da herança, chamada de legítima (art. 1.846).</li>\n<li>Quem tem herdeiros necessários só pode dispor em testamento da metade da herança (art. 1.789).</li>\n<li>A legítima é calculada sobre os bens existentes na data da morte, descontadas as dívidas e as despesas do funeral, somando-se os valores das doações feitas em vida aos herdeiros (art. 1.847).</li>\n<li>Quem não tem herdeiros necessários pode dispor de todos os bens. Os irmãos e outros parentes colaterais podem ficar de fora (art. 1.850).</li>\n</ul>\n<h2>Na prática</h2>\n<ul>\n<li>A forma mais segura costuma ser o testamento público, feito no cartório de notas pelo tabelião, na presença de duas testemunhas (arts. 1.862 e 1.864).</li>\n<li>Qualquer pessoa a partir dos 16 anos, com discernimento, pode fazer testamento (art. 1.860).</li>\n<li>O testamento pode ser mudado ou revogado a qualquer momento (arts. 1.858 e 1.969).</li>\n<li>Além de bens, o testamento pode tratar de outros temas, como o reconhecimento de um filho.</li>\n</ul>",
+  "faq": [
+    [
+      "Posso deixar tudo para um só filho?",
+      "Não. A metade reservada aos herdeiros necessários é dividida entre eles; o testamento pode beneficiar um filho apenas com a parte disponível (Código Civil, arts. 1.789 e 1.846)."
+    ],
+    [
+      "Quem não tem filhos pode deixar tudo para um amigo?",
+      "Se também não tiver pais nem cônjuge, sim. Os irmãos não são herdeiros necessários (arts. 1.845 e 1.850)."
+    ],
+    [
+      "Testamento feito à mão vale?",
+      "O testamento particular é previsto em lei, mas tem requisitos próprios, como a leitura a três testemunhas (arts. 1.862 e 1.876)."
+    ]
+  ],
+  "base": [
+    "Código Civil, arts. 1.789 e 1.845 a 1.847",
+    "Código Civil, art. 1.850",
+    "Código Civil, arts. 1.858, 1.860 e 1.862",
+    "Código Civil, arts. 1.864, 1.876 e 1.969"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/618158/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

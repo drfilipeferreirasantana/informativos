@@ -1,0 +1,53 @@
+{
+  "slug": "doacao-com-reserva-de-usufruto",
+  "area": "sucessoes",
+  "data": "2026-12-29",
+  "titulo": "Dá para doar a casa aos filhos e continuar morando nela?",
+  "destaque": "Sim, com a reserva de usufruto.",
+  "resumo": "Na doação com reserva de usufruto, os filhos passam a ser donos do imóvel, mas os pais continuam com o direito de morar, alugar e administrar o bem enquanto viverem.",
+  "pontos": [
+    [
+      "casa",
+      "Os pais continuam morando no imóvel ou recebendo o aluguel."
+    ],
+    [
+      "filhos",
+      "Os filhos ficam com a propriedade, chamada de nua-propriedade."
+    ],
+    [
+      "calendario",
+      "Com a morte dos pais, o usufruto acaba e os filhos ficam com tudo."
+    ],
+    [
+      "alerta",
+      "A doação continua sujeita às regras da herança."
+    ]
+  ],
+  "exemplo": "Dona Helena e seu Jorge têm uma casa e dois filhos. Eles querem deixar tudo organizado para evitar um inventário demorado no futuro, mas não querem correr o risco de perder o lugar onde moram.",
+  "corpo": "<p>A doação com reserva de usufruto é uma das ferramentas mais usadas no planejamento sucessório de famílias. Ela permite antecipar a passagem dos bens aos filhos sem que os pais percam o uso deles.</p>\n<h2>O que a lei prevê</h2>\n<ul>\n<li>O usufruto dá a quem o tem o direito de usar o bem, administrá-lo e receber os seus frutos, como o aluguel (Código Civil, art. 1.394).</li>\n<li>O usufruto de imóvel é registrado no cartório de imóveis (art. 1.391).</li>\n<li>O usufruto termina com a morte do usufrutuário (art. 1.410, I). A partir daí, os filhos passam a ter a propriedade plena.</li>\n<li>A lei proíbe doar todos os bens sem reservar parte ou renda suficiente para o próprio sustento (art. 548). O usufruto ajuda a cumprir essa regra.</li>\n</ul>\n<h2>Na prática</h2>\n<ul>\n<li>A doação de pai para filho continua sendo, em regra, adiantamento de herança (art. 544), e a parte reservada aos herdeiros necessários deve ser respeitada (art. 549).</li>\n<li>Os filhos, como donos, não podem vender o imóvel livre do usufruto sem a participação dos pais.</li>\n<li>Há imposto estadual sobre a doação (ITCMD), e as regras de cálculo variam conforme o estado.</li>\n<li>A escritura pode trazer cláusulas como a que impede que o imóvel entre na divisão de bens do casamento do filho. Cada cláusula tem limites legais e precisa ser bem pensada.</li>\n</ul>",
+  "faq": [
+    [
+      "Depois da doação, os pais podem ser obrigados a sair do imóvel?",
+      "Não, enquanto o usufruto existir. Ele dá o direito de uso e administração do bem (Código Civil, art. 1.394)."
+    ],
+    [
+      "Os pais podem alugar o imóvel doado?",
+      "Sim. Receber os frutos, como o aluguel, faz parte do usufruto (art. 1.394)."
+    ],
+    [
+      "Quando os pais morrerem, será preciso inventário desse imóvel?",
+      "Em regra, não para esse bem: o usufruto se extingue com a morte e é cancelado no cartório de imóveis (art. 1.410, I)."
+    ]
+  ],
+  "base": [
+    "Código Civil, arts. 544, 548 e 549",
+    "Código Civil, arts. 1.391 e 1.394",
+    "Código Civil, art. 1.410, I"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/7231071/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

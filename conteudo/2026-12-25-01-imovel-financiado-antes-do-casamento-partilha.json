@@ -1,0 +1,58 @@
+{
+  "slug": "imovel-financiado-antes-do-casamento-partilha",
+  "area": "familia",
+  "data": "2026-12-25",
+  "titulo": "Imóvel financiado antes do casamento entra na partilha do divórcio?",
+  "destaque": "Só as parcelas pagas no casamento.",
+  "resumo": "Na comunhão parcial, o imóvel comprado antes do casamento é de quem comprou. Mas as parcelas do financiamento pagas durante o casamento costumam ser divididas entre os dois.",
+  "pontos": [
+    [
+      "casa",
+      "O que foi pago antes do casamento continua sendo de quem comprou."
+    ],
+    [
+      "carteira",
+      "As parcelas pagas durante o casamento costumam ser divididas."
+    ],
+    [
+      "calendario",
+      "O que importa é a data de cada pagamento."
+    ],
+    [
+      "alerta",
+      "Se o casal já vivia em união estável, a conta pode mudar."
+    ]
+  ],
+  "exemplo": "Renato comprou um apartamento financiado dois anos antes de se casar com Paula, em comunhão parcial. Os dois pagaram juntos as prestações durante oito anos de casamento. Agora, no divórcio, Paula quer saber se tem direito a alguma parte do imóvel.",
+  "corpo": "<p>É comum que um dos noivos já tenha começado a pagar um imóvel antes do casamento. Quando o casamento acaba, surge a dúvida: o imóvel é só de quem comprou ou o outro também tem direito?</p>\n<h2>O que a lei prevê</h2>\n<p>Na comunhão parcial de bens, que é o regime mais comum:</p>\n<ul>\n<li>ficam fora da divisão os bens que cada um tinha ao casar (Código Civil, art. 1.659, I);</li>\n<li>entram na divisão os bens comprados durante o casamento, mesmo que estejam no nome de um só (art. 1.660, I).</li>\n</ul>\n<p>No imóvel financiado, as duas regras se encontram. A compra aconteceu antes, mas parte do preço foi paga durante o casamento, em regra com o esforço dos dois.</p>\n<h2>Na prática</h2>\n<p>Os tribunais, inclusive o STJ, costumam resolver assim:</p>\n<ul>\n<li>a parte do imóvel paga antes do casamento, incluindo a entrada, fica com quem comprou;</li>\n<li>a parte paga durante o casamento é dividida, metade para cada um;</li>\n<li>as parcelas pagas depois da separação ficam com quem pagou.</li>\n</ul>\n<p>Alguns cuidados:</p>\n<ul>\n<li>Se o casal já vivia em união estável antes do casamento, as parcelas desse período também podem entrar na conta.</li>\n<li>Se o dinheiro das parcelas veio de um bem particular, como a venda de um imóvel herdado, isso precisa ser provado.</li>\n<li>Comprovantes de pagamento e o extrato do financiamento ajudam a fazer a conta com segurança.</li>\n</ul>",
+  "faq": [
+    [
+      "O imóvel inteiro será dividido?",
+      "Em regra, não. Divide-se a parte correspondente às parcelas pagas durante o casamento."
+    ],
+    [
+      "E se o imóvel ainda não estiver quitado?",
+      "O saldo devedor e as parcelas futuras também precisam ser tratados na partilha."
+    ],
+    [
+      "Usei dinheiro de herança para pagar parcelas. Isso muda algo?",
+      "Pode mudar. Bens recebidos por herança, e o que os substitui, ficam fora da divisão (Código Civil, art. 1.659, I), mas isso precisa ser provado."
+    ]
+  ],
+  "base": [
+    "Código Civil, art. 1.658",
+    "Código Civil, art. 1.659, I",
+    "Código Civil, art. 1.660, I"
+  ],
+  "fontes": [
+    [
+      "Consultor Jurídico: Em caso de divórcio, quem tem direito aos bens financiados? (14/9/2024)",
+      "https://www.conjur.com.br/2024-set-14/em-caso-de-divorcio-quem-tem-direito-aos-bens-financiados/"
+    ]
+  ],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/8293771/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

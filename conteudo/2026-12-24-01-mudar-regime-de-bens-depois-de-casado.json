@@ -1,0 +1,53 @@
+{
+  "slug": "mudar-regime-de-bens-depois-de-casado",
+  "area": "familia",
+  "data": "2026-12-24",
+  "titulo": "Dá para mudar o regime de bens depois de casado?",
+  "destaque": "Sim, com autorização da Justiça.",
+  "resumo": "O casal pode pedir a mudança do regime de bens a um juiz. O pedido precisa ser feito pelos dois, com o motivo explicado, e não pode prejudicar terceiros, como credores.",
+  "pontos": [
+    [
+      "filhos",
+      "O pedido precisa ser feito pelos dois cônjuges."
+    ],
+    [
+      "documento",
+      "É preciso explicar o motivo da mudança."
+    ],
+    [
+      "alerta",
+      "A mudança não pode prejudicar credores e outras pessoas."
+    ],
+    [
+      "calendario",
+      "Em regra, o novo regime vale daí para frente."
+    ]
+  ],
+  "exemplo": "Cláudia e Marcos se casaram em comunhão parcial há dez anos. Hoje, Marcos abriu uma empresa e o casal pensa em adotar a separação de bens. Eles não sabem se isso ainda é possível depois do casamento.",
+  "corpo": "<p>Muitos casais escolhem o regime de bens às pressas, na véspera do casamento. Anos depois, a vida muda: surge uma empresa, um imóvel, filhos de outra relação. É comum a dúvida se o regime ainda pode ser trocado.</p>\n<h2>O que a lei prevê</h2>\n<p>O Código Civil permite a mudança do regime de bens durante o casamento (art. 1.639, § 2º). Para isso, são exigidos:</p>\n<ul>\n<li>autorização judicial;</li>\n<li>pedido feito pelos dois cônjuges;</li>\n<li>explicação do motivo, que o juiz vai avaliar;</li>\n<li>preservação dos direitos de terceiros.</li>\n</ul>\n<p>O Código de Processo Civil detalha o procedimento (art. 734). O pedido é assinado pelos dois, o Ministério Público é ouvido e é publicado um edital para dar conhecimento da mudança. O juiz só decide depois de 30 dias da publicação do edital.</p>\n<h2>Na prática</h2>\n<ul>\n<li>A Justiça costuma exigir a lista dos bens do casal e certidões que mostrem se há dívidas ou processos, para proteger quem tem créditos a receber.</li>\n<li>Os tribunais, inclusive o STJ, entendem que, em regra, o novo regime vale a partir da decisão. O que foi construído antes continua seguindo o regime antigo.</li>\n<li>Depois da sentença, a mudança é anotada no registro do casamento e, se houver imóveis, no cartório de imóveis.</li>\n<li>Na união estável, o casal pode definir o regime por contrato escrito (art. 1.725).</li>\n</ul>\n<p>Como a mudança afeta o patrimônio do casal e de terceiros, cada caso depende dos bens, das dívidas e do motivo apresentado.</p>",
+  "faq": [
+    [
+      "Posso mudar o regime sozinho, sem o meu cônjuge?",
+      "Não. O pedido precisa ser feito pelos dois (Código Civil, art. 1.639, § 2º; CPC, art. 734)."
+    ],
+    [
+      "A mudança pode ser feita direto no cartório?",
+      "No casamento, a lei exige autorização judicial (art. 1.639, § 2º)."
+    ],
+    [
+      "O novo regime vale para os bens antigos?",
+      "Em regra, não. A jurisprudência entende que o novo regime produz efeitos a partir da decisão."
+    ]
+  ],
+  "base": [
+    "Código Civil, art. 1.639, § 2º",
+    "Código Civil, art. 1.725",
+    "Código de Processo Civil, art. 734"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/14646107/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}
