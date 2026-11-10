@@ -80,3 +80,10 @@ O primeiro visual (marinho com dourado, Montserrat em negrito, selos arredondado
 - O número vai no nome do arquivo baixado (ex.: `047-slug-instagram.jpg`). Na arte e no post ele não aparece.
 - O painel mostra publicados e programados, com busca pelo número, pelo tema ou por palavra, e filtros por área e situação.
 - Post que veio de uma postagem do Google Meu Negócio leva o campo `"google": N` no JSON (logo depois de `data`). No painel aparece "Google nº N", e a busca `G12` acha a postagem 12.
+
+## Título da publicação e ISSN (decidido em 9/11/2026)
+
+- Resposta do Centro Brasileiro do ISSN (IBICT) ao primeiro pedido: o título deve aparecer em destaque, igual e sem sinais gráficos no meio, no cabeçalho de todas as páginas, e a página principal deve ter links para Apresentação, Expediente, volume atual e volumes anteriores.
+- O título é **Informativos Ferreira Advogados**. "Você sabia?" passou a ser o nome da seção de perguntas e respostas (aparece nas artes e na linha de topo da página principal).
+- Designação numérica no formato exigido: Vol. 1 2026, Vol. 2 2027, um volume por ano civil. Cada volume tem página própria (`vol-1-2026.html`), e `volumes.html` reúne o volume atual e os anteriores.
+- O ISSN só pode ser pedido depois que o Vol. 2 2027 estiver publicado. Quando for concedido, preencher a constante `ISSN` em `ferramentas/gerar.py`.

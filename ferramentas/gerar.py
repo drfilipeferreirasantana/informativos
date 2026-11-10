@@ -46,6 +46,10 @@ SITE = "https://escritorioferreiraadv.com.br/"
 NOME = "Ferreira Advogados"
 ADVOGADO = "Filipe Ferreira Santana"
 NOME_CURTO = "Filipe Ferreira"
+# Título da publicação registrado no pedido de ISSN (IBICT): escrito sempre igual, sem sinais gráficos no meio.
+# "Você sabia?" é o nome da seção de perguntas e respostas, não o título.
+TITULO = "Informativos Ferreira Advogados"
+COLUNA = "Você sabia?"
 OAB = "OAB/ES 37.159"
 ENDERECO = "Av. Prefeito Samuel Batista Cruz, 2832, Centro, Linhares/ES"
 EMAIL = "dr.filipeferreirasantana@gmail.com"
@@ -114,7 +118,13 @@ def hoje():
 def volume(iso):
     """Designação numérica exigida pelo ISSN: um volume por ano civil, a partir de 2026."""
     ano = int(iso[:4])
-    return f"Vol. {ano - 2025} ({ano})"
+    return f"Vol. {ano - 2025} {ano}"
+
+
+def pagina_do_volume(ano):
+    """Endereço da página de cada volume (ex.: vol-1-2026.html)."""
+    ano = int(ano)
+    return f"vol-{ano - 2025}-{ano}.html"
 
 
 def data_curta(iso):
@@ -200,7 +210,7 @@ def cabeca(titulo, descricao, url, base, tipo="website", imagem=None, extra="", 
 <meta property="og:description" content="{e(descricao)}">
 <meta property="og:type" content="{tipo}">
 <meta property="og:locale" content="pt_BR">
-<meta property="og:site_name" content="Você sabia? | {NOME}">
+<meta property="og:site_name" content="{TITULO}">
 <meta property="og:url" content="{url}">
 <meta property="og:image" content="{imagem}">
 <meta name="twitter:card" content="summary_large_image">
@@ -214,8 +224,8 @@ def cabeca(titulo, descricao, url, base, tipo="website", imagem=None, extra="", 
 <body>
 <a class="pular" href="#conteudo">Ir para o conteúdo</a>
 <header class="topo"><div class="conteudo">
-  <a class="marca" href="{base}index.html" aria-label="Você sabia? Informativos da {NOME}">
-    <b>Você sabia?</b><span class="marca-nome"><img src="{base}assets/emblema-escuro.png" width="22" height="22" alt="">{NOME}</span>
+  <a class="marca" href="{base}index.html">
+    <img src="{base}assets/emblema-escuro.png" width="26" height="26" alt=""><b>{TITULO}</b>
   </a>
   <nav aria-label="Principal">
     <a href="{base}index.html">Informativos</a>
@@ -223,6 +233,12 @@ def cabeca(titulo, descricao, url, base, tipo="website", imagem=None, extra="", 
     <a class="nav-whats" href="{WHATS_GERAL}" target="_blank" rel="noopener">{ICONE_WHATS}<span>WhatsApp</span></a>
   </nav>
 </div></header>
+<nav class="barra-revista" aria-label="Publicação"><div class="conteudo">
+  <a href="{base}apresentacao.html">Apresentação</a>
+  <a href="{base}expediente.html">Expediente</a>
+  <a href="{base}{pagina_do_volume(hoje()[:4])}">Volume atual: {volume(hoje())}</a>
+  <a href="{base}volumes.html#anteriores">Volumes anteriores</a>
+</div></nav>
 <main id="conteudo">
 """
 
@@ -257,7 +273,7 @@ def rodape(base):
       <b>{NOME}</b><small>Escritório de Advocacia</small>
     </div>
     <div>
-      <h3>Você sabia? Informativos {NOME}</h3>{issn}
+      <h3>{TITULO}</h3>{issn}
       <p>Editor responsável: {ADVOGADO}, {OAB}</p>
       <p>{ENDERECO}</p>
       <p class="rodape-links"><a href="{base}apresentacao.html">Apresentação</a> · <a href="{base}volumes.html">Volumes publicados</a> · <a href="{base}expediente.html">Expediente</a></p>
@@ -331,6 +347,9 @@ def pagina_post(p, posts):
         "author": {"@type": "Person", "name": ADVOGADO, "jobTitle": f"Advogado, {OAB}",
                    "memberOf": "Instituto Brasileiro de Direito de Família (IBDFAM)", "url": SITE, "sameAs": [INSTAGRAM]},
         "publisher": {"@type": "LegalService", "name": NOME, "url": SITE},
+        "isPartOf": {"@type": "PublicationVolume", "volumeNumber": str(int(p["data"][:4]) - 2025),
+                     "url": f"{BASE}{pagina_do_volume(p['data'][:4])}",
+                     "isPartOf": {"@type": "Periodical", "name": TITULO, "url": BASE}},
     }, ensure_ascii=False)
     whats = link_whats(p["titulo"])
     compartilhar = f"https://wa.me/?text={quote(p['titulo'] + ' ' + url)}"
@@ -371,7 +390,7 @@ def pagina_post(p, posts):
 </article>
 <div class="barra-whats"><a class="botao botao-whatsapp" href="{whats}" target="_blank" rel="noopener">{ICONE_WHATS}Conversar pelo WhatsApp</a></div>
 """
-    return (cabeca(f"{p['titulo']} | {NOME_CURTO}, advogado", p["resumo"], url, "../", "article",
+    return (cabeca(f"{p['titulo']} | {TITULO}", p["resumo"], url, "../", "article",
                    f"{BASE}imagens/{p['slug']}-capa.jpg?v={versao('imagens/' + p['slug'] + '-capa.jpg')}",
                    f'\n<script type="application/ld+json">{ld}</script>', foto)
             + corpo + rodape("../") + "</body>\n</html>\n")
@@ -420,9 +439,9 @@ def pagina_inicial(todos):
     cartoes = "\n".join("  " + cartao(p) for p in posts)
     corpo = f"""<section class="abertura"><div class="conteudo">
   <div>
-    <p class="linha-topo"><b>Informativos</b> <span class="marca-nome"><img src="assets/emblema-escuro.png" width="22" height="22" alt="">{NOME}</span></p>
-    <h1>Você sabia?</h1>
-    <p class="chamada">Dúvidas comuns sobre família, herança, trabalho, compras e INSS, respondidas de forma direta.</p>
+    <p class="linha-topo"><b>{COLUNA}</b> <a href="{pagina_do_volume(hoje()[:4])}">{volume(hoje())}</a></p>
+    <h1>{TITULO}</h1>
+    <p class="chamada">Dúvidas comuns sobre família, herança, trabalho, compras e INSS, respondidas de forma direta na seção {COLUNA}</p>
     {assinatura("")}
   </div>
 </div></section>
@@ -435,7 +454,7 @@ def pagina_inicial(todos):
   <div class="mais" id="mais"><button class="botao botao-linha" type="button">Ver mais informativos</button></div>
 </section>
 """
-    return (cabeca(f"Você sabia? Informativos de {NOME_CURTO} | {NOME}",
+    return (cabeca(TITULO,
                    "Dúvidas comuns sobre família, herança, trabalho, compras e INSS, respondidas por Filipe Ferreira, advogado em Linhares/ES.",
                    BASE, "") + corpo + rodape("") + SCRIPT_LISTA + "\n</body>\n</html>\n")
 
@@ -698,61 +717,88 @@ def pagina_expediente(posts):
     a, m, _ = primeiro.split("-")
     issn = f"<dt>ISSN</dt><dd>{ISSN}</dd>" if ISSN else ""
     corpo = f"""<section class="conteudo coluna expediente">
-  <p class="linha-topo"><b>Expediente</b> Você sabia? Informativos {NOME}</p>
+  <p class="linha-topo"><b>Expediente</b> {TITULO}</p>
   <h1>Expediente</h1>
   <dl>
-    <dt>Título</dt><dd>Você sabia? Informativos {NOME}</dd>{issn}
-    <dt>Editor responsável</dt><dd>{ADVOGADO}, advogado, {OAB}</dd>
-    <dt>Instituição</dt><dd>{NOME}, Escritório de Advocacia</dd>
+    <dt>Título</dt><dd>{TITULO}</dd>{issn}
+    <dt>Seção</dt><dd>{COLUNA} (perguntas e respostas sobre direitos do dia a dia)</dd>
+    <dt>Corpo editorial</dt><dd>Editor responsável e autor das matérias: {ADVOGADO}, advogado, {OAB}</dd>
+    <dt>Instituição responsável e editora</dt><dd>{NOME}, Escritório de Advocacia</dd>
     <dt>Endereço</dt><dd>{ENDERECO}, CEP 29901-554</dd>
     <dt>Contato</dt><dd><a href="mailto:{EMAIL}">{EMAIL}</a> · {TELEFONE}</dd>
     <dt>Suporte</dt><dd>On-line, em <a href="{BASE}">{BASE.removeprefix("https://").rstrip("/")}</a></dd>
-    <dt>Periodicidade</dt><dd>Fluxo contínuo, com publicação de novas matérias em média a cada dois dias</dd>
-    <dt>Início da publicação</dt><dd>{MESES[int(m) - 1]} de {a}, Vol. 1</dd>
-    <dt>Designação numérica</dt><dd>Um volume por ano civil: Vol. 1 (2026), Vol. 2 (2027) e assim por diante</dd>
+    <dt>Periodicidade</dt><dd>Fluxo contínuo, com novas matérias publicadas ao longo de todo o ano</dd>
+    <dt>Início da publicação</dt><dd>{MESES[int(m) - 1]} de {a}, {volume(primeiro)}</dd>
+    <dt>Designação numérica</dt><dd>Um volume por ano civil: Vol. 1 2026, Vol. 2 2027, Vol. 3 2028 e assim por diante</dd>
+    <dt>Volumes</dt><dd><a href="{pagina_do_volume(hoje()[:4])}">Volume atual: {volume(hoje())}</a> · <a href="volumes.html#anteriores">Volumes anteriores</a></dd>
     <dt>Idioma</dt><dd>Português</dd>
     <dt>Assuntos</dt><dd>Direito de Família, Sucessões, Direito Trabalhista, Direito Civil, Direito do Consumidor e Direito Previdenciário</dd>
     <dt>Linha editorial</dt><dd>Textos informativos e em tese sobre direitos do dia a dia, com base legal conferida em fontes oficiais, de acordo com o Provimento 205/2021 do Conselho Federal da OAB. Não substituem a análise individual de cada situação.</dd>
   </dl>
 </section>
 """
-    return (cabeca(f"Expediente | Você sabia? Informativos {NOME}", "Expediente da publicação Você sabia? Informativos Ferreira Advogados.",
+    return (cabeca(f"Expediente | {TITULO}", f"Expediente da publicação {TITULO}.",
                    f"{BASE}expediente.html", "") + corpo + rodape("") + "</body>\n</html>\n")
 
 
 def pagina_apresentacao(posts):
     corpo = f"""<section class="conteudo coluna expediente">
-  <p class="linha-topo"><b>Apresentação</b> Você sabia? Informativos {NOME}</p>
+  <p class="linha-topo"><b>Apresentação</b> {TITULO}</p>
   <h1>Apresentação</h1>
   <div class="texto">
-    <p><b>Você sabia? Informativos {NOME}</b> é uma publicação on-line de divulgação jurídica, editada por {ADVOGADO}, advogado ({OAB}), em Linhares/ES.</p>
-    <p>Cada matéria responde, de forma direta, uma dúvida comum sobre direitos do dia a dia, nas áreas de Direito de Família, Sucessões, Direito do Trabalho, Direito Civil, Direito do Consumidor e Direito Previdenciário.</p>
+    <p><b>{TITULO}</b> é uma publicação on-line de divulgação jurídica, editada por {ADVOGADO}, advogado ({OAB}), em Linhares/ES.</p>
+    <p>As matérias saem na seção <b>{COLUNA}</b>. Cada uma responde, de forma direta, uma dúvida comum sobre direitos do dia a dia, nas áreas de Direito de Família, Sucessões, Direito do Trabalho, Direito Civil, Direito do Consumidor e Direito Previdenciário.</p>
     <p>O público é o cidadão que não é da área jurídica. Por isso as matérias trazem a resposta logo no início, os pontos principais em poucas linhas, um exemplo do dia a dia e, para quem quiser se aprofundar, o texto completo, as perguntas frequentes e a base legal.</p>
     <p>Toda afirmação jurídica é conferida no texto oficial da lei, de súmulas ou de decisões de tribunais superiores. As matérias são informativas e em tese, de acordo com o Provimento 205/2021 do Conselho Federal da OAB, e não substituem a análise individual de cada situação.</p>
-    <p>A publicação é contínua: novas matérias entram à medida que ficam prontas, organizadas em um volume por ano. Veja os <a href="volumes.html">volumes publicados</a> e o <a href="expediente.html">expediente</a>.</p>
+    <p>A publicação é contínua: novas matérias entram à medida que ficam prontas, organizadas em um volume por ano. Veja o <a href="{pagina_do_volume(hoje()[:4])}">volume atual ({volume(hoje())})</a>, os <a href="volumes.html#anteriores">volumes anteriores</a> e o <a href="expediente.html">expediente</a>.</p>
   </div>
 </section>
 """
-    return (cabeca(f"Apresentação | Você sabia? Informativos {NOME}", "Apresentação da publicação Você sabia? Informativos Ferreira Advogados.",
+    return (cabeca(f"Apresentação | {TITULO}", f"Apresentação da publicação {TITULO}.",
                    f"{BASE}apresentacao.html", "") + corpo + rodape("") + "</body>\n</html>\n")
+
+
+def lista_do_volume(do_ano):
+    """Matérias do volume, da primeira à mais recente."""
+    itens = "".join(f'<li><a href="posts/{p["slug"]}.html">{e(p["titulo"])}</a><small>{AREAS[p["area"]]} · {data_curta(p["data"])}</small></li>'
+                    for p in sorted(do_ano, key=lambda p: p["numero"]))
+    return f"<ol>{itens}</ol>"
+
+
+def pagina_volume(ano, posts):
+    do_ano = [p for p in posts if p["data"][:4] == ano]
+    atual = ano == hoje()[:4]
+    situacao = "Volume atual, em publicação contínua" if atual else "Volume encerrado"
+    corpo = f"""<section class="conteudo coluna expediente">
+  <p class="linha-topo"><b>{volume(ano + "-01-01")}</b> {TITULO}</p>
+  <h1>{volume(ano + "-01-01")}</h1>
+  <p class="chamada">{situacao}. {len(do_ano)} matérias publicadas em {ano}, na seção {COLUNA}.</p>
+  <section class="volume">{lista_do_volume(do_ano)}</section>
+  <p class="rodape-links"><a href="volumes.html">Todos os volumes</a> · <a href="volumes.html#anteriores">Volumes anteriores</a> · <a href="expediente.html">Expediente</a></p>
+</section>
+"""
+    return (cabeca(f"{volume(ano + '-01-01')} | {TITULO}", f"{volume(ano + '-01-01')} da publicação {TITULO}: matérias publicadas em {ano}.",
+                   f"{BASE}{pagina_do_volume(ano)}", "") + corpo + rodape("") + "</body>\n</html>\n")
 
 
 def pagina_volumes(posts):
     anos = sorted({p["data"][:4] for p in posts}, reverse=True)
-    blocos = []
-    for ano in anos:
-        do_ano = [p for p in posts if p["data"][:4] == ano]
-        itens = "".join(f'<li><a href="posts/{p["slug"]}.html">{e(p["titulo"])}</a><small>{AREAS[p["area"]]} · {data_curta(p["data"])}</small></li>' for p in do_ano)
-        atual = " (volume atual)" if ano == anos[0] else ""
-        blocos.append(f'<section class="volume"><h2>{volume(ano + "-01-01")}{atual}</h2><p>{len(do_ano)} matérias publicadas</p><ol>{itens}</ol></section>')
+    atual, anteriores = anos[0], anos[1:]
+    do_atual = [p for p in posts if p["data"][:4] == atual]
+    if anteriores:
+        lista_ant = "".join(f'<li><a href="{pagina_do_volume(a)}">{volume(a + "-01-01")}</a><small>{sum(1 for p in posts if p["data"][:4] == a)} matérias</small></li>' for a in anteriores)
+        bloco_ant = f"<ol>{lista_ant}</ol>"
+    else:
+        bloco_ant = f"<p>{volume(atual + '-01-01')} é o primeiro volume. Os volumes encerrados aparecem aqui a partir de {int(atual) + 1}.</p>"
     corpo = f"""<section class="conteudo coluna expediente">
-  <p class="linha-topo"><b>Volumes publicados</b> Você sabia? Informativos {NOME}</p>
-  <h1>Volumes publicados</h1>
-  <p class="chamada">Um volume por ano civil. As matérias entram no volume do ano em que são publicadas.</p>
-  {"".join(blocos)}
+  <p class="linha-topo"><b>Volumes</b> {TITULO}</p>
+  <h1>Volumes</h1>
+  <p class="chamada">Publicação em fluxo contínuo, com um volume por ano civil. As matérias entram no volume do ano em que são publicadas.</p>
+  <section class="volume" id="atual"><h2>Volume atual: <a href="{pagina_do_volume(atual)}">{volume(atual + "-01-01")}</a></h2><p>{len(do_atual)} matérias publicadas</p>{lista_do_volume(do_atual)}</section>
+  <section class="volume" id="anteriores"><h2>Volumes anteriores</h2>{bloco_ant}</section>
 </section>
 """
-    return (cabeca(f"Volumes publicados | Você sabia? Informativos {NOME}", "Volumes publicados de Você sabia? Informativos Ferreira Advogados.",
+    return (cabeca(f"Volumes | {TITULO}", f"Volume atual e volumes anteriores da publicação {TITULO}.",
                    f"{BASE}volumes.html", "") + corpo + rodape("") + "</body>\n</html>\n")
 
 
@@ -774,7 +820,7 @@ def pagina_serie(chave, posts):
   </div>
 </section>
 """
-    return (cabeca(f"{s['titulo']} | Você sabia? Informativos {NOME}", s["descricao"], f"{BASE}{s['pagina']}", "")
+    return (cabeca(f"{s['titulo']} | {TITULO}", s["descricao"], f"{BASE}{s['pagina']}", "")
             + corpo + rodape("") + "</body>\n</html>\n")
 
 
@@ -810,6 +856,9 @@ def main():
     (RAIZ / "expediente.html").write_text(pagina_expediente(posts), encoding="utf-8")
     (RAIZ / "apresentacao.html").write_text(pagina_apresentacao(posts), encoding="utf-8")
     (RAIZ / "volumes.html").write_text(pagina_volumes(posts), encoding="utf-8")
+    anos = sorted({p["data"][:4] for p in posts})
+    for ano in anos:
+        (RAIZ / pagina_do_volume(ano)).write_text(pagina_volume(ano, posts), encoding="utf-8")
     series_no_ar = []
     for chave, s in SERIES.items():
         if any(p.get("serie") == chave for p in posts):
@@ -818,13 +867,13 @@ def main():
         else:
             # série só com programados: a página só entra no ar com o primeiro post publicado
             (RAIZ / s["pagina"]).unlink(missing_ok=True)
-    urls = [BASE] + [f"{BASE}{s['pagina']}" for s in series_no_ar] +[f"{BASE}apresentacao.html", f"{BASE}volumes.html", f"{BASE}expediente.html"] + [f"{BASE}posts/{p['slug']}.html" for p in posts]
+    urls = [BASE] + [f"{BASE}{s['pagina']}" for s in series_no_ar] +[f"{BASE}apresentacao.html", f"{BASE}volumes.html", f"{BASE}expediente.html"] + [f"{BASE}{pagina_do_volume(a)}" for a in anos] + [f"{BASE}posts/{p['slug']}.html" for p in posts]
     linhas = "\n".join(f"  <url><loc>{u}</loc></url>" for u in urls)
     (RAIZ / "sitemap.xml").write_text(
         f'<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n{linhas}\n</urlset>\n',
         encoding="utf-8")
     (RAIZ / "robots.txt").write_text(f"User-agent: *\nAllow: /\nSitemap: {BASE}sitemap.xml\n", encoding="utf-8")
-    nao = cabeca(f"Página não encontrada | {NOME}", "Página não encontrada.", BASE, "/") + """<section class="conteudo coluna nao-encontrada">
+    nao = cabeca(f"Página não encontrada | {TITULO}", "Página não encontrada.", BASE, "/") + """<section class="conteudo coluna nao-encontrada">
   <p class="linha-topo"><b>Erro 404</b> Página não encontrada</p>
   <h1>Este endereço não existe ou mudou de lugar.</h1>
   <p><a class="botao botao-linha" href="/index.html">Ver os informativos</a></p>
