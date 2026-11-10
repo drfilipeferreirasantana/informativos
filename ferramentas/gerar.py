@@ -439,9 +439,9 @@ def pagina_inicial(todos):
     cartoes = "\n".join("  " + cartao(p) for p in posts)
     corpo = f"""<section class="abertura"><div class="conteudo">
   <div>
-    <p class="linha-topo"><b>{COLUNA}</b> <a href="{pagina_do_volume(hoje()[:4])}">{volume(hoje())}</a></p>
-    <h1>{TITULO}</h1>
-    <p class="chamada">Dúvidas comuns sobre família, herança, trabalho, compras e INSS, respondidas de forma direta na seção {COLUNA}</p>
+    <p class="linha-topo"><b>Informativos</b> <span class="marca-nome"><img src="assets/emblema-escuro.png" width="22" height="22" alt="">{NOME}</span> <a href="{pagina_do_volume(hoje()[:4])}">{volume(hoje())}</a></p>
+    <h1>{COLUNA}</h1>
+    <p class="chamada">Dúvidas comuns sobre família, herança, trabalho, compras e INSS, respondidas de forma direta</p>
     {assinatura("")}
   </div>
 </div></section>
