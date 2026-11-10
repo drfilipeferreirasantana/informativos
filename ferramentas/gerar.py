@@ -209,7 +209,7 @@ def cabeca(titulo, descricao, url, base, tipo="website", imagem=None, extra="", 
 <a class="pular" href="#conteudo">Ir para o conteúdo</a>
 <header class="topo"><div class="conteudo">
   <a class="marca" href="{base}index.html" aria-label="Você sabia? Informativos da {NOME}">
-    <b>Você sabia?</b><span>{NOME}</span>
+    <b>Você sabia?</b><span class="marca-nome"><img src="{base}assets/emblema-escuro.png" width="22" height="22" alt="">{NOME}</span>
   </a>
   <nav aria-label="Principal">
     <a href="{base}index.html">Informativos</a>
@@ -414,7 +414,7 @@ def pagina_inicial(todos):
     cartoes = "\n".join("  " + cartao(p) for p in posts)
     corpo = f"""<section class="abertura"><div class="conteudo">
   <div>
-    <p class="linha-topo"><b>Informativos</b> {NOME}</p>
+    <p class="linha-topo"><b>Informativos</b> <span class="marca-nome"><img src="assets/emblema-escuro.png" width="22" height="22" alt="">{NOME}</span></p>
     <h1>Você sabia?</h1>
     <p class="chamada">Dúvidas comuns sobre família, herança, trabalho, compras e INSS, respondidas de forma direta.</p>
     {assinatura("")}

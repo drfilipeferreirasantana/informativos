@@ -36,6 +36,8 @@ p{margin:0}
 .marca{display:flex;align-items:baseline;gap:.7rem;text-decoration:none}
 .marca b{font:700 1.35rem var(--serifa);color:var(--tinta)}
 .marca span{font:500 .9rem var(--condensada);color:var(--cinza)}
+.marca-nome{display:inline-flex;align-items:center;gap:.4rem;align-self:center}
+.marca-nome img{width:22px;height:22px;flex:none}
 .topo nav{display:flex;align-items:center;gap:1.3rem;font:500 .98rem var(--condensada)}
 .topo nav a{text-decoration:none}
 .topo nav a:hover{text-decoration:underline;text-underline-offset:4px}
