@@ -1,0 +1,55 @@
+{
+  "slug": "morte-em-acidente-de-trabalho-indenizacao-familia",
+  "area": "trabalhista",
+  "data": "2027-01-08",
+  "serie": "grandes-causas",
+  "ordem": 7,
+  "titulo": "Morte em acidente de trabalho: a família tem direito a indenização?",
+  "destaque": "Sim, se a empresa for responsável.",
+  "resumo": "Quando a empresa responde pelo acidente, a família pode receber pensão mensal no lugar da renda que o trabalhador levava para casa, além de indenização por dano moral e das despesas com funeral.",
+  "pontos": [
+    [
+      "filhos",
+      "Cônjuge e filhos podem receber pensão no lugar da renda perdida."
+    ],
+    [
+      "balanca",
+      "A família também pode pedir indenização pelo dano moral."
+    ],
+    [
+      "escudo",
+      "Isso não se confunde com a pensão por morte do INSS."
+    ],
+    [
+      "predio",
+      "A ação é proposta na Justiça do Trabalho."
+    ]
+  ],
+  "exemplo": "Antônio era eletricista de uma empresa terceirizada e morreu ao fazer um reparo na rede sem o equipamento de proteção adequado. Deixou a esposa e dois filhos, de 8 e 14 anos, que dependiam do salário dele.",
+  "corpo": "<p>A morte de um trabalhador em acidente deixa, além da dor, um problema imediato: a família perde a renda de que dependia. A lei prevê formas de reparação.</p>\n<h2>O que a lei prevê</h2>\n<p>Em caso de morte, a indenização inclui (Código Civil, art. 948):</p>\n<ul>\n<li>as despesas com o tratamento, o funeral e o luto da família;</li>\n<li>a prestação de alimentos às pessoas a quem o falecido os devia, considerando a duração provável da vida da vítima.</li>\n</ul>\n<p>A empresa responde quando teve culpa (Constituição, art. 7º, XXVIII) e, nas atividades de risco, mesmo sem culpa (Código Civil, art. 927, parágrafo único).</p>\n<p>A família também pode pedir indenização pelo dano moral que sofreu com a perda, o chamado dano em ricochete. O STF, ao julgar a tabela de dano moral da CLT, manteve esse direito com base no Código Civil (ADI 6.050).</p>\n<h2>Na prática</h2>\n<ul>\n<li>A pensão costuma ser calculada sobre a renda do trabalhador, descontada a parte que ele gastaria consigo mesmo, e paga aos filhos até determinada idade e ao cônjuge por um período maior.</li>\n<li>Se o trabalhador era terceirizado, a empresa contratante também pode ser responsabilizada.</li>\n<li>A pensão por morte do INSS é paga de forma independente.</li>\n<li>O boletim de ocorrência, a CAT, o laudo da perícia e os relatórios de fiscalização são documentos importantes.</li>\n</ul>",
+  "faq": [
+    [
+      "Quem pode pedir a indenização?",
+      "Em regra, o cônjuge ou companheiro, os filhos e outras pessoas que dependiam do trabalhador (Código Civil, art. 948, II)."
+    ],
+    [
+      "Quem recebe a pensão do INSS também pode cobrar a empresa?",
+      "Sim. São reparações de origens diferentes."
+    ],
+    [
+      "Qual Justiça julga o caso?",
+      "A Justiça do Trabalho, por se tratar de acidente ocorrido na relação de emprego."
+    ]
+  ],
+  "base": [
+    "Constituição Federal, art. 7º, XXVIII",
+    "Código Civil, arts. 186, 927 e 948",
+    "STF, ADI 6.050 (dano em ricochete)"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/4161604/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

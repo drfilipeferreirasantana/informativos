@@ -1,0 +1,55 @@
+{
+  "slug": "salario-por-fora-reflexos",
+  "area": "trabalhista",
+  "data": "2027-01-06",
+  "serie": "grandes-causas",
+  "ordem": 5,
+  "titulo": "Salário pago por fora entra no cálculo do FGTS, das férias e do 13º?",
+  "destaque": "Sim, se for salário de verdade.",
+  "resumo": "O valor pago sem registro no holerite, em dinheiro, Pix ou como comissão, faz parte do salário. Ele deve ser somado no cálculo de férias, 13º, FGTS, horas extras e rescisão.",
+  "pontos": [
+    [
+      "carteira",
+      "Comissões e valores fixos pagos por fora integram o salário."
+    ],
+    [
+      "calendario",
+      "Eles refletem em férias, 13º, FGTS, horas extras e rescisão."
+    ],
+    [
+      "documento",
+      "Extratos, Pix e mensagens ajudam a provar o pagamento."
+    ],
+    [
+      "alerta",
+      "Prêmios por desempenho, se forem prêmios de verdade, seguem outra regra."
+    ]
+  ],
+  "exemplo": "Carlos era vendedor e recebia um salário fixo registrado na carteira e, todo mês, as comissões por Pix, sem aparecer no holerite. Na rescisão, as contas foram feitas apenas sobre o salário fixo.",
+  "corpo": "<p>Pagar parte do salário por fora reduz o valor dos impostos e dos depósitos para a empresa, mas também reduz os direitos do trabalhador. Na rescisão, a diferença costuma aparecer.</p>\n<h2>O que a lei prevê</h2>\n<ul>\n<li>Integram o salário a importância fixa, as gratificações legais e as comissões pagas pelo empregador (CLT, art. 457, § 1º).</li>\n<li>Prêmios, diárias para viagem e abonos não integram o salário (art. 457, § 2º). Prêmio é a liberalidade paga em razão de desempenho superior ao esperado (art. 457, § 4º).</li>\n<li>O FGTS é depositado sobre toda a remuneração paga ao empregado (Lei 8.036/1990, art. 15).</li>\n<li>A empresa deve anotar na carteira a remuneração, inclusive a estimativa das gorjetas e comissões (CLT, art. 29).</li>\n</ul>\n<h2>Na prática</h2>\n<ul>\n<li>Se o valor pago por fora é habitual e remunera o trabalho, ele é salário, ainda que tenha outro nome.</li>\n<li>As diferenças alcançam férias com um terço, 13º salário, FGTS com a multa de 40%, aviso prévio e horas extras.</li>\n<li>Extratos bancários, comprovantes de Pix, planilhas de comissão, mensagens e testemunhas são as provas mais usadas.</li>\n<li>O prazo para cobrar é de 2 anos após a saída, alcançando os últimos 5 anos.</li>\n</ul>",
+  "faq": [
+    [
+      "Comissão paga por Pix conta como salário?",
+      "Sim. Comissões pagas pelo empregador integram o salário (CLT, art. 457, § 1º)."
+    ],
+    [
+      "Como provo um pagamento que não está no holerite?",
+      "Com extratos bancários, comprovantes de Pix, planilhas, mensagens e testemunhas."
+    ],
+    [
+      "Todo valor extra entra no cálculo?",
+      "Não. Prêmios por desempenho, diárias e abonos não integram o salário (art. 457, §§ 2º e 4º), desde que sejam de fato o que dizem ser."
+    ]
+  ],
+  "base": [
+    "CLT, art. 29",
+    "CLT, art. 457, §§ 1º, 2º e 4º",
+    "Lei 8.036/1990, art. 15"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/5899173/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

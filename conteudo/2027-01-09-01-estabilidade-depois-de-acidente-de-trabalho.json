@@ -1,0 +1,55 @@
+{
+  "slug": "estabilidade-depois-de-acidente-de-trabalho",
+  "area": "trabalhista",
+  "data": "2027-01-09",
+  "serie": "grandes-causas",
+  "ordem": 8,
+  "titulo": "Quem volta de afastamento por acidente de trabalho pode ser demitido?",
+  "destaque": "Não, por 12 meses após a volta.",
+  "resumo": "Quem ficou afastado por mais de 15 dias e recebeu o auxílio por acidente de trabalho tem estabilidade de 12 meses depois que o benefício termina. A dispensa sem justa causa nesse período é irregular.",
+  "pontos": [
+    [
+      "calendario",
+      "A estabilidade dura 12 meses após o fim do benefício do INSS."
+    ],
+    [
+      "saude",
+      "Vale também para doença causada pelo trabalho."
+    ],
+    [
+      "carteira",
+      "Se o prazo já acabou, o trabalhador recebe os salários do período."
+    ],
+    [
+      "documento",
+      "A doença pode ser reconhecida depois da dispensa, com perícia."
+    ]
+  ],
+  "exemplo": "Simone sofreu uma lesão no ombro por esforço repetitivo, ficou quatro meses afastada pelo INSS e voltou ao trabalho. Dois meses depois, foi dispensada sem justa causa.",
+  "corpo": "<p>Voltar de um afastamento por acidente ou doença do trabalho costuma ser um momento delicado. A lei protege o trabalhador nesse período para que ele não seja dispensado logo após o retorno.</p>\n<h2>O que a lei prevê</h2>\n<ul>\n<li>O segurado que sofreu acidente do trabalho tem garantida a manutenção do contrato por 12 meses após o fim do auxílio por acidente, independentemente de receber o auxílio-acidente (Lei 8.213/1991, art. 118).</li>\n<li>Para o TST, os requisitos são o afastamento por mais de 15 dias e o recebimento do benefício acidentário. A estabilidade também é reconhecida se, depois da dispensa, ficar provada doença profissional ligada ao trabalho (Súmula 378, II).</li>\n<li>A garantia vale também para quem tinha contrato por prazo determinado (Súmula 378, III).</li>\n<li>Durante o afastamento por acidente, a empresa continua obrigada a depositar o FGTS (Lei 8.036/1990, art. 15, § 5º).</li>\n</ul>\n<h2>Na prática</h2>\n<ul>\n<li>Dispensado durante a estabilidade, o trabalhador pode pedir a reintegração ou a indenização dos salários do período.</li>\n<li>Se o período de estabilidade já acabou quando a ação for julgada, são devidos os salários e demais verbas do período, sem reintegração (Súmula 396, I).</li>\n<li>Muitas empresas não emitem a CAT e o afastamento sai como doença comum. Nesses casos, a ligação com o trabalho pode ser provada na Justiça por perícia.</li>\n</ul>",
+  "faq": [
+    [
+      "Afastei menos de 15 dias. Tenho estabilidade?",
+      "Em regra, não, porque não houve benefício acidentário. A exceção é a doença profissional constatada depois da dispensa (Súmula 378, II, do TST)."
+    ],
+    [
+      "O INSS deu benefício comum, e não acidentário. Perdi o direito?",
+      "Não necessariamente. A ligação com o trabalho pode ser provada na Justiça, com perícia."
+    ],
+    [
+      "Fui dispensado na estabilidade. Volto para a empresa?",
+      "Pode haver reintegração. Se o período já acabou, recebem-se os salários do período (Súmula 396, I, do TST)."
+    ]
+  ],
+  "base": [
+    "Lei 8.213/1991, arts. 20 e 118",
+    "Lei 8.036/1990, art. 15, § 5º",
+    "TST, Súmulas 378 e 396"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/7446628/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

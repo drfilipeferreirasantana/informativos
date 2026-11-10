@@ -75,6 +75,12 @@ SERIES = {
         "pagina": "motoristas.html",
         "descricao": "Informativos sobre os direitos dos motoristas de caminhão e de ônibus de viagem com carteira assinada: jornada, tempo de espera, descanso e descontos, e também as situações graves da estrada, como acidente, assalto, doença de coluna, pensão do INSS e indenização à família.",
     },
+    "grandes-causas": {
+        "titulo": "Grandes causas trabalhistas",
+        "aba": "Grandes causas",
+        "pagina": "grandes-causas.html",
+        "descricao": "Informativos sobre as questões trabalhistas que costumam exigir mais prova e cálculos mais detalhados: contratação como PJ, gerentes e cargos de confiança, bancários, equiparação salarial, salário pago por fora, acidente e doença do trabalho, burnout, indenização à família e o valor do dano moral.",
+    },
 }
 MESES = ["janeiro", "fevereiro", "março", "abril", "maio", "junho", "julho", "agosto",
          "setembro", "outubro", "novembro", "dezembro"]
@@ -804,10 +810,15 @@ def main():
     (RAIZ / "expediente.html").write_text(pagina_expediente(posts), encoding="utf-8")
     (RAIZ / "apresentacao.html").write_text(pagina_apresentacao(posts), encoding="utf-8")
     (RAIZ / "volumes.html").write_text(pagina_volumes(posts), encoding="utf-8")
+    series_no_ar = []
     for chave, s in SERIES.items():
         if any(p.get("serie") == chave for p in posts):
             (RAIZ / s["pagina"]).write_text(pagina_serie(chave, posts), encoding="utf-8")
-    urls = [BASE] + [f"{BASE}{s['pagina']}" for s in SERIES.values()] + [f"{BASE}apresentacao.html", f"{BASE}volumes.html", f"{BASE}expediente.html"] + [f"{BASE}posts/{p['slug']}.html" for p in posts]
+            series_no_ar.append(s)
+        else:
+            # série só com programados: a página só entra no ar com o primeiro post publicado
+            (RAIZ / s["pagina"]).unlink(missing_ok=True)
+    urls = [BASE] + [f"{BASE}{s['pagina']}" for s in series_no_ar] +[f"{BASE}apresentacao.html", f"{BASE}volumes.html", f"{BASE}expediente.html"] + [f"{BASE}posts/{p['slug']}.html" for p in posts]
     linhas = "\n".join(f"  <url><loc>{u}</loc></url>" for u in urls)
     (RAIZ / "sitemap.xml").write_text(
         f'<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n{linhas}\n</urlset>\n',

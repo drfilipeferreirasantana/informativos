@@ -1,0 +1,55 @@
+{
+  "slug": "gerente-tem-direito-a-hora-extra",
+  "area": "trabalhista",
+  "data": "2027-01-03",
+  "serie": "grandes-causas",
+  "ordem": 2,
+  "titulo": "Gerente tem direito a hora extra?",
+  "destaque": "Depende dos poderes e do salário.",
+  "resumo": "O gerente só fica sem controle de jornada se tiver poder real de gestão e receber pelo menos 40% a mais que o salário do cargo efetivo. Só o nome do cargo não basta.",
+  "pontos": [
+    [
+      "maleta",
+      "É preciso ter poder real de mando e gestão."
+    ],
+    [
+      "carteira",
+      "O salário do cargo deve ser pelo menos 40% maior."
+    ],
+    [
+      "alerta",
+      "Ter o título de gerente, sem esses requisitos, não tira as horas extras."
+    ],
+    [
+      "relogio",
+      "Sem os requisitos, valem a jornada de 8 horas e o adicional de 50%."
+    ]
+  ],
+  "exemplo": "Patrícia foi promovida a gerente de loja, mas continuou sem poder contratar, demitir ou decidir nada sem aprovação da regional. Trabalhava das 8h às 20h, inclusive aos sábados, e nunca recebeu hora extra porque a empresa dizia que gerente não tem horário.",
+  "corpo": "<p>Muitas empresas dão o título de gerente, coordenador ou supervisor e, a partir daí, deixam de pagar horas extras. A lei permite isso só em situações específicas.</p>\n<h2>O que a lei prevê</h2>\n<p>A CLT exclui do controle de jornada os gerentes, assim considerados os que exercem cargos de gestão, incluindo diretores e chefes de departamento ou filial (art. 62, II). Para isso, dois requisitos precisam estar presentes ao mesmo tempo:</p>\n<ul>\n<li><b>poder de gestão:</b> autonomia para decidir, representar a empresa, admitir, punir ou dispensar, ou outras atribuições de mando;</li>\n<li><b>salário diferenciado:</b> o salário do cargo de confiança, com a gratificação, deve ser igual ou superior ao salário efetivo acrescido de 40% (art. 62, parágrafo único).</li>\n</ul>\n<p>Faltando um dos requisitos, o empregado tem direito às horas extras como qualquer outro, com adicional de pelo menos 50% (Constituição, art. 7º, XVI; CLT, art. 59).</p>\n<h2>Na prática</h2>\n<ul>\n<li>Cabe à empresa provar que o empregado tinha os poderes do cargo de confiança.</li>\n<li>Organogramas, e-mails pedindo autorização a superiores, ausência de equipe subordinada e testemunhas ajudam a mostrar como era a função real.</li>\n<li>As horas extras habituais também refletem em férias, 13º salário, FGTS e descanso semanal.</li>\n</ul>",
+  "faq": [
+    [
+      "Só o nome de gerente na carteira tira o direito à hora extra?",
+      "Não. São exigidos poder real de gestão e salário pelo menos 40% maior (CLT, art. 62, II e parágrafo único)."
+    ],
+    [
+      "Quem precisa provar que eu era cargo de confiança?",
+      "Em regra, a empresa, porque é ela quem alega a exceção à jornada."
+    ],
+    [
+      "As horas extras refletem em outras verbas?",
+      "Sim. Horas extras habituais refletem em férias, 13º salário, FGTS e descanso semanal remunerado."
+    ]
+  ],
+  "base": [
+    "Constituição Federal, art. 7º, XIII e XVI",
+    "CLT, art. 59",
+    "CLT, art. 62, II e parágrafo único"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/7433869/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

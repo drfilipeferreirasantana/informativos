@@ -1,0 +1,56 @@
+{
+  "slug": "acidente-de-trabalho-pensao-da-empresa",
+  "area": "trabalhista",
+  "data": "2027-01-07",
+  "serie": "grandes-causas",
+  "ordem": 6,
+  "titulo": "Acidente de trabalho que reduz a capacidade gera pensão da empresa?",
+  "destaque": "Pode gerar, além do benefício do INSS.",
+  "resumo": "Se a empresa teve culpa ou a atividade era de risco, ela pode pagar pensão pela perda da capacidade de trabalho, além de dano moral. Isso não se confunde com o benefício do INSS.",
+  "pontos": [
+    [
+      "saude",
+      "A pensão corresponde à perda da capacidade de trabalho."
+    ],
+    [
+      "carteira",
+      "Ela pode ser paga de uma só vez, se a Justiça admitir."
+    ],
+    [
+      "escudo",
+      "Não se confunde com o auxílio do INSS: um não exclui o outro."
+    ],
+    [
+      "alerta",
+      "Doença causada pelo trabalho é tratada como acidente."
+    ]
+  ],
+  "exemplo": "Wellington operava uma prensa sem a proteção exigida e perdeu parte dos movimentos da mão direita. Recebeu o benefício do INSS, voltou ao trabalho em outra função e foi dispensado meses depois. Ele quer saber se a empresa também responde pelo acidente.",
+  "corpo": "<p>O INSS paga benefícios a quem sofre acidente de trabalho. Mas, quando a empresa contribuiu para o acidente, ela também pode ter de indenizar o trabalhador.</p>\n<h2>O que a lei prevê</h2>\n<ul>\n<li>A Constituição garante o seguro contra acidentes de trabalho, sem excluir a indenização a cargo do empregador quando houver dolo ou culpa (art. 7º, XXVIII).</li>\n<li>Em atividades de risco, a empresa pode responder mesmo sem culpa (Código Civil, art. 927, parágrafo único). O STF confirmou essa possibilidade no Tema 932.</li>\n<li>Se o acidente reduz a capacidade de trabalho, a indenização inclui as despesas de tratamento, os lucros cessantes até o fim da convalescença e uma pensão correspondente à perda sofrida (art. 950).</li>\n<li>O trabalhador pode pedir que essa indenização seja paga de uma só vez (art. 950, parágrafo único).</li>\n<li>A doença profissional ou do trabalho é considerada acidente de trabalho (Lei 8.213/1991, art. 20).</li>\n</ul>\n<h2>Na prática</h2>\n<ul>\n<li>A Justiça do Trabalho costuma entender que a pensão paga pela empresa não é descontada do benefício do INSS, porque têm origens diferentes.</li>\n<li>Uma perícia médica define o grau da perda da capacidade, e o valor da pensão costuma ser calculado sobre o salário do trabalhador.</li>\n<li>A CAT (comunicação de acidente de trabalho), os laudos médicos e as provas sobre as condições de segurança são fundamentais.</li>\n<li>Além da pensão, pode haver indenização por dano moral e por dano estético.</li>\n</ul>",
+  "faq": [
+    [
+      "Quem recebe benefício do INSS ainda pode cobrar a empresa?",
+      "Sim. A Constituição garante a indenização do empregador em caso de dolo ou culpa, além do seguro acidentário (art. 7º, XXVIII)."
+    ],
+    [
+      "A pensão pode ser paga de uma vez?",
+      "O Código Civil permite que o lesado peça o pagamento de uma só vez (art. 950, parágrafo único). A Justiça avalia cada caso."
+    ],
+    [
+      "Doença causada pelo trabalho também dá direito?",
+      "Sim. Ela é equiparada ao acidente de trabalho (Lei 8.213/1991, art. 20)."
+    ]
+  ],
+  "base": [
+    "Constituição Federal, art. 7º, XXVIII",
+    "Código Civil, arts. 186, 927 e 950",
+    "Lei 8.213/1991, arts. 19 e 20",
+    "STF, Tema 932 de Repercussão Geral"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/8961548/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

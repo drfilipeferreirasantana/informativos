@@ -1,0 +1,55 @@
+{
+  "slug": "equiparacao-salarial-colega-ganha-mais",
+  "area": "trabalhista",
+  "data": "2027-01-05",
+  "serie": "grandes-causas",
+  "ordem": 4,
+  "titulo": "Colega na mesma função ganha mais: tenho direito à equiparação salarial?",
+  "destaque": "Pode ter, se cumprir os requisitos.",
+  "resumo": "Quem faz o mesmo trabalho, com a mesma produtividade e qualidade, no mesmo estabelecimento, tem direito ao mesmo salário. A lei traz limites de tempo na empresa e na função.",
+  "pontos": [
+    [
+      "balanca",
+      "Mesmo trabalho, mesma produtividade e mesma qualidade."
+    ],
+    [
+      "predio",
+      "Os dois devem trabalhar no mesmo estabelecimento da empresa."
+    ],
+    [
+      "calendario",
+      "Diferença de até 4 anos na empresa e até 2 anos na função."
+    ],
+    [
+      "alerta",
+      "Plano de cargos e salários válido pode afastar a equiparação."
+    ]
+  ],
+  "exemplo": "Juliana e Ricardo são analistas financeiros na mesma filial, fazem as mesmas tarefas e entraram na empresa com poucos meses de diferença. Ela descobriu que Ricardo recebe 30% a mais.",
+  "corpo": "<p>A diferença de salário entre colegas que fazem o mesmo trabalho é uma das discussões mais comuns na Justiça do Trabalho. A lei garante a igualdade, mas define requisitos claros.</p>\n<h2>O que a lei prevê</h2>\n<p>A CLT garante salário igual para trabalho de igual valor, prestado ao mesmo empregador, no mesmo estabelecimento, sem distinção de sexo, etnia, nacionalidade ou idade (art. 461). Trabalho de igual valor é aquele feito:</p>\n<ul>\n<li>com a mesma produtividade e a mesma perfeição técnica;</li>\n<li>entre pessoas cuja diferença de tempo de serviço para o empregador não passe de 4 anos;</li>\n<li>e cuja diferença de tempo na função não passe de 2 anos (art. 461, § 1º).</li>\n</ul>\n<p>A equiparação não se aplica quando a empresa tem quadro de carreira ou plano de cargos e salários válido (art. 461, § 2º). O colega usado como comparação deve ser contemporâneo, ou seja, ter trabalhado no mesmo período (art. 461, § 5º).</p>\n<p>Em caso de diferença salarial por discriminação de sexo, raça, etnia, origem ou idade, a Lei 14.611/2023 prevê, além das diferenças, multa de dez vezes o novo salário devido, dobrada na reincidência, sem prejuízo da indenização por dano moral (art. 461, §§ 6º e 7º).</p>\n<h2>Na prática</h2>\n<ul>\n<li>Holerites, descrição das tarefas, metas e testemunhas são as provas mais usadas.</li>\n<li>As diferenças refletem em férias, 13º salário, FGTS e horas extras.</li>\n<li>O prazo para cobrar é de 2 anos após a saída, alcançando os últimos 5 anos.</li>\n</ul>",
+  "faq": [
+    [
+      "O colega precisa ter o mesmo nome de cargo que eu?",
+      "Não. O que importa são as tarefas efetivamente realizadas, com a mesma produtividade e perfeição técnica (CLT, art. 461, § 1º)."
+    ],
+    [
+      "Posso me comparar com um colega de outra cidade?",
+      "Em regra, não. A lei exige o mesmo estabelecimento empresarial (art. 461)."
+    ],
+    [
+      "E se a diferença for por ser mulher?",
+      "Além das diferenças salariais, a lei prevê multa e indenização por dano moral (art. 461, §§ 6º e 7º, com a redação da Lei 14.611/2023)."
+    ]
+  ],
+  "base": [
+    "CLT, art. 461, caput e §§ 1º, 2º, 5º, 6º e 7º",
+    "Lei 14.611/2023 (igualdade salarial)",
+    "Constituição Federal, art. 7º, XXX"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/7647942/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

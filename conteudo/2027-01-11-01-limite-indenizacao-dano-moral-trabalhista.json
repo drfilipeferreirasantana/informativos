@@ -1,0 +1,54 @@
+{
+  "slug": "limite-indenizacao-dano-moral-trabalhista",
+  "area": "trabalhista",
+  "data": "2027-01-11",
+  "serie": "grandes-causas",
+  "ordem": 10,
+  "titulo": "Existe limite para o valor da indenização por dano moral trabalhista?",
+  "destaque": "A tabela da CLT orienta, mas não limita.",
+  "resumo": "A Reforma Trabalhista criou uma tabela de valores para o dano moral, ligada ao salário. Em 2023, o STF decidiu que ela serve de orientação, e o juiz pode fixar valor maior quando o caso exigir.",
+  "pontos": [
+    [
+      "documento",
+      "A CLT gradua a ofensa em leve, média, grave e gravíssima."
+    ],
+    [
+      "carteira",
+      "Os valores da tabela vão de até 3 a até 50 vezes o salário."
+    ],
+    [
+      "balanca",
+      "Para o STF, o juiz pode ir além, justificando a decisão."
+    ],
+    [
+      "alerta",
+      "O valor depende da gravidade, das consequências e do caso concreto."
+    ]
+  ],
+  "exemplo": "Eduardo foi vítima de assédio moral por anos e desenvolveu depressão grave. Na conversa com conhecidos, ouviu que a indenização por dano moral estaria limitada a algumas vezes o seu salário.",
+  "corpo": "<p>Desde a Reforma Trabalhista de 2017, a CLT traz uma tabela para o valor da indenização por dano moral. A regra foi muito criticada por ligar o valor ao salário da vítima, e o STF decidiu como ela deve ser aplicada.</p>\n<h2>O que a lei prevê</h2>\n<p>A CLT lista critérios que o juiz deve considerar, como a natureza do bem ofendido, a intensidade do sofrimento, a possibilidade de superação, os reflexos pessoais e sociais e o grau de culpa (art. 223-G). E define faixas de valor conforme a gravidade (art. 223-G, § 1º):</p>\n<ul>\n<li>ofensa leve: até 3 vezes o último salário contratual;</li>\n<li>ofensa média: até 5 vezes;</li>\n<li>ofensa grave: até 20 vezes;</li>\n<li>ofensa gravíssima: até 50 vezes.</li>\n</ul>\n<h2>A decisão do STF</h2>\n<p>Em 2023, ao julgar as ADIs 6.050, 6.069 e 6.082, o STF decidiu que os critérios do art. 223-G são orientadores. O juiz deve usá-los para fundamentar a decisão, mas pode fixar valores acima dos limites da tabela quando as circunstâncias do caso exigirem, observando a razoabilidade, a proporcionalidade e a igualdade.</p>\n<h2>Na prática</h2>\n<ul>\n<li>Casos de acidente grave, doença incapacitante, assédio prolongado ou morte costumam ser analisados com mais rigor.</li>\n<li>A prova da conduta da empresa e das consequências na vida da vítima é o que sustenta o valor pedido.</li>\n<li>O valor fixado sempre depende do caso concreto. Não há como prever o resultado antes da análise das provas.</li>\n</ul>",
+  "faq": [
+    [
+      "A indenização por dano moral tem teto?",
+      "Para o STF, a tabela do art. 223-G da CLT é orientadora, e o juiz pode fixar valor maior, justificando (ADIs 6.050, 6.069 e 6.082)."
+    ],
+    [
+      "Quem ganha menos recebe indenização menor?",
+      "A tabela usa o salário como referência, mas o STF permitiu valores acima dela conforme o caso, com base na igualdade e na proporcionalidade."
+    ],
+    [
+      "Do que depende o valor?",
+      "Da gravidade da ofensa, das consequências, do grau de culpa e das demais circunstâncias do caso (CLT, art. 223-G)."
+    ]
+  ],
+  "base": [
+    "CLT, arts. 223-A a 223-G",
+    "STF, ADIs 6.050, 6.069 e 6.082 (julgamento em 2023)"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/8296974/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}
