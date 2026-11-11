@@ -1,0 +1,62 @@
+{
+  "slug": "inss-demora-na-analise-do-pedido",
+  "area": "previdenciario",
+  "data": "2026-11-13",
+  "titulo": "O INSS passou do prazo para analisar o meu pedido: o que fazer?",
+  "resumo": "Um acordo homologado pelo STF fixou prazos máximos para o INSS decidir os pedidos de benefício. Quando o prazo estoura, o segurado pode reclamar e, se preciso, buscar a Justiça Federal.",
+  "destaque": "Há prazo, e dá para cobrar.",
+  "pontos": [
+    [
+      "calendario",
+      "Os prazos do acordo vão de 30 a 90 dias, conforme o benefício."
+    ],
+    [
+      "relogio",
+      "A contagem começa quando termina a instrução do pedido, por exemplo depois da perícia."
+    ],
+    [
+      "balanca",
+      "Se a demora continuar, é possível pedir ao juiz que mande o INSS decidir."
+    ]
+  ],
+  "exemplo": "Dona Lúcia pediu a aposentadoria por idade pelo Meu INSS, entregou todos os documentos e esperou. Passaram quatro meses e o pedido seguia \"em análise\", sem nenhuma exigência pendente.",
+  "corpo": "<h2>O que foi decidido</h2><p>Em 2021, o Supremo Tribunal Federal homologou, no RE 1.171.152, um acordo entre o INSS, o Ministério Público Federal e outros órgãos que fixou prazos máximos para a análise dos pedidos de benefício. Pelo texto do acordo, os prazos são:</p><ul><li>Benefício assistencial (BPC) à pessoa com deficiência ou ao idoso: 90 dias.</li><li>Aposentadorias, salvo por incapacidade permanente: 90 dias.</li><li>Aposentadoria por incapacidade permanente: 45 dias.</li><li>Auxílio por incapacidade temporária (auxílio-doença): 45 dias.</li><li>Pensão por morte, auxílio-reclusão e auxílio-acidente: 60 dias.</li><li>Salário-maternidade: 30 dias.</li></ul><p>O prazo conta a partir do fim da instrução. Nos benefícios que dependem de perícia médica ou avaliação social, isso acontece na data da perícia ou da avaliação. Nos demais, em regra, na data do pedido. Se o INSS fizer uma exigência de documento, o prazo pode ser afetado até que ela seja cumprida.</p><p>Pelo acordo, se o INSS descumprir o prazo, o pedido deve ser analisado em 10 dias por uma central de cumprimento emergencial. O próprio acordo prevê reavaliação periódica dos prazos, por isso vale conferir a regra em vigor no momento do pedido.</p><p>Além do acordo, a Lei 9.784/1999 diz que, concluída a instrução, a Administração tem até 30 dias para decidir, prorrogáveis por mais 30 com motivo expresso.</p><h2>O que fazer</h2><ul><li>Confira no Meu INSS se não há exigência pendente. Se houver, cumpra dentro do prazo.</li><li>Registre reclamação pela Central 135 ou pela Ouvidoria do INSS e guarde o número do protocolo.</li><li>Se a demora continuar, é possível entrar na Justiça Federal, por exemplo com mandado de segurança, para que o juiz fixe prazo para o INSS decidir.</li></ul><p>A ação por demora serve para obrigar o INSS a decidir. Ela não garante que a resposta será favorável. Se o pedido for negado, veja o informativo <a href=\"inss-negou-beneficio-o-que-fazer.html\">O INSS negou meu benefício. O que posso fazer?</a></p>",
+  "faq": [
+    [
+      "Qual o prazo para o INSS analisar o auxílio-doença?",
+      "Pelo acordo homologado pelo STF, 45 dias contados da realização da perícia médica (STF, RE 1.171.152, acordo, cláusulas 1ª e 2ª)."
+    ],
+    [
+      "A lei também fixa prazo para a Administração decidir?",
+      "Sim. Concluída a instrução, a Administração tem até 30 dias para decidir, salvo prorrogação por igual período expressamente motivada (Lei 9.784/1999, art. 49)."
+    ],
+    [
+      "O que acontece se o INSS descumprir o prazo do acordo?",
+      "O acordo prevê que o pedido seja analisado em 10 dias pela Central Unificada de Cumprimento Emergencial de Prazos (acordo do RE 1.171.152, cláusula 10.1)."
+    ]
+  ],
+  "base": [
+    "STF, RE 1.171.152 (Tema 1.066), acordo homologado em 2021, cláusulas 1ª, 2ª e 10ª",
+    "Lei 9.784/1999, arts. 48 e 49",
+    "Constituição Federal, art. 109, I"
+  ],
+  "fontes": [
+    [
+      "STF: Plenário confirma acordo sobre prazos para análise de benefícios do INSS (fevereiro de 2021)",
+      "https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=460220"
+    ],
+    [
+      "INSS: minuta final do acordo do RE 1.171.152",
+      "https://www.gov.br/inss/pt-br/centrais-de-conteudo/publicacoes/outras/minuta-final-do-acordo.pdf"
+    ],
+    [
+      "Planalto: Lei nº 9.784, de 29 de janeiro de 1999",
+      "https://www.planalto.gov.br/ccivil_03/leis/l9784.htm"
+    ]
+  ],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/8529632/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "multa-hidrometro-sem-prova",
+  "area": "consumidor",
+  "data": "2026-11-17",
+  "titulo": "Fui multado por violação do hidrômetro sem prova: posso contestar?",
+  "resumo": "Sim. A acusação de fraude no medidor precisa ser apurada com direito de defesa. Uma vistoria feita só pelo prestador, sem ouvir o consumidor, é frágil para justificar multa e cobrança.",
+  "destaque": "Sim, com direito de defesa.",
+  "pontos": [
+    [
+      "escudo",
+      "A Constituição garante contraditório e ampla defesa também em processo administrativo."
+    ],
+    [
+      "balanca",
+      "O juiz pode inverter o ônus da prova a favor do consumidor."
+    ],
+    [
+      "documento",
+      "Peça cópia do auto de vistoria, das fotos e do histórico de consumo."
+    ]
+  ],
+  "exemplo": "Joana recebeu uma conta com multa por \"violação do hidrômetro\". Ninguém a chamou para acompanhar a vistoria, ela não recebeu cópia de nenhum documento e o consumo da casa sempre foi o mesmo.",
+  "corpo": "<h2>O que diz a lei</h2><p>A Lei do Saneamento permite ao prestador interromper o serviço em caso de manipulação indevida do medidor. Mas a acusação precisa ser provada. A Constituição garante contraditório e ampla defesa em processo judicial ou administrativo, e o Código de Defesa do Consumidor permite que o juiz inverta o ônus da prova quando a alegação do consumidor for verossímil ou quando ele for a parte mais fraca.</p><h2>O que o STJ decidiu para a energia</h2><p>No caso da energia elétrica, o STJ fixou no Tema 699 que o corte por débito de fraude no medidor só é possível se a fraude for apurada com contraditório e ampla defesa, com aviso prévio. A Resolução ANEEL 1.000/2021 descreve como a distribuidora deve apurar: termo de ocorrência entregue ao consumidor, possibilidade de perícia, avaliação técnica e análise do histórico de consumo.</p><p>Para a água, as regras de apuração são definidas pela agência reguladora ou pelo regulamento do serviço em cada lugar. A garantia de defesa, porém, vem da Constituição e vale para todos.</p><h2>Como contestar</h2><ul><li>Peça por escrito cópia do auto de vistoria, das fotos e do laudo, se houver.</li><li>Apresente defesa no prazo indicado pelo prestador e guarde o protocolo.</li><li>Junte o histórico de consumo: se não houve queda, isso enfraquece a tese de fraude.</li><li>Se possível, peça perícia no medidor.</li><li>Se pagar valor indevido, é possível pedir a devolução, inclusive em dobro quando não houver engano justificável.</li></ul>",
+  "faq": [
+    [
+      "O prestador pode me multar sem me ouvir?",
+      "A cobrança deve respeitar o contraditório e a ampla defesa, garantidos também em processos administrativos (Constituição Federal, art. 5º, LV)."
+    ],
+    [
+      "Quem precisa provar a fraude?",
+      "Quem acusa. Além disso, o juiz pode inverter o ônus da prova a favor do consumidor (CDC, art. 6º, VIII)."
+    ],
+    [
+      "Paguei a multa e depois provei que era indevida. Recebo de volta?",
+      "Sim. O consumidor cobrado em quantia indevida tem direito à devolução em dobro do que pagou em excesso, salvo engano justificável (CDC, art. 42, parágrafo único)."
+    ]
+  ],
+  "base": [
+    "Constituição Federal, art. 5º, LV",
+    "CDC, arts. 6º, VIII, e 42, parágrafo único",
+    "Lei 11.445/2007, art. 40, IV",
+    "STJ, Tema 699 (REsp 1.412.433/RS), sobre energia elétrica",
+    "Resolução Normativa ANEEL 1.000/2021, arts. 590 e 591, sobre energia elétrica"
+  ],
+  "fontes": [
+    [
+      "STJ: Tema repetitivo 699",
+      "https://processo.stj.jus.br/repetitivos/temas_repetitivos/pesquisa.jsp?novaConsulta=true&tipo_pesquisa=T&cod_tema_inicial=699&cod_tema_final=699"
+    ],
+    [
+      "Planalto: Código de Defesa do Consumidor (Lei nº 8.078, de 11 de setembro de 1990)",
+      "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm"
+    ],
+    [
+      "ANEEL: Resolução Normativa nº 1.000, de 7 de dezembro de 2021",
+      "https://www2.aneel.gov.br/cedoc/ren20211000.html"
+    ]
+  ],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/16258658/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

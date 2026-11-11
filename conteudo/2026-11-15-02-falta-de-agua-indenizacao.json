@@ -1,0 +1,57 @@
+{
+  "slug": "falta-de-agua-indenizacao",
+  "area": "consumidor",
+  "data": "2026-11-15",
+  "titulo": "Fiquei dias sem água: tenho direito a indenização?",
+  "resumo": "A água é serviço essencial e deve ser fornecida de forma contínua. Quando a falta é longa e sem justificativa, o prestador pode ter de reparar os prejuízos do consumidor.",
+  "destaque": "Pode ter, conforme o caso.",
+  "pontos": [
+    [
+      "casa",
+      "Serviço essencial, como a água, deve ser contínuo, segundo o Código de Defesa do Consumidor."
+    ],
+    [
+      "alerta",
+      "Interrupção programada para obra precisa de aviso prévio aos moradores."
+    ],
+    [
+      "carteira",
+      "Gastos com água mineral ou caminhão-pipa podem ser cobrados, com comprovante."
+    ]
+  ],
+  "exemplo": "A família de Rosângela ficou cinco dias sem água em casa, sem nenhum aviso. Ela comprou galões, pagou um caminhão-pipa e precisou levar as roupas para lavar na casa da mãe.",
+  "corpo": "<h2>O que diz a lei</h2><p>O Código de Defesa do Consumidor obriga os órgãos públicos e as empresas que prestam serviço público a fornecer serviço adequado, eficiente, seguro e, quando essencial, contínuo. Se não cumprirem essa obrigação, devem reparar os danos causados.</p><p>A responsabilidade do prestador independe de culpa: basta provar a falha no serviço, o dano e a ligação entre os dois.</p><h2>Quando a interrupção é permitida</h2><p>A Lei do Saneamento (Lei 11.445/2007) admite interromper o abastecimento em situações como emergência que ameace pessoas e bens, ou necessidade de reparos e melhorias no sistema. As interrupções programadas devem ser comunicadas antes aos usuários.</p><p>Ou seja, nem toda falta de água gera indenização. O que costuma pesar é a duração, a falta de aviso, a falta de explicação e o prejuízo concreto para a família.</p><h2>Na prática</h2><ul><li>Registre reclamação no prestador e anote todos os protocolos.</li><li>Fotografe as torneiras secas e guarde mensagens e avisos, com data.</li><li>Guarde notas de compra de água, caminhão-pipa e outros gastos.</li><li>Reúna notícias e relatos de vizinhos que mostram a duração do problema.</li><li>Se não houver solução, é possível reclamar na agência reguladora, no Procon e, depois, buscar o Juizado Especial.</li></ul><p>Os gastos comprovados podem ser cobrados como dano material. O dano moral depende de cada caso e é avaliado pelo juiz.</p>",
+  "faq": [
+    [
+      "A água pode faltar por obra sem aviso?",
+      "Não. As interrupções programadas devem ser comunicadas antes ao regulador e aos usuários (Lei 11.445/2007, art. 40, § 1º)."
+    ],
+    [
+      "O prestador responde mesmo sem culpa?",
+      "Sim. O fornecedor de serviços responde pelos danos causados por defeito na prestação, independentemente de culpa (CDC, art. 14)."
+    ],
+    [
+      "O serviço de água precisa ser contínuo?",
+      "Sim. Os serviços essenciais prestados por órgãos públicos e concessionárias devem ser contínuos (CDC, art. 22)."
+    ]
+  ],
+  "base": [
+    "CDC, arts. 6º, X, 14 e 22, parágrafo único",
+    "Lei 11.445/2007, art. 40, caput e § 1º"
+  ],
+  "fontes": [
+    [
+      "Planalto: Código de Defesa do Consumidor (Lei nº 8.078, de 11 de setembro de 1990)",
+      "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm"
+    ],
+    [
+      "Planalto: Lei nº 11.445, de 5 de janeiro de 2007 (saneamento básico)",
+      "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11445.htm"
+    ]
+  ],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/4612383/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "slug": "esgoto-retornando-para-dentro-de-casa",
+  "area": "consumidor",
+  "data": "2026-11-16",
+  "titulo": "Esgoto voltando para dentro de casa: quem responde?",
+  "resumo": "Se o retorno do esgoto vem de falha na rede pública, o prestador do serviço responde pelos danos, mesmo sem culpa. Se o problema está na instalação interna do imóvel, a situação muda.",
+  "destaque": "O prestador, se a falha for da rede.",
+  "pontos": [
+    [
+      "casa",
+      "Esgoto é serviço público essencial e deve ser prestado de forma segura."
+    ],
+    [
+      "escudo",
+      "Quem presta serviço público responde pelos danos causados, sem precisar provar culpa."
+    ],
+    [
+      "alerta",
+      "Se a causa estiver no encanamento interno da casa, o prestador pode se defender."
+    ]
+  ],
+  "exemplo": "Depois de uma chuva forte, o esgoto voltou pelo ralo do banheiro e da cozinha da casa de Sebastião. Ele perdeu móveis, colchões e teve de sair com a família por dois dias.",
+  "corpo": "<h2>O que diz a lei</h2><p>A Constituição diz que as pessoas jurídicas de direito público e as empresas privadas que prestam serviço público respondem pelos danos que seus agentes causarem a terceiros. O Código de Defesa do Consumidor vai no mesmo sentido: o prestador deve fornecer serviço adequado e seguro e responde pelos defeitos do serviço, independentemente de culpa.</p><p>Isso vale tanto para empresa concessionária quanto para autarquia do município que cuida da água e do esgoto.</p><h2>Rede pública ou instalação da casa?</h2><p>Essa é a pergunta central. O prestador responde quando o retorno vem da rede pública, por exemplo por entupimento, rede subdimensionada ou falta de manutenção. Se o problema está só no encanamento interno do imóvel, o prestador pode alegar culpa exclusiva do consumidor, que a lei aceita como defesa.</p><h2>Na prática</h2><ul><li>Fotografe e filme o esgoto dentro de casa e os bens atingidos, com data.</li><li>Registre reclamação no prestador e guarde o protocolo.</li><li>Peça uma vistoria e, se possível, um laudo de encanador ou engenheiro indicando a origem do problema.</li><li>Guarde notas de limpeza, conserto e compra de bens perdidos.</li><li>Verifique se vizinhos tiveram o mesmo problema: isso ajuda a mostrar que a falha é da rede.</li></ul><p>Os prejuízos comprovados podem ser cobrados como dano material. Se houver risco à saúde ou a família precisar deixar a casa, o pedido de dano moral também pode ser analisado pelo juiz.</p>",
+  "faq": [
+    [
+      "A autarquia municipal também responde?",
+      "Sim. Pessoas jurídicas de direito público e empresas privadas prestadoras de serviço público respondem pelos danos que seus agentes causarem a terceiros (Constituição Federal, art. 37, § 6º)."
+    ],
+    [
+      "Preciso provar que o prestador teve culpa?",
+      "Não. Basta mostrar o defeito do serviço, o dano e a ligação entre eles (CDC, art. 14)."
+    ],
+    [
+      "Em que caso o prestador não responde?",
+      "Se provar que o defeito não existe ou que a culpa é exclusiva do consumidor ou de terceiro (CDC, art. 14, § 3º)."
+    ]
+  ],
+  "base": [
+    "Constituição Federal, art. 37, § 6º",
+    "CDC, arts. 14, caput e § 3º, e 22"
+  ],
+  "fontes": [
+    [
+      "Planalto: Constituição da República Federativa do Brasil de 1988",
+      "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+    ],
+    [
+      "Planalto: Código de Defesa do Consumidor (Lei nº 8.078, de 11 de setembro de 1990)",
+      "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm"
+    ]
+  ],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/39618021/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

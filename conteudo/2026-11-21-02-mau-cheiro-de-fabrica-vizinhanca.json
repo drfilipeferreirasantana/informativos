@@ -1,0 +1,57 @@
+{
+  "slug": "mau-cheiro-de-fabrica-vizinhanca",
+  "area": "civil",
+  "data": "2026-11-21",
+  "titulo": "Mau cheiro de fábrica perto de casa: o morador pode fazer algo?",
+  "resumo": "Sim. O Código Civil permite ao vizinho exigir que cessem as interferências que prejudicam a saúde e o sossego. A poluição também pode ser levada ao órgão ambiental e ao Ministério Público.",
+  "destaque": "Sim, pode exigir que o cheiro pare.",
+  "pontos": [
+    [
+      "casa",
+      "O morador pode exigir o fim das interferências que prejudicam a saúde e o sossego da casa."
+    ],
+    [
+      "alerta",
+      "Odor que prejudica o bem-estar da população pode ser poluição, segundo a lei ambiental."
+    ],
+    [
+      "predio",
+      "A denúncia pode ser feita ao órgão ambiental (no ES, o IEMA), ao município e ao Ministério Público."
+    ]
+  ],
+  "exemplo": "Há meses, o bairro de Eliane sente um cheiro forte vindo de uma indústria próxima, sobretudo à noite. As crianças acordam com enjoo e os vizinhos já não conseguem deixar as janelas abertas.",
+  "corpo": "<h2>O que diz o Código Civil</h2><p>O proprietário ou o morador de um imóvel tem o direito de fazer cessar as interferências prejudiciais à segurança, ao sossego e à saúde de quem vive ali, causadas pelo uso da propriedade vizinha. O juiz avalia a natureza da atividade, o local, as regras de zoneamento e os limites normais de tolerância da vizinhança.</p><p>Mesmo quando a atividade é de interesse público e precisa continuar, o vizinho tem direito a indenização. E, se a interferência tiver de ser tolerada, pode exigir sua redução ou eliminação quando isso se tornar possível.</p><h2>O que diz a lei ambiental</h2><p>A Lei 6.938/1981 considera poluição a degradação ambiental que prejudica a saúde, a segurança ou o bem-estar da população. Quem polui deve reparar os danos ao meio ambiente e a terceiros, independentemente de culpa. O Ministério Público pode propor ação contra o poluidor.</p><h2>Na prática</h2><ul><li>Faça um diário do cheiro: data, horário, duração e intensidade.</li><li>Grave vídeos e reúna relatos e abaixo-assinado dos vizinhos.</li><li>Guarde atestados e receitas, se houver problemas de saúde ligados ao odor.</li><li>Denuncie ao órgão ambiental do estado (no Espírito Santo, o IEMA), à secretaria de meio ambiente do município e ao Ministério Público, e guarde os protocolos.</li><li>Na Justiça, é possível pedir que a empresa adote medidas para acabar com o cheiro e, conforme o caso, indenização.</li></ul>",
+  "faq": [
+    [
+      "Posso exigir que a fábrica acabe com o mau cheiro?",
+      "Sim. O morador pode fazer cessar as interferências prejudiciais à segurança, ao sossego e à saúde causadas pela propriedade vizinha (Código Civil, art. 1.277)."
+    ],
+    [
+      "E se a fábrica tiver licença para funcionar?",
+      "Se a interferência for justificada por interesse público, o vizinho tem direito a indenização, e pode exigir a redução ou eliminação do incômodo quando for possível (Código Civil, arts. 1.278 e 1.279)."
+    ],
+    [
+      "Mau cheiro é poluição?",
+      "Pode ser. A lei considera poluição a degradação ambiental que prejudica a saúde, a segurança ou o bem-estar da população (Lei 6.938/1981, art. 3º, III, a)."
+    ]
+  ],
+  "base": [
+    "Código Civil, arts. 1.277 a 1.279",
+    "Lei 6.938/1981, art. 3º, III e IV, e art. 14, § 1º"
+  ],
+  "fontes": [
+    [
+      "Planalto: Código Civil (Lei nº 10.406, de 10 de janeiro de 2002)",
+      "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
+    ],
+    [
+      "Planalto: Lei nº 6.938, de 31 de agosto de 1981 (Política Nacional do Meio Ambiente)",
+      "https://www.planalto.gov.br/ccivil_03/leis/l6938.htm"
+    ]
+  ],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/33944133/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

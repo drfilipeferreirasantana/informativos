@@ -1,0 +1,63 @@
+{
+  "slug": "caminhoneiro-banheiro-agua-local-de-espera",
+  "area": "trabalhista",
+  "data": "2026-11-12",
+  "titulo": "Caminhoneiro sem banheiro e sem água enquanto espera para carregar ou descarregar: o que diz a lei?",
+  "resumo": "A Lei do Motorista exige condições sanitárias e de conforto nos locais de espera e proíbe cobrar do motorista pelo uso desses locais em embarcadores, destinatários, terminais e portos.",
+  "destaque": "A lei exige banheiro e conforto.",
+  "pontos": [
+    [
+      "predio",
+      "Os locais de espera precisam seguir normas de segurança, sanitárias e de conforto."
+    ],
+    [
+      "carteira",
+      "É proibido cobrar do motorista, ou do empregador dele, pelo uso do local de espera de quem carrega ou recebe a carga."
+    ],
+    [
+      "maleta",
+      "Para o motorista com carteira assinada, o empregador também responde pela saúde e segurança no trabalho."
+    ]
+  ],
+  "exemplo": "Márcio, motorista empregado de uma transportadora, passou a tarde inteira no pátio de um armazém esperando a descarga. O banheiro estava trancado e não havia água para beber. Quando pediu acesso, ouviu que só podia usar pagando.",
+  "corpo": "<h2>O que diz a lei</h2><p>A Lei 13.103/2015, conhecida como Lei do Motorista, determina que os locais de espera, de repouso e de descanso dos motoristas de caminhão e de ônibus sigam as normas de segurança, sanitárias e de conforto fixadas pelo órgão competente. O Decreto 8.433/2015 entregou ao Ministério do Trabalho a tarefa de regulamentar essas condições.</p><p>A mesma lei proíbe cobrar do motorista, ou do empregador dele, pelo uso ou pela permanência em locais de espera que estejam sob a responsabilidade de:</p><ul><li>transportador, embarcador ou destinatário da carga;</li><li>operador de terminal de cargas;</li><li>aduanas;</li><li>portos marítimos, fluviais, lacustres e secos;</li><li>terminais ferroviários, hidroviários e aeroportuários.</li></ul><p>Quando o local pertence ao transportador, ao embarcador ou ao destinatário da carga, ou quando eles têm contrato que os obriga a oferecer local de espera, valem também as Normas Regulamentadoras do trabalho.</p><h2>Motorista empregado</h2><p>Quem tem carteira assinada conta com mais uma proteção: a empresa é obrigada a cumprir e fazer cumprir as normas de segurança e saúde do trabalho. A NR-24, que trata das condições sanitárias e de conforto, exige instalação sanitária e água potável disponível ao trabalhador.</p><p>Além disso, o tempo de espera conta como jornada. Veja o informativo <a href=\"motorista-tempo-de-espera.html\">O tempo esperando carga e descarga conta como jornada do motorista?</a></p><h2>Caminhoneiro autônomo</h2><p>O autônomo não tem empregador, mas a proibição de cobrança pelo uso do local de espera também o protege. Se a espera passar de 5 horas, ele ainda pode ter direito à estadia. Veja o informativo <a href=\"caminhoneiro-estadia-carga-e-descarga.html\">Caminhoneiro que espera mais de 5 horas para carregar tem direito a estadia?</a></p><h2>Na prática</h2><ul><li>Fotografe o local, o banheiro fechado e a falta de água, com data e hora.</li><li>Guarde o comprovante de qualquer cobrança feita para usar o local.</li><li>Anote o horário de chegada e de saída e o nome de quem atendeu.</li><li>O empregado pode levar o problema ao empregador, ao sindicato ou à fiscalização do trabalho.</li></ul>",
+  "faq": [
+    [
+      "O embarcador pode cobrar para o motorista usar o banheiro do pátio de espera?",
+      "Não. A lei proíbe cobrar do motorista ou do empregador dele pelo uso ou permanência no local de espera do embarcador ou do destinatário da carga (Lei 13.103/2015, art. 9º, § 1º, I)."
+    ],
+    [
+      "Quem define como deve ser o local de espera?",
+      "As normas do órgão competente. O Decreto 8.433/2015 atribuiu ao Ministério do Trabalho regulamentar as condições sanitárias e de conforto desses locais (Decreto 8.433/2015, art. 4º)."
+    ],
+    [
+      "A empresa onde o motorista espera precisa seguir as normas do trabalho?",
+      "Sim, quando o local é dela ou quando ela tem contrato que a obriga a oferecer o espaço aos motoristas (Lei 13.103/2015, art. 9º, § 4º)."
+    ]
+  ],
+  "base": [
+    "Lei 13.103/2015, art. 9º, caput e §§ 1º e 4º",
+    "Decreto 8.433/2015, art. 4º",
+    "NR-24 (condições sanitárias e de conforto nos locais de trabalho), itens 24.2.1 e 24.9.1",
+    "CLT, art. 157, I"
+  ],
+  "fontes": [
+    [
+      "Planalto: Lei nº 13.103, de 2 de março de 2015",
+      "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13103.htm"
+    ],
+    [
+      "Planalto: Decreto nº 8.433, de 16 de abril de 2015",
+      "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/decreto/d8433.htm"
+    ],
+    [
+      "Ministério do Trabalho e Emprego: NR-24, texto atualizado",
+      "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/arquivos/normas-regulamentadoras/nr-24-atualizada-2022.pdf"
+    ]
+  ],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/7541981/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "slug": "atestmed-auxilio-doenca-sem-pericia",
+  "area": "previdenciario",
+  "data": "2026-11-14",
+  "titulo": "Dá para receber o auxílio-doença sem perícia presencial?",
+  "resumo": "Sim, em muitos casos. Pelo Atestmed, o INSS analisa o atestado médico enviado pelo Meu INSS e pode conceder o auxílio por incapacidade temporária sem que o segurado vá à agência.",
+  "destaque": "Sim, pelo Atestmed, com limite.",
+  "pontos": [
+    [
+      "documento",
+      "O pedido é feito pelo Meu INSS, com atestado legível, CID ou diagnóstico e prazo de afastamento."
+    ],
+    [
+      "calendario",
+      "Desde março de 2026, a análise documental vale para afastamentos de até 90 dias."
+    ],
+    [
+      "alerta",
+      "Se o pedido for negado, há prazo de 10 dias para pedir reanálise antes de recorrer."
+    ]
+  ],
+  "exemplo": "Cláudia fraturou o pé e recebeu atestado de 60 dias. Ela fez o pedido pelo celular, anexou o atestado e o raio-x, e não precisou agendar perícia na agência.",
+  "corpo": "<h2>O que diz a lei</h2><p>A Lei 8.213/1991 permite que a perícia do auxílio por incapacidade temporária seja feita por telemedicina ou por análise de documentos, conforme o regulamento. Também permite que o benefício seja concedido com base em atestados e laudos médicos, sem parecer da perícia médica, nas condições fixadas pelo governo.</p><p>A regra da lei é que o benefício concedido por análise documental dure até 30 dias. Acima disso, exige perícia presencial ou por telemedicina. A própria lei, porém, permite que o Poder Executivo amplie esse limite de forma excepcional, justificada e por prazo determinado.</p><h2>O que mudou em 2026</h2><p>A Portaria Conjunta MPS/INSS nº 13, de 23 de março de 2026, criou o novo Atestmed e ampliou para até 90 dias o afastamento que pode ser concedido só com a análise do atestado. Em novembro de 2026, a Portaria Conjunta nº 54 trouxe duas novidades:</p><ul><li>se o pedido for negado na análise documental, o segurado pode pedir reanálise em até 10 dias, inclusive com novos documentos médicos;</li><li>depois de dois indeferimentos seguidos por análise documental, os pedidos seguintes vão obrigatoriamente para perícia presencial ou por telemedicina.</li></ul><p>Quem recorrer sem antes pedir a reanálise perde a chance de fazê-la. Como a ampliação é temporária, vale conferir a regra em vigor na data do pedido.</p><h2>Como deve ser o atestado</h2><ul><li>Legível e sem rasuras.</li><li>Com nome completo do paciente e data de emissão.</li><li>Com CID ou diagnóstico por extenso.</li><li>Com o prazo estimado de afastamento.</li><li>Com assinatura e identificação do profissional e o número do registro no conselho.</li></ul><h2>Na prática</h2><p>O pedido de prorrogação, segundo o INSS, passa por perícia presencial. Os requisitos do benefício continuam os mesmos, como carência e qualidade de segurado. Veja o informativo <a href=\"auxilio-doenca-quem-tem-direito.html\">Quem tem direito ao auxílio-doença do INSS?</a></p>",
+  "faq": [
+    [
+      "Qual o limite do benefício concedido só pelo atestado, segundo a lei?",
+      "A lei fixa 30 dias, mas permite que o Poder Executivo amplie esse prazo de forma excepcional e por prazo determinado (Lei 8.213/1991, art. 60, §§ 11-F e 11-I)."
+    ],
+    [
+      "A perícia pode ser feita a distância?",
+      "Sim. A lei admite a perícia por telemedicina ou por análise documental, conforme regulamento (Lei 8.213/1991, art. 60, § 11-A)."
+    ],
+    [
+      "Fui negado no Atestmed. Recorro direto?",
+      "Antes, é possível pedir reanálise em até 10 dias. Quem recorre sem pedir a reanálise perde essa possibilidade (Portaria Conjunta MPS/INSS nº 54/2026, que alterou a nº 13/2026)."
+    ]
+  ],
+  "base": [
+    "Lei 8.213/1991, art. 60, §§ 11-A, 11-F a 11-I e 14",
+    "Portaria Conjunta MPS/INSS nº 13, de 23 de março de 2026 (novo Atestmed)",
+    "Portaria Conjunta MPS/INSS nº 54, de novembro de 2026 (reanálise em até 10 dias)"
+  ],
+  "fontes": [
+    [
+      "Planalto: Lei nº 8.213, de 24 de julho de 1991",
+      "https://www.planalto.gov.br/ccivil_03/leis/l8213cons.htm"
+    ],
+    [
+      "Agência Gov: Novo Atestmed acelera a decisão de análise de benefícios por incapacidade temporária (março de 2026)",
+      "https://agenciagov.ebc.com.br/noticias/202603/novo-atestmed-acelera-a-decisao-de-analise-de-beneficios-por-incapacidade-temporaria"
+    ],
+    [
+      "Ministério da Previdência Social: Atestados médicos de até 90 dias não têm mais perícia presencial (abril de 2026)",
+      "https://www.gov.br/previdencia/pt-br/noticias/2026/abril/atestados-medicos-de-ate-90-dias-nao-tem-mais-pericia-presencial"
+    ],
+    [
+      "Agência Brasil: Governo altera regras da perícia para concessão do auxílio-doença (6 de novembro de 2026)",
+      "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/governo-altera-regras-da-pericia-para-concessao-do-auxilio-doenca"
+    ]
+  ],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/6627939/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

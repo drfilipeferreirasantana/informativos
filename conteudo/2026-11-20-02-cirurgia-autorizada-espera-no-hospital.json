@@ -1,0 +1,62 @@
+{
+  "slug": "cirurgia-autorizada-espera-no-hospital",
+  "area": "consumidor",
+  "data": "2026-11-20",
+  "titulo": "Cirurgia autorizada pelo plano e horas de espera no hospital: quais os direitos do paciente?",
+  "resumo": "O paciente e a família têm direito a informação clara sobre o atraso. Uma espera longa e sem explicação, que cause dano ao paciente, pode gerar responsabilidade do hospital e, conforme o caso, do plano.",
+  "destaque": "Direito a informação e cuidado.",
+  "pontos": [
+    [
+      "saude",
+      "O hospital responde pelos defeitos do serviço, independentemente de culpa."
+    ],
+    [
+      "documento",
+      "Paciente e família têm direito a informação clara sobre o motivo do atraso."
+    ],
+    [
+      "calendario",
+      "Para internação eletiva, a ANS fixa prazo de até 21 dias úteis a partir do pedido."
+    ]
+  ],
+  "exemplo": "Seu Antônio chegou ao hospital às 6h, em jejum, para uma cirurgia já autorizada pelo plano. Às 18h, ainda esperava no corredor, sem que ninguém explicasse à família o motivo do atraso.",
+  "corpo": "<h2>O que diz a lei</h2><p>O Código de Defesa do Consumidor garante ao paciente informação adequada e clara sobre o serviço. O hospital, como prestador de serviço, responde pelos danos causados por defeitos na prestação, independentemente de culpa.</p><p>Nem todo atraso é ilegal. Uma emergência pode mudar a ordem das cirurgias, e isso faz parte da rotina hospitalar. O problema surge quando a espera é longa, sem explicação, sem cuidados com o paciente, ou quando o atraso causa piora no quadro de saúde.</p><h2>O que vale para o plano de saúde</h2><ul><li>A Resolução Normativa ANS 566/2022 fixa prazos máximos para o atendimento. Para internação eletiva, são até 21 dias úteis, contados do pedido.</li><li>Se não houver prestador disponível na rede, a operadora deve garantir o atendimento em outro prestador, dentro dos prazos.</li><li>Em urgência e emergência, a cobertura é obrigatória, conforme a Lei 9.656/1998.</li></ul><p>Conforme o caso, a operadora também pode ser chamada a responder pelo atendimento da rede que oferece ao cliente.</p><h2>Na prática</h2><ul><li>Peça à equipe, com educação e por escrito se preciso, a previsão e o motivo do atraso.</li><li>Anote horários de chegada, de jejum e de cada informação recebida, com o nome de quem informou.</li><li>Guarde a guia de autorização do plano.</li><li>Registre reclamação na ouvidoria do hospital e no plano. Se não houver resposta, use os canais de atendimento da ANS.</li><li>Se houver piora, peça cópia do prontuário, que é direito do paciente.</li></ul>",
+  "faq": [
+    [
+      "O hospital precisa explicar por que a cirurgia atrasou?",
+      "Sim. O consumidor tem direito à informação adequada e clara sobre os serviços (CDC, art. 6º, III)."
+    ],
+    [
+      "Qual o prazo para o plano garantir uma internação eletiva?",
+      "Até 21 dias úteis, contados da data do pedido até a realização (RN ANS 566/2022, art. 3º, XIII e § 1º)."
+    ],
+    [
+      "Em emergência, o plano pode negar atendimento?",
+      "Não. A cobertura é obrigatória nos casos de emergência e de urgência definidos em lei (Lei 9.656/1998, art. 35-C)."
+    ]
+  ],
+  "base": [
+    "CDC, arts. 6º, III, e 14",
+    "Lei 9.656/1998, art. 35-C",
+    "Resolução Normativa ANS 566/2022, arts. 3º, XIII e § 1º, e 4º"
+  ],
+  "fontes": [
+    [
+      "Planalto: Código de Defesa do Consumidor (Lei nº 8.078, de 11 de setembro de 1990)",
+      "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm"
+    ],
+    [
+      "Planalto: Lei nº 9.656, de 3 de junho de 1998 (planos de saúde)",
+      "https://www.planalto.gov.br/ccivil_03/leis/l9656.htm"
+    ],
+    [
+      "Ministério da Saúde (Saúde Legis): Resolução Normativa ANS nº 566, de 29 de dezembro de 2022",
+      "https://bvsms.saude.gov.br/bvs/saudelegis/ans/2023/res0566_02_01_2023.html"
+    ]
+  ],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/19921278/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

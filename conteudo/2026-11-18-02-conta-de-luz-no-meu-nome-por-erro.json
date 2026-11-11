@@ -1,0 +1,57 @@
+{
+  "slug": "conta-de-luz-no-meu-nome-por-erro",
+  "area": "consumidor",
+  "data": "2026-11-18",
+  "titulo": "A conta de luz está no meu nome por erro: como resolver?",
+  "resumo": "Quem não mora mais no imóvel pode pedir o encerramento do contrato com a distribuidora a qualquer momento. E a distribuidora não pode transferir para alguém dívida que é de outra pessoa.",
+  "destaque": "Peça o encerramento por escrito.",
+  "pontos": [
+    [
+      "documento",
+      "O consumidor pode pedir o encerramento do contrato e tem direito a comprovante do pedido."
+    ],
+    [
+      "alerta",
+      "A distribuidora não pode exigir que as dívidas sejam pagas antes de encerrar o contrato."
+    ],
+    [
+      "carteira",
+      "Cobrança indevida paga pode ser devolvida em dobro."
+    ]
+  ],
+  "exemplo": "Paulo vendeu a casa em 2024, mas nunca pediu o desligamento. Dois anos depois, descobriu que as contas do novo morador continuavam no nome dele e que seu nome estava negativado.",
+  "corpo": "<h2>O que diz a regra da ANEEL</h2><p>A Resolução Normativa ANEEL 1.000/2021 reúne os direitos do consumidor de energia elétrica. Ela prevê que o contrato com a distribuidora termina, entre outras situações, quando o próprio consumidor pede, ou quando um novo morador pede a ligação ou a troca de titularidade para o mesmo imóvel.</p><ul><li>A distribuidora deve entregar comprovante do pedido de encerramento, por correspondência ou meio eletrônico.</li><li>Ela não pode condicionar o encerramento ao pagamento ou à negociação de débitos. Pode apenas informar o que está em aberto.</li><li>Na troca de titularidade, não pode exigir do novo titular o pagamento de dívida de outra pessoa, nem a assinatura de termo assumindo essa dívida, nem transferir no sistema débitos de terceiros.</li></ul><h2>Atenção</h2><p>Enquanto o contrato não é encerrado, a distribuidora tende a manter as contas no nome do titular. Por isso, quem se muda deve pedir o encerramento ou a troca de titularidade e guardar o comprovante. Se o seu nome foi usado sem pedido seu, registre a reclamação e, se for o caso, um boletim de ocorrência.</p><h2>Na prática</h2><ul><li>Peça o encerramento ou a correção nos canais da distribuidora e guarde o protocolo.</li><li>Junte provas de que não mora mais no imóvel: contrato de venda ou de locação, entrega das chaves, comprovante do novo endereço.</li><li>Se não resolver, recorra à ouvidoria da distribuidora e depois à ANEEL.</li><li>Se o nome foi negativado por dívida que não é sua, é possível pedir na Justiça a retirada e a análise de indenização.</li></ul>",
+  "faq": [
+    [
+      "Posso pedir o encerramento do contrato mesmo com contas atrasadas?",
+      "Sim. A distribuidora não pode condicionar o encerramento à quitação ou negociação de débitos (Resolução ANEEL 1.000/2021, art. 140, I e § 6º)."
+    ],
+    [
+      "O novo morador pode ser obrigado a pagar a dívida do antigo?",
+      "Não, em regra. A distribuidora não pode exigir pagamento de débito de terceiros para trocar a titularidade, salvo casos de sucessão de empresa (Resolução ANEEL 1.000/2021, art. 346, I a III e § 1º)."
+    ],
+    [
+      "Paguei conta que não era minha. Recebo de volta?",
+      "O consumidor cobrado em quantia indevida tem direito à devolução em dobro do que pagou em excesso, salvo engano justificável (CDC, art. 42, parágrafo único)."
+    ]
+  ],
+  "base": [
+    "Resolução Normativa ANEEL 1.000/2021, arts. 138, 140, I e II e §§ 5º e 6º, e 346",
+    "CDC, arts. 42, parágrafo único, e 43, § 2º"
+  ],
+  "fontes": [
+    [
+      "ANEEL: Resolução Normativa nº 1.000, de 7 de dezembro de 2021",
+      "https://www2.aneel.gov.br/cedoc/ren20211000.html"
+    ],
+    [
+      "Planalto: Código de Defesa do Consumidor (Lei nº 8.078, de 11 de setembro de 1990)",
+      "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm"
+    ]
+  ],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/32549020/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}
