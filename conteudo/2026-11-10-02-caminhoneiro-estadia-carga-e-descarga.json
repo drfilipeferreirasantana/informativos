@@ -1,0 +1,62 @@
+{
+  "slug": "caminhoneiro-estadia-carga-e-descarga",
+  "area": "civil",
+  "data": "2026-11-10",
+  "titulo": "Caminhoneiro que espera mais de 5 horas para carregar tem direito a estadia?",
+  "resumo": "A lei do transporte de cargas limita a 5 horas o tempo de carga e descarga. Passado esse prazo, o caminhoneiro autônomo ou a transportadora tem direito a receber estadia por tonelada e por hora parada.",
+  "destaque": "Sim, depois de 5 horas de espera.",
+  "pontos": [
+    [
+      "relogio",
+      "O prazo de 5 horas conta da chegada do caminhão ao local de carga ou de descarga."
+    ],
+    [
+      "carteira",
+      "Desde abril de 2026, a estadia é de R$ 2,50 por tonelada e por hora, ou fração, além das 5 horas."
+    ],
+    [
+      "documento",
+      "Quem carrega ou recebe a carga é obrigado a registrar o horário de chegada do caminhão."
+    ]
+  ],
+  "exemplo": "Rogério, caminhoneiro autônomo, chegou à fábrica às 7h com uma carreta de 30 toneladas de capacidade e só foi liberado às 7h do dia seguinte. Foram 24 horas parado, 19 além do prazo da lei: 30 × 19 × R$ 2,50 = R$ 1.425,00 de estadia.",
+  "corpo": "<h2>O que diz a lei</h2><p>A Lei 11.442/2007, que trata do transporte rodoviário de cargas, fixa em 5 horas o prazo máximo para carregar ou descarregar o caminhão, contadas da chegada ao endereço. Depois disso, é devido ao transportador autônomo (TAC) ou à empresa de transporte (ETC) um valor por tonelada e por hora de espera, ou fração.</p><p>A lei manda corrigir esse valor todo ano pelo INPC. A Agência Nacional de Transportes Terrestres (ANTT) divulga a atualização em abril: desde a Nota Técnica 4102/2026, o valor é de R$ 2,50 por tonelada/hora.</p><h2>Como calcular</h2><ul><li>Anote a hora de chegada e a hora de liberação.</li><li>Desconte as 5 primeiras horas.</li><li>Multiplique as horas que sobram pela capacidade total do caminhão, em toneladas, e por R$ 2,50.</li></ul><p>A conta usa a capacidade total do veículo, e não só o peso que foi carregado.</p><h2>Como provar a espera</h2><p>O embarcador e o destinatário são obrigados a registrar a hora de chegada do caminhão no documento eletrônico de transporte (DT-e). Quem não cumpre essa obrigação pode ser multado pela ANTT em até 5% do valor da carga.</p><p>Além desse registro, ajudam a provar a espera:</p><ul><li>o ticket ou o registro de entrada na portaria;</li><li>fotos e vídeos com data e hora, mostrando o caminhão no pátio ou na fila;</li><li>o histórico do rastreador ou da localização do celular;</li><li>mensagens trocadas com a expedição, a transportadora ou o contratante do frete;</li><li>o horário da nota fiscal e do conhecimento de transporte (CT-e).</li></ul><h2>Como cobrar</h2><p>A estadia é cobrada de quem contratou o frete. O primeiro passo é enviar a cobrança por escrito, com o cálculo e as provas da espera. Se o pagamento não acontecer, a cobrança pode ser feita na Justiça comum, que é a competente para os contratos de transporte autônomo de cargas, segundo o STF.</p><h2>E o motorista com carteira assinada?</h2><p>A estadia é paga ao autônomo ou à transportadora. Para o motorista empregado, a regra é outra: o tempo esperando carga e descarga conta como jornada de trabalho. Veja o informativo <a href=\"motorista-tempo-de-espera.html\">O tempo esperando carga e descarga conta como jornada do motorista?</a></p>",
+  "faq": [
+    [
+      "O valor da estadia muda todo ano?",
+      "Sim. A lei manda atualizar o valor pelo INPC todos os anos (Lei 11.442/2007, art. 11, § 6º). O valor de R$ 2,50 por tonelada/hora foi divulgado pela ANTT em abril de 2026."
+    ],
+    [
+      "A conta usa o peso da carga ou a capacidade do caminhão?",
+      "A capacidade total de transporte do veículo, mesmo que ele não esteja cheio (Lei 11.442/2007, art. 11, § 7º)."
+    ],
+    [
+      "A espera para carregar e a espera para descarregar contam?",
+      "Sim. O tempo é contado da chegada do caminhão tanto no local de origem quanto no de destino (Lei 11.442/2007, art. 11, § 8º)."
+    ],
+    [
+      "Qual Justiça julga a cobrança da estadia?",
+      "A Justiça comum. O STF decidiu que a relação do transportador autônomo de cargas, regida pela Lei 11.442/2007, tem natureza comercial (ADC 48)."
+    ]
+  ],
+  "base": [
+    "Lei 11.442/2007, art. 11, §§ 5º a 9º (redação das Leis 13.103/2015 e 14.206/2021)",
+    "ANTT, Nota Técnica SEI nº 4102/2026 (valor de R$ 2,50 por tonelada/hora)",
+    "STF, ADC 48"
+  ],
+  "fontes": [
+    [
+      "Planalto: Lei nº 11.442, de 5 de janeiro de 2007",
+      "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2007/lei/l11442.htm"
+    ],
+    [
+      "ANTT: Nota Técnica nº 4102/2026, atualização do valor do tempo adicional de carga e descarga",
+      "https://www.gov.br/antt/pt-br/assuntos/cargas/carga-descarga/sei_41736493_nota_tecnica___antt_4102.pdf"
+    ]
+  ],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/2800121/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}
