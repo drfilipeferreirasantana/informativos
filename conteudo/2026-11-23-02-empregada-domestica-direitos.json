@@ -1,0 +1,49 @@
+{
+  "slug": "empregada-domestica-direitos",
+  "area": "trabalhista",
+  "data": "2026-11-23",
+  "google": 73,
+  "titulo": "Empregada doméstica tem direito a FGTS e hora extra?",
+  "resumo": "Quem trabalha mais de 2 dias por semana na mesma casa tem direito a carteira assinada, FGTS, hora extra, adicional noturno e seguro-desemprego.",
+  "destaque": "Sim, desde 2015.",
+  "pontos": [
+    [
+      "relogio",
+      "A jornada é de 8 horas por dia e 44 por semana."
+    ],
+    [
+      "documento",
+      "O patrão deve registrar o horário de trabalho."
+    ],
+    [
+      "casa",
+      "Quem trabalha até 2 dias por semana na mesma casa é diarista."
+    ]
+  ],
+  "exemplo": "Sônia trabalha há 5 anos na mesma casa, de segunda a sexta, das 7h às 18h. Ela tem carteira assinada, mas nunca recebeu hora extra nem teve o FGTS depositado.",
+  "corpo": "<p>Durante muito tempo, os empregados domésticos tiveram menos direitos que os demais trabalhadores. A Emenda Constitucional 72/2013 e a Lei Complementar 150/2015 mudaram isso.</p>\n<h2>O que a lei prevê</h2>\n<p>É empregado doméstico quem presta serviço contínuo a uma família, no âmbito da residência, por mais de 2 dias por semana.</p>\n<ul>\n<li>Jornada de até 8 horas por dia e 44 horas por semana, com hora extra paga com adicional de pelo menos 50%.</li>\n<li>Registro obrigatório do horário de trabalho, por qualquer meio manual, mecânico ou eletrônico.</li>\n<li>Adicional noturno de 20% para o trabalho entre 22h e 5h.</li>\n<li>FGTS obrigatório, seguro-desemprego, férias com um terço e 13º salário.</li>\n</ul>\n<h2>Na prática</h2>\n<p>Os recolhimentos são feitos pelo eSocial Doméstico, e a trabalhadora pode conferir os depósitos de FGTS pelo aplicativo do FGTS. Quem trabalha até 2 dias por semana na mesma casa é diarista e não tem vínculo de emprego.</p>",
+  "faq": [
+    [
+      "Quem é considerado empregado doméstico?",
+      "Quem presta serviço contínuo a uma família, na residência, por mais de 2 dias por semana (Lei Complementar 150/2015, art. 1º)."
+    ],
+    [
+      "O patrão precisa controlar o horário?",
+      "Sim. O registro do horário de trabalho é obrigatório (Lei Complementar 150/2015, art. 12)."
+    ],
+    [
+      "A doméstica tem FGTS e seguro-desemprego?",
+      "Sim. A inclusão no FGTS é obrigatória e há direito ao seguro-desemprego na dispensa sem justa causa (Lei Complementar 150/2015, arts. 21 e 26)."
+    ]
+  ],
+  "base": [
+    "Constituição Federal, art. 7º, parágrafo único",
+    "Lei Complementar 150/2015, arts. 1º, 2º, 12, 14, 21 e 26"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/4239131/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

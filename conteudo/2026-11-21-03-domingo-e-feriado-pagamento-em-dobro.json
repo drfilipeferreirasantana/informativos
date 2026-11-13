@@ -1,0 +1,50 @@
+{
+  "slug": "domingo-e-feriado-pagamento-em-dobro",
+  "area": "trabalhista",
+  "data": "2026-11-21",
+  "google": 75,
+  "titulo": "Trabalhei no domingo ou no feriado. Recebo em dobro?",
+  "resumo": "O trabalho em domingo ou feriado sem folga compensatória deve ser pago em dobro.",
+  "destaque": "Sim, se não tiver folga em outro dia.",
+  "pontos": [
+    [
+      "calendario",
+      "O descanso semanal não pode passar do 7º dia seguido de trabalho."
+    ],
+    [
+      "livro",
+      "A convenção coletiva pode trazer regras próprias, como no comércio."
+    ],
+    [
+      "documento",
+      "Escalas e cartões de ponto provam os dias trabalhados."
+    ]
+  ],
+  "exemplo": "Diego trabalha em um posto de combustível e, nas escalas de fim de ano, trabalhou no Natal e em dois domingos seguidos, sem folga em outro dia da semana.",
+  "corpo": "<p>Todo empregado tem direito a um descanso semanal remunerado, de preferência aos domingos, e a não trabalhar nos feriados. Quando a atividade exige trabalho nesses dias, a lei prevê uma compensação.</p>\n<h2>O que a lei prevê</h2>\n<p>A Lei 605/1949 garante o repouso semanal remunerado e os feriados. Nas atividades em que o trabalho não pode parar, a empresa deve dar outro dia de folga. Se não der, deve pagar o dia em dobro.</p>\n<ul>\n<li>A Súmula 146 do TST confirma que o trabalho em domingo ou feriado não compensado é pago em dobro, sem prejuízo do descanso semanal.</li>\n<li>Segundo o TST, o descanso semanal concedido depois do 7º dia seguido de trabalho é irregular e também deve ser pago em dobro.</li>\n<li>Comércio, saúde e outras atividades têm regras próprias nas convenções coletivas.</li>\n</ul>\n<h2>Na prática</h2>\n<p>Confira as escalas e o cartão de ponto: eles mostram os domingos e feriados trabalhados e as folgas dadas. Se não houve folga compensatória, as diferenças podem ser cobradas dos últimos 5 anos.</p>",
+  "faq": [
+    [
+      "Trabalhar no domingo sempre dá direito ao dobro?",
+      "Não. Só quando não há folga compensatória em outro dia da semana (Lei 605/1949, art. 9º; Súmula 146 do TST)."
+    ],
+    [
+      "A folga pode demorar mais de uma semana?",
+      "Não. O descanso concedido depois do 7º dia seguido de trabalho é irregular e deve ser pago em dobro (OJ 410 da SDI-1 do TST)."
+    ],
+    [
+      "A convenção coletiva pode mudar a regra?",
+      "Pode trazer regras próprias para certas categorias, como o comércio, que devem ser conferidas caso a caso."
+    ]
+  ],
+  "base": [
+    "Lei 605/1949, arts. 1º e 9º",
+    "Súmula 146 do TST",
+    "OJ 410 da SDI-1 do TST"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/39069514/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

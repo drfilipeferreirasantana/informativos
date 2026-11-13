@@ -1,0 +1,51 @@
+{
+  "slug": "reconhecimento-de-paternidade-dna",
+  "area": "familia",
+  "data": "2026-11-20",
+  "google": 71,
+  "titulo": "Como reconhecer a paternidade e garantir a pensão do filho?",
+  "resumo": "A paternidade pode ser reconhecida em cartório, se o pai concordar, ou na Justiça, com exame de DNA. Se o pai se recusar a fazer o exame, a paternidade é presumida.",
+  "destaque": "Em cartório ou na Justiça, com DNA.",
+  "pontos": [
+    [
+      "documento",
+      "A pensão é devida desde a citação do pai no processo."
+    ],
+    [
+      "calendario",
+      "O filho pode pedir o reconhecimento a qualquer tempo."
+    ],
+    [
+      "filhos",
+      "O pai de criação também pode ser reconhecido, junto com o biológico."
+    ]
+  ],
+  "exemplo": "Bruna tem um filho de 3 anos cujo pai nunca o registrou. Ele não nega que é o pai, mas também não vai ao cartório nem ajuda nas despesas.",
+  "corpo": "<p>Ter o nome do pai na certidão é um direito do filho. Com o reconhecimento, a criança passa a ter direito a pensão, herança e ao sobrenome do pai.</p>\n<h2>O que a lei prevê</h2>\n<p>O reconhecimento pode ser feito de forma voluntária, em cartório, ou na Justiça, pela ação de investigação de paternidade.</p>\n<ul>\n<li>O reconhecimento do estado de filho pode ser pedido a qualquer tempo, sem prazo.</li>\n<li>Na Justiça, a prova principal é o exame de DNA. Se o suposto pai se recusar a fazê-lo, a paternidade é presumida, junto com as demais provas.</li>\n<li>Reconhecida a paternidade, a pensão é devida desde a citação do pai no processo.</li>\n<li>O STF admite que a paternidade de quem criou o filho como seu seja reconhecida junto com a do pai biológico.</li>\n</ul>\n<h2>Na prática</h2>\n<p>A mãe pode indicar o suposto pai no próprio cartório, que comunica o caso ao juiz para a averiguação. Se não houver acordo, a ação pode pedir ao mesmo tempo o reconhecimento e a pensão, o que antecipa a data a partir da qual ela é devida.</p>",
+  "faq": [
+    [
+      "E se o pai se recusar a fazer o DNA?",
+      "A recusa faz presumir a paternidade, avaliada junto com as demais provas (Lei 8.560/1992, art. 2º-A, parágrafo único; Súmula 301 do STJ)."
+    ],
+    [
+      "Desde quando a pensão é devida?",
+      "Desde a citação do pai no processo de investigação de paternidade (Súmula 277 do STJ)."
+    ],
+    [
+      "Existe prazo para pedir o reconhecimento?",
+      "Não. O reconhecimento do estado de filho pode ser pedido a qualquer tempo (ECA, art. 27)."
+    ]
+  ],
+  "base": [
+    "Lei 8.560/1992, art. 2º-A, parágrafo único",
+    "Estatuto da Criança e do Adolescente, art. 27",
+    "Súmulas 277 e 301 do STJ",
+    "STF, Tema 622 da repercussão geral"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/7491347/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

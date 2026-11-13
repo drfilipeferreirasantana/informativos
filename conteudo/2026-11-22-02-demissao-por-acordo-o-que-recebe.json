@@ -1,0 +1,48 @@
+{
+  "slug": "demissao-por-acordo-o-que-recebe",
+  "area": "trabalhista",
+  "data": "2026-11-22",
+  "google": 74,
+  "titulo": "Demissão por acordo: o que eu recebo?",
+  "resumo": "Na demissão por acordo, o trabalhador recebe metade do aviso prévio indenizado e metade da multa do FGTS. As demais verbas são pagas por inteiro.",
+  "destaque": "Metade do aviso e da multa do FGTS.",
+  "pontos": [
+    [
+      "carteira",
+      "Pode sacar até 80% do FGTS."
+    ],
+    [
+      "alerta",
+      "Não tem direito ao seguro-desemprego."
+    ],
+    [
+      "balanca",
+      "O acordo deve ser livre: pressão da empresa pode anulá-lo."
+    ]
+  ],
+  "exemplo": "Helena quer sair da empresa para abrir o próprio negócio, e a empresa aceita encerrar o contrato. O RH propôs uma demissão por acordo e ela quer saber o que vai receber.",
+  "corpo": "<p>Desde a Reforma Trabalhista de 2017, empresa e empregado podem encerrar o contrato de comum acordo. É um meio-termo entre o pedido de demissão e a dispensa sem justa causa.</p>\n<h2>O que a lei prevê</h2>\n<p>O art. 484-A da CLT define o que é pago nesse tipo de rescisão.</p>\n<ul>\n<li>Metade do aviso prévio, se for indenizado.</li>\n<li>Metade da multa do FGTS, ou seja, 20% do saldo.</li>\n<li>Todas as demais verbas por inteiro: saldo de salário, férias vencidas e proporcionais com um terço e 13º proporcional.</li>\n<li>Saque de até 80% do saldo do FGTS.</li>\n<li>Sem direito ao seguro-desemprego.</li>\n</ul>\n<h2>Na prática</h2>\n<p>O acordo só vale se for de fato um acordo. Se a empresa pressionar o empregado a aceitar para pagar menos do que pagaria numa dispensa, a rescisão pode ser anulada na Justiça e convertida em dispensa sem justa causa. Antes de assinar, confira os valores no termo de rescisão.</p>",
+  "faq": [
+    [
+      "Quanto do FGTS posso sacar?",
+      "Até 80% do saldo depositado (CLT, art. 484-A, § 1º)."
+    ],
+    [
+      "Tenho direito ao seguro-desemprego?",
+      "Não. A demissão por acordo não dá acesso ao seguro-desemprego (CLT, art. 484-A, § 2º)."
+    ],
+    [
+      "E se fui pressionado a aceitar o acordo?",
+      "O acordo pode ser anulado na Justiça e convertido em dispensa sem justa causa, com o pagamento das diferenças."
+    ]
+  ],
+  "base": [
+    "CLT, art. 484-A"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/8112186/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

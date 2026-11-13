@@ -1,0 +1,49 @@
+{
+  "slug": "justa-causa-como-reverter",
+  "area": "trabalhista",
+  "data": "2026-11-13",
+  "google": 70,
+  "titulo": "Fui demitido por justa causa. Dá para reverter?",
+  "resumo": "A justa causa é a punição mais grave do contrato de trabalho e cabe à empresa provar a falta. Se a falta não for grave, não for provada ou a punição vier tarde, a Justiça pode convertê-la em dispensa sem justa causa.",
+  "destaque": "Pode dar, se a falta não for provada.",
+  "pontos": [
+    [
+      "balanca",
+      "Quem acusa a falta é a empresa, e é ela quem precisa provar."
+    ],
+    [
+      "relogio",
+      "A punição deve ser imediata: demorar pode significar perdão."
+    ],
+    [
+      "carteira",
+      "Revertida a justa causa, o trabalhador recebe aviso prévio, multa do FGTS e as demais verbas."
+    ]
+  ],
+  "exemplo": "Marcos, repositor de um supermercado, foi dispensado por justa causa por um atraso de 20 minutos, depois de 6 anos sem nenhuma advertência. Ele não recebeu aviso prévio, multa do FGTS nem guias do seguro-desemprego.",
+  "corpo": "<p>A justa causa encerra o contrato sem as principais verbas da dispensa: o trabalhador perde o aviso prévio, a multa de 40% do FGTS, o saque do fundo e o seguro-desemprego. Por ser a punição mais grave, a lei e a Justiça exigem cuidado da empresa ao aplicá-la.</p>\n<h2>O que a lei prevê</h2>\n<p>A CLT traz a lista das faltas que permitem a justa causa, como ato de improbidade, desídia, embriaguez em serviço, indisciplina, abandono de emprego e agressão. Fora dessas hipóteses, não há justa causa.</p>\n<ul>\n<li>Cabe à empresa provar a falta que alegou, porque é um fato que impede o pagamento das verbas.</li>\n<li>A punição deve ser proporcional: uma falta leve, isolada, costuma pedir advertência ou suspensão, e não a dispensa.</li>\n<li>A mesma falta não pode ser punida duas vezes, por exemplo com suspensão e depois com justa causa.</li>\n<li>A punição deve vir logo depois que a empresa toma conhecimento da falta. Esperar muito tempo pode indicar que ela perdoou.</li>\n</ul>\n<h2>Na prática</h2>\n<p>Quando a Justiça afasta a justa causa, a dispensa passa a ser tratada como sem justa causa. O trabalhador recebe aviso prévio, 13º e férias proporcionais com um terço, multa de 40% do FGTS e as guias para saque do FGTS e do seguro-desemprego. Em casos de acusação grave sem prova, como furto, pode haver também indenização por dano moral.</p>\n<p>Guarde a carta de dispensa, as advertências recebidas e os nomes de colegas que presenciaram os fatos. O prazo para entrar na Justiça do Trabalho é de 2 anos após o fim do contrato.</p>",
+  "faq": [
+    [
+      "Quem precisa provar a falta?",
+      "A empresa. A justa causa é fato que impede o pagamento das verbas, e o ônus de prová-la é de quem a alega (CLT, art. 818, II)."
+    ],
+    [
+      "Uma falta leve justifica a justa causa?",
+      "Em regra, não. A punição deve ser proporcional à falta; faltas leves e isoladas costumam pedir advertência ou suspensão antes da dispensa."
+    ],
+    [
+      "Até quando posso pedir a reversão?",
+      "Até 2 anos depois do fim do contrato, cobrando os direitos dos últimos 5 anos (Constituição Federal, art. 7º, XXIX)."
+    ]
+  ],
+  "base": [
+    "CLT, arts. 482 e 818, II",
+    "Constituição Federal, art. 7º, XXIX"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/7925821/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

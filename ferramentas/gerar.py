@@ -299,7 +299,7 @@ def rodape(base):
 def assinatura(base):
     return (f'<div class="assinatura"><div class="assinatura-linha">'
             f'<img class="assinatura-foto" src="{base}assets/rosto.jpg" width="64" height="64" alt="">'
-            f'<span><b>{NOME_CURTO}</b><small>Advogado · {OAB} · Linhares/ES</small></span></div>'
+            f'<span><b>{NOME_CURTO}</b><small>Advogado · {OAB}</small></span></div>'
             f'<span class="assinatura-traco" role="img" aria-label="Emblema do escritório {NOME}"></span></div>')
 
 
@@ -665,7 +665,7 @@ def rodape_imagem(img, d, m, y, l, foto_lado, f_nome, f_sub, assinatura_alt):
     img.paste(ImageOps.fit(adv, (foto_lado, foto_lado), centering=(0.5, 0.18)), (m, y + 26))
     x = m + foto_lado + 24
     d.text((x, y + 26), NOME_CURTO, font=f_nome, fill=TINTA)
-    d.text((x, y + 26 + int(f_nome.size * 1.3)), f"Advogado · {OAB} · Linhares/ES", font=f_sub, fill=(85, 85, 85))
+    d.text((x, y + 26 + int(f_nome.size * 1.3)), f"Advogado · {OAB}", font=f_sub, fill=(85, 85, 85))
     # Emblema da estrela no lugar da rubrica (a rubrica verdadeira não vai mais para as artes)
     ass = Image.open(RAIZ / "assets" / "emblema-escuro.png").convert("RGBA")
     ass = ass.crop(ass.getbbox())
