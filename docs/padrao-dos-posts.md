@@ -16,7 +16,7 @@ Força da evidência: a maior parte do que existe sobre marketing jurídico vem 
 
 O primeiro visual (marinho com dourado, Montserrat em negrito, selos arredondados, degradês, ícones em círculos, "Você sabia que..." em todo título, sempre 3 pontos e "Imagine:") é o padrão que ferramentas de IA produzem e que o público mais informado reconhece. Foi trocado por:
 
-- **Formato de jornal (proposta A):** linha fina no topo com o número em bordô e a área; foto com borda reta, sem degradê; título; traço bordô curto; resposta; rodapé separado por linha com a foto pequena, o nome, a OAB e a assinatura de próprio punho.
+- **Formato de jornal (proposta A):** linha fina no topo com o número em bordô e a área; foto com borda reta, sem degradê; título; traço bordô curto; resposta; rodapé separado por linha com a foto pequena, o nome, a OAB e o emblema da estrela (desde 13/11/2026 a rubrica verdadeira não aparece no site nem nas artes).
 - **Letras (proposta C):** título com serifa (Sitka Display nas artes; Source Serif 4 no site) e texto de apoio em condensada (Bahnschrift nas artes; Barlow Semi Condensed no site). Sitka e Bahnschrift são do Windows e não podem ir para a web, por isso o site usa as equivalentes livres do Google Fonts.
 - **Cores:** papel claro (#ece7de), tinta quase preta (#161616) e **bordô** (#7a2333), a cor da gravata da foto oficial, só nos detalhes. Verde só no botão do WhatsApp. Nada de sombras fortes ou cantos arredondados.
 - **Assinatura:** extraída da foto enviada pelo Dr. Filipe, em bordô e com 260 px de largura de propósito (marca visual, sem resolução para virar cópia em papel). Na página principal fica centralizada abaixo de "Advogado · OAB/ES 37.159 · Linhares/ES", sem repetir a foto. Proteções (pedido de 8/11/2026): no site ela é fundo desenhado e não imagem, então não aparece "salvar imagem", não se arrasta e não reage a toque longo; o próprio arquivo tem linhas diagonais transparentes que picotam o traço quando ampliado. Nenhuma página consegue impedir um print de tela; por isso a defesa principal é a cópia sair inútil (baixa resolução, bordô e picotada).
@@ -32,7 +32,7 @@ O primeiro visual (marinho com dourado, Montserrat em negrito, selos arredondado
 5. Situação do dia a dia (fictícia, marcada como ilustrativa).
 6. "Entenda melhor" com o texto completo, recolhido.
 7. Perguntas frequentes, base legal e notícia de referência.
-8. Quem escreve: foto, nome, OAB, formação, IBDFAM, áreas, assinatura e o botão "Conversar pelo WhatsApp".
+8. Quem escreve: foto, nome, OAB, formação, IBDFAM, áreas, emblema da estrela e o botão "Conversar pelo WhatsApp".
 9. Leia também: 3 informativos relacionados.
 
 ## 4. Imagens
@@ -43,7 +43,7 @@ O primeiro visual (marinho com dourado, Montserrat em negrito, selos arredondado
 - **Foto real do advogado** perto do contato. Fornecedores relatam alta de 35% a 45% na conversão com fotos reais em vez de banco de imagens, em testes fora do setor jurídico. É indício, não prova ([AttorneySync](https://attorneysync.com/blog/photographs-real-lawyers-stock-images); [Custom Legal Marketing](https://custom.legal/practice-areas/personal-injury-law-firm-marketing/stock-photos-vs-ai-photos-vs-real-attorney-photos/)). A OAB permite foto, nome, OAB, formação e instituições (CED, art. 44, § 1º), e o TED-SP admitiu coluna com nome e foto do autor (16/10/2025).
 - **Sem foto de banco** (martelo, balança genérica, casal brigando) e sem imagem de clientes.
 - **Capa para compartilhar (1200 x 630, abaixo de 300 KB):** é a imagem que aparece quando o link é enviado no WhatsApp e no Facebook. O WhatsApp corta perto do quadrado, então o texto fica centralizado ([Screenhance](https://screenhance.com/blog/og-image-size-guide); [Andrew Baker](https://andrewbaker.ninja/2026/03/05/fix-thumbnail-previews-on-whatsapp-linkedin-x-guide/)).
-- **Arte para o Instagram (1080 x 1350, formato 4:5):** foto da área, a pergunta em letras grandes, o destaque em dourado e a assinatura com a foto do Dr. Filipe. Todas as artes ficam na página `artes.html` (fora do Google), com botões para baixar e enviar no WhatsApp. Carrosséis educativos são os que mais recebem "salvar", segundo dados de fornecedores ([Socialinsider](https://socialinsider.io/blog/instagram-carousel-research)). Uma arte única já serve; carrossel de 3 a 7 telas é o próximo passo ([ACE Conteúdo](https://aceconteudodigital.com.br/como-criar-conteudo-juridico-instagram/)).
+- **Arte para o Instagram (1080 x 1350, formato 4:5):** foto da área, a pergunta em letras grandes, o destaque em dourado e o rodapé com a foto do Dr. Filipe e o emblema da estrela. Todas as artes ficam na página `artes.html` (fora do Google), com botões para baixar e enviar no WhatsApp. Carrosséis educativos são os que mais recebem "salvar", segundo dados de fornecedores ([Socialinsider](https://socialinsider.io/blog/instagram-carousel-research)). Uma arte única já serve; carrossel de 3 a 7 telas é o próximo passo ([ACE Conteúdo](https://aceconteudodigital.com.br/como-criar-conteudo-juridico-instagram/)).
 
 ## 5. Chamada para o WhatsApp (CTA)
 

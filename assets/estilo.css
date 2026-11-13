@@ -71,8 +71,9 @@ p{margin:0}
 .assinatura-foto{width:64px;height:64px;object-fit:cover}
 .assinatura b{display:block;font:700 1.2rem var(--serifa)}
 .assinatura small{display:block;font-size:.92rem;color:var(--cinza)}
-/* A assinatura é fundo desenhado, não imagem: sem "salvar imagem", sem arrastar, sem toque longo no celular */
-.assinatura-traco{display:block;width:120px;aspect-ratio:260/242;margin-top:.4rem;background:url("assinatura-bordo.png") center/contain no-repeat;pointer-events:none;user-select:none;-webkit-user-select:none;-webkit-touch-callout:none}
+/* No lugar da rubrica, o emblema da estrela (13/11/2026: a rubrica verdadeira saiu do site para não ser copiada).
+   Fundo desenhado, não imagem: sem "salvar imagem", sem arrastar, sem toque longo no celular */
+.assinatura-traco{display:block;width:84px;aspect-ratio:1;margin-top:.6rem;background:url("emblema-escuro.png") center/contain no-repeat;pointer-events:none;user-select:none;-webkit-user-select:none;-webkit-touch-callout:none}
 
 /* Destaque de série na página principal */
 .serie-destaque{display:grid;gap:.4rem;margin:1.6rem 0 .4rem;padding:1.4rem 1.6rem;background:var(--tinta);color:#e9e4da;text-decoration:none;border-left:6px solid var(--bordo)}

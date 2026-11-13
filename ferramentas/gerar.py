@@ -300,7 +300,7 @@ def assinatura(base):
     return (f'<div class="assinatura"><div class="assinatura-linha">'
             f'<img class="assinatura-foto" src="{base}assets/rosto.jpg" width="64" height="64" alt="">'
             f'<span><b>{NOME_CURTO}</b><small>Advogado · {OAB} · Linhares/ES</small></span></div>'
-            f'<span class="assinatura-traco" role="img" aria-label="Assinatura de {NOME_CURTO}"></span></div>')
+            f'<span class="assinatura-traco" role="img" aria-label="Emblema do escritório {NOME}"></span></div>')
 
 
 def cartao(p, base=""):
@@ -382,7 +382,7 @@ def pagina_post(p, posts):
       <p class="credenciais">{ADVOGADO}, advogado, {OAB}. Pós-graduação em Direito de Família em curso na FMP. Filiado ao IBDFAM.</p>
       <p>O escritório {NOME} atua em Direito de Família, Sucessões, Direito Trabalhista, Direito Civil, Direito do Consumidor e Direito Previdenciário, com atendimento presencial em Linhares/ES e on-line.</p>
       <p>Para tirar dúvidas sobre este assunto ou agendar um atendimento, o contato é pelo WhatsApp.</p>
-      <span class="assinatura-traco autor-assinatura" role="img" aria-label="Assinatura de {NOME_CURTO}"></span>
+      <span class="assinatura-traco autor-assinatura" role="img" aria-label="Emblema do escritório {NOME}"></span>
       <p class="acoes"><a class="botao botao-whatsapp" href="{whats}" target="_blank" rel="noopener">{ICONE_WHATS}Conversar pelo WhatsApp</a>
       <a class="botao botao-linha" href="{compartilhar}" target="_blank" rel="noopener">Enviar este informativo a alguém</a></p>
     </div>
@@ -666,9 +666,12 @@ def rodape_imagem(img, d, m, y, l, foto_lado, f_nome, f_sub, assinatura_alt):
     x = m + foto_lado + 24
     d.text((x, y + 26), NOME_CURTO, font=f_nome, fill=TINTA)
     d.text((x, y + 26 + int(f_nome.size * 1.3)), f"Advogado · {OAB} · Linhares/ES", font=f_sub, fill=(85, 85, 85))
-    ass = Image.open(RAIZ / "assets" / "assinatura-bordo.png").convert("RGBA")
-    ass = ass.resize((int(ass.width * assinatura_alt / ass.height), assinatura_alt), Image.LANCZOS)
-    img.paste(ass, (l - m - ass.width, y + 10), ass)
+    # Emblema da estrela no lugar da rubrica (a rubrica verdadeira não vai mais para as artes)
+    ass = Image.open(RAIZ / "assets" / "emblema-escuro.png").convert("RGBA")
+    ass = ass.crop(ass.getbbox())
+    alt = int(assinatura_alt * 0.85)
+    ass = ass.resize((int(ass.width * alt / ass.height), alt), Image.LANCZOS)
+    img.paste(ass, (l - m - ass.width, y + 26), ass)
 
 
 def imagem(p, l, a, destino, instagram):
