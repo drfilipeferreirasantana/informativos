@@ -1,0 +1,54 @@
+{
+  "slug": "estorno-de-comissao-venda-cancelada",
+  "area": "trabalhista",
+  "data": "2026-11-13",
+  "serie": "grandes-causas",
+  "ordem": 24,
+  "titulo": "A empresa pode descontar comissão de venda cancelada?",
+  "destaque": "Só em situação prevista em lei.",
+  "resumo": "A lei permite o estorno da comissão quando o comprador fica insolvente. Fora disso, descontar comissão de venda já concluída costuma ser questionado na Justiça do Trabalho.",
+  "pontos": [
+    [
+      "carrinho",
+      "A comissão é devida quando a venda é concluída."
+    ],
+    [
+      "alerta",
+      "A lei prevê estorno quando o comprador fica insolvente."
+    ],
+    [
+      "carteira",
+      "Em venda a prazo, a comissão acompanha as parcelas pagas."
+    ],
+    [
+      "documento",
+      "A saída do emprego não tira o direito às comissões devidas."
+    ]
+  ],
+  "exemplo": "Larissa vendia planos corporativos e teve comissões estornadas porque clientes cancelaram o contrato meses depois. A empresa nunca mostrou que esses clientes ficaram insolventes.",
+  "corpo": "<p>Estornos de comissão são uma reclamação frequente de vendedores, representantes internos e gerentes comerciais. A lei trata do tema de forma específica.</p>\n<h2>O que a lei prevê</h2>\n<ul>\n<li>O pagamento de comissões só é exigível depois de concluída a transação (CLT, art. 466).</li>\n<li>Em vendas por prestações, a comissão é devida proporcionalmente ao pagamento das parcelas (CLT, art. 466, § 1º).</li>\n<li>O fim do contrato de trabalho não prejudica o recebimento das comissões devidas (CLT, art. 466, § 2º).</li>\n<li>Verificada a insolvência do comprador, o empregador pode estornar a comissão que pagou (Lei 3.207/1957, art. 7º).</li>\n</ul>\n<h2>Na prática</h2>\n<ul>\n<li>Cancelamento por desistência do cliente ou simples atraso não é o mesmo que insolvência. Os tribunais trabalhistas costumam limitar o estorno a essa hipótese da lei.</li>\n<li>Guarde relatórios de vendas, extratos de comissão e regras de metas.</li>\n<li>Descontos indevidos podem ser cobrados com reflexos nas demais verbas.</li>\n</ul>",
+  "faq": [
+    [
+      "Quando a comissão passa a ser devida?",
+      "Depois de concluída a venda (CLT, art. 466)."
+    ],
+    [
+      "O cliente cancelou. Pode haver estorno?",
+      "A lei prevê o estorno na insolvência do comprador (Lei 3.207/1957, art. 7º). Outros casos costumam ser discutidos na Justiça."
+    ],
+    [
+      "Saí da empresa. Ainda recebo comissões?",
+      "Sim, as que forem devidas pelas vendas feitas (CLT, art. 466, § 2º)."
+    ]
+  ],
+  "base": [
+    "CLT, art. 466",
+    "Lei 3.207/1957, art. 7º"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/7144199/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

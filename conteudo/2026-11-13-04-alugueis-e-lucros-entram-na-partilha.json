@@ -1,0 +1,53 @@
+{
+  "slug": "alugueis-e-lucros-entram-na-partilha",
+  "area": "familia",
+  "data": "2026-11-13",
+  "serie": "familia-patrimonio",
+  "ordem": 2,
+  "titulo": "Aluguéis e lucros de bens de antes do casamento entram na partilha?",
+  "destaque": "Os rendimentos podem entrar.",
+  "resumo": "Mesmo quando o imóvel ou a empresa pertence só a um dos cônjuges, os aluguéis e lucros recebidos durante o casamento entram na comunhão parcial. O bem continua de quem já era dono.",
+  "pontos": [
+    [
+      "casa",
+      "O imóvel recebido antes do casamento continua sendo particular."
+    ],
+    [
+      "carteira",
+      "Os aluguéis recebidos durante o casamento entram na comunhão."
+    ],
+    [
+      "predio",
+      "A mesma regra vale para lucros e dividendos de quotas particulares."
+    ],
+    [
+      "calendario",
+      "Contam também os valores pendentes quando a comunhão termina."
+    ]
+  ],
+  "exemplo": "Helena herdou duas salas comerciais do pai antes de casar e as alugou durante os 12 anos de casamento. As salas continuam sendo só dela, mas o dinheiro dos aluguéis aplicado nesse período pode entrar na divisão.",
+  "corpo": "<p>Muita gente acredita que, se o bem é só seu, tudo o que ele rende também é. No regime da comunhão parcial, não é bem assim.</p>\n<h2>O que a lei prevê</h2>\n<ul>\n<li>Entram na comunhão os frutos dos bens comuns ou dos bens particulares de cada cônjuge, recebidos durante o casamento ou pendentes quando a comunhão termina (Código Civil, art. 1.660, V).</li>\n<li>Os bens que cada um já possuía ao casar, e os recebidos por doação ou herança, ficam fora da comunhão (Código Civil, art. 1.659, I).</li>\n<li>A mesma regra se aplica à união estável sem contrato escrito (Código Civil, art. 1.725).</li>\n</ul>\n<h2>Na prática</h2>\n<ul>\n<li>Frutos são os rendimentos do bem: aluguéis, lucros, dividendos e juros.</li>\n<li>O que importa é o que sobrou desses rendimentos: saldos, aplicações ou bens comprados com eles.</li>\n<li>Extratos bancários, declarações de imposto de renda e contratos de locação ajudam a rastrear esses valores.</li>\n<li>Pacto antenupcial ou contrato de convivência podem prever regra diferente.</li>\n</ul>",
+  "faq": [
+    [
+      "Meu imóvel herdado entra na partilha?",
+      "O imóvel não, na comunhão parcial (Código Civil, art. 1.659, I). Os aluguéis recebidos durante o casamento podem entrar (art. 1.660, V)."
+    ],
+    [
+      "Dividendos da minha empresa contam?",
+      "Os lucros recebidos durante o casamento são frutos e podem entrar na comunhão, mesmo de quotas particulares."
+    ],
+    [
+      "Vale para união estável?",
+      "Sim, quando não há contrato escrito dizendo outra coisa (Código Civil, art. 1.725)."
+    ]
+  ],
+  "base": [
+    "Código Civil, arts. 1.659, I, 1.660, V, e 1.725"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/31015267/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

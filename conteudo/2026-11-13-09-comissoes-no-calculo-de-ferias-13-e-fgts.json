@@ -1,0 +1,56 @@
+{
+  "slug": "comissoes-no-calculo-de-ferias-13-e-fgts",
+  "area": "trabalhista",
+  "data": "2026-11-13",
+  "serie": "grandes-causas",
+  "ordem": 23,
+  "titulo": "Comissões entram no cálculo de férias, 13º e FGTS?",
+  "destaque": "Sim, comissões integram o salário.",
+  "resumo": "Comissões pagas pelo empregador fazem parte do salário. Por isso, refletem em férias com um terço, 13º salário, FGTS e verbas da rescisão.",
+  "pontos": [
+    [
+      "carteira",
+      "Comissões integram o salário por lei."
+    ],
+    [
+      "calendario",
+      "Nas férias, usa-se a média dos últimos 12 meses."
+    ],
+    [
+      "documento",
+      "O FGTS incide sobre toda a remuneração, comissões incluídas."
+    ],
+    [
+      "alerta",
+      "Comissão paga por fora também gera reflexos, se provada."
+    ]
+  ],
+  "exemplo": "Bruno é gerente comercial, com salário fixo e comissões que chegam ao dobro do fixo. Ao sair da empresa, percebeu que as férias e o 13º foram calculados só sobre o salário fixo.",
+  "corpo": "<p>Para quem trabalha com vendas, as comissões costumam ser a maior parte da renda. Quando a empresa calcula os direitos só sobre o fixo, a diferença ao longo dos anos pode ser grande.</p>\n<h2>O que a lei prevê</h2>\n<ul>\n<li>Integram o salário a importância fixa, as gratificações legais e as comissões pagas pelo empregador (CLT, art. 457, § 1º).</li>\n<li>Nas férias de quem recebe por comissão, apura-se a média dos 12 meses anteriores (CLT, art. 142, § 3º).</li>\n<li>O 13º salário é calculado sobre a remuneração (Lei 4.090/1962, art. 1º, § 1º).</li>\n<li>O FGTS incide sobre a remuneração paga ou devida, incluídas as parcelas do art. 457 da CLT (Lei 8.036/1990, art. 15).</li>\n</ul>\n<h2>Na prática</h2>\n<ul>\n<li>Compare os contracheques: comissões devem aparecer e somar na base das férias, do 13º e do FGTS.</li>\n<li>Relatórios de vendas, extratos e mensagens ajudam a provar comissões pagas fora do contracheque.</li>\n<li>O prazo para cobrar é de 2 anos após a saída, alcançando os últimos 5 anos (Constituição, art. 7º, XXIX).</li>\n</ul>",
+  "faq": [
+    [
+      "Comissão é salário?",
+      "Sim. Integra o salário (CLT, art. 457, § 1º)."
+    ],
+    [
+      "Como fica o valor das férias?",
+      "Pela média das comissões dos 12 meses anteriores (CLT, art. 142, § 3º)."
+    ],
+    [
+      "A empresa deve depositar FGTS sobre comissão?",
+      "Sim, sobre toda a remuneração (Lei 8.036/1990, art. 15)."
+    ]
+  ],
+  "base": [
+    "CLT, arts. 142, § 3º, e 457, § 1º",
+    "Lei 4.090/1962, art. 1º",
+    "Lei 8.036/1990, art. 15",
+    "Constituição Federal, art. 7º, XXIX"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/8145328/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

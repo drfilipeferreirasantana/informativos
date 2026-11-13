@@ -79,11 +79,17 @@ SERIES = {
         "pagina": "motoristas.html",
         "descricao": "Informativos sobre os direitos dos motoristas de caminhão e de ônibus de viagem com carteira assinada: jornada, tempo de espera, descanso e descontos, e também as situações graves da estrada, como acidente, assalto, doença de coluna, pensão do INSS e indenização à família.",
     },
+    "familia-patrimonio": {
+        "titulo": "Família e patrimônio",
+        "aba": "Família e patrimônio",
+        "pagina": "familia-patrimonio.html",
+        "descricao": "Informativos sobre divórcio, união estável e herança quando há empresa, imóveis ou investimentos: quotas de sociedade na partilha, aluguéis e lucros, bens colocados em nome da empresa, pacto antenupcial, contrato de convivência, holding familiar e a morte de um sócio.",
+    },
     "grandes-causas": {
         "titulo": "Grandes causas trabalhistas",
         "aba": "Grandes causas",
         "pagina": "grandes-causas.html",
-        "descricao": "Informativos sobre as questões trabalhistas que costumam exigir mais prova e cálculos mais detalhados: contratação como PJ, gerentes e cargos de confiança, bancários, equiparação salarial, salário pago por fora, acidente e doença do trabalho, burnout, indenização à família e o valor do dano moral.",
+        "descricao": "Informativos sobre as questões trabalhistas que costumam exigir mais prova e cálculos mais detalhados: contratação como PJ, gerentes e cargos de confiança, bancários, equiparação salarial, salário pago por fora, comissões e bônus, contratos de executivos, trabalho no exterior, PDV, acidente e doença do trabalho, burnout, indenização à família e o valor do dano moral.",
     },
 }
 MESES = ["janeiro", "fevereiro", "março", "abril", "maio", "junho", "julho", "agosto",

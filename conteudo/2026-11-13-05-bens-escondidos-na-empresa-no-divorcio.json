@@ -1,0 +1,54 @@
+{
+  "slug": "bens-escondidos-na-empresa-no-divorcio",
+  "area": "familia",
+  "data": "2026-11-13",
+  "serie": "familia-patrimonio",
+  "ordem": 3,
+  "titulo": "E se o cônjuge colocar bens em nome da empresa para não dividir?",
+  "destaque": "A Justiça pode alcançar esses bens.",
+  "resumo": "Quando o cônjuge usa a empresa para esconder patrimônio do casal, a lei permite a chamada desconsideração inversa da personalidade jurídica, que alcança os bens registrados em nome da sociedade.",
+  "pontos": [
+    [
+      "alerta",
+      "Transferir bens do casal para a empresa pode ser abuso."
+    ],
+    [
+      "balanca",
+      "A lei prevê a desconsideração inversa da personalidade jurídica."
+    ],
+    [
+      "documento",
+      "É preciso mostrar desvio de finalidade ou confusão patrimonial."
+    ],
+    [
+      "escudo",
+      "O pedido é feito no processo, com direito de defesa da empresa."
+    ]
+  ],
+  "exemplo": "Durante a separação, Marcos passou o apartamento e o carro do casal para uma empresa de que é sócio, e começou a pagar contas pessoais pela conta da empresa. A esposa pode pedir que esses bens sejam considerados na partilha.",
+  "corpo": "<p>Em divórcios com empresa, uma preocupação frequente é o patrimônio sumir para dentro da sociedade: imóveis transferidos, dinheiro do casal usado como capital, despesas pessoais pagas pela empresa.</p>\n<h2>O que a lei prevê</h2>\n<ul>\n<li>Em caso de abuso da personalidade jurídica, por desvio de finalidade ou confusão patrimonial, o juiz pode estender os efeitos de certas obrigações (Código Civil, art. 50).</li>\n<li>A lei também admite o caminho inverso: estender as obrigações do sócio à própria pessoa jurídica (Código Civil, art. 50, § 3º). É a chamada desconsideração inversa.</li>\n<li>O pedido segue um incidente próprio no processo, com citação e direito de defesa (CPC, arts. 133 a 137, com aplicação expressa à forma inversa no art. 133, § 2º).</li>\n</ul>\n<h2>Na prática</h2>\n<ul>\n<li>Sinais de confusão patrimonial: contas pessoais pagas pela empresa, bens do casal transferidos sem pagamento, uso da empresa como cofre da família.</li>\n<li>Matrículas de imóveis, documentos de veículos, contrato social e extratos ajudam a montar a linha do tempo das transferências.</li>\n<li>Em casos urgentes, pode haver pedido de medidas para evitar novas transferências durante o processo.</li>\n</ul>",
+  "faq": [
+    [
+      "O que é desconsideração inversa?",
+      "É alcançar bens registrados em nome da empresa para responder por obrigações do sócio, quando há abuso (Código Civil, art. 50, § 3º)."
+    ],
+    [
+      "Basta o cônjuge ter empresa?",
+      "Não. É preciso mostrar desvio de finalidade ou confusão patrimonial (Código Civil, art. 50)."
+    ],
+    [
+      "A empresa pode se defender?",
+      "Sim. O incidente garante citação e defesa (CPC, arts. 133 a 137)."
+    ]
+  ],
+  "base": [
+    "Código Civil, art. 50, caput e § 3º",
+    "Código de Processo Civil, arts. 133 a 137"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/5561913/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

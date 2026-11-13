@@ -1,0 +1,53 @@
+{
+  "slug": "pdv-plano-de-demissao-voluntaria-quitacao",
+  "area": "trabalhista",
+  "data": "2026-11-13",
+  "serie": "grandes-causas",
+  "ordem": 28,
+  "titulo": "Aderi ao PDV. Ainda posso cobrar direitos trabalhistas?",
+  "destaque": "Depende do plano e da norma coletiva.",
+  "resumo": "O PDV previsto em convenção ou acordo coletivo dá quitação plena dos direitos do contrato, salvo se as partes combinarem outra coisa. PDV sem previsão coletiva não tem esse efeito automático.",
+  "pontos": [
+    [
+      "documento",
+      "A quitação plena exige PDV previsto em norma coletiva."
+    ],
+    [
+      "alerta",
+      "O plano pode ressalvar direitos que continuam em aberto."
+    ],
+    [
+      "balanca",
+      "Sem previsão coletiva, a quitação se limita ao que foi pago."
+    ],
+    [
+      "calendario",
+      "Leia o termo de adesão antes de assinar."
+    ]
+  ],
+  "exemplo": "Sérgio, gerente de uma indústria com 22 anos de casa, recebeu proposta de PDV com indenização de 10 salários. Ele tem horas extras que nunca foram pagas e quer saber se, ao aderir, perde o direito de cobrá-las.",
+  "corpo": "<p>Planos de demissão voluntária costumam ser oferecidos a empregados com muitos anos de empresa e salários mais altos. A dúvida mais comum é se a adesão encerra qualquer cobrança futura.</p>\n<h2>O que a lei prevê</h2>\n<ul>\n<li>O Plano de Demissão Voluntária ou Incentivada, previsto em convenção coletiva ou acordo coletivo, enseja quitação plena e irrevogável dos direitos do contrato, salvo disposição em contrário estipulada entre as partes (CLT, art. 477-B).</li>\n<li>Fora dessa hipótese, a quitação da rescisão vale para as parcelas e valores nela discriminados (CLT, art. 477, § 2º).</li>\n</ul>\n<h2>Na prática</h2>\n<ul>\n<li>Verifique se o PDV está previsto em convenção ou acordo coletivo, e não só em regulamento da empresa.</li>\n<li>Leia o termo de adesão: ele pode ressalvar pedidos ou direitos específicos.</li>\n<li>Vícios na adesão, como pressão ou informação falsa, podem ser discutidos.</li>\n<li>Antes de aderir, vale levantar o que pode estar pendente: horas extras, comissões, equiparação e reflexos.</li>\n</ul>",
+  "faq": [
+    [
+      "O PDV sempre impede ações futuras?",
+      "Não. A quitação plena depende de previsão em norma coletiva e pode ter ressalvas (CLT, art. 477-B)."
+    ],
+    [
+      "E se o PDV estiver só no regulamento da empresa?",
+      "A quitação, em regra, se limita às parcelas pagas no termo (CLT, art. 477, § 2º)."
+    ],
+    [
+      "Posso pedir ressalva no termo?",
+      "O próprio art. 477-B admite disposição em contrário entre as partes."
+    ]
+  ],
+  "base": [
+    "CLT, arts. 477, § 2º, e 477-B"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/39204869/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

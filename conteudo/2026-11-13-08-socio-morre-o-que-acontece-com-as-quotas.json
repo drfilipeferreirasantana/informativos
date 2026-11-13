@@ -1,0 +1,54 @@
+{
+  "slug": "socio-morre-o-que-acontece-com-as-quotas",
+  "area": "sucessoes",
+  "data": "2026-11-13",
+  "serie": "familia-patrimonio",
+  "ordem": 6,
+  "titulo": "Quando um sócio morre, os herdeiros entram na empresa?",
+  "destaque": "Depende do contrato social.",
+  "resumo": "Pela regra geral, a quota do sócio falecido é liquidada e os herdeiros recebem o valor. Mas o contrato social ou um acordo pode permitir que eles entrem na sociedade.",
+  "pontos": [
+    [
+      "predio",
+      "A regra geral é pagar aos herdeiros o valor da quota."
+    ],
+    [
+      "documento",
+      "O contrato social pode prever a entrada dos herdeiros."
+    ],
+    [
+      "balanca",
+      "Os sócios restantes e os herdeiros podem fazer acordo."
+    ],
+    [
+      "calendario",
+      "O valor é apurado com base em balanço na data da morte."
+    ]
+  ],
+  "exemplo": "Paulo era sócio de uma construtora com dois colegas e faleceu. O contrato social não falava sobre herdeiros. A viúva e os filhos podem receber o valor da participação dele ou negociar com os sócios a entrada na empresa.",
+  "corpo": "<p>A morte de um sócio afeta ao mesmo tempo a família e a empresa. Saber o que diz o contrato social evita disputas e decisões apressadas.</p>\n<h2>O que a lei prevê</h2>\n<ul>\n<li>No caso de morte de sócio, liquida-se a sua quota, salvo se o contrato dispuser de outro modo, se os sócios restantes optarem pela dissolução, ou se houver acordo com os herdeiros para substituir o sócio falecido (Código Civil, art. 1.028).</li>\n<li>Os herdeiros podem pedir a apuração de haveres quando a sociedade não os admite (CPC, arts. 599 a 609).</li>\n<li>O valor considera a data da morte e é apurado por balanço especial (Código Civil, art. 1.031; CPC, arts. 605, I, e 606).</li>\n</ul>\n<h2>Na prática</h2>\n<ul>\n<li>A quota, ou o valor dela, entra no inventário do sócio falecido.</li>\n<li>Até a definição, o inventariante representa o espólio nas questões da sociedade.</li>\n<li>Prever no contrato social o que acontece em caso de morte é uma das medidas mais simples de planejamento.</li>\n</ul>",
+  "faq": [
+    [
+      "Os herdeiros viram sócios automaticamente?",
+      "Não. Só se o contrato social prever ou houver acordo com os demais sócios (Código Civil, art. 1.028)."
+    ],
+    [
+      "Como se calcula o valor da quota?",
+      "Por balanço especial, na data da morte (Código Civil, art. 1.031; CPC, art. 606)."
+    ],
+    [
+      "A quota entra no inventário?",
+      "Sim. A participação, ou o valor apurado, faz parte da herança."
+    ]
+  ],
+  "base": [
+    "Código Civil, arts. 1.028 e 1.031",
+    "Código de Processo Civil, arts. 599 a 609"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/5483245/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

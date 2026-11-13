@@ -1,0 +1,53 @@
+{
+  "slug": "holding-familiar-o-que-e",
+  "area": "sucessoes",
+  "data": "2026-11-13",
+  "serie": "familia-patrimonio",
+  "ordem": 5,
+  "titulo": "O que é uma holding familiar e para que ela serve?",
+  "destaque": "Organizar bens e sucessão em vida.",
+  "resumo": "Holding familiar é uma empresa criada para reunir bens da família, como imóveis e participações, com regras de administração e de transferência das quotas aos herdeiros.",
+  "pontos": [
+    [
+      "predio",
+      "Os bens passam a pertencer a uma sociedade da família."
+    ],
+    [
+      "filhos",
+      "As quotas podem ser doadas aos herdeiros ainda em vida."
+    ],
+    [
+      "balanca",
+      "A parte reservada por lei aos herdeiros necessários deve ser respeitada."
+    ],
+    [
+      "documento",
+      "O contrato social define quem administra e como as quotas circulam."
+    ]
+  ],
+  "exemplo": "Seu Antônio tem fazendas, imóveis alugados e três filhos. Ele cria uma sociedade, transfere os bens para ela e doa as quotas aos filhos, mantendo o usufruto e a administração enquanto viver.",
+  "corpo": "<p>A holding familiar é uma das ferramentas de planejamento sucessório mais procuradas por quem tem patrimônio relevante. Ela não é um tipo especial de empresa: é uma sociedade comum, usada com essa finalidade.</p>\n<h2>O que a lei prevê</h2>\n<ul>\n<li>Pessoas que se obrigam a contribuir com bens ou serviços para uma atividade econômica, e a partilhar os resultados, celebram contrato de sociedade (Código Civil, art. 981).</li>\n<li>É válida a partilha feita por ascendente, por ato entre vivos, desde que não prejudique a legítima dos herdeiros necessários (Código Civil, art. 2.018).</li>\n<li>A legítima corresponde à metade dos bens da herança e pertence aos herdeiros necessários (Código Civil, art. 1.846).</li>\n<li>A doação de ascendente a descendente importa adiantamento do que lhe cabe por herança (Código Civil, art. 544).</li>\n</ul>\n<h2>Na prática</h2>\n<ul>\n<li>O contrato social pode prever quem administra, regras para entrada de terceiros e para venda de quotas.</li>\n<li>A doação das quotas com reserva de usufruto permite ao fundador continuar recebendo os rendimentos.</li>\n<li>Há custos de constituição, impostos de transmissão e obrigações contábeis. A conta deve ser feita caso a caso.</li>\n<li>Holding não serve para fraudar credores nem para tirar a parte de um herdeiro necessário.</li>\n</ul>",
+  "faq": [
+    [
+      "Holding familiar evita o inventário?",
+      "Pode reduzir o que vai a inventário, quando as quotas já foram transferidas em vida. Cada caso precisa de análise."
+    ],
+    [
+      "Posso deixar um filho de fora?",
+      "Não da legítima. A metade reservada aos herdeiros necessários deve ser respeitada (Código Civil, arts. 1.846 e 2.018)."
+    ],
+    [
+      "Quem administra os bens?",
+      "Quem o contrato social indicar, muitas vezes o próprio fundador enquanto viver."
+    ]
+  ],
+  "base": [
+    "Código Civil, arts. 544, 981, 1.846 e 2.018"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/7579135/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}
