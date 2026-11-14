@@ -1,0 +1,54 @@
+{
+  "slug": "golpe-indenizacao-samarco",
+  "area": "civil",
+  "data": "2026-11-29",
+  "google": 81,
+  "titulo": "Golpe da indenização da Samarco: como se proteger?",
+  "resumo": "Com o fim do prazo do PID, cresce o risco de quem promete incluir nomes em listas ou liberar valores mediante pagamento. A Samarco informa que não cobra valores antecipados e que só os canais oficiais e o representante legal do atingido movimentam os pedidos.",
+  "destaque": "A Samarco não cobra nada antecipado.",
+  "pontos": [
+    [
+      "alerta",
+      "Ninguém pode cobrar para incluir seu nome em lista de indenização."
+    ],
+    [
+      "documento",
+      "Acompanhe seu pedido pelo Portal do Usuário da Samarco."
+    ],
+    [
+      "check",
+      "Desconfie de mensagens com links, boletos ou pedidos de senha."
+    ]
+  ],
+  "exemplo": "Marlene recebeu uma mensagem dizendo que a indenização dela estava liberada e que bastava pagar R$ 300 de taxa para receber os R$ 35 mil.",
+  "corpo": "<p>Programas de indenização com muitos atingidos atraem golpistas. As mensagens costumam usar o nome da Samarco, da Renova ou da Justiça e pedem pagamento, senha ou dados bancários.</p>\n<h2>O que a Samarco informa</h2>\n<ul>\n<li>Não há cobrança antecipada para consultar CPF, aderir a programa ou liberar indenização.</li>\n<li>As movimentações nas plataformas são feitas apenas pela Defensoria Pública, que atende de graça, ou por advogado com procuração válida.</li>\n<li>Quando há advogado particular, os honorários previstos no acordo são pagos pela Samarco, sem desconto na indenização.</li>\n<li>O status do pedido pode ser consultado pela própria pessoa no Portal do Usuário, e a Central de Relacionamento atende pelo 0800 033 8485.</li>\n</ul>\n<h2>Na prática</h2>\n<p>Não clique em links recebidos por mensagem, não informe senhas e não pague boletos ou Pix para liberar indenização. Na dúvida, confira pelos canais oficiais. Pedir dinheiro com falsa promessa de indenização é crime de estelionato e deve ser registrado na Polícia.</p>",
+  "faq": [
+    [
+      "A Samarco cobra taxa para pagar a indenização?",
+      "Não. Segundo a Samarco, não há cobrança antecipada para consulta, adesão ou pagamento."
+    ],
+    [
+      "Como conferir se meu pedido existe?",
+      "Pelo Portal do Usuário da Samarco, com CPF ou CNPJ e senha, ou pela Central de Relacionamento, no 0800 033 8485."
+    ],
+    [
+      "Caí no golpe. O que faço?",
+      "Registre boletim de ocorrência, guarde as mensagens e comprovantes e avise o banco. Cobrar valores com falsa promessa é estelionato (Código Penal, art. 171)."
+    ]
+  ],
+  "base": [
+    "Código Penal, art. 171",
+    "Novo Acordo do Rio Doce, Anexo 2 (medidas indenizatórias)"
+  ],
+  "fontes": [
+    [
+      "Samarco: página oficial de indenização do Novo Acordo do Rio Doce",
+      "https://www.samarco.com/indenizacao/"
+    ]
+  ],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/7821762/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "slug": "samarco-prazo-do-pid-acabou",
+  "area": "civil",
+  "data": "2026-11-25",
+  "google": 77,
+  "titulo": "Perdi o prazo do PID da Samarco. Ainda tenho saída?",
+  "resumo": "O prazo para novos pedidos no Programa Indenizatório Definitivo (PID) terminou em 15 de agosto de 2026. Quem entrou dentro do prazo continua com o pedido em análise. Quem não entrou precisa avaliar a própria situação, sem contar com nova reabertura.",
+  "destaque": "Depende de cada caso.",
+  "pontos": [
+    [
+      "calendario",
+      "O PID teve três janelas de ingresso; a última terminou em 15/08/2026."
+    ],
+    [
+      "documento",
+      "Pedidos feitos no prazo seguem em análise e podem ser acompanhados no Portal do Usuário."
+    ],
+    [
+      "alerta",
+      "Desconfie de quem cobra para reabrir pedido: a Samarco não faz cobrança antecipada."
+    ]
+  ],
+  "exemplo": "Seu Antônio, pescador em Regência, ouviu falar do PID, mas deixou para depois e não entrou até agosto. Agora um conhecido diz que consegue incluí-lo na lista, desde que ele pague uma taxa.",
+  "corpo": "<p>O PID é o programa de indenização individual criado pelo Novo Acordo do Rio Doce, homologado pelo Supremo Tribunal Federal em novembro de 2024. Ele paga R$ 35 mil, em parcela única, a pessoas e pequenas empresas elegíveis dos territórios atingidos pelo rompimento da barragem de Fundão.</p>\n<h2>O que se sabe sobre o prazo</h2>\n<p>Segundo a Samarco, a plataforma do PID ficou aberta em três períodos: de 26 de fevereiro a 26 de maio de 2025, de 1º de agosto a 14 de setembro de 2025 e de 18 de maio a 15 de agosto de 2026. As reaberturas aconteceram a pedido dos Ministérios Públicos e das Defensorias Públicas.</p>\n<ul>\n<li>Desde 15 de agosto de 2026, o PID não aceita novos pedidos.</li>\n<li>Os pedidos feitos dentro do prazo continuam em análise, e o pagamento sai em até 10 dias depois da homologação judicial do acordo individual.</li>\n<li>O andamento pode ser consultado pela própria pessoa no Portal do Usuário da Samarco.</li>\n</ul>\n<h2>Na prática</h2>\n<p>O acordo também lista quem não tem direito às indenizações, como quem pediu cadastro depois de 31 de dezembro de 2021, quem propôs ação no Brasil ou no exterior depois de 26 de outubro de 2021 e quem já recebeu indenização. Cada situação precisa ser analisada com os documentos da pessoa.</p>\n<p>Quem não entrou no PID deve procurar a Defensoria Pública ou um advogado para entender se há outro caminho no seu caso. Não existe promessa segura de nova reabertura, e ninguém pode cobrar para incluir nomes em lista.</p>",
+  "faq": [
+    [
+      "O PID ainda está aberto?",
+      "Não. Segundo a Samarco, o ingresso de novos pedidos terminou em 15 de agosto de 2026."
+    ],
+    [
+      "Quem entrou no prazo vai receber?",
+      "Os pedidos feitos dentro do prazo continuam em análise; se aprovados, o pagamento sai em até 10 dias após a homologação judicial do acordo individual."
+    ],
+    [
+      "Alguém pode me incluir no PID mediante pagamento?",
+      "Não. A Samarco informa que não cobra valores antecipados e que só os canais oficiais e os representantes legais movimentam os pedidos."
+    ]
+  ],
+  "base": [
+    "Novo Acordo do Rio Doce, homologado pelo STF em novembro de 2024, Anexo 2 (medidas indenizatórias)"
+  ],
+  "fontes": [
+    [
+      "Samarco: página oficial de indenização do Novo Acordo do Rio Doce",
+      "https://www.samarco.com/indenizacao/"
+    ],
+    [
+      "Aedas: Programa Indenizatório Definitivo é prorrogado até 15 de agosto (13/07/2026)",
+      "https://aedasmg.org/2026/07/13/programa-indenizatorio-definitivo-e-prorrogado-ate-15-de-agosto/"
+    ]
+  ],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/7567600/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

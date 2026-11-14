@@ -1,0 +1,61 @@
+{
+  "slug": "samarco-quitacao-e-acao-em-londres",
+  "area": "civil",
+  "data": "2026-11-27",
+  "google": 79,
+  "titulo": "Recebi da Samarco. Posso entrar na ação de Londres?",
+  "resumo": "Para receber as indenizações do Novo Acordo, o atingido assina um termo de quitação, que significa desistir de ações no Brasil e no exterior. A Justiça inglesa entendeu que quem já recebeu com quitação integral no Brasil não segue na ação contra a BHP em Londres.",
+  "destaque": "Em regra, não, por causa da quitação.",
+  "pontos": [
+    [
+      "documento",
+      "O termo de quitação é exigido para receber a indenização."
+    ],
+    [
+      "balanca",
+      "A quitação implica desistir de ações no Brasil e no exterior, se houver."
+    ],
+    [
+      "calendario",
+      "Na ação inglesa, a fase que define os valores está prevista para abril de 2027."
+    ]
+  ],
+  "exemplo": "Carlos fazia parte da ação em Londres e, em 2025, aceitou os R$ 35 mil do PID. Agora ele quer saber se ainda pode receber o que for decidido na Inglaterra.",
+  "corpo": "<p>Muitos atingidos participam ao mesmo tempo dos programas do acordo brasileiro e da ação coletiva aberta na Inglaterra contra a BHP, uma das donas da Samarco. As duas coisas, porém, se cruzam.</p>\n<h2>O que diz o acordo</h2>\n<p>Segundo a Samarco, para receber a indenização é necessária a assinatura do Termo de Quitação, que configura a desistência de ação judicial no Brasil e no exterior. O acordo também exclui das indenizações quem propôs ação, no Brasil ou fora dele, depois de 26 de outubro de 2021.</p>\n<h2>E a ação de Londres?</h2>\n<ul>\n<li>A Justiça inglesa reconheceu a responsabilidade da BHP pelo rompimento da barragem.</li>\n<li>A fase que vai definir os valores das indenizações está prevista para abril de 2027.</li>\n<li>Segundo o escritório que conduz a ação, a Justiça inglesa entendeu que quem firmou acordo com quitação integral no Brasil e já foi indenizado não pode seguir no processo.</li>\n</ul>\n<h2>Na prática</h2>\n<p>Antes de assinar qualquer quitação ou de decidir entre um caminho e outro, é preciso conferir o que já foi assinado, quais danos foram indenizados e em que fase está cada processo. Guarde cópia de todos os termos e propostas recebidos.</p>",
+  "faq": [
+    [
+      "O que o termo de quitação significa?",
+      "Que o atingido dá por encerrada a reparação daqueles danos e desiste de ações sobre eles no Brasil e no exterior, conforme informa a Samarco."
+    ],
+    [
+      "Quem recebeu no Brasil continua na ação de Londres?",
+      "Segundo o escritório que conduz a ação, a Justiça inglesa entendeu que quem foi indenizado com quitação integral no Brasil não pode seguir no processo."
+    ],
+    [
+      "Quando sai o valor da ação de Londres?",
+      "A fase que define os valores está prevista para começar em abril de 2027, sem data certa de pagamento."
+    ]
+  ],
+  "base": [
+    "Novo Acordo do Rio Doce, homologado pelo STF em novembro de 2024, Anexo 2 (medidas indenizatórias)"
+  ],
+  "fontes": [
+    [
+      "Samarco: página oficial de indenização do Novo Acordo do Rio Doce",
+      "https://www.samarco.com/indenizacao/"
+    ],
+    [
+      "Estado de Minas: Mariana, escritório inglês descontinuará ações de parte dos atingidos (abr/2026)",
+      "https://www.em.com.br/gerais/2026/04/7400672-mariana-escritorio-ingles-descontinuara-acoes-de-parte-dos-atingidos.html"
+    ],
+    [
+      "Estado de Minas: Ação em Londres, a indenização devida aos atingidos vai chegar (nov/2026)",
+      "https://www.em.com.br/gerais/2026/11/7535219-acao-em-londres-a-indenizacao-devida-aos-atingidos-vai-chegar-diz-ceo.html"
+    ]
+  ],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/955394/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "slug": "quilombolas-rio-doce-novo-acordo",
+  "area": "civil",
+  "data": "2026-11-28",
+  "google": 80,
+  "titulo": "Quilombolas atingidos pelo Rio Doce: o que o Novo Acordo prevê?",
+  "resumo": "O Novo Acordo do Rio Doce tem medidas próprias para povos indígenas, quilombolas e comunidades tradicionais. Elas são definidas com cada comunidade, por consulta, e os valores são coletivos, por território, e não pagamentos individuais divididos entre os moradores.",
+  "destaque": "Medidas coletivas, por comunidade.",
+  "pontos": [
+    [
+      "casa",
+      "Cada comunidade decide em consulta livre, prévia e informada."
+    ],
+    [
+      "carteira",
+      "Os valores são do território, não um pagamento igual para cada morador."
+    ],
+    [
+      "escudo",
+      "Degredo e Povoação, em Linhares, estão entre as comunidades atendidas."
+    ]
+  ],
+  "exemplo": "Dona Benedita mora na comunidade quilombola de Degredo, em Linhares. Ela ouviu que a comunidade vai receber milhões e quer saber quanto cai na conta dela.",
+  "corpo": "<p>Os povos e comunidades tradicionais têm um capítulo próprio no Novo Acordo do Rio Doce. Pela Convenção 169 da Organização Internacional do Trabalho, medidas que os afetam devem ser decididas com consulta livre, prévia e informada.</p>\n<h2>O que já aconteceu</h2>\n<ul>\n<li>A comunidade quilombola de Povoação, em Linhares, aprovou o acordo em consulta conduzida com o Ministério da Igualdade Racial, com previsão de mais de R$ 430 milhões para o território, segundo a imprensa.</li>\n<li>Em agosto de 2026, uma resolução da governança do acordo destinou cerca de R$ 100,9 milhões em Verba de Apoio Familiar a quatro territórios, entre eles Degredo, com cerca de R$ 6,4 milhões.</li>\n<li>A Justiça condenou a Samarco a manter o fornecimento de água para os quilombolas de Degredo.</li>\n</ul>\n<h2>Na prática</h2>\n<p>Esses valores são do território e seguem as regras definidas com a comunidade e suas associações. Eles não se confundem com as indenizações individuais do acordo, como o PID. Quem tiver dúvida sobre a sua situação pessoal deve procurar a associação da comunidade, a Defensoria Pública ou um advogado, levando documentos de residência e de vínculo com o território.</p>",
+  "faq": [
+    [
+      "O dinheiro da comunidade é dividido entre os moradores?",
+      "Não necessariamente. Os valores são destinados ao território e seguem as regras definidas com a comunidade; não são um pagamento individual igual para cada morador."
+    ],
+    [
+      "Quem decide como os recursos são usados?",
+      "A comunidade, por meio de consulta livre, prévia e informada, como prevê a Convenção 169 da OIT, com acompanhamento dos órgãos públicos."
+    ],
+    [
+      "Quilombola também pode ter indenização individual?",
+      "As medidas coletivas não se confundem com as individuais. Cada pessoa deve verificar se se enquadrava nas portas individuais do acordo, que tinham prazos próprios."
+    ]
+  ],
+  "base": [
+    "Novo Acordo do Rio Doce, homologado pelo STF em novembro de 2024",
+    "Convenção 169 da OIT (Decreto 10.088/2019)"
+  ],
+  "fontes": [
+    [
+      "Folha Vitória: comunidade quilombola do ES aprova Novo Acordo do Rio Doce",
+      "https://www.folhavitoria.com.br/cotidiano/comunidade-quilombola-do-es-aprova-novo-acordo-do-rio-doce-e-vai-receber-r-430-milhoes"
+    ],
+    [
+      "Século Diário: quilombolas terão R$ 100,9 milhões para apoio a famílias atingidas",
+      "https://www.seculodiario.com.br/meio-ambiente/quilombolas-terao-r-1009-milhoes-para-apoio-a-familias-atingidas-pelo-crime-da-samarco/"
+    ],
+    [
+      "Século Diário: Samarco é condenada a manter fornecimento de água para quilombolas de Degredo",
+      "https://www.seculodiario.com.br/meio-ambiente/samarco-e-condenada-a-manter-fornecimento-de-agua-para-quilombolas-de-degredo/"
+    ]
+  ],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/28573408/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}
