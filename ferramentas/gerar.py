@@ -41,6 +41,7 @@ from pathlib import Path
 from urllib.parse import quote
 
 import calculadora  # página da Calculadora de rescisão (ferramentas/calculadora.py)
+import pilares  # guias completos por tema (ferramentas/pilares.py)
 
 RAIZ = Path(__file__).resolve().parent.parent
 BASE = "https://informativos.escritorioferreiraadv.com.br/"
@@ -398,7 +399,85 @@ def link_topo(p):
     if p.get("serie"):
         s = SERIES[p["serie"]]
         return f'<a href="../{s["pagina"]}">Série {s["titulo"]}</a>'
+    pl = pilar_do_post(p["slug"])
+    if pl:
+        return f'<a href="../{pl["pagina"]}">{pl["titulo"]}</a>'
     return '<a href="../index.html">Todos os informativos</a>'
+
+
+def pilar_do_post(slug):
+    """Guia completo (pilar) que cita o informativo, se houver."""
+    for pl in pilares.PILARES.values():
+        if any(slug in slugs for _, _, slugs in pl["secoes"]):
+            return pl
+    return None
+
+
+def cartao_pilar(pl):
+    """Cartão fixado no topo da aba da área, como o da calculadora."""
+    return (f'<a class="cartao fixado" data-area="{pl["area"]}" data-fixo="1" href="{pl["pagina"]}">'
+            f'<img src="assets/fotos/posts/{pl["foto"]}-p.jpg" width="480" height="300" loading="lazy" alt="">'
+            f'<span class="meta">{AREAS[pl["area"]]} · Guia completo</span>'
+            f'<h2>{e(pl["titulo"])}</h2>'
+            f'<span class="resposta-curta">{e(pl["destaque"])}</span></a>')
+
+
+def pagina_pilar(chave, posts):
+    pl = pilares.PILARES[chave]
+    url = f"{BASE}{pl['pagina']}"
+    no_ar = {p["slug"]: p for p in posts}
+    secoes, lidos = "", []
+    for titulo, paragrafos, slugs in pl["secoes"]:
+        links = [no_ar[s] for s in slugs if s in no_ar]
+        lidos += links
+        lista = ""
+        if links:
+            itens = "".join(f'<li><a href="posts/{p["slug"]}.html">{e(p["titulo"])}</a></li>' for p in links)
+            lista = f'<div class="caixa"><b>Leia sobre isso</b><ul>{itens}</ul></div>'
+        texto = "".join(f"<p>{e(t)}</p>" for t in paragrafos)
+        secoes += f'<section class="pilar-secao"><h2>{e(titulo)}</h2><div class="texto">{texto}</div>{lista}</section>\n'
+    docs = "".join(f"<li>{e(d)}</li>" for d in pl["documentos"])
+    faq = "".join(f"<details><summary>{e(q)}</summary><p>{e(r)}</p></details>" for q, r in pl["faq"])
+    base_legal = "".join(f"<li>{e(b)}</li>" for b in pl["base"])
+    area = AREAS[pl["area"]]
+    dados = [
+        {"@context": "https://schema.org", "@type": "Article", "@id": f"{url}#guia", "headline": pl["titulo_google"],
+         "description": pl["descricao"], "dateModified": pl["atualizado"], "inLanguage": "pt-BR",
+         "mainEntityOfPage": url, "articleSection": area, "image": [f"{BASE}assets/fotos/posts/{pl['foto']}.jpg"],
+         "author": pessoa(),
+         "publisher": {"@type": "LegalService", "name": NOME, "url": SITE, "logo": f"{BASE}assets/emblema-prata.png"},
+         "hasPart": [{"@type": "Article", "headline": p["titulo"], "url": f"{BASE}posts/{p['slug']}.html"} for p in lidos]},
+        {"@context": "https://schema.org", "@type": "FAQPage", "@id": f"{url}#perguntas", "mainEntity": [
+            {"@type": "Question", "name": q, "acceptedAnswer": {"@type": "Answer", "text": r}} for q, r in pl["faq"]]},
+        {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [
+            {"@type": "ListItem", "position": 1, "name": "Informativos", "item": BASE},
+            {"@type": "ListItem", "position": 2, "name": area, "item": f"{BASE}index.html#{pl['area']}"},
+            {"@type": "ListItem", "position": 3, "name": pl["titulo"], "item": url}]},
+    ]
+    ld = json.dumps(dados, ensure_ascii=False)
+    whats = link_whats(pl["titulo"])
+    compartilhar = f"https://wa.me/?text={quote(pl['titulo'] + ' ' + url)}"
+    leia = "".join(cartao(p) for p in sorted(lidos, key=lambda p: p["data"], reverse=True)[:3])
+    foto = f"assets/fotos/posts/{pl['foto']}.jpg"
+    corpo = f"""<article class="post pilar" data-assunto="{area}">
+<div class="conteudo coluna">
+  <p class="linha-topo"><b>{area}</b> Guia completo · atualizado em <time datetime="{pl['atualizado']}">{data_extenso(pl['atualizado'])}</time><a href="index.html#{pl['area']}">Todos os informativos</a></p>
+  <img class="foto-post" src="{foto}" width="1200" height="800" fetchpriority="high" alt="">
+  <h1>{e(pl['titulo'])}</h1>
+  <div class="resposta"><strong>{e(pl['destaque'])}</strong> {e(pl['resumo'])}</div>
+  <nav class="caixa pilar-indice"><b>Neste guia</b><ol>{"".join(f"<li>{e(t)}</li>" for t, _, _ in pl["secoes"])}</ol></nav>
+  {secoes}
+  <div class="caixa"><b>O que levar à primeira conversa</b><ul>{docs}</ul></div>
+  <section class="faq"><h2>Perguntas frequentes</h2>{faq}</section>
+  <div class="caixa"><b>Base legal</b><ul>{base_legal}</ul></div>
+  <p class="aviso">Texto informativo. Cada situação depende de análise própria, com base nos documentos e nos fatos do caso.</p>
+  {bloco_autor(whats, compartilhar, "", "Enviar este guia a alguém")}
+</div>
+{bloco_final(leia, whats, "")}
+"""
+    return (cabeca(f"{pl['titulo_google']} | {TITULO}", pl["descricao"], url, "", "article", f"{BASE}{foto}",
+                   f'\n<script type="application/ld+json">{ld}</script>', foto)
+            + corpo + rodape("") + "</body>\n</html>\n")
 
 
 def relacionados(p, posts):
@@ -567,7 +646,8 @@ def pagina_inicial(todos):
     usadas = [k for k in AREAS if any(p["area"] == k for p in posts)]
     botoes = '<button type="button" data-filtro="" aria-pressed="true">Todos</button>' + "".join(
         f'<button type="button" data-filtro="{k}" aria-pressed="false">{AREAS[k]}</button>' for k in usadas)
-    cartoes = "\n".join(["  " + calculadora.cartao_fixo(e)] + ["  " + cartao(p) for p in posts])
+    cartoes = "\n".join(["  " + calculadora.cartao_fixo(e)] + ["  " + cartao_pilar(pl) for pl in pilares.PILARES.values()]
+                        + ["  " + cartao(p) for p in posts])
     corpo = f"""<section class="abertura"><div class="conteudo">
   <div>
     <p class="linha-topo"><b>Informativos</b> <span class="marca-nome"><img src="assets/emblema-escuro.png" width="22" height="22" alt="">{NOME}</span> <a href="{pagina_do_volume(hoje()[:4])}">{volume(hoje())}</a></p>
@@ -1015,8 +1095,11 @@ def main():
             # série só com programados: a página só entra no ar com o primeiro post publicado
             (RAIZ / s["pagina"]).unlink(missing_ok=True)
     (RAIZ / AUTOR_PAGINA).write_text(pagina_autor(posts), encoding="utf-8")
+    for chave, pl in pilares.PILARES.items():
+        (RAIZ / pl["pagina"]).write_text(pagina_pilar(chave, posts), encoding="utf-8")
     recente = max(atualizado(p) for p in posts)
     urls = ([(BASE, recente), (f"{BASE}{calculadora.PAGINA}", "")] + [(f"{BASE}{s['pagina']}", recente) for s in series_no_ar]
+            + [(f"{BASE}{pl['pagina']}", pl["atualizado"]) for pl in pilares.PILARES.values()]
             + [(f"{BASE}{AUTOR_PAGINA}", recente), (f"{BASE}apresentacao.html", ""), (f"{BASE}volumes.html", recente), (f"{BASE}expediente.html", "")]
             + [(f"{BASE}{pagina_do_volume(a)}", recente) for a in anos]
             + [(f"{BASE}posts/{p['slug']}.html", atualizado(p)) for p in posts])

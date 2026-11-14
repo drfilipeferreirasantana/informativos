@@ -77,6 +77,7 @@ Regra para cada post novo:
 4. **Subtítulos no `corpo` em forma de pergunta ou tema** (`<h2>`), e um link para outro informativo do mesmo assunto quando houver.
 5. **Ao revisar um post já publicado** (lei nova, súmula nova, valor atualizado), preencher `"atualizado": "AAAA-MM-DD"` no JSON: a data aparece no post e avisa o Google.
 6. **Temas muito buscados ganham ferramenta**, como a Calculadora de rescisão.
+7. **Cada tema grande tem um guia completo (página-pilar)** em `ferramentas/pilares.py`: texto do começo ao fim do assunto, com links para os informativos do tema. O primeiro é o de Divórcio (`divorcio.html`, aprovado em 14/11/2026). Post novo do tema entra pelo slug na seção certa do guia; programado só aparece no guia quando for ao ar. Ao mudar o texto do guia, atualizar o campo `atualizado`.
 
 ## Publicação programada
 
