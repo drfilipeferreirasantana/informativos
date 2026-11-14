@@ -19,7 +19,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@400;500;600;700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="assets/estilo.css?v=29d4e1e3">
+<link rel="stylesheet" href="assets/estilo.css?v=07281f0b">
 </head>
 <body>
 <a class="pular" href="#conteudo">Ir para o conteúdo</a>
@@ -55,6 +55,7 @@
     <b>Grandes causas trabalhistas</b><span class="desc">Informativos sobre as questões trabalhistas que costumam exigir mais prova e cálculos mais detalhados: contratação como PJ, gerentes e cargos de confiança, bancários, equiparação salarial, salário pago por fora, comissões e bônus, contratos de executivos, trabalho no exterior, PDV, acidente e doença do trabalho, burnout, indenização à família e o valor do dano moral.</span><span class="ver">Ver a série</span></a>
   <div class="filtros" role="group" aria-label="Filtrar por área"><button type="button" data-filtro="" aria-pressed="true">Todos</button><button type="button" data-filtro="familia" aria-pressed="false">Direito de Família</button><button type="button" data-filtro="sucessoes" aria-pressed="false">Sucessões</button><button type="button" data-filtro="trabalhista" aria-pressed="false">Direito Trabalhista</button><button type="button" data-filtro="civil" aria-pressed="false">Direito Civil</button><button type="button" data-filtro="consumidor" aria-pressed="false">Direito do Consumidor</button><button type="button" data-filtro="previdenciario" aria-pressed="false">Direito Previdenciário</button></div>
   <div class="lista" id="lista">
+  <a class="cartao fixado" data-area="trabalhista" data-fixo="1" href="calculadora-rescisao.html"><img src="assets/calculadora-p.jpg" width="480" height="300" loading="lazy" alt=""><span class="meta">Direito Trabalhista · Ferramenta</span><h2>Calculadora de rescisão trabalhista</h2><span class="resposta-curta">Calcule suas verbas rescisórias.</span></a>
   <a class="cartao" data-area="familia" href="posts/alimentos-gravidicos-pensao-na-gravidez.html"><img src="assets/fotos/posts/alimentos-gravidicos-pensao-na-gravidez-p.jpg" width="480" height="300" loading="lazy" alt=""><span class="meta">Direito de Família · 14 nov. 2026</span><h2>Grávida pode pedir pensão antes do bebê nascer?</h2><span class="resposta-curta">Sim, são os alimentos gravídicos.</span></a>
   <a class="cartao" data-area="previdenciario" href="posts/atestmed-auxilio-doenca-sem-pericia.html"><img src="assets/fotos/posts/atestmed-auxilio-doenca-sem-pericia-p.jpg" width="480" height="300" loading="lazy" alt=""><span class="meta">Direito Previdenciário · 14 nov. 2026</span><h2>Dá para receber o auxílio-doença sem perícia presencial?</h2><span class="resposta-curta">Sim, pelo Atestmed, com limite.</span></a>
   <a class="cartao" data-area="previdenciario" href="posts/bpc-loas-quem-tem-direito.html"><img src="assets/fotos/posts/bpc-loas-quem-tem-direito-p.jpg" width="480" height="300" loading="lazy" alt=""><span class="meta">Direito Previdenciário · 14 nov. 2026</span><h2>Quem tem direito ao BPC/LOAS e o que entra na renda da família?</h2><span class="resposta-curta">Idosos e pessoas com deficiência.</span></a>
@@ -121,13 +122,15 @@
 <script>
 (function () {
   var POR_VEZ = 12, mostrando = POR_VEZ, filtro = '';
-  var cartoes = [].slice.call(document.querySelectorAll('#lista .cartao'));
+  var fixos = [].slice.call(document.querySelectorAll('#lista .cartao[data-fixo]'));
+  var cartoes = [].slice.call(document.querySelectorAll('#lista .cartao:not([data-fixo])'));
   var mais = document.getElementById('mais');
   function aplicar() {
     var visiveis = cartoes.filter(function (c) { return !filtro || c.dataset.area === filtro; });
     cartoes.forEach(function (c) { c.hidden = true; });
     visiveis.slice(0, mostrando).forEach(function (c) { c.hidden = false; });
     mais.hidden = visiveis.length <= mostrando;
+    fixos.forEach(function (c) { c.hidden = filtro !== c.dataset.area; }); // fixado no topo da aba da sua área
   }
   document.querySelectorAll('[data-filtro]').forEach(function (b) {
     b.addEventListener('click', function () {

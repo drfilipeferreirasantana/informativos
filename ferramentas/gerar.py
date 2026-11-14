@@ -40,6 +40,8 @@ import sys
 from pathlib import Path
 from urllib.parse import quote
 
+import calculadora  # página da Calculadora de rescisão (ferramentas/calculadora.py)
+
 RAIZ = Path(__file__).resolve().parent.parent
 BASE = "https://informativos.escritorioferreiraadv.com.br/"
 SITE = "https://escritorioferreiraadv.com.br/"
@@ -367,6 +369,7 @@ def pagina_post(p, posts):
   <h1>{e(p['titulo'])}</h1>
   <div class="resposta"><strong>{e(p['destaque'])}</strong> {e(p['resumo'])}</div>
   <ol class="pontos">{pontos}</ol>
+  {calculadora.quadro_post(p['slug'])}
   {exemplo}
   <details class="entenda"><summary>Entenda melhor <small>{minutos} min de leitura</small></summary>
   <div class="texto">{p['corpo'].strip()}</div></details>
@@ -405,13 +408,15 @@ def pagina_post(p, posts):
 SCRIPT_LISTA = """<script>
 (function () {
   var POR_VEZ = 12, mostrando = POR_VEZ, filtro = '';
-  var cartoes = [].slice.call(document.querySelectorAll('#lista .cartao'));
+  var fixos = [].slice.call(document.querySelectorAll('#lista .cartao[data-fixo]'));
+  var cartoes = [].slice.call(document.querySelectorAll('#lista .cartao:not([data-fixo])'));
   var mais = document.getElementById('mais');
   function aplicar() {
     var visiveis = cartoes.filter(function (c) { return !filtro || c.dataset.area === filtro; });
     cartoes.forEach(function (c) { c.hidden = true; });
     visiveis.slice(0, mostrando).forEach(function (c) { c.hidden = false; });
     mais.hidden = visiveis.length <= mostrando;
+    fixos.forEach(function (c) { c.hidden = filtro !== c.dataset.area; }); // fixado no topo da aba da sua área
   }
   document.querySelectorAll('[data-filtro]').forEach(function (b) {
     b.addEventListener('click', function () {
@@ -442,7 +447,7 @@ def pagina_inicial(todos):
     usadas = [k for k in AREAS if any(p["area"] == k for p in posts)]
     botoes = '<button type="button" data-filtro="" aria-pressed="true">Todos</button>' + "".join(
         f'<button type="button" data-filtro="{k}" aria-pressed="false">{AREAS[k]}</button>' for k in usadas)
-    cartoes = "\n".join("  " + cartao(p) for p in posts)
+    cartoes = "\n".join(["  " + calculadora.cartao_fixo(e)] + ["  " + cartao(p) for p in posts])
     corpo = f"""<section class="abertura"><div class="conteudo">
   <div>
     <p class="linha-topo"><b>Informativos</b> <span class="marca-nome"><img src="assets/emblema-escuro.png" width="22" height="22" alt="">{NOME}</span> <a href="{pagina_do_volume(hoje()[:4])}">{volume(hoje())}</a></p>
@@ -861,6 +866,7 @@ def main():
     for p in posts:
         (RAIZ / "posts" / f"{p['slug']}.html").write_text(pagina_post(p, posts), encoding="utf-8")
     (RAIZ / "index.html").write_text(pagina_inicial(posts), encoding="utf-8")
+    (RAIZ / calculadora.PAGINA).write_text(calculadora.pagina(cabeca, rodape, BASE, assinatura(""), versao, e, OAB, ADVOGADO, NOME, SITE), encoding="utf-8")
     (RAIZ / "artes.html").write_text(pagina_artes(posts, programados), encoding="utf-8")
     (RAIZ / "expediente.html").write_text(pagina_expediente(posts), encoding="utf-8")
     (RAIZ / "apresentacao.html").write_text(pagina_apresentacao(posts), encoding="utf-8")
@@ -876,7 +882,7 @@ def main():
         else:
             # série só com programados: a página só entra no ar com o primeiro post publicado
             (RAIZ / s["pagina"]).unlink(missing_ok=True)
-    urls = [BASE] + [f"{BASE}{s['pagina']}" for s in series_no_ar] +[f"{BASE}apresentacao.html", f"{BASE}volumes.html", f"{BASE}expediente.html"] + [f"{BASE}{pagina_do_volume(a)}" for a in anos] + [f"{BASE}posts/{p['slug']}.html" for p in posts]
+    urls = [BASE, f"{BASE}{calculadora.PAGINA}"] + [f"{BASE}{s['pagina']}" for s in series_no_ar] +[f"{BASE}apresentacao.html", f"{BASE}volumes.html", f"{BASE}expediente.html"] + [f"{BASE}{pagina_do_volume(a)}" for a in anos] + [f"{BASE}posts/{p['slug']}.html" for p in posts]
     linhas = "\n".join(f"  <url><loc>{u}</loc></url>" for u in urls)
     (RAIZ / "sitemap.xml").write_text(
         f'<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n{linhas}\n</urlset>\n',
