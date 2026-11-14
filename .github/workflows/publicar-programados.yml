@@ -23,6 +23,8 @@ jobs:
           python-version: "3.12"
       - run: pip install pillow
       - run: python ferramentas/gerar.py
+        env:
+          ESCRITORIO_EMAIL: ${{ secrets.ESCRITORIO_EMAIL }}
       - name: Envia as páginas novas, se houver
         run: |
           git config user.name "github-actions[bot]"

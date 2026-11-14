@@ -54,7 +54,22 @@ TITULO = "Informativos Ferreira Advogados"
 COLUNA = "Você sabia?"
 OAB = "OAB/ES 37.159"
 ENDERECO = "Av. Prefeito Samuel Batista Cruz, 2832, Centro, Linhares/ES"
-EMAIL = "dr.filipeferreirasantana@gmail.com"
+# E-mail do escritório (rodapé e expediente): vem da configuração ESCRITORIO_EMAIL, no Windows
+# do escritório e no segredo do GitHub, e não fica escrito no programa. Sem ele, o site não é gerado.
+def _email_configurado():
+    import os
+    v = os.environ.get("ESCRITORIO_EMAIL", "").strip()
+    if not v and sys.platform == "win32":  # configuração do Windows gravada depois que o programa abriu
+        try:
+            import winreg
+            with winreg.OpenKey(winreg.HKEY_CURRENT_USER, "Environment") as k:
+                v = str(winreg.QueryValueEx(k, "ESCRITORIO_EMAIL")[0]).strip()
+        except OSError:
+            v = ""
+    return v
+
+
+EMAIL = _email_configurado()
 TELEFONE = "(27) 99518-7279"
 WHATSAPP = "https://wa.me/5527995187279"
 # Mensagem do WhatsApp do menu e do rodapé: o sistema do escritório reconhece a frase
@@ -839,6 +854,9 @@ def pagina_serie(chave, posts):
 
 
 def main():
+    if "@" not in EMAIL:
+        sys.exit("Falta o e-mail do escritório na configuração ESCRITORIO_EMAIL (Windows ou segredo do GitHub). "
+                 "O site não foi gerado, para não sair sem o contato no rodapé.")
     todos = carregar()
     if not todos:
         sys.exit("Nenhum arquivo em conteudo/. Nada foi alterado.")
