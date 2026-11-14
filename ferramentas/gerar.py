@@ -100,7 +100,7 @@ SERIES = {
         "titulo": "Família e patrimônio",
         "aba": "Família e patrimônio",
         "pagina": "familia-patrimonio.html",
-        "descricao": "Informativos sobre divórcio, união estável e herança quando há empresa, imóveis ou investimentos: quotas de sociedade na partilha, aluguéis e lucros, bens colocados em nome da empresa, pacto antenupcial, contrato de convivência, holding familiar e a morte de um sócio.",
+        "descricao": "Informativos sobre divórcio, união estável e herança quando há empresa, imóveis ou investimentos: quotas de sociedade na partilha, aluguéis e lucros, bens colocados em nome da empresa, pacto antenupcial, contrato de convivência e a morte de um sócio.",
     },
     "grandes-causas": {
         "titulo": "Grandes causas trabalhistas",
@@ -207,7 +207,7 @@ def pagina_autor(posts):
     <div>
       <h1>{ADVOGADO}</h1>
       <p class="credenciais">Advogado, {OAB}. Pós-graduação em Direito de Família em curso na FMP. Filiado ao Instituto Brasileiro de Direito de Família (IBDFAM).</p>
-      <p>Responsável pelo escritório {NOME}, em Linhares/ES, com atendimento presencial na região e on-line para todo o Brasil. Atua em Direito de Família e Sucessões (divórcio, partilha de bens, guarda, pensão alimentícia, união estável, inventário e holding familiar) e também em Direito Trabalhista, Previdenciário, Civil e do Consumidor.</p>
+      <p>Responsável pelo escritório {NOME}, em Linhares/ES, com atendimento presencial na região e on-line para todo o Brasil. Atua em Direito de Família e Sucessões (divórcio, partilha de bens, guarda, pensão alimentícia, união estável, inventário e planejamento sucessório) e também em Direito Trabalhista, Previdenciário, Civil e do Consumidor.</p>
       <p>Antes da advocacia, teve 14 anos de experiência na área comercial, o que traz para os casos de família e de trabalho a leitura de empresas, quotas de sociedade, investimentos e remuneração variável.</p>
       <p>É o editor e autor de todas as matérias desta publicação. Cada texto responde uma dúvida comum, com a base legal conferida no texto oficial da lei, de súmulas ou de decisões dos tribunais superiores.</p>
       <p class="acoes"><a class="botao botao-whatsapp" href="{WHATS_GERAL}" target="_blank" rel="noopener">{ICONE_WHATS}Conversar pelo WhatsApp</a>
