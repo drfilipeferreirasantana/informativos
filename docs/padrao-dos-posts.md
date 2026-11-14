@@ -66,6 +66,18 @@ O primeiro visual (marinho com dourado, Montserrat em negrito, selos arredondado
 - **Leveza:** a página inicial só tem texto; imagens grandes só na capa de compartilhamento, que o leitor não baixa ao abrir o site.
 - **Para depois:** medir cliques no WhatsApp por post (hoje o site de informativos não mede nada e não usa cookies; medir exige atualizar uma política de privacidade).
 
+## 8. Para o Google indicar (decidido pelo Dr. Filipe em 14/11/2026)
+
+O gerador já coloca em todo post, sem trabalho manual: dados da matéria (Article com autor, área e data de atualização), perguntas frequentes (FAQPage), trilha Informativos › área › matéria (BreadcrumbList), link para a página do autor (autor.html) e data de cada página no sitemap. O site está cadastrado no Google Search Console (arquivo google87e4dbb8c52dae81.html na raiz: nunca apagar).
+
+Regra para cada post novo:
+1. **Título = a pergunta que a pessoa digita no Google**, com as palavras dela ("Quem pede demissão tem direito a quê?").
+2. **Resposta na primeira frase** (campos `destaque` e `resumo`): é o trecho que o Google e as respostas de IA copiam.
+3. **FAQ com 3 a 5 perguntas reais**, de preferência as que chegam pela Iadã no WhatsApp. Cada resposta completa sozinha, em 1 a 3 frases.
+4. **Subtítulos no `corpo` em forma de pergunta ou tema** (`<h2>`), e um link para outro informativo do mesmo assunto quando houver.
+5. **Ao revisar um post já publicado** (lei nova, súmula nova, valor atualizado), preencher `"atualizado": "AAAA-MM-DD"` no JSON: a data aparece no post e avisa o Google.
+6. **Temas muito buscados ganham ferramenta**, como a Calculadora de rescisão.
+
 ## Publicação programada
 
 - O campo `data` do JSON é o dia em que o post entra no site. Post com data futura fica guardado: não aparece na página inicial, nas séries, no sitemap nem tem página no ar.
