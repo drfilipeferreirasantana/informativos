@@ -1,0 +1,33 @@
+{
+  "slug": "avos-podem-pagar-pensao",
+  "area": "familia",
+  "data": "2026-11-17",
+  "titulo": "Os avós podem ser obrigados a pagar pensão ao neto?",
+  "destaque": "Sim, se os pais não puderem pagar.",
+  "resumo": "A obrigação é primeiro do pai e da mãe. Se eles não podem pagar, ou pagam menos do que a criança precisa, os avós podem ser chamados a completar a pensão, dentro do que podem pagar.",
+  "pontos": [
+    ["filhos", "Quem deve primeiro são o pai e a mãe."],
+    ["alerta", "Os avós entram quando os pais não dão conta, no todo ou em parte."],
+    ["balanca", "O valor respeita o que os avós podem pagar."],
+    ["documento", "É preciso mostrar que os pais não conseguem pagar."]
+  ],
+  "exemplo": "Lucas tem 6 anos. O pai está desempregado há dois anos e a pensão que consegue pagar não cobre nem a escola. A mãe pensa em pedir aos avós paternos, que têm boa condição, que completem o valor.",
+  "corpo": "<p>A família, para a lei, não termina no pai e na mãe. A Constituição e o Código Civil tratam o sustento das crianças como um dever de solidariedade entre parentes, e por isso os avós podem ser chamados quando os pais não conseguem cumprir sozinhos.</p>\n<h2>O que diz a lei?</h2>\n<ul>\n<li>A Constituição dá aos pais o dever de assistir, criar e educar os filhos menores (art. 229).</li>\n<li>O direito a alimentos vale entre pais e filhos e se estende a todos os ascendentes, começando pelos parentes mais próximos (Código Civil, art. 1.696).</li>\n<li>Se quem deve em primeiro lugar não consegue pagar tudo, os parentes do grau seguinte são chamados a completar, cada um na proporção dos seus recursos (Código Civil, art. 1.698).</li>\n<li>O STJ firmou que a obrigação dos avós é complementar e subsidiária: só existe quando os pais não podem pagar, total ou parcialmente (Súmula 596).</li>\n</ul>\n<h2>Na prática</h2>\n<ul>\n<li>É preciso mostrar que o pai ou a mãe não paga ou não consegue pagar o suficiente: desemprego, renda baixa, execuções frustradas.</li>\n<li>Os avós paternos e maternos podem ser chamados juntos, cada um na medida do que pode pagar.</li>\n<li>A pensão dos avós considera as necessidades da criança e também a idade, a saúde e a renda deles.</li>\n<li>O dever é de mão dupla: netos e filhos também podem ser chamados a ajudar avós e pais que precisem.</li>\n</ul>\n<p>Veja também: <a href=\"valor-da-pensao-alimenticia.html\">Qual é o valor da pensão alimentícia? Existe percentual fixo?</a></p>",
+  "faq": [
+    ["Posso pedir pensão direto para os avós?", "Só se o pai ou a mãe não puderem pagar, total ou parcialmente. A obrigação dos avós é complementar e subsidiária (STJ, Súmula 596)."],
+    ["Os avós maternos também podem ser chamados?", "Sim. Avós paternos e maternos podem ser chamados, cada um na proporção dos seus recursos (Código Civil, art. 1.698)."],
+    ["Avô aposentado pode ser obrigado a pagar pensão?", "Pode, mas o valor considera a renda, a idade e a saúde dele. Ninguém é obrigado a pagar além do que pode."],
+    ["O neto pode ter de pagar pensão ao avô?", "Pode. O dever de alimentos é recíproco entre parentes em linha reta (Código Civil, art. 1.696)."]
+  ],
+  "base": [
+    "Constituição Federal, art. 229",
+    "Código Civil, arts. 1.696 e 1.698",
+    "STJ, Súmula 596"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/9114337/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "revista-intima-no-trabalho",
+  "area": "trabalhista",
+  "data": "2026-11-16",
+  "serie": "constituicao-no-trabalho",
+  "ordem": 2,
+  "titulo": "A empresa pode fazer revista íntima no empregado?",
+  "destaque": "Não. A revista íntima é proibida.",
+  "resumo": "A CLT e uma lei de 2016 vedam a prática, e a Constituição protege a intimidade de todos. Já a olhada geral na bolsa, sem toque e sem exposição, a Justiça do Trabalho admite.",
+  "pontos": [
+    ["escudo", "A intimidade do empregado é protegida pela Constituição."],
+    ["alerta", "A lei proíbe expressamente a revista íntima em empregadas."],
+    ["check", "A Justiça do Trabalho estende a proteção aos homens."],
+    ["balanca", "Olhar a bolsa de todos, sem toque nem humilhação, é permitido."]
+  ],
+  "exemplo": "Na saída do turno, uma loja levava os funcionários para uma sala e mandava tirar parte da roupa para provar que não levavam mercadoria. Todos passavam pela revista, todos os dias.",
+  "corpo": "<p>O poder de fiscalizar não dá à empresa o direito de expor o corpo de quem trabalha para ela. Proteger o patrimônio é legítimo; humilhar para isso, não.</p>\n<h2>O que dizem a Constituição e a lei?</h2>\n<ul>\n<li>A Constituição declara invioláveis a intimidade, a vida privada, a honra e a imagem das pessoas, e garante indenização por dano material ou moral quando são violadas (art. 5º, X).</li>\n<li>A CLT proíbe o empregador ou quem o represente de fazer revistas íntimas nas empregadas (art. 373-A, VI).</li>\n<li>A Lei 13.271/2016 proíbe empresas privadas e órgãos públicos de fazer revista íntima em funcionárias e clientes mulheres, com multa para quem descumprir.</li>\n<li>As regras estão em normas de proteção da mulher, mas a doutrina e a Justiça do Trabalho aplicam a mesma proteção aos homens, com base na Constituição.</li>\n</ul>\n<h2>E a revista na bolsa?</h2>\n<ul>\n<li>O TST decidiu, em recurso repetitivo, que a revista apenas visual dos pertences, feita de forma geral e impessoal, sem contato físico e sem expor o empregado a situação humilhante, não gera indenização por si só (Tema 58).</li>\n<li>Mandar tirar a roupa, apalpar o corpo, revistar só alguns empregados ou fazer a revista na frente de clientes já ultrapassa esse limite.</li>\n<li>Testemunhas, mensagens com ordens sobre a revista e imagens são as principais provas.</li>\n</ul>\n<p>Veja também: <a href=\"dano-moral-no-trabalho.html\">Humilhação no trabalho gera indenização por dano moral?</a></p>",
+  "faq": [
+    ["Revista íntima no trabalho é crime?", "A lei trabalhista proíbe a prática e prevê multa para a empresa. Para o empregado, a consequência principal é o direito à indenização por dano moral."],
+    ["A empresa pode olhar minha bolsa na saída?", "Pode, se a revista for só visual, igual para todos, sem toque e sem exposição humilhante (TST, Tema 58)."],
+    ["Homem também é protegido contra revista íntima?", "Sim. A Constituição protege a intimidade de todos, e a Justiça do Trabalho aplica a proibição também aos homens."],
+    ["Quem passou por revista íntima tem direito a quê?", "Em regra, a indenização por dano moral (Constituição, art. 5º, X). O prazo para cobrar é de 2 anos após a saída."]
+  ],
+  "base": [
+    "Constituição Federal, art. 5º, X",
+    "CLT, art. 373-A, VI",
+    "Lei 13.271/2016, arts. 1º e 2º",
+    "TST, Tema 58 dos Recursos Repetitivos"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/12255816/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

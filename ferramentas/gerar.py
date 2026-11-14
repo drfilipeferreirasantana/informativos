@@ -108,6 +108,14 @@ SERIES = {
         "pagina": "grandes-causas.html",
         "descricao": "Informativos sobre as questões trabalhistas que costumam exigir mais prova e cálculos mais detalhados: contratação como PJ, gerentes e cargos de confiança, bancários, equiparação salarial, salário pago por fora, comissões e bônus, contratos de executivos, trabalho no exterior, PDV, acidente e doença do trabalho, burnout, indenização à família e o valor do dano moral.",
     },
+    # Série pedida pelo Dr. Filipe em 14/11/2026: princípios da Constituição (liberdade, intimidade,
+    # dignidade, igualdade, valor social do trabalho) aplicados ao dia a dia do trabalho.
+    "constituicao-no-trabalho": {
+        "titulo": "A Constituição no seu trabalho",
+        "aba": "Constituição no trabalho",
+        "pagina": "constituicao-no-trabalho.html",
+        "descricao": "Informativos que mostram como os princípios da Constituição, como a liberdade, a intimidade, a dignidade e a igualdade, protegem o empregado no dia a dia: mensagens do chefe fora do horário, revista íntima, humilhação, vigilância e diferença de tratamento.",
+    },
 }
 MESES = ["janeiro", "fevereiro", "março", "abril", "maio", "junho", "julho", "agosto",
          "setembro", "outubro", "novembro", "dezembro"]
