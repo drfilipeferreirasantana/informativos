@@ -168,6 +168,64 @@ def link_whats(titulo):
     return f'{WHATSAPP}?text={quote(f"Olá! Li o informativo \"{titulo}\" e gostaria de falar com o escritório.")}'
 
 
+AUTOR_PAGINA = "autor.html"
+
+
+def atualizado(p):
+    """Data da última revisão do texto: campo "atualizado" do JSON (AAAA-MM-DD) ou, sem ele, a data de publicação."""
+    return max(p.get("atualizado") or p["data"], p["data"])
+
+
+def pessoa():
+    """O advogado autor, do jeito que o Google lê (dados técnicos de autoria)."""
+    return {"@type": "Person", "@id": f"{BASE}{AUTOR_PAGINA}#advogado", "name": ADVOGADO,
+            "jobTitle": f"Advogado, {OAB}", "url": f"{BASE}{AUTOR_PAGINA}",
+            "image": f"{BASE}assets/advogado.jpg",
+            "memberOf": {"@type": "Organization", "name": "Instituto Brasileiro de Direito de Família (IBDFAM)"},
+            "worksFor": {"@type": "LegalService", "name": NOME, "url": SITE},
+            "knowsAbout": list(AREAS.values()),
+            "sameAs": [SITE, INSTAGRAM, YOUTUBE]}
+
+
+def pagina_autor(posts):
+    """Página do autor: quem escreve os informativos (o Google exige saber quem escreve sobre direito)."""
+    por_area = {}
+    for p in posts:
+        por_area.setdefault(p["area"], []).append(p)
+    blocos = "".join(
+        f'<section class="volume"><h2>{AREAS[k]}</h2><ol>'
+        + "".join(f'<li><a href="posts/{p["slug"]}.html">{e(p["titulo"])}</a><small>{data_curta(p["data"])}</small></li>'
+                  for p in sorted(lista, key=lambda p: p["data"], reverse=True)[:8])
+        + "</ol></section>"
+        for k, lista in sorted(por_area.items(), key=lambda x: -len(x[1])))
+    ld = json.dumps({"@context": "https://schema.org", "@type": "ProfilePage", "url": f"{BASE}{AUTOR_PAGINA}",
+                     "inLanguage": "pt-BR", "mainEntity": pessoa()}, ensure_ascii=False)
+    corpo = f"""<section class="conteudo coluna expediente autor-pagina">
+  <p class="linha-topo"><b>Quem escreve</b> {TITULO}</p>
+  <section class="autor">
+    <img class="autor-foto" src="assets/advogado.jpg" width="240" height="300" alt="{ADVOGADO}, advogado, de terno cinza e gravata bordô">
+    <div>
+      <h1>{ADVOGADO}</h1>
+      <p class="credenciais">Advogado, {OAB}. Pós-graduação em Direito de Família em curso na FMP. Filiado ao Instituto Brasileiro de Direito de Família (IBDFAM).</p>
+      <p>Responsável pelo escritório {NOME}, em Linhares/ES, com atendimento presencial na região e on-line para todo o Brasil. Atua em Direito de Família e Sucessões (divórcio, partilha de bens, guarda, pensão alimentícia, união estável, inventário e holding familiar) e também em Direito Trabalhista, Previdenciário, Civil e do Consumidor.</p>
+      <p>Antes da advocacia, teve 14 anos de experiência na área comercial, o que traz para os casos de família e de trabalho a leitura de empresas, quotas de sociedade, investimentos e remuneração variável.</p>
+      <p>É o editor e autor de todas as matérias desta publicação. Cada texto responde uma dúvida comum, com a base legal conferida no texto oficial da lei, de súmulas ou de decisões dos tribunais superiores.</p>
+      <p class="acoes"><a class="botao botao-whatsapp" href="{WHATS_GERAL}" target="_blank" rel="noopener">{ICONE_WHATS}Conversar pelo WhatsApp</a>
+      <a class="botao botao-linha" href="{SITE}">Site do escritório</a></p>
+    </div>
+  </section>
+  <h2>Matérias recentes por área</h2>
+  {blocos}
+  <p class="rodape-links"><a href="index.html">Todos os informativos</a> · <a href="expediente.html">Expediente</a></p>
+</section>
+"""
+    return (cabeca(f"{ADVOGADO}, advogado | {TITULO}",
+                   f"{ADVOGADO}, advogado ({OAB}) em Linhares/ES, filiado ao IBDFAM, autor dos {TITULO}.",
+                   f"{BASE}{AUTOR_PAGINA}", "", "profile", f"{BASE}assets/advogado.jpg",
+                   f'\n<script type="application/ld+json">{ld}</script>')
+            + corpo + rodape("") + "</body>\n</html>\n")
+
+
 def carregar():
     posts = []
     for arq in sorted((RAIZ / "conteudo").glob("*.json")):
@@ -299,7 +357,7 @@ def rodape(base):
       <h3>{TITULO}</h3>{issn}
       <p>Editor responsável: {ADVOGADO}, {OAB}</p>
       <p>{ENDERECO}</p>
-      <p class="rodape-links"><a href="{base}apresentacao.html">Apresentação</a> · <a href="{base}volumes.html">Volumes publicados</a> · <a href="{base}expediente.html">Expediente</a></p>
+      <p class="rodape-links"><a href="{base}apresentacao.html">Apresentação</a> · <a href="{base}{AUTOR_PAGINA}">Quem escreve</a> ·<a href="{base}volumes.html">Volumes publicados</a> · <a href="{base}expediente.html">Expediente</a></p>
     </div>
     <div>
       <h3>Contato</h3>
@@ -363,17 +421,33 @@ def pagina_post(p, posts):
         itens = "".join(f'<li><a href="{u}" target="_blank" rel="noopener">{e(t)}</a></li>' for t, u in p["fontes"])
         fontes = f'<div class="caixa fonte"><b>Notícia de referência</b><ul>{itens}</ul></div>'
     leia = "".join(cartao(o, "../") for o in relacionados(p, posts))
-    ld = json.dumps({
-        "@context": "https://schema.org", "@type": "Article", "headline": p["titulo"], "description": p["resumo"],
-        "datePublished": p["data"], "inLanguage": "pt-BR", "mainEntityOfPage": url,
-        "image": f"{BASE}imagens/{p['slug']}-capa.jpg",
-        "author": {"@type": "Person", "name": ADVOGADO, "jobTitle": f"Advogado, {OAB}",
-                   "memberOf": "Instituto Brasileiro de Direito de Família (IBDFAM)", "url": SITE, "sameAs": [INSTAGRAM]},
-        "publisher": {"@type": "LegalService", "name": NOME, "url": SITE},
+    # Dados técnicos lidos pelo Google: matéria, perguntas frequentes e trilha (Início › área ou série › matéria)
+    dados = [{
+        "@context": "https://schema.org", "@type": "Article", "@id": f"{url}#materia",
+        "headline": p["titulo"], "description": p["resumo"],
+        "datePublished": p["data"], "dateModified": atualizado(p), "inLanguage": "pt-BR", "mainEntityOfPage": url,
+        "articleSection": area, "wordCount": palavras(p["corpo"]),
+        "image": [f"{BASE}imagens/{p['slug']}-capa.jpg", f"{BASE}assets/fotos/posts/{p['slug']}.jpg"],
+        "author": pessoa(),
+        "publisher": {"@type": "LegalService", "name": NOME, "url": SITE, "logo": f"{BASE}assets/emblema-prata.png"},
         "isPartOf": {"@type": "PublicationVolume", "volumeNumber": str(int(p["data"][:4]) - 2025),
                      "url": f"{BASE}{pagina_do_volume(p['data'][:4])}",
                      "isPartOf": {"@type": "Periodical", "name": TITULO, "url": BASE}},
-    }, ensure_ascii=False)
+    }]
+    if p["faq"]:
+        dados.append({"@context": "https://schema.org", "@type": "FAQPage", "@id": f"{url}#perguntas",
+                      "mainEntity": [{"@type": "Question", "name": q,
+                                      "acceptedAnswer": {"@type": "Answer", "text": r}} for q, r in p["faq"]]})
+    meio = ({"name": SERIES[p["serie"]]["titulo"], "item": f"{BASE}{SERIES[p['serie']]['pagina']}"}
+            if p.get("serie") else {"name": area, "item": f"{BASE}index.html#{p['area']}"})
+    dados.append({"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Informativos", "item": BASE},
+        {"@type": "ListItem", "position": 2, **meio},
+        {"@type": "ListItem", "position": 3, "name": p["titulo"], "item": url}]})
+    ld = json.dumps(dados, ensure_ascii=False)
+    revisado = ""
+    if atualizado(p) != p["data"]:
+        revisado = f', atualizado em <time datetime="{atualizado(p)}">{data_extenso(atualizado(p))}</time>'
     whats = link_whats(p["titulo"])
     compartilhar = f"https://wa.me/?text={quote(p['titulo'] + ' ' + url)}"
     foto = f"../assets/fotos/posts/{p['slug']}.jpg"
@@ -391,12 +465,12 @@ def pagina_post(p, posts):
   {faq}
   <div class="caixa"><b>Base legal</b><ul>{base_legal}</ul></div>
   {fontes}
-  <p class="aviso">Publicado em <time datetime="{p['data']}">{data_extenso(p['data'])}</time>. Texto informativo. Cada situação depende de análise própria, com base nos documentos e nos fatos do caso.</p>
+  <p class="aviso">Publicado em <time datetime="{p['data']}">{data_extenso(p['data'])}</time>{revisado}. Texto informativo. Cada situação depende de análise própria, com base nos documentos e nos fatos do caso.</p>
   <section class="autor">
     <img class="autor-foto" src="../assets/advogado.jpg" width="240" height="300" loading="lazy" alt="{ADVOGADO}, advogado, de terno cinza e gravata bordô">
     <div>
       <span class="rotulo">Quem escreve</span>
-      <h2>{NOME_CURTO}</h2>
+      <h2><a href="../{AUTOR_PAGINA}" rel="author">{NOME_CURTO}</a></h2>
       <p class="credenciais">{ADVOGADO}, advogado, {OAB}. Pós-graduação em Direito de Família em curso na FMP. Filiado ao IBDFAM.</p>
       <p>O escritório {NOME} atua em Direito de Família, Sucessões, Direito Trabalhista, Direito Civil, Direito do Consumidor e Direito Previdenciário, com atendimento presencial em Linhares/ES e on-line.</p>
       <p>Para tirar dúvidas sobre este assunto ou agendar um atendimento, o contato é pelo WhatsApp.</p>
@@ -441,7 +515,9 @@ SCRIPT_LISTA = """<script>
     });
   });
   mais.querySelector('button').addEventListener('click', function () { mostrando += POR_VEZ; aplicar(); });
-  aplicar();
+  // endereço com a área (ex.: index.html#trabalhista) já abre a aba daquela área
+  var b0 = document.querySelector('[data-filtro="' + location.hash.slice(1) + '"]');
+  if (location.hash && b0) b0.click(); else aplicar();
 })();
 </script>"""
 
@@ -480,9 +556,16 @@ def pagina_inicial(todos):
   <div class="mais" id="mais"><button class="botao botao-linha" type="button">Ver mais informativos</button></div>
 </section>
 """
+    ld = json.dumps([
+        {"@context": "https://schema.org", "@type": "WebSite", "@id": f"{BASE}#site", "name": TITULO, "url": BASE,
+         "inLanguage": "pt-BR", "publisher": {"@type": "LegalService", "name": NOME, "url": SITE}},
+        {"@context": "https://schema.org", "@type": "Periodical", "name": TITULO, "url": BASE, "inLanguage": "pt-BR",
+         "editor": pessoa(), "publisher": {"@type": "LegalService", "name": NOME, "url": SITE,
+                                           "address": {"@type": "PostalAddress", "addressLocality": "Linhares", "addressRegion": "ES", "addressCountry": "BR"}}},
+    ], ensure_ascii=False)
     return (cabeca(TITULO,
                    "Dúvidas comuns sobre família, herança, trabalho, compras e INSS, respondidas por Filipe Ferreira, advogado em Linhares/ES.",
-                   BASE, "") + corpo + rodape("") + SCRIPT_LISTA + "\n</body>\n</html>\n")
+                   BASE, "", extra=f'\n<script type="application/ld+json">{ld}</script>') + corpo + rodape("") + SCRIPT_LISTA + "\n</body>\n</html>\n")
 
 
 def sem_acento(t):
@@ -902,8 +985,14 @@ def main():
         else:
             # série só com programados: a página só entra no ar com o primeiro post publicado
             (RAIZ / s["pagina"]).unlink(missing_ok=True)
-    urls = [BASE, f"{BASE}{calculadora.PAGINA}"] + [f"{BASE}{s['pagina']}" for s in series_no_ar] +[f"{BASE}apresentacao.html", f"{BASE}volumes.html", f"{BASE}expediente.html"] + [f"{BASE}{pagina_do_volume(a)}" for a in anos] + [f"{BASE}posts/{p['slug']}.html" for p in posts]
-    linhas = "\n".join(f"  <url><loc>{u}</loc></url>" for u in urls)
+    (RAIZ / AUTOR_PAGINA).write_text(pagina_autor(posts), encoding="utf-8")
+    recente = max(atualizado(p) for p in posts)
+    urls = ([(BASE, recente), (f"{BASE}{calculadora.PAGINA}", "")] + [(f"{BASE}{s['pagina']}", recente) for s in series_no_ar]
+            + [(f"{BASE}{AUTOR_PAGINA}", recente), (f"{BASE}apresentacao.html", ""), (f"{BASE}volumes.html", recente), (f"{BASE}expediente.html", "")]
+            + [(f"{BASE}{pagina_do_volume(a)}", recente) for a in anos]
+            + [(f"{BASE}posts/{p['slug']}.html", atualizado(p)) for p in posts])
+    # lastmod: avisa o Google quando cada página mudou, para ele voltar a ler
+    linhas = "\n".join(f"  <url><loc>{u}</loc>" + (f"<lastmod>{d}</lastmod>" if d else "") + "</url>" for u, d in urls)
     (RAIZ / "sitemap.xml").write_text(
         f'<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n{linhas}\n</urlset>\n',
         encoding="utf-8")
