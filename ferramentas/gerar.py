@@ -854,9 +854,11 @@ def pagina_serie(chave, posts):
 
 
 def main():
-    if "@" not in EMAIL:
-        sys.exit("Falta o e-mail do escritório na configuração ESCRITORIO_EMAIL (Windows ou segredo do GitHub). "
-                 "O site não foi gerado, para não sair sem o contato no rodapé.")
+    import re
+    if not re.fullmatch(r"[\w.+-]+@[\w-]+(\.[\w-]+)+", EMAIL):
+        sys.exit("Falta o e-mail do escritório, ou ele está escrito errado, na configuração ESCRITORIO_EMAIL "
+                 "(Windows ou segredo do GitHub): coloque só o endereço, sem aspas nem espaços. "
+                 "O site não foi gerado, para não sair com o contato errado no rodapé.")
     todos = carregar()
     if not todos:
         sys.exit("Nenhum arquivo em conteudo/. Nada foi alterado.")
