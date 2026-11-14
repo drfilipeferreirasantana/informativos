@@ -32,7 +32,13 @@ FAQ = [
 ]
 
 
-def pagina(cabeca, rodape, base_url, assinatura, versao, e, oab, advogado, nome, site):
+# Foto do topo e do cartão, como nos posts (Pexels, foto 6801682, licença livre)
+FOTO = "assets/fotos/calculadora.jpg"
+FOTO_P = "assets/fotos/calculadora-p.jpg"
+FOTO_ORIGEM = "https://www.pexels.com/photo/6801682/"
+
+
+def pagina(cabeca, rodape, base_url, fim, versao, e, oab, advogado, nome, site, autor=None, atualizado=""):
     url = f"{base_url}{PAGINA}"
     verbas = "".join(f"<li><b>{e(n)}:</b> {e(t)}</li>" for n, t in VERBAS)
     faq = "".join(f"<details><summary>{e(q)}</summary><p>{e(r)}</p></details>" for q, r in FAQ)
@@ -40,14 +46,15 @@ def pagina(cabeca, rodape, base_url, assinatura, versao, e, oab, advogado, nome,
         {"@context": "https://schema.org", "@type": "WebApplication", "name": TITULO_PAG, "url": url,
          "applicationCategory": "FinanceApplication", "operatingSystem": "Navegador", "inLanguage": "pt-BR",
          "description": DESCRICAO, "offers": {"@type": "Offer", "price": "0", "priceCurrency": "BRL"},
-         "author": {"@type": "Person", "name": advogado, "jobTitle": f"Advogado, {oab}", "url": site},
+         "author": autor or {"@type": "Person", "name": advogado, "jobTitle": f"Advogado, {oab}", "url": site},
          "publisher": {"@type": "LegalService", "name": nome, "url": site}},
         {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
             {"@type": "Question", "name": q, "acceptedAnswer": {"@type": "Answer", "text": r}} for q, r in FAQ]},
     ], ensure_ascii=False)
     corpo = f"""<article class="post calculadora">
 <div class="conteudo coluna">
-  <p class="linha-topo"><b>Direito Trabalhista</b> Ferramenta gratuita<a href="index.html">Todos os informativos</a></p>
+  <p class="linha-topo"><b>Direito Trabalhista</b> Ferramenta gratuita{atualizado}<a href="index.html#trabalhista">Todos os informativos</a></p>
+  <img class="foto-post" src="{FOTO}" width="1200" height="800" fetchpriority="high" alt="">
   <h1>{TITULO_PAG}</h1>
   <div class="resposta"><strong>Verbas rescisórias</strong> são os valores que a empresa deve pagar ao empregado com carteira assinada quando o contrato termina. Informe os dados abaixo para estimar quanto você tem a receber.</div>
   <form id="calc" class="calc-form" novalidate>
@@ -81,9 +88,7 @@ def pagina(cabeca, rodape, base_url, assinatura, versao, e, oab, advogado, nome,
   <section class="faq"><h2>Perguntas frequentes</h2>{faq}</section>
   <div class="caixa"><b>Base legal</b><ul><li>CLT, arts. 146, 147, 477, 479, 484-A e 487</li><li>Lei 4.090/1962 (13º salário)</li><li>Lei 12.506/2011 (aviso prévio proporcional)</li><li>Lei 8.036/1990, art. 18 (multa do FGTS)</li><li>Súmulas 171 e 261 do TST</li></ul></div>
   <p class="aviso">Ferramenta informativa, revisada por {e(advogado)}, advogado ({oab}). O resultado é uma estimativa e não substitui a análise do caso com os documentos.</p>
-  {assinatura}
-</div>
-</article>
+  {fim}
 """
     extra = f'\n<script type="application/ld+json">{ld}</script>'
     return (cabeca(f"{TITULO_PAG} | Verbas rescisórias", DESCRICAO, url, "", "website", f"{base_url}assets/calculadora-capa.jpg", extra)
@@ -92,7 +97,7 @@ def pagina(cabeca, rodape, base_url, assinatura, versao, e, oab, advogado, nome,
 
 def cartao_fixo(e):
     return ('<a class="cartao fixado" data-area="trabalhista" data-fixo="1" href="calculadora-rescisao.html">'
-            '<img src="assets/calculadora-p.jpg" width="480" height="300" loading="lazy" alt="">'
+            f'<img src="{FOTO_P}" width="480" height="300" loading="lazy" alt="">'
             '<span class="meta">Direito Trabalhista · Ferramenta</span>'
             f'<h2>{e(TITULO_PAG)}</h2>'
             '<span class="resposta-curta">Calcule suas verbas rescisórias.</span></a>')

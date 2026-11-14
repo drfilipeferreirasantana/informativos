@@ -402,6 +402,45 @@ def relacionados(p, posts):
     return ([o for o in outros if o["area"] == p["area"]] + [o for o in outros if o["area"] != p["area"]])[:3]
 
 
+def bloco_autor(whats, compartilhar, base, texto_enviar="Enviar este informativo a alguém"):
+    """Quadro "Quem escreve" com WhatsApp e o botão de indicar a página a alguém (posts e calculadora)."""
+    return f"""<section class="autor">
+    <img class="autor-foto" src="{base}assets/advogado.jpg" width="240" height="300" loading="lazy" alt="{ADVOGADO}, advogado, de terno cinza e gravata bordô">
+    <div>
+      <span class="rotulo">Quem escreve</span>
+      <h2><a href="{base}{AUTOR_PAGINA}" rel="author">{NOME_CURTO}</a></h2>
+      <p class="credenciais">{ADVOGADO}, advogado, {OAB}. Pós-graduação em Direito de Família em curso na FMP. Filiado ao IBDFAM.</p>
+      <p>O escritório {NOME} atua em Direito de Família, Sucessões, Direito Trabalhista, Direito Civil, Direito do Consumidor e Direito Previdenciário, com atendimento presencial em Linhares/ES e on-line.</p>
+      <p>Para tirar dúvidas sobre este assunto ou agendar um atendimento, o contato é pelo WhatsApp.</p>
+      <span class="assinatura-traco autor-assinatura" role="img" aria-label="Emblema do escritório {NOME}"></span>
+      <p class="acoes"><a class="botao botao-whatsapp" href="{whats}" target="_blank" rel="noopener">{ICONE_WHATS}Conversar pelo WhatsApp</a>
+      <a class="botao botao-linha" href="{compartilhar}" target="_blank" rel="noopener">{texto_enviar}</a></p>
+    </div>
+  </section>"""
+
+
+def bloco_final(leia, whats, base):
+    """Leia também e a barra fixa do WhatsApp no celular (posts e calculadora)."""
+    return f"""<section class="leia"><div class="conteudo">
+  <h2>Leia também</h2>
+  <div class="lista">{leia}</div>
+  <p class="ver-todos"><a class="botao botao-linha" href="{base}index.html">Ver todos os informativos</a></p>
+</div></section>
+</article>
+<div class="barra-whats"><a class="botao botao-whatsapp" href="{whats}" target="_blank" rel="noopener">{ICONE_WHATS}Conversar pelo WhatsApp</a></div>"""
+
+
+def fim_calculadora(posts):
+    """Parte final da calculadora, igual à dos posts: autor, indicar a alguém, Leia também e WhatsApp."""
+    url = f"{BASE}{calculadora.PAGINA}"
+    whats = f'{WHATSAPP}?text={quote("Olá! Usei a Calculadora de rescisão do site de informativos e gostaria de falar com o escritório.")}'
+    compartilhar = f"https://wa.me/?text={quote('Calculadora de rescisão trabalhista: veja quanto você tem a receber ' + url)}"
+    ligados = [p for p in posts if calculadora.quadro_post(p["slug"]) and not p.get("serie")]
+    outros = [p for p in posts if p["area"] == "trabalhista" and p not in ligados and not p.get("serie")]
+    leia = "".join(cartao(p) for p in (ligados + outros)[:3])
+    return bloco_autor(whats, compartilhar, "", "Enviar esta calculadora a alguém") + "\n</div>\n" + bloco_final(leia, whats, "")
+
+
 def pagina_post(p, posts):
     url = f"{BASE}posts/{p['slug']}.html"
     area = AREAS[p["area"]]
@@ -466,27 +505,9 @@ def pagina_post(p, posts):
   <div class="caixa"><b>Base legal</b><ul>{base_legal}</ul></div>
   {fontes}
   <p class="aviso">Publicado em <time datetime="{p['data']}">{data_extenso(p['data'])}</time>{revisado}. Texto informativo. Cada situação depende de análise própria, com base nos documentos e nos fatos do caso.</p>
-  <section class="autor">
-    <img class="autor-foto" src="../assets/advogado.jpg" width="240" height="300" loading="lazy" alt="{ADVOGADO}, advogado, de terno cinza e gravata bordô">
-    <div>
-      <span class="rotulo">Quem escreve</span>
-      <h2><a href="../{AUTOR_PAGINA}" rel="author">{NOME_CURTO}</a></h2>
-      <p class="credenciais">{ADVOGADO}, advogado, {OAB}. Pós-graduação em Direito de Família em curso na FMP. Filiado ao IBDFAM.</p>
-      <p>O escritório {NOME} atua em Direito de Família, Sucessões, Direito Trabalhista, Direito Civil, Direito do Consumidor e Direito Previdenciário, com atendimento presencial em Linhares/ES e on-line.</p>
-      <p>Para tirar dúvidas sobre este assunto ou agendar um atendimento, o contato é pelo WhatsApp.</p>
-      <span class="assinatura-traco autor-assinatura" role="img" aria-label="Emblema do escritório {NOME}"></span>
-      <p class="acoes"><a class="botao botao-whatsapp" href="{whats}" target="_blank" rel="noopener">{ICONE_WHATS}Conversar pelo WhatsApp</a>
-      <a class="botao botao-linha" href="{compartilhar}" target="_blank" rel="noopener">Enviar este informativo a alguém</a></p>
-    </div>
-  </section>
+  {bloco_autor(whats, compartilhar, "../")}
 </div>
-<section class="leia"><div class="conteudo">
-  <h2>Leia também</h2>
-  <div class="lista">{leia}</div>
-  <p class="ver-todos"><a class="botao botao-linha" href="../index.html">Ver todos os informativos</a></p>
-</div></section>
-</article>
-<div class="barra-whats"><a class="botao botao-whatsapp" href="{whats}" target="_blank" rel="noopener">{ICONE_WHATS}Conversar pelo WhatsApp</a></div>
+{bloco_final(leia, whats, "../")}
 """
     return (cabeca(f"{p['titulo']} | {TITULO}", p["resumo"], url, "../", "article",
                    f"{BASE}imagens/{p['slug']}-capa.jpg?v={versao('imagens/' + p['slug'] + '-capa.jpg')}",
@@ -969,7 +990,7 @@ def main():
     for p in posts:
         (RAIZ / "posts" / f"{p['slug']}.html").write_text(pagina_post(p, posts), encoding="utf-8")
     (RAIZ / "index.html").write_text(pagina_inicial(posts), encoding="utf-8")
-    (RAIZ / calculadora.PAGINA).write_text(calculadora.pagina(cabeca, rodape, BASE, assinatura(""), versao, e, OAB, ADVOGADO, NOME, SITE), encoding="utf-8")
+    (RAIZ / calculadora.PAGINA).write_text(calculadora.pagina(cabeca, rodape, BASE, fim_calculadora(posts), versao, e, OAB, ADVOGADO, NOME, SITE, pessoa()), encoding="utf-8")
     (RAIZ / "artes.html").write_text(pagina_artes(posts, programados), encoding="utf-8")
     (RAIZ / "expediente.html").write_text(pagina_expediente(posts), encoding="utf-8")
     (RAIZ / "apresentacao.html").write_text(pagina_apresentacao(posts), encoding="utf-8")
