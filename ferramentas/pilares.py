@@ -164,4 +164,78 @@ PILARES = {
                  "Código de Processo Civil, arts. 139, IV, e 528 a 533",
                  "Súmulas 301, 309, 358 e 596 do STJ"],
     },
+    "guarda": {
+        "pagina": "guarda-dos-filhos.html",
+        "area": "familia",
+        "foto": "guarda-compartilhada-e-a-regra",
+        "titulo": "Guarda dos filhos: guia completo",
+        "titulo_google": "Guarda dos filhos: compartilhada ou unilateral, convivência, mudança de cidade e alienação parental",
+        "descricao": ("Guia completo da guarda dos filhos: guarda compartilhada e unilateral, com quem a criança mora, "
+                      "convivência e visitas, avós, mudança de cidade, viagem e alienação parental, com links para cada informativo."),
+        "destaque": "A guarda compartilhada é a regra, mesmo quando os pais não se entendem.",
+        "resumo": ("Ela divide entre os dois as decisões importantes sobre a vida do filho. Onde a criança mora e como é a "
+                   "convivência com cada um são definidos à parte, sempre pelo que for melhor para ela."),
+        "atualizado": "2026-11-14",
+        "secoes": [
+            ("Guarda compartilhada ou unilateral: qual a diferença?",
+             ["Na guarda compartilhada, pai e mãe decidem juntos sobre escola, saúde, religião e outras questões importantes "
+              "da vida do filho. Desde 2014, a lei manda o juiz aplicá-la mesmo sem acordo entre os pais.",
+              "A guarda unilateral, com um só dos pais, fica para casos excepcionais: quando um deles declara que não quer a "
+              "guarda, não tem condições de exercê-la ou há risco de violência doméstica. Quem não tem a guarda continua com "
+              "o direito e o dever de acompanhar a vida do filho e de pedir informações à escola e aos médicos."],
+             ["guarda-compartilhada-e-a-regra"]),
+            ("Com quem a criança mora?",
+             ["Guarda compartilhada não significa que a criança passa metade do tempo em cada casa. Normalmente se define uma "
+              "casa de referência, onde ela mora, e uma convivência ampla e equilibrada com o outro.",
+              "A escolha da casa de referência leva em conta a rotina da criança, a escola, quem já cuida dela no dia a dia "
+              "e, conforme a idade, a opinião dela."],
+             []),
+            ("Como funciona a convivência (as \"visitas\")?",
+             ["A convivência é direito do filho, não só do pai ou da mãe. O acordo ou a decisão do juiz costuma fixar fins de "
+              "semana alternados, um ou dois dias na semana, a divisão de feriados, férias escolares e datas como "
+              "aniversário, Dia dos Pais e Dia das Mães.",
+              "Os avós também têm direito de conviver com os netos e podem pedir isso na Justiça."],
+             []),
+            ("E quando um dos pais impede o contato com o filho?",
+             ["Impedir a convivência, mudar de endereço sem avisar ou falar mal do outro para a criança pode configurar "
+              "alienação parental. A Justiça pode advertir, ampliar a convivência de quem foi prejudicado, aplicar multa, "
+              "determinar acompanhamento psicológico e, em casos graves, mudar a guarda.",
+              "Vale guardar provas: mensagens, conversas, registros de visitas que não aconteceram e testemunhas."],
+             ["genitor-impede-contato-com-o-filho-alienacao-parental"]),
+            ("Um dos pais pode mudar de cidade com o filho?",
+             ["A mudança que afasta a criança do outro genitor precisa ser combinada ou autorizada pela Justiça, porque altera "
+              "a convivência. A guarda compartilhada continua possível mesmo com os pais em cidades diferentes.",
+              "Para viajar ao exterior, o filho menor precisa da autorização dos dois pais quando vai com só um deles. Dentro "
+              "do Brasil, a viagem com um dos pais não depende de autorização do outro."],
+             []),
+            ("Guarda compartilhada acaba com a pensão?",
+             ["Não. A pensão continua devida, em regra por quem não mora com a criança, porque a guarda trata das decisões e "
+              "a pensão trata das despesas. O valor leva em conta a renda de cada um e o tempo que o filho passa com cada um."],
+             ["@pensao"]),
+            ("A guarda pode ser mudada depois?",
+             ["Sim. A guarda e a convivência podem ser revistas sempre que a situação mudar: mudança de cidade, nova rotina "
+              "da criança, descumprimento do acordo ou situação de risco. O pedido é feito ao juiz, que decide pelo melhor "
+              "interesse do filho."],
+             []),
+        ],
+        "documentos": ["Certidão de nascimento do filho",
+                       "Acordo ou decisão de guarda e convivência já existente, se houver",
+                       "Comprovantes da rotina da criança: escola, médico, atividades e quem cuida no dia a dia",
+                       "Mensagens e registros que mostrem dificuldades na convivência, se houver"],
+        "faq": [
+            ("A guarda compartilhada exige que a criança fique metade do tempo com cada um?",
+             "Não. A criança costuma ter uma casa de referência, e o tempo com o outro genitor é fixado de forma equilibrada, conforme a rotina dela."),
+            ("A partir de que idade o filho pode escolher com quem morar?",
+             "A lei não fixa uma idade. O juiz ouve a criança ou o adolescente conforme a maturidade, e a opinião dele pesa mais quanto mais velho for, mas a decisão é pelo melhor interesse dele."),
+            ("Quem não paga pensão perde o direito de ver o filho?",
+             "Não. Pensão e convivência são coisas separadas. A pensão atrasada se cobra na Justiça, e a convivência continua sendo direito do filho."),
+            ("Os avós podem pedir para ver os netos?",
+             "Sim. O Código Civil garante aos avós o direito de convivência com os netos, que pode ser fixado pelo juiz."),
+        ],
+        "base": ["Constituição Federal, art. 227",
+                 "Código Civil, arts. 1.583 a 1.590 e 1.634",
+                 "Lei 13.058/2014 (guarda compartilhada) e Lei 14.713/2023 (violência doméstica e guarda)",
+                 "Lei 12.318/2010 (alienação parental)",
+                 "Estatuto da Criança e do Adolescente, arts. 83 a 85"],
+    },
 }

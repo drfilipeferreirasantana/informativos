@@ -435,7 +435,9 @@ def pagina_pilar(chave, posts):
             itens = "".join(f'<li><a href="posts/{p["slug"]}.html">{e(p["titulo"])}</a></li>' for p in links)
             lista = f'<div class="caixa"><b>Leia sobre isso</b><ul>{itens}</ul></div>'
         # seção que é tema de outro guia mais específico ganha o link para ele (ex.: pensão dentro do divórcio)
-        outro = {id(pilar_do_post(s)): pilar_do_post(s) for s in slugs if pilar_do_post(s) and pilar_do_post(s) is not pl}
+        # "@chave" na lista da seção aponta direto para outro guia (ex.: "@pensao")
+        outro = {id(pilares.PILARES[s[1:]]): pilares.PILARES[s[1:]] for s in slugs if s.startswith("@")}
+        outro.update({id(pilar_do_post(s)): pilar_do_post(s) for s in slugs if pilar_do_post(s) and pilar_do_post(s) is not pl})
         for o in outro.values():
             lista += f'<p class="pilar-outro"><a class="botao botao-linha" href="{o["pagina"]}">{e(o["titulo"])}</a></p>'
         texto = "".join(f"<p>{e(t)}</p>" for t in paragrafos)
@@ -677,7 +679,7 @@ def pagina_inicial(todos):
   <div>
     <p class="linha-topo"><b>Informativos</b> <span class="marca-nome"><img src="assets/emblema-escuro.png" width="22" height="22" alt="">{NOME}</span> <a href="{pagina_do_volume(hoje()[:4])}">{volume(hoje())}</a></p>
     <h1>{COLUNA}</h1>
-    <p class="chamada">Dúvidas comuns sobre família, herança, trabalho, compras e INSS, respondidas de forma direta</p>
+    <p class="chamada">Conhecer o próprio direito é a primeira forma de protegê-lo.</p>
     {assinatura("")}
   </div>
 </div></section>
@@ -708,7 +710,7 @@ def pagina_inicial(todos):
                                            "address": {"@type": "PostalAddress", "addressLocality": "Linhares", "addressRegion": "ES", "addressCountry": "BR"}}},
     ], ensure_ascii=False)
     return (cabeca(TITULO,
-                   "Dúvidas comuns sobre família, herança, trabalho, compras e INSS, respondidas por Filipe Ferreira, advogado em Linhares/ES.",
+                   "Conhecer o próprio direito é a primeira forma de protegê-lo. Informativos sobre família, herança, trabalho, compras e INSS, por Filipe Ferreira, advogado em Linhares/ES.",
                    BASE, "", extra=f'\n<script type="application/ld+json">{ld}</script>') + corpo + rodape("") + SCRIPT_LISTA
             + f'\n<script src="assets/busca.js?v={versao("assets/busca.js")}" defer></script>' + "\n</body>\n</html>\n")
 
