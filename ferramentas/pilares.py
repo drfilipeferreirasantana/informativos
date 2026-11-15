@@ -57,7 +57,7 @@ PILARES = {
               "Impedir o contato com o outro genitor ou falar mal dele para a criança pode configurar alienação "
               "parental, que a lei manda coibir."],
              ["guarda-compartilhada-e-a-regra", "genitor-impede-contato-com-o-filho-alienacao-parental",
-              "imovel-do-ex-conjuge-moradia-dos-filhos", "reconhecimento-de-paternidade-dna"]),
+              "imovel-do-ex-conjuge-moradia-dos-filhos"]),
             ("Como funciona a pensão alimentícia?",
              ["Não existe percentual fixo em lei. O valor equilibra a necessidade de quem recebe e a possibilidade de "
               "quem paga, e pode ser revisto quando a situação de um dos dois muda.",
@@ -90,5 +90,78 @@ PILARES = {
                  "Código Civil, art. 1.240-A (usucapião familiar)",
                  "Código de Processo Civil, arts. 528, 693 a 699 e 733",
                  "Lei 12.318/2010 (alienação parental)", "Súmula 358 do STJ"],
+    },
+    "pensao": {
+        "pagina": "pensao-alimenticia.html",
+        "area": "familia",
+        "foto": "valor-da-pensao-alimenticia",
+        "titulo": "Pensão alimentícia: guia completo",
+        "titulo_google": "Pensão alimentícia: quem tem direito, valor, até quando e o que fazer no atraso",
+        "descricao": ("Guia completo da pensão alimentícia: quem tem direito, como o valor é definido, pensão na gravidez, "
+                      "avós, até quando é paga, revisão e o que fazer quando atrasa, com links para cada informativo."),
+        "destaque": "Não existe percentual fixo de pensão em lei.",
+        "resumo": ("O valor é definido caso a caso, pela necessidade de quem recebe e pela possibilidade de quem paga, "
+                   "e pode ser revisto sempre que a situação de um dos dois mudar."),
+        "atualizado": "2026-11-14",
+        "secoes": [
+            ("Quem tem direito à pensão?",
+             ["Os filhos menores têm direito à pensão dos pais, que devem sustentá-los. A obrigação também existe entre "
+              "outros parentes, como pais idosos e netos, conforme a necessidade de um e a possibilidade do outro.",
+              "O ex-cônjuge ou ex-companheiro pode receber pensão em situação excepcional, quando não tem como se "
+              "sustentar sozinho. Em regra, ela é temporária, pelo tempo necessário para a pessoa voltar ao mercado de trabalho."],
+             []),
+            ("Como o valor é definido?",
+             ["O juiz equilibra três pontos: o que o filho precisa (escola, saúde, alimentação, moradia), o que quem paga "
+              "pode pagar e a proporção da renda de cada um dos pais. A ideia de que a pensão é sempre 30% do salário não está na lei.",
+              "Quando quem paga é autônomo ou esconde a renda, contam os sinais de riqueza: carro, viagens, padrão de "
+              "vida e o que aparece nas redes sociais. Para quem tem carteira assinada, o valor pode ser descontado direto do salário."],
+             ["valor-da-pensao-alimenticia"]),
+            ("Dá para pedir pensão na gravidez ou antes do reconhecimento da paternidade?",
+             ["Sim. A gestante pode pedir alimentos gravídicos para as despesas da gravidez, com base em indícios da "
+              "paternidade. Depois do nascimento, eles viram pensão para o filho.",
+              "Quando o pai não reconhece o filho, a ação de investigação de paternidade pode vir junto com o pedido de "
+              "pensão. Quem se recusa a fazer o exame de DNA tem a paternidade presumida."],
+             ["alimentos-gravidicos-pensao-na-gravidez", "reconhecimento-de-paternidade-dna"]),
+            ("Se o pai ou a mãe não pode pagar, os avós pagam?",
+             ["Os avós podem ser chamados, mas só de forma complementar: quando os pais não pagam ou pagam menos do que o "
+              "filho precisa. Antes, é preciso mostrar que se tentou cobrar de quem deve em primeiro lugar."],
+             ["avos-podem-pagar-pensao"]),
+            ("Até quando a pensão é paga?",
+             ["A pensão não acaba sozinha quando o filho faz 18 anos. Para parar de pagar, é preciso pedir à Justiça a "
+              "exoneração, e o filho tem a chance de mostrar que ainda precisa.",
+              "O filho que estuda, em faculdade ou curso técnico, costuma continuar recebendo até o fim do curso. Os "
+              "tribunais usam com frequência a idade de 24 anos como referência."],
+             ["pensao-nao-acaba-automaticamente-aos-18", "pensao-filho-na-faculdade"]),
+            ("Dá para aumentar ou diminuir a pensão?",
+             ["Sim, quando a situação muda: o filho passa a ter gastos maiores, quem paga passa a ganhar mais, perde o "
+              "emprego ou tem outro filho. O pedido é feito em ação revisional, e o valor só muda com decisão ou acordo homologado.",
+              "Enquanto isso, o valor antigo continua valendo. Parar de pagar por conta própria gera dívida e pode levar à prisão."],
+             ["revisao-do-valor-da-pensao"]),
+            ("E se a pensão atrasar?",
+             ["A pensão atrasada pode ser cobrada na Justiça. Para as três últimas parcelas vencidas antes da cobrança e as "
+              "que vencerem durante o processo, cabe a prisão civil de 1 a 3 meses de quem deve.",
+              "Também são possíveis a penhora de bens e salário, o protesto da dívida, a inclusão do nome em cadastro de "
+              "inadimplentes e, em alguns casos, a suspensão da carteira de motorista e do passaporte."],
+             ["prisao-por-pensao-atrasada"]),
+        ],
+        "documentos": ["Certidão de nascimento do filho",
+                       "Comprovantes dos gastos do filho: escola, plano de saúde, remédios, alimentação, moradia",
+                       "O que souber da renda de quem paga: emprego, holerite, bens, padrão de vida",
+                       "Decisão ou acordo de pensão anterior, se houver, e o controle dos pagamentos"],
+        "faq": [
+            ("A pensão é sempre 30% do salário?",
+             "Não. A lei não fixa percentual. O valor depende da necessidade do filho e da possibilidade de quem paga, e 30% é só um número que aparece em muitos acordos."),
+            ("Quem está desempregado precisa pagar pensão?",
+             "Sim. O desemprego não acaba com a obrigação. Ele pode justificar um pedido de revisão do valor, mas parar de pagar por conta própria gera dívida."),
+            ("A pensão pode ser descontada direto do salário?",
+             "Sim. Quando quem paga tem carteira assinada ou é servidor, o juiz pode mandar a empresa descontar a pensão na folha e depositar direto para o filho."),
+            ("Ex-mulher ou ex-marido tem direito a pensão?",
+             "Só em situação excepcional, quando não consegue se sustentar sozinho. Em regra, a pensão entre ex-cônjuges é temporária."),
+        ],
+        "base": ["Constituição Federal, art. 229",
+                 "Código Civil, arts. 1.694 a 1.710",
+                 "Lei 5.478/1968 (Lei de Alimentos) e Lei 11.804/2008 (alimentos gravídicos)",
+                 "Código de Processo Civil, arts. 139, IV, e 528 a 533",
+                 "Súmulas 301, 309, 358 e 596 do STJ"],
     },
 }

@@ -266,3 +266,14 @@ p{margin:0}
 .calc-aviso{margin:.9rem 0 0;font-size:.9rem;color:var(--cinza)}
 .calc-erro{color:var(--bordo);font-weight:600}
 .calc-chamada p{margin:.3rem 0 .8rem}
+/* Pesquisa dos informativos (14/11/2026) */
+.busca{margin:1.6rem 0 0}
+.busca label{display:block;margin-bottom:.4rem;font:600 .95rem var(--condensada);color:var(--tinta-2);letter-spacing:.02em}
+.busca input{width:100%;box-sizing:border-box;padding:.85rem 1rem .85rem 2.8rem;border:1.5px solid var(--linha);border-radius:6px;background:var(--branco) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%235a5a5a' stroke-width='2'%3E%3Ccircle cx='11' cy='11' r='7'/%3E%3Cpath d='m20 20-3.5-3.5'/%3E%3C/svg%3E") no-repeat .9rem center/1.2rem;font:1.05rem var(--serifa);color:var(--tinta)}
+.busca input:focus{outline:none;border-color:var(--bordo);box-shadow:0 0 0 3px rgba(122,35,51,.15)}
+.busca-info{margin:1.2rem 0 1.6rem;color:var(--cinza);font:1rem var(--condensada)}
+.busca-info b{color:var(--tinta)}
+.busca-limpar{margin-left:.6rem;padding:0;border:0;background:none;color:var(--bordo);font:600 1rem var(--condensada);text-decoration:underline;cursor:pointer}
+#vitrine-normal[hidden],#resultados[hidden]{display:none}
+.pilar-secao h2{margin-top:2.2rem}
+.pilar-outro{margin:.8rem 0 0}

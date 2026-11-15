@@ -319,6 +319,7 @@ def cabeca(titulo, descricao, url, base, tipo="website", imagem=None, extra="", 
   </a>
   <nav aria-label="Principal">
     <a href="{base}index.html">Informativos</a>
+    <a href="{base}index.html#pesquisa">Pesquisar</a>
     <a href="{SITE}">Site do escritório</a>
     <a class="nav-whats" href="{WHATS_GERAL}" target="_blank" rel="noopener">{ICONE_WHATS}<span>WhatsApp</span></a>
   </nav>
@@ -407,10 +408,9 @@ def link_topo(p):
 
 def pilar_do_post(slug):
     """Guia completo (pilar) que cita o informativo, se houver."""
-    for pl in pilares.PILARES.values():
-        if any(slug in slugs for _, _, slugs in pl["secoes"]):
-            return pl
-    return None
+    # se mais de um guia cita o post, vale o mais específico (o que tem menos informativos)
+    com = [pl for pl in pilares.PILARES.values() if any(slug in slugs for _, _, slugs in pl["secoes"])]
+    return min(com, key=lambda pl: sum(len(s) for _, _, s in pl["secoes"]), default=None)
 
 
 def cartao_pilar(pl):
@@ -434,6 +434,10 @@ def pagina_pilar(chave, posts):
         if links:
             itens = "".join(f'<li><a href="posts/{p["slug"]}.html">{e(p["titulo"])}</a></li>' for p in links)
             lista = f'<div class="caixa"><b>Leia sobre isso</b><ul>{itens}</ul></div>'
+        # seção que é tema de outro guia mais específico ganha o link para ele (ex.: pensão dentro do divórcio)
+        outro = {id(pilar_do_post(s)): pilar_do_post(s) for s in slugs if pilar_do_post(s) and pilar_do_post(s) is not pl}
+        for o in outro.values():
+            lista += f'<p class="pilar-outro"><a class="botao botao-linha" href="{o["pagina"]}">{e(o["titulo"])}</a></p>'
         texto = "".join(f"<p>{e(t)}</p>" for t in paragrafos)
         secoes += f'<section class="pilar-secao"><h2>{e(titulo)}</h2><div class="texto">{texto}</div>{lista}</section>\n'
     docs = "".join(f"<li>{e(d)}</li>" for d in pl["documentos"])
@@ -640,6 +644,27 @@ def destaques_series(posts):
     return "".join(blocos)
 
 
+def indice_busca(posts):
+    """Índice lido pela pesquisa do site (assets/busca.js): guias, calculadora e informativos publicados."""
+    def limpo(t):
+        return re.sub(r"<[^>]+>", " ", t)
+    itens = []
+    for pl in pilares.PILARES.values():
+        itens.append({"t": pl["titulo"], "d": pl["destaque"], "a": AREAS[pl["area"]] + " · Guia completo",
+                      "u": pl["pagina"], "i": f"assets/fotos/posts/{pl['foto']}-p.jpg", "o": 2,
+                      "k": " ".join([pl["titulo_google"], pl["descricao"], pl["resumo"]]
+                                    + [t for t, _, _ in pl["secoes"]] + [q for q, _ in pl["faq"]])})
+    itens.append({"t": calculadora.TITULO_PAG, "d": "Calcule suas verbas rescisórias.", "a": "Direito Trabalhista · Ferramenta",
+                  "u": calculadora.PAGINA, "i": calculadora.FOTO_P, "o": 1,
+                  "k": calculadora.DESCRICAO + " demissão dispensa acerto rescisão aviso prévio férias décimo terceiro multa 40%"})
+    for p in sorted(posts, key=lambda p: p["data"], reverse=True):
+        itens.append({"t": p["titulo"], "d": p["destaque"], "a": f'{AREAS[p["area"]]} · {data_curta(p["data"])}',
+                      "u": f"posts/{p['slug']}.html", "i": f"assets/fotos/posts/{p['slug']}-p.jpg", "o": 0,
+                      "k": " ".join([p["resumo"], " ".join(t for _, t in p["pontos"]), " ".join(q for q, _ in p["faq"]),
+                                     limpo(p["corpo"])[:1500], (SERIES[p["serie"]]["titulo"] if p.get("serie") else "")])})
+    return json.dumps(itens, ensure_ascii=False, separators=(",", ":"))
+
+
 def pagina_inicial(todos):
     destaques = destaques_series(todos)
     posts = [p for p in todos if not p.get("serie")]
@@ -657,24 +682,35 @@ def pagina_inicial(todos):
   </div>
 </div></section>
 <section class="conteudo vitrine">
+  <form class="busca" id="pesquisa" role="search" action="index.html" onsubmit="return false">
+    <label for="busca">Pesquisar nos informativos</label>
+    <input type="search" id="busca" name="q" autocomplete="off" placeholder="Digite um tema: pensão, divórcio, rescisão, FGTS, INSS...">
+  </form>
+  <p class="busca-info" id="busca-info" aria-live="polite" hidden></p>
+  <div class="lista" id="resultados" hidden></div>
+  <div id="vitrine-normal">
   {destaques}
   <div class="filtros" role="group" aria-label="Filtrar por área">{botoes}</div>
   <div class="lista" id="lista">
 {cartoes}
   </div>
   <div class="mais" id="mais"><button class="botao botao-linha" type="button">Ver mais informativos</button></div>
+  </div>
 </section>
 """
     ld = json.dumps([
         {"@context": "https://schema.org", "@type": "WebSite", "@id": f"{BASE}#site", "name": TITULO, "url": BASE,
-         "inLanguage": "pt-BR", "publisher": {"@type": "LegalService", "name": NOME, "url": SITE}},
+         "inLanguage": "pt-BR", "publisher": {"@type": "LegalService", "name": NOME, "url": SITE},
+         "potentialAction": {"@type": "SearchAction", "target": f"{BASE}index.html?q={{search_term_string}}",
+                             "query-input": "required name=search_term_string"}},
         {"@context": "https://schema.org", "@type": "Periodical", "name": TITULO, "url": BASE, "inLanguage": "pt-BR",
          "editor": pessoa(), "publisher": {"@type": "LegalService", "name": NOME, "url": SITE,
                                            "address": {"@type": "PostalAddress", "addressLocality": "Linhares", "addressRegion": "ES", "addressCountry": "BR"}}},
     ], ensure_ascii=False)
     return (cabeca(TITULO,
                    "Dúvidas comuns sobre família, herança, trabalho, compras e INSS, respondidas por Filipe Ferreira, advogado em Linhares/ES.",
-                   BASE, "", extra=f'\n<script type="application/ld+json">{ld}</script>') + corpo + rodape("") + SCRIPT_LISTA + "\n</body>\n</html>\n")
+                   BASE, "", extra=f'\n<script type="application/ld+json">{ld}</script>') + corpo + rodape("") + SCRIPT_LISTA
+            + f'\n<script src="assets/busca.js?v={versao("assets/busca.js")}" defer></script>' + "\n</body>\n</html>\n")
 
 
 def sem_acento(t):
@@ -1095,6 +1131,7 @@ def main():
             # série só com programados: a página só entra no ar com o primeiro post publicado
             (RAIZ / s["pagina"]).unlink(missing_ok=True)
     (RAIZ / AUTOR_PAGINA).write_text(pagina_autor(posts), encoding="utf-8")
+    (RAIZ / "busca.json").write_text(indice_busca(posts), encoding="utf-8")
     for chave, pl in pilares.PILARES.items():
         (RAIZ / pl["pagina"]).write_text(pagina_pilar(chave, posts), encoding="utf-8")
     recente = max(atualizado(p) for p in posts)
