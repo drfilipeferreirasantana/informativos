@@ -5,12 +5,12 @@
   "serie": "motoristas",
   "ordem": 19,
   "titulo": "Batida com o caminhão da empresa: quem paga os danos do outro veículo?",
-  "resumo": "O Código Civil faz o empregador responder pelos danos causados pelo empregado no trabalho, mesmo sem culpa própria. Depois, a empresa só pode cobrar do motorista nas hipóteses previstas em lei.",
-  "destaque": "Em regra, a empresa.",
+  "resumo": "Quando o motorista bate o caminhão da empresa durante o trabalho, quem responde pelo dano do outro veículo é a empresa, mesmo sem culpa dela. Cobrar do motorista depois só é possível nos casos que a lei permite.",
+  "destaque": "Em regra, a empresa paga.",
   "pontos": [
     [
       "balanca",
-      "O empregador responde pelos danos causados pelo empregado no trabalho."
+      "A empresa responde pelos danos causados pelo empregado no trabalho."
     ],
     [
       "escudo",
@@ -22,15 +22,19 @@
     ]
   ],
   "exemplo": "Tiago bateu na traseira de um carro num congestionamento. O dono do carro foi direto cobrar dele, e a empresa avisou que o problema era do motorista.",
-  "corpo": "<h2>O que a lei prevê</h2><p>O Código Civil diz que o empregador é responsável pela reparação civil dos danos causados por seus empregados no exercício do trabalho ou em razão dele. Essa responsabilidade existe ainda que não haja culpa da empresa.</p><p>Quem paga o dano causado por outra pessoa pode, depois, cobrar dela o que pagou. Na relação de emprego, porém, a CLT limita esse caminho: o desconto por dano causado pelo empregado só é lícito se essa possibilidade foi combinada ou se houve dolo.</p><p>Além disso, a Lei do Motorista diz que o motorista empregado não responde por prejuízo decorrente de ação de terceiro, salvo dolo ou desídia comprovados.</p><h2>Na prática</h2><ul><li>A vítima do acidente pode cobrar da empresa dona do caminhão.</li><li>Registre o boletim de ocorrência e avise a empresa imediatamente.</li><li>Desconto no salário pelo conserto do outro veículo segue as mesmas limitações da CLT.</li></ul>",
+  "corpo": "<h2>O que a lei garante</h2><p>O Código Civil diz que a empresa responde pelos danos que seus empregados causam durante o trabalho ou por causa dele. Isso vale mesmo que a empresa não tenha culpa.</p><p>Quem paga o dano causado por outra pessoa pode, depois, cobrar dela o que pagou. No emprego, porém, a CLT limita isso: o desconto por dano causado pelo empregado só é permitido se foi combinado ou se ele agiu de propósito (dolo).</p><p>Além disso, a Lei do Motorista diz que o motorista empregado não paga prejuízo causado por outra pessoa, salvo dolo ou descuido grave (desídia) provados.</p><h2>Na prática</h2><ul><li>A vítima do acidente pode cobrar da empresa dona do caminhão.</li><li>Desconto no salário pelo conserto do outro veículo segue os mesmos limites da CLT.</li></ul><h2>O erro que enfraquece o caso</h2><p>Assinar confissão de dívida ou acordo com o dono do outro carro sem orientação, ou não avisar a empresa. Isso pode jogar no colo do motorista uma conta que é da empresa.</p><h2>O que fazer agora</h2><p>Registre o boletim de ocorrência, avise a empresa na hora e por escrito, e tire fotos dos veículos. Se a cobrança vier para você, não assine nada antes de uma conversa com um advogado.</p>",
   "faq": [
     [
       "A vítima pode processar o motorista diretamente?",
-      "A lei responsabiliza o empregador pelos atos do empregado no trabalho (Código Civil, arts. 932, III, e 933). O caminho mais comum é a cobrança à empresa; cada caso depende dos fatos."
+      "A lei faz a empresa responder pelos atos do empregado no trabalho (Código Civil, arts. 932, III, e 933). Na prática, a cobrança costuma ir para a empresa; cada caso depende dos fatos."
     ],
     [
       "A empresa pode descontar do meu salário o que pagou?",
       "Só se o desconto por dano foi combinado ou se houve dolo (CLT, art. 462, § 1º)."
+    ],
+    [
+      "E se o acidente foi causado por outro veículo?",
+      "O motorista empregado não paga prejuízo causado por outra pessoa, salvo dolo ou desídia provados (Lei 13.103/2015, art. 2º, V, a)."
     ]
   ],
   "base": [
@@ -43,5 +47,6 @@
     "fonte": "Pexels",
     "url": "https://www.pexels.com/photo/11985980/",
     "licenca": "https://www.pexels.com/license/"
-  }
+  },
+  "atualizado": "2026-11-15"
 }

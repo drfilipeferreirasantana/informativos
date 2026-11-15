@@ -4,8 +4,8 @@
   "data": "2026-11-15",
   "google": 66,
   "titulo": "Motoboy tem direito a adicional de periculosidade?",
-  "resumo": "O empregado que usa motocicleta para trabalhar no trânsito tem direito a adicional de periculosidade de 30% sobre o salário.",
-  "destaque": "Sim, adicional de 30%.",
+  "resumo": "Quem usa moto no trânsito para trabalhar, com carteira assinada, tem direito a um adicional de 30% sobre o salário-base, porque a lei considera essa atividade perigosa.",
+  "destaque": "Sim, 30% se usa a moto todo dia.",
   "pontos": [
     [
       "carteira",
@@ -13,27 +13,31 @@
     ],
     [
       "relogio",
-      "Uso eventual ou por tempo muito reduzido, em regra, não dá direito."
+      "Uso eventual ou por tempo muito curto, em regra, não dá direito."
     ],
     [
       "check",
-      "O adicional reflete em férias, 13º e FGTS."
+      "O adicional entra no cálculo de férias, 13º e FGTS."
     ]
   ],
   "exemplo": "Rafael é entregador de uma farmácia, com carteira assinada, e passa o dia fazendo entregas de moto pela cidade. No holerite dele não aparece nenhum adicional.",
-  "corpo": "<p>Andar de moto no trânsito para trabalhar expõe o empregado a um risco maior de acidente. Por isso, a lei passou a considerar essa atividade perigosa e a garantir um adicional no salário.</p>\n<h2>O que a lei prevê</h2>\n<p>A CLT considera perigosas as atividades de trabalhador em motocicleta. O adicional de periculosidade é de 30% sobre o salário-base, sem os acréscimos de gratificações, prêmios ou participação nos lucros.</p>\n<ul>\n<li>O direito vale para o empregado que usa a moto no trabalho em vias públicas, como motoboy, entregador e vendedor externo.</li>\n<li>A regra vem do art. 193, § 4º, da CLT, e o Anexo 5 da Norma Regulamentadora 16 detalha a atividade.</li>\n<li>O uso eventual, ou habitual por tempo muito reduzido, em regra não dá direito ao adicional.</li>\n</ul>\n<h2>Na prática</h2>\n<p>O adicional entra no cálculo de férias, 13º salário, FGTS e horas extras. Se a empresa não paga, é possível cobrar as diferenças dos últimos 5 anos, respeitado o prazo de 2 anos após o fim do contrato.</p>\n<p>Rotas, aplicativos de entrega, conversas com a empresa e testemunhas ajudam a mostrar que o uso da moto era parte da rotina. Entregador de aplicativo sem carteira assinada segue outra discussão, que depende do reconhecimento do vínculo.</p>",
+  "corpo": "<p>Andar de moto no trânsito para trabalhar aumenta o risco de acidente. Por isso, a lei considera essa atividade perigosa e garante um adicional no salário.</p>\n<h2>O que a lei garante</h2>\n<p>A CLT considera perigosa a atividade de quem trabalha em motocicleta. O adicional de periculosidade é de 30% sobre o salário-base, sem somar gratificações, prêmios ou participação nos lucros.</p>\n<ul>\n<li>Vale para o empregado que usa a moto no trabalho em vias públicas, como motoboy, entregador e vendedor externo.</li>\n<li>A regra está no art. 193, § 4º, da CLT, e o Anexo 5 da Norma Regulamentadora 16 detalha a atividade.</li>\n<li>Uso eventual, ou frequente mas por tempo muito curto, em regra não dá direito.</li>\n</ul>\n<h2>Na prática</h2>\n<p>O adicional entra no cálculo de férias, 13º, FGTS e horas extras. Entregador de aplicativo sem carteira assinada segue outra discussão, que depende de reconhecer o vínculo de emprego.</p>\n<h2>O erro que enfraquece o caso</h2>\n<p>Esperar sair da empresa e deixar o tempo passar. É possível cobrar as diferenças dos últimos 5 anos, mas só se a ação for proposta até 2 anos após o fim do contrato. Quem espera perde meses de adicional.</p>\n<h2>O que fazer agora</h2>\n<p>Guarde os holerites, prints das rotas e do aplicativo de entregas e conversas com a empresa sobre as entregas, e anote o nome de colegas que podem confirmar a rotina. Com isso, a análise mostra quanto deixou de ser pago.</p>",
   "faq": [
     [
       "Qual é o valor do adicional?",
-      "30% sobre o salário-base, sem os acréscimos de gratificações, prêmios ou participação nos lucros (CLT, art. 193, § 1º)."
+      "30% sobre o salário-base, sem somar gratificações, prêmios ou participação nos lucros (CLT, art. 193, § 1º)."
     ],
     [
       "Quem usa a moto só às vezes tem direito?",
-      "Em regra, não. O uso eventual ou por tempo muito reduzido não dá direito ao adicional (Norma Regulamentadora 16, Anexo 5)."
+      "Em regra, não. Uso eventual ou por tempo muito curto não dá direito ao adicional (Norma Regulamentadora 16, Anexo 5)."
     ],
     [
       "Posso cobrar o que não foi pago?",
       "Sim, as diferenças dos últimos 5 anos, desde que a ação seja proposta até 2 anos após o fim do contrato (Constituição Federal, art. 7º, XXIX)."
+    ],
+    [
+      "Entregador de aplicativo tem direito?",
+      "Só se tiver o vínculo de emprego reconhecido. Sem carteira assinada, essa é a primeira discussão."
     ]
   ],
   "base": [
@@ -46,5 +50,6 @@
     "fonte": "Pexels",
     "url": "https://www.pexels.com/photo/32666528/",
     "licenca": "https://www.pexels.com/license/"
-  }
+  },
+  "atualizado": "2026-11-15"
 }

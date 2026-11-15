@@ -5,8 +5,8 @@
   "serie": "motoristas",
   "ordem": 21,
   "titulo": "Jornada exaustiva do motorista pode gerar indenização por dano existencial?",
-  "resumo": "Jornadas extremas e habituais, que tiram do motorista a vida familiar e social, podem gerar indenização por dano existencial. O TST exige a comprovação da jornada extenuante.",
-  "destaque": "Pode, se comprovada.",
+  "resumo": "Jornadas extremas e frequentes, que tiram do motorista a convivência com a família e o descanso, podem gerar indenização (dano existencial). Para o TST, é preciso provar a jornada exaustiva.",
+  "destaque": "Sim, se a jornada extrema for provada.",
   "pontos": [
     [
       "relogio",
@@ -14,23 +14,27 @@
     ],
     [
       "documento",
-      "A jornada extenuante precisa ser comprovada."
+      "A jornada exaustiva precisa ser provada."
     ],
     [
       "alerta",
-      "Horas extras comuns, sozinhas, nem sempre bastam para a indenização."
+      "Fazer horas extras, por si só, nem sempre basta para a indenização."
     ]
   ],
   "exemplo": "Por dois anos, Wanderson saiu de casa às 5h e voltou depois das 23h, com duas folgas por mês. Perdeu o aniversário dos filhos e quase não via a família.",
-  "corpo": "<h2>O que foi decidido</h2><p>Em agosto de 2025, a Terceira Turma do Tribunal Superior do Trabalho manteve a condenação de uma empresa a pagar R$ 12 mil por dano existencial a um caminhoneiro submetido a jornadas de 16 a 21 horas diárias, com trabalho em domingos e feriados sem pagamento ou compensação e descanso semanal irregular.</p><p>Para o relator, o cumprimento habitual de jornadas extenuantes impede o exercício de direitos fundamentais do empregado e viola a dignidade da pessoa humana. Ele destacou também que jornadas exaustivas aumentam o risco de acidentes.</p><p>A notícia registra que a Subseção I de Dissídios Individuais do TST exige a comprovação, pelo empregado, da jornada extenuante. Há decisões em que a indenização foi negada por falta de prova do prejuízo.</p><h2>Na prática</h2><ul><li>Registros de jornada, rastreador e mensagens com horários ajudam a provar a rotina.</li><li>As horas extras são devidas independentemente do dano existencial.</li></ul>",
+  "corpo": "<h2>O que foi decidido</h2><p>Em agosto de 2025, a Terceira Turma do Tribunal Superior do Trabalho manteve a condenação de uma empresa a pagar R$ 12 mil a um caminhoneiro que trabalhava de 16 a 21 horas por dia, em domingos e feriados sem pagamento nem folga compensada, e com descanso semanal irregular.</p><p>Para o relator, jornadas exaustivas e frequentes tiram do trabalhador a vida fora do trabalho e ferem a dignidade da pessoa. Ele lembrou também que esse ritmo aumenta o risco de acidentes.</p><p>A notícia registra que o TST exige que o empregado prove a jornada exaustiva. Há decisões que negaram a indenização por falta de prova do prejuízo.</p><h2>Na prática</h2><ul><li>As horas extras são devidas de qualquer forma, com ou sem dano existencial.</li><li>O que decide o caso é a prova da rotina, não só o relato.</li></ul><h2>O erro que enfraquece o caso</h2><p>Apagar mensagens com horários, não guardar os registros de viagem e deixar o tempo passar depois de sair da empresa. Sem prova da jornada, a indenização pode ser negada.</p><h2>O que fazer agora</h2><p>Guarde mensagens com horários, dados do rastreador, comprovantes de abastecimento e anote as folgas que não teve. Leve esse registro à primeira conversa com um advogado.</p>",
   "faq": [
     [
       "Fazer horas extras dá direito automático a essa indenização?",
-      "Não. O TST exige a comprovação da jornada extenuante, e há decisões que negaram a indenização sem prova do prejuízo à vida pessoal."
+      "Não. O TST exige prova da jornada exaustiva, e há decisões que negaram a indenização sem prova do prejuízo à vida pessoal."
     ],
     [
       "O que é dano existencial?",
-      "É o dano à vida de relações e ao projeto de vida, quando o trabalho impede o convívio familiar, social e o descanso."
+      "É o dano à vida fora do trabalho, quando a jornada impede o convívio com a família, a vida social e o descanso."
+    ],
+    [
+      "O que serve de prova da jornada?",
+      "Registros de jornada, dados do rastreador e mensagens com horários ajudam a provar a rotina."
     ]
   ],
   "base": [
@@ -47,5 +51,6 @@
     "fonte": "Pexels",
     "url": "https://www.pexels.com/photo/9063623/",
     "licenca": "https://www.pexels.com/license/"
-  }
+  },
+  "atualizado": "2026-11-15"
 }

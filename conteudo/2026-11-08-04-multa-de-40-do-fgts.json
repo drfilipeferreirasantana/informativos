@@ -3,7 +3,7 @@
   "area": "trabalhista",
   "data": "2026-11-08",
   "titulo": "A multa de 40% do FGTS é calculada sobre todo o contrato?",
-  "resumo": "Na dispensa sem justa causa, a empresa deposita 40% sobre todos os depósitos de FGTS feitos durante o contrato, com correção e juros.",
+  "resumo": "Na dispensa sem justa causa, a empresa deposita 40% sobre tudo o que foi depositado de FGTS durante o contrato, com correção e juros.",
   "destaque": "Sim, sobre todos os depósitos.",
   "pontos": [
     [
@@ -20,15 +20,19 @@
     ]
   ],
   "exemplo": "Rafael trabalhou seis anos numa empresa e foi dispensado sem justa causa. Ao conferir o extrato, viu que a multa foi calculada só sobre o último ano.",
-  "corpo": "<h2>O que a lei prevê</h2><p>A Lei do FGTS determina que, na despedida sem justa causa, o empregador deposite na conta do trabalhador 40% do montante de todos os depósitos feitos durante o contrato, atualizados e com juros.</p><p>A multa de 40% está entre os assuntos mais levados à Justiça do Trabalho, segundo dados do TST de 2025.</p><h2>Na prática</h2><ul><li>Se a empresa deixou de depositar algum mês, a multa também fica menor.</li><li>O extrato do FGTS pode ser consultado pelo aplicativo oficial.</li><li>Na saída por acordo entre empregado e empregador, as regras são diferentes.</li></ul>",
+  "corpo": "<h2>O que a lei garante</h2><p>Quem é dispensado sem justa causa recebe, na conta do FGTS, 40% de tudo o que foi depositado durante o contrato inteiro, com correção e juros. Não é só sobre o último ano nem só sobre o saldo que sobrou na conta.</p><p>A multa de 40% está entre os assuntos mais levados à Justiça do Trabalho, segundo dados do TST de 2025.</p><h2>Na prática</h2><ul><li>Se a empresa deixou de depositar algum mês, a multa também fica menor.</li><li>O extrato do FGTS pode ser consultado pelo aplicativo oficial.</li><li>Na saída por acordo entre empregado e empresa, as regras são diferentes.</li></ul><h2>O erro que enfraquece o caso</h2><p>Aceitar o valor sem conferir o extrato e deixar o tempo passar. Mês sem depósito vira dinheiro perdido duas vezes: no FGTS e na multa.</p><h2>O que fazer agora</h2><p>Baixe o extrato completo do FGTS no aplicativo e compare mês a mês com os contracheques. Leve os dois à primeira conversa com um advogado.</p>",
   "faq": [
     [
       "A multa é só sobre o saldo que está na conta?",
-      "É sobre o montante de todos os depósitos feitos durante o contrato, atualizados (Lei 8.036/1990, art. 18, § 1º)."
+      "Não. É sobre todos os depósitos feitos durante o contrato, atualizados (Lei 8.036/1990, art. 18, § 1º)."
     ],
     [
       "Vale para quem pediu demissão?",
       "Não. A multa de 40% é devida na despedida sem justa causa."
+    ],
+    [
+      "E se faltou depósito em algum mês?",
+      "A multa fica menor, porque é calculada sobre os depósitos. Vale conferir o extrato."
     ]
   ],
   "base": [
@@ -39,5 +43,6 @@
     "fonte": "Pexels",
     "url": "https://www.pexels.com/photo/6052793/",
     "licenca": "https://www.pexels.com/license/"
-  }
+  },
+  "atualizado": "2026-11-15"
 }

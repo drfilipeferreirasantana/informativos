@@ -5,40 +5,44 @@
   "serie": "grandes-causas",
   "ordem": 27,
   "titulo": "Contratado no Brasil para trabalhar no exterior: qual lei vale?",
-  "destaque": "A brasileira, quando mais favorável.",
-  "resumo": "Quem é contratado no Brasil ou transferido pela empresa para trabalhar fora do país tem garantida a lei trabalhista brasileira naquilo que for mais favorável do que a lei do local.",
+  "destaque": "A brasileira, no que for melhor.",
+  "resumo": "Quem é contratado no Brasil ou transferido pela empresa para trabalhar fora do país continua protegido pela lei trabalhista brasileira em tudo o que ela for melhor do que a lei do local.",
   "pontos": [
     [
       "maleta",
-      "A regra vale para contratados no Brasil e para transferidos."
+      "A regra vale para quem foi contratado no Brasil e para quem foi transferido."
     ],
     [
       "balanca",
-      "Aplica-se a lei brasileira quando mais favorável, em cada matéria."
+      "Em cada assunto, vale a lei brasileira se for mais favorável."
     ],
     [
       "documento",
-      "Há direitos próprios, como retorno custeado pela empresa."
+      "Há direitos próprios, como a volta paga pela empresa."
     ],
     [
       "calendario",
-      "Viagens transitórias de até 90 dias têm regra diferente."
+      "Viagem de serviço de até 90 dias tem regra diferente."
     ]
   ],
   "exemplo": "Ricardo, engenheiro de uma empresa de Vitória, foi transferido para uma obra no Chile por dois anos. Lá, recebeu sem depósito de FGTS e sem 13º, porque a empresa disse que valia a lei chilena.",
-  "corpo": "<p>Executivos, engenheiros e técnicos enviados para projetos fora do país muitas vezes não sabem qual legislação os protege. A Lei 7.064/1982 trata desse tema.</p>\n<h2>O que a lei prevê</h2>\n<ul>\n<li>A lei se aplica a trabalhadores contratados no Brasil ou transferidos por seus empregadores para prestar serviço no exterior (Lei 7.064/1982, art. 1º).</li>\n<li>Considera-se transferido o empregado removido do Brasil, o cedido a empresa estrangeira mantendo o vínculo com a brasileira e o contratado por empresa sediada no Brasil para trabalhar no exterior (art. 2º).</li>\n<li>A empresa deve assegurar os direitos da própria lei e a legislação brasileira de proteção ao trabalho, quando não incompatível e mais favorável do que a lei do local, em cada matéria (art. 3º).</li>\n<li>Não se aplica ao empregado enviado para serviço transitório de até 90 dias, com ciência expressa e diárias (art. 1º, parágrafo único).</li>\n</ul>\n<h2>Na prática</h2>\n<ul>\n<li>Carta de transferência, contrato, recibos no exterior e comprovantes de FGTS mostram o que foi cumprido.</li>\n<li>O cálculo compara, matéria por matéria, a lei brasileira e a do país onde houve o trabalho.</li>\n<li>O prazo para cobrar segue a regra geral: 2 anos após o fim do contrato, alcançando os últimos 5 anos (Constituição, art. 7º, XXIX).</li>\n</ul>",
+  "corpo": "<p>Engenheiros, técnicos e executivos enviados para projetos fora do país muitas vezes ouvem que \"lá vale a lei de lá\". Não é bem assim. A Lei 7.064/1982 trata do tema e protege quem saiu do Brasil a trabalho.</p>\n<h2>O que a lei garante</h2>\n<ul>\n<li>A lei vale para quem foi contratado no Brasil ou transferido pela empresa para trabalhar no exterior (Lei 7.064/1982, art. 1º).</li>\n<li>Conta como transferido quem foi removido do Brasil, quem foi cedido a empresa estrangeira sem perder o vínculo com a brasileira e quem foi contratado por empresa sediada no Brasil para trabalhar fora (art. 2º).</li>\n<li>A empresa deve garantir os direitos dessa lei e a lei trabalhista brasileira sempre que ela for mais favorável que a do local, assunto por assunto (art. 3º).</li>\n<li>A regra não vale para quem foi enviado para serviço passageiro de até 90 dias, sabendo disso por escrito e recebendo diárias (art. 1º, parágrafo único).</li>\n</ul>\n<h2>Na prática</h2>\n<p>O cálculo compara, item por item, a lei brasileira e a do país onde houve o trabalho. Carta de transferência, contrato, recibos do exterior e extratos do FGTS mostram o que foi cumprido.</p>\n<h2>O erro que enfraquece o caso</h2>\n<p>Voltar ao Brasil sem os recibos e documentos do período fora e deixar o tempo passar. O prazo para cobrar é de 2 anos após o fim do contrato, alcançando os últimos 5 anos (Constituição, art. 7º, XXIX).</p>\n<h2>O que fazer agora</h2>\n<p>Peça o extrato do FGTS e separe a carta de transferência e os recibos de pagamento no exterior. Esse conjunto já permite ver o que faltou.</p>",
   "faq": [
     [
       "Fui transferido pela empresa. Vale a lei brasileira?",
-      "Sim, no que for mais favorável do que a lei do local (Lei 7.064/1982, art. 3º)."
+      "Sim, em tudo o que ela for mais favorável que a lei do país onde houve o trabalho (Lei 7.064/1982, art. 3º)."
     ],
     [
       "E se fui contratado no Brasil já para trabalhar fora?",
-      "Também se aplica (Lei 7.064/1982, arts. 1º e 2º, III)."
+      "A mesma proteção se aplica (Lei 7.064/1982, arts. 1º e 2º, III)."
     ],
     [
       "Viagem curta entra nessa regra?",
-      "Serviço transitório de até 90 dias, nas condições da lei, fica de fora (art. 1º, parágrafo único)."
+      "Não. Serviço passageiro de até 90 dias, com ciência por escrito e diárias, fica de fora (art. 1º, parágrafo único)."
+    ],
+    [
+      "Qual o prazo para cobrar?",
+      "Até 2 anos após o fim do contrato, alcançando os últimos 5 anos (Constituição, art. 7º, XXIX)."
     ]
   ],
   "base": [
@@ -50,5 +54,6 @@
     "fonte": "Pexels",
     "url": "https://www.pexels.com/photo/4173215/",
     "licenca": "https://www.pexels.com/license/"
-  }
+  },
+  "atualizado": "2026-11-15"
 }

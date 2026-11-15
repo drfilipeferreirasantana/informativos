@@ -5,12 +5,12 @@
   "serie": "motoristas",
   "ordem": 20,
   "titulo": "Motorista de caminhão ou de ônibus tem direito a aposentadoria especial?",
-  "resumo": "Até 28 de abril de 1995, o tempo como motorista de caminhão ou de ônibus podia ser reconhecido como especial só pela profissão. Depois disso, é preciso provar exposição a agentes nocivos.",
-  "destaque": "Depende da época trabalhada.",
+  "resumo": "O tempo como motorista de caminhão ou de ônibus até 28 de abril de 1995 pode contar como especial só pela profissão. Depois dessa data, é preciso provar exposição a agentes que fazem mal à saúde.",
+  "destaque": "Sim até 28/4/1995; depois, com prova.",
   "pontos": [
     [
       "calendario",
-      "Até 28/4/1995, o enquadramento podia ser feito pela categoria profissional."
+      "Até 28/4/1995, a profissão anotada na carteira bastava para contar como tempo especial."
     ],
     [
       "documento",
@@ -22,15 +22,19 @@
     ]
   ],
   "exemplo": "Seu Antônio dirigiu ônibus de viagem de 1982 a 1994 e caminhão depois disso. No pedido de aposentadoria, o INSS contou todo o período como tempo comum.",
-  "corpo": "<h2>O que a norma do INSS prevê</h2><p>A instrução normativa do INSS assegura a caracterização do tempo especial por categoria profissional até 28 de abril de 1995, véspera da publicação da Lei 9.032/1995. Nesse período, o enquadramento pode ser feito pela atividade anotada na carteira de trabalho, sem os formulários exigidos depois, quando nenhuma outra informação for necessária.</p><p>A Justiça Federal tem reconhecido que as atividades de motorista de caminhão e de ônibus estavam entre as categorias profissionais previstas nos decretos da época.</p><p>A partir de 29 de abril de 1995, o reconhecimento depende da comprovação de exposição efetiva a agentes nocivos à saúde, como ruído ou vibração acima dos limites.</p><h2>Na prática</h2><ul><li>Reúna carteiras de trabalho antigas: elas comprovam a função no período anterior a 1995.</li><li>Para períodos posteriores, peça o PPP às empresas.</li><li>A Reforma da Previdência de 2019 mudou regras de aposentadoria especial; o tempo antigo continua relevante na contagem.</li></ul>",
+  "corpo": "<h2>O que a norma do INSS garante</h2><p>A norma do INSS reconhece o tempo especial pela profissão (categoria profissional) até 28 de abril de 1995, véspera da Lei 9.032/1995. Nesse período, a função anotada na carteira de trabalho pode bastar, sem os formulários exigidos depois, quando nenhuma outra informação for necessária.</p><p>A Justiça Federal tem reconhecido que motorista de caminhão e de ônibus estavam entre as profissões previstas nos decretos da época.</p><p>A partir de 29 de abril de 1995, é preciso provar exposição real a agentes que fazem mal à saúde, como ruído ou vibração acima dos limites.</p><h2>Na prática</h2><ul><li>A Reforma da Previdência de 2019 mudou regras da aposentadoria especial, mas o tempo antigo continua contando.</li><li>O INSS muitas vezes conta todo o período como tempo normal, e o erro passa despercebido.</li></ul><h2>O erro que enfraquece o caso</h2><p>Fazer o pedido sozinho e perder ou jogar fora carteiras de trabalho antigas. Sem elas, o tempo especial antes de 1995 fica sem prova.</p><h2>O que fazer agora</h2><p>Reúna todas as carteiras de trabalho, inclusive as antigas, e peça o PPP às empresas onde trabalhou depois de 1995. Com esses documentos, é possível conferir se o INSS contou o tempo certo.</p>",
   "faq": [
     [
       "Preciso de formulário para o tempo antes de 1995?",
-      "Quando o enquadramento é por categoria profissional e a carteira de trabalho basta, a norma do INSS dispensa os formulários (Instrução Normativa PRES/INSS 128/2022)."
+      "Quando a carteira de trabalho basta para mostrar a profissão, a norma do INSS dispensa os formulários (Instrução Normativa PRES/INSS 128/2022)."
     ],
     [
       "Ajudante de caminhão também entra?",
-      "A Justiça Federal tem reconhecido o enquadramento de motoristas e ajudantes de caminhão até 28/4/1995. Cada caso depende da documentação."
+      "A Justiça Federal tem reconhecido motoristas e ajudantes de caminhão até 28/4/1995. Cada caso depende da documentação."
+    ],
+    [
+      "O que é o PPP?",
+      "É o documento da empresa que mostra a exposição a agentes nocivos, usado para provar tempo especial depois de 28/4/1995."
     ]
   ],
   "base": [
@@ -43,5 +47,6 @@
     "fonte": "Pexels",
     "url": "https://www.pexels.com/photo/28284109/",
     "licenca": "https://www.pexels.com/license/"
-  }
+  },
+  "atualizado": "2026-11-15"
 }

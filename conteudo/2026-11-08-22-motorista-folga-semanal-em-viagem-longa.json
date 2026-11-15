@@ -5,8 +5,8 @@
   "serie": "motoristas",
   "ordem": 7,
   "titulo": "Motorista em viagem longa tem direito a folga semanal?",
-  "resumo": "Nas viagens de mais de 7 dias, o motorista tem 24 horas de repouso por semana, somadas às 11 horas de descanso diário, num total de 35 horas, no retorno à base ou em casa.",
-  "destaque": "Sim, 35 horas seguidas.",
+  "resumo": "Em viagem de mais de 7 dias, o motorista tem 24 horas de folga por semana, somadas às 11 horas de descanso diário: 35 horas, na base da empresa ou em casa.",
+  "destaque": "35 horas por semana, sem acumular.",
   "pontos": [
     [
       "calendario",
@@ -14,23 +14,27 @@
     ],
     [
       "casa",
-      "O repouso é gozado na base da empresa ou em casa, salvo condições adequadas oferecidas pela empresa."
+      "A folga é na base da empresa ou em casa, salvo condições adequadas oferecidas pela empresa."
     ],
     [
       "alerta",
-      "O STF invalidou a divisão da folga semanal e o acúmulo de folgas."
+      "O STF derrubou a divisão da folga semanal e o acúmulo de folgas."
     ]
   ],
   "exemplo": "Fábio passou três semanas na estrada levando carga ao Nordeste. A empresa quer que ele junte as folgas e descanse só no fim do mês.",
-  "corpo": "<h2>O que a lei prevê</h2><p>Nas viagens de longa distância com duração superior a 7 dias, a CLT garante ao motorista empregado repouso semanal de 24 horas por semana ou fração trabalhada, sem prejuízo das 11 horas de descanso diário. O total é de 35 horas, gozadas no retorno à base ou ao domicílio, salvo se a empresa oferecer condições adequadas para o descanso.</p><p>A lei permitia dividir a folga semanal em dois períodos e acumular até três folgas. Em 2023, ao julgar a ADI 5322, o Supremo Tribunal Federal invalidou o fracionamento e o acúmulo do descanso semanal.</p><h2>Na prática</h2><ul><li>Cada semana de viagem dá direito à sua própria folga.</li><li>Folgas não podem ser juntadas para depois.</li><li>A folga deve ser gozada em casa ou em local com condições adequadas.</li></ul>",
+  "corpo": "<h2>O que a lei garante</h2><p>Nas viagens de longa distância com mais de 7 dias, o motorista empregado tem direito a 24 horas de folga por semana, ou fração de semana trabalhada, além das 11 horas de descanso diário. O total é de 35 horas, tiradas no retorno à base ou em casa, salvo se a empresa oferecer condições adequadas para o descanso.</p><p>A lei permitia dividir a folga semanal em dois períodos e acumular até três folgas. Em 2023, ao julgar a ADI 5322, o Supremo Tribunal Federal derrubou a divisão e o acúmulo.</p><h2>Na prática</h2><ul><li>Cada semana de viagem dá direito à sua própria folga.</li><li>Folgas não podem ser juntadas para depois.</li><li>A folga deve ser tirada em casa ou em local com condições adequadas.</li></ul><h2>O erro que enfraquece o caso</h2><p>Aceitar juntar folgas sem guardar nenhum registro das semanas rodadas. Sem as datas de saída e de retorno, fica difícil mostrar quantas folgas deixaram de ser dadas.</p><h2>O que fazer agora</h2><p>Anote a data de saída e de retorno de cada viagem e os dias de folga realmente tirados. Com esse calendário em mãos, um advogado consegue mostrar quantas folgas foram perdidas.</p>",
   "faq": [
     [
       "Dá para juntar as folgas e tirar todas de uma vez?",
-      "Não. A regra que permitia acumular até 3 descansos (CLT, art. 235-D, § 2º) foi invalidada pelo STF na ADI 5322."
+      "Não. A regra que permitia acumular até 3 descansos (CLT, art. 235-D, § 2º) foi derrubada pelo STF na ADI 5322."
     ],
     [
       "E se a folga cair no meio da viagem?",
       "A lei admite a folga fora de casa quando a empresa oferece condições adequadas para o descanso (CLT, art. 235-D, caput)."
+    ],
+    [
+      "Quantas horas de folga tenho por semana?",
+      "24 horas por semana, somadas às 11 horas de descanso diário, num total de 35 horas."
     ]
   ],
   "base": [
@@ -47,5 +51,6 @@
     "fonte": "Pexels",
     "url": "https://www.pexels.com/photo/4260097/",
     "licenca": "https://www.pexels.com/license/"
-  }
+  },
+  "atualizado": "2026-11-15"
 }

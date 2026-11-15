@@ -3,32 +3,40 @@
   "area": "trabalhista",
   "data": "2026-11-08",
   "titulo": "O trabalhador pode encerrar o contrato por falta grave da empresa?",
-  "resumo": "A rescisão indireta é a justa causa do empregador: quando a empresa descumpre o contrato, o empregado pode encerrá-lo e pedir as indenizações.",
-  "destaque": "Sim, com todos os direitos.",
+  "resumo": "Quando a empresa descumpre o contrato, atrasa salário, deixa de depositar o FGTS ou ofende o empregado, ele pode encerrar o vínculo como se tivesse sido dispensado e cobrar as indenizações (rescisão indireta).",
+  "destaque": "Sim, se a empresa descumpre o contrato.",
   "pontos": [
     [
       "alerta",
-      "Exemplos: salário ou FGTS atrasados, rigor excessivo, perigo, ofensas."
+      "Salário ou FGTS atrasado, ofensa, perigo e cobrança abusiva estão na lista da lei."
     ],
     [
       "balanca",
-      "O empregado considera o contrato rescindido e pede as indenizações na Justiça."
+      "O empregado encerra o contrato e pede as indenizações na Justiça."
     ],
     [
       "documento",
-      "Em alguns casos, pode continuar trabalhando até a decisão."
+      "Em alguns casos, é possível seguir trabalhando até a decisão."
     ]
   ],
   "exemplo": "Há meses a empresa de Carlos atrasa o salário e não deposita o FGTS. Ele quer sair, mas tem medo de perder os direitos se pedir demissão.",
-  "corpo": "<h2>O que a lei prevê</h2><p>A CLT lista situações em que o empregado pode considerar rescindido o contrato e pedir indenização. Entre elas: exigir serviços superiores às forças ou alheios ao contrato, tratamento com rigor excessivo, perigo manifesto, descumprimento das obrigações do contrato e ofensas à honra ou físicas.</p><p>Nos casos de descumprimento das obrigações do contrato, o empregado pode pedir a rescisão permanecendo ou não no serviço até a decisão final. A rescisão indireta está entre os dez assuntos mais levados à Justiça do Trabalho.</p><h2>Na prática</h2><ul><li>É diferente de pedir demissão, que tem consequências mais restritas.</li><li>Reúna provas: contracheques, extrato do FGTS, mensagens.</li><li>A decisão sobre como sair depende de análise do caso.</li></ul>",
+  "corpo": "<h2>O que a lei garante</h2><p>A rescisão indireta é a justa causa aplicada à empresa. Quando o empregador falha gravemente, o empregado pode dar o contrato por encerrado e cobrar as indenizações, como se tivesse sido dispensado.</p><p>A lei lista as situações. Entre elas: exigir serviço acima das forças do empregado ou fora do que foi contratado, tratar com rigor excessivo, expor a perigo evidente, deixar de cumprir as obrigações do contrato e ofender a honra ou agredir fisicamente.</p><p>Quando o problema é o descumprimento das obrigações do contrato, o empregado pode pedir a rescisão continuando ou não no serviço até a decisão final.</p><h2>O que mais acontece</h2><ul><li>Salário pago com atraso mês após mês.</li><li>FGTS que não aparece no extrato.</li><li>Chefe que humilha ou ameaça.</li></ul><p>A rescisão indireta está entre os dez assuntos mais levados à Justiça do Trabalho.</p><h2>O erro que enfraquece o caso</h2><p>Pedir demissão por impulso. Pedir demissão é diferente e traz consequências mais restritas. O outro erro é sair sem prova: sem contracheques, extrato do FGTS e mensagens, fica difícil mostrar a falha da empresa.</p><h2>O que fazer agora</h2><p>Antes de qualquer decisão sobre como sair, reúna contracheques, o extrato do FGTS e as mensagens, e leve tudo a um advogado. A forma de sair depende da análise do caso, e decidir antes pode custar direitos.</p>",
   "faq": [
     [
-      "Atraso de salário pode justificar a rescisão indireta?",
-      "O descumprimento das obrigações do contrato pelo empregador está entre as hipóteses da lei (CLT, art. 483, d)."
+      "Atraso de salário justifica a rescisão indireta?",
+      "Pode justificar. Deixar de cumprir as obrigações do contrato está entre as hipóteses da lei (CLT, art. 483, d)."
     ],
     [
       "Preciso parar de trabalhar para pedir?",
-      "Nas hipóteses das letras d e g, não necessariamente (CLT, art. 483, § 3º)."
+      "Nem sempre. Nas hipóteses das letras d e g do art. 483, o empregado pode continuar no serviço até a decisão (CLT, art. 483, § 3º)."
+    ],
+    [
+      "Qual a diferença para o pedido de demissão?",
+      "Na rescisão indireta, a falha é da empresa e o empregado cobra as indenizações. O pedido de demissão tem consequências mais restritas."
+    ],
+    [
+      "Que provas devo juntar?",
+      "Contracheques, extrato do FGTS e mensagens que mostrem a falha da empresa."
     ]
   ],
   "base": [
@@ -39,5 +47,6 @@
     "fonte": "Pexels",
     "url": "https://www.pexels.com/photo/7927581/",
     "licenca": "https://www.pexels.com/license/"
-  }
+  },
+  "atualizado": "2026-11-15"
 }

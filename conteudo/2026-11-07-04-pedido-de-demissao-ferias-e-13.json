@@ -3,8 +3,8 @@
   "area": "trabalhista",
   "data": "2026-11-07",
   "titulo": "Quem pede demissão perde as férias e o 13º?",
-  "resumo": "Mesmo com menos de um ano de empresa, o trabalhador que se demite tem direito às férias proporcionais.",
-  "destaque": "Não perde.",
+  "resumo": "Pedir demissão não apaga os direitos. Mesmo com menos de um ano de empresa, o trabalhador recebe férias e 13º proporcionais e o saldo de salário.",
+  "destaque": "Não. Férias e 13º proporcionais ficam.",
   "pontos": [
     [
       "calendario",
@@ -16,19 +16,23 @@
     ],
     [
       "documento",
-      "O recibo de rescisão deve discriminar cada valor. Confira antes de assinar."
+      "O recibo de rescisão deve mostrar cada valor. Confira antes de assinar."
     ]
   ],
   "exemplo": "Paula trabalhou oito meses numa loja, recebeu uma proposta melhor e pediu demissão. Ela achou que sairia sem receber nada além dos dias trabalhados.",
-  "corpo": "<p>Muitos trabalhadores acreditam que, ao pedir demissão, perdem todos os direitos. Não é verdade: algumas verbas são devidas em qualquer caso, e outras também na demissão a pedido.</p>\n<h2>O que a lei e a jurisprudência preveem</h2>\n<ul>\n<li><b>Férias vencidas:</b> na cessação do contrato, qualquer que seja a causa, são devidas as férias cujo direito já tenha sido adquirido (CLT, art. 146).</li>\n<li><b>Férias proporcionais:</b> o Tribunal Superior do Trabalho firmou que o empregado que se demite antes de completar 12 meses de serviço tem direito às férias proporcionais (Súmula 261 do TST), com o acréscimo de um terço previsto na Constituição.</li>\n<li><b>13º salário proporcional:</b> também é devido quando a iniciativa de encerrar o contrato é do empregado (Súmula 157 do TST).</li>\n<li><b>Saldo de salário:</b> os dias trabalhados no mês da saída devem ser pagos.</li>\n</ul>\n<h2>Na prática</h2>\n<p>O recibo de rescisão deve discriminar cada parcela paga e o seu valor, e a quitação vale apenas para essas parcelas. Vale conferir o documento antes de assinar.</p>",
+  "corpo": "<h2>O que a lei garante</h2><p>Quem pede demissão sai com parte importante dos direitos. Na saída, o trabalhador recebe:</p><ul><li><b>Férias vencidas:</b> as que já tinha direito de tirar, qualquer que seja o motivo da saída (CLT, art. 146).</li><li><b>Férias proporcionais:</b> mesmo com menos de 12 meses de empresa, com um terço a mais (Súmula 261 do TST e Constituição).</li><li><b>13º salário proporcional:</b> também devido quando é o empregado quem pede para sair (Súmula 157 do TST).</li><li><b>Saldo de salário:</b> os dias trabalhados no mês da saída.</li></ul><h2>Na prática</h2><p>O recibo de rescisão precisa mostrar cada parcela e seu valor, e a quitação vale só para o que está escrito ali. Assinar sem conferir é o que mais faz o trabalhador perder dinheiro.</p><h2>O erro que enfraquece o caso</h2><p>Jogar fora o recibo, os contracheques e as mensagens sobre a saída, ou deixar o tempo passar achando que não havia nada a receber. Esses papéis são a base de qualquer cobrança.</p><h2>O que fazer agora</h2><p>Antes de assinar, peça o termo de rescisão e confira item por item. Se algo faltou, leve o recibo e os contracheques a um advogado para conferir o cálculo.</p>",
   "faq": [
     [
       "Quem pede demissão com menos de um ano recebe férias?",
-      "Sim, as férias proporcionais, com o acréscimo de um terço (Súmula 261 do TST; Constituição, art. 7º, XVII)."
+      "Sim, as férias proporcionais, com um terço a mais (Súmula 261 do TST; Constituição, art. 7º, XVII)."
     ],
     [
       "E o 13º salário?",
       "O 13º proporcional também é devido quando o empregado pede demissão (Súmula 157 do TST)."
+    ],
+    [
+      "Assinei o recibo. Perdi o direito ao que faltou?",
+      "Não necessariamente. A quitação vale só para as parcelas discriminadas no recibo, com seus valores (CLT, art. 477, § 2º)."
     ]
   ],
   "base": [
@@ -41,5 +45,6 @@
     "fonte": "Pexels",
     "url": "https://www.pexels.com/photo/9301910/",
     "licenca": "https://www.pexels.com/license/"
-  }
+  },
+  "atualizado": "2026-11-15"
 }

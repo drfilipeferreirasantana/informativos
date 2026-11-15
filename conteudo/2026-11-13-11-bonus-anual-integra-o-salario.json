@@ -5,40 +5,44 @@
   "serie": "grandes-causas",
   "ordem": 25,
   "titulo": "O bônus anual pago todo ano faz parte do salário?",
-  "destaque": "Depende de como era pago.",
-  "resumo": "Prêmios por desempenho excepcional não integram o salário. Mas um bônus combinado, pago todo ano por regras fixas, pode ser visto como gratificação ajustada e gerar reflexos.",
+  "destaque": "Se combinado e pago todo ano, pode ser.",
+  "resumo": "Prêmio pago por desempenho acima do esperado não faz parte do salário. Já o bônus combinado, pago todo ano por uma fórmula fixa, pode ser tratado como gratificação ajustada e entrar no cálculo das demais verbas.",
   "pontos": [
     [
       "carteira",
-      "Prêmio por desempenho superior não integra o salário."
+      "Prêmio por desempenho acima do esperado não integra o salário."
     ],
     [
       "documento",
-      "Gratificação combinada, mesmo de forma tácita, pode integrar."
+      "Gratificação combinada, mesmo sem papel, pode integrar."
     ],
     [
       "calendario",
-      "Pagamento regular e previsível pesa na análise."
+      "Pagamento todo ano, por regra fixa, pesa na análise."
     ],
     [
       "alerta",
-      "Chamar de liberalidade no recibo não basta, por si só."
+      "Escrever \"liberalidade\" no recibo não resolve, por si só."
     ]
   ],
   "exemplo": "Fernando, diretor financeiro, recebia todo mês de março um bônus equivalente a três salários, calculado por uma fórmula fixa da empresa. No ano em que foi dispensado, o bônus foi cortado e não refletiu em nenhuma verba.",
-  "corpo": "<p>Bônus, prêmios e gratificações são comuns em cargos de gestão. A diferença entre eles muda o cálculo de férias, 13º, FGTS e rescisão.</p>\n<h2>O que a lei prevê</h2>\n<ul>\n<li>Integram o salário a importância fixa, as gratificações legais e as comissões (CLT, art. 457, § 1º).</li>\n<li>Prêmios e abonos, ainda que habituais, não integram a remuneração (CLT, art. 457, § 2º).</li>\n<li>Prêmios são liberalidades concedidas em razão de desempenho superior ao esperado (CLT, art. 457, § 4º).</li>\n<li>O fato de o recibo dizer que a gratificação é liberalidade não basta, por si só, para afastar um ajuste tácito (TST, Súmula 152).</li>\n</ul>\n<h2>Na prática</h2>\n<ul>\n<li>Bônus atrelado a metas comuns, com fórmula fixa e pagamento todo ano, tende a ser discutido como gratificação ajustada.</li>\n<li>Contrato, cartas de oferta, políticas de remuneração e e-mails sobre metas são as provas principais.</li>\n<li>Participação nos lucros (PLR) segue lei própria e não integra o salário.</li>\n</ul>",
+  "corpo": "<p>Bônus, prêmio e gratificação parecem a mesma coisa, mas não são. A diferença muda o cálculo de férias, 13º, FGTS e rescisão, e costuma aparecer na hora da saída, quando o bônus é cortado.</p>\n<h2>O que a lei diz</h2>\n<ul>\n<li>Fazem parte do salário o fixo, as gratificações legais e as comissões (CLT, art. 457, § 1º).</li>\n<li>Prêmios e abonos, mesmo pagos com frequência, não fazem parte do salário (CLT, art. 457, § 2º).</li>\n<li>Prêmio é o valor dado por vontade da empresa por um desempenho acima do esperado (CLT, art. 457, § 4º).</li>\n<li>O recibo dizer que a gratificação é \"liberalidade\" não basta para afastar um combinado que existia na prática (TST, Súmula 152).</li>\n</ul>\n<h2>Na prática</h2>\n<ul>\n<li>Bônus ligado a metas normais do cargo, com fórmula fixa e pago todo ano, tende a ser discutido como gratificação ajustada.</li>\n<li>Participação nos lucros (PLR) segue lei própria e não entra no salário.</li>\n</ul>\n<h2>O erro que enfraquece o caso</h2>\n<p>Não guardar o que mostra como o bônus era combinado. Contrato, carta de oferta, política de remuneração e e-mails sobre metas são as provas principais. Sem eles, vira palavra contra palavra.</p>\n<h2>O que fazer agora</h2>\n<p>Reúna os comprovantes dos bônus dos últimos anos e os documentos que explicam a fórmula de cálculo. Com isso, a análise mostra se o valor era prêmio ou parte do salário.</p>",
   "faq": [
     [
       "Prêmio integra o salário?",
-      "Não, quando é liberalidade por desempenho superior (CLT, art. 457, §§ 2º e 4º)."
+      "Não, quando é dado por vontade da empresa por desempenho acima do esperado (CLT, art. 457, §§ 2º e 4º)."
     ],
     [
-      "E bônus combinado na contratação?",
-      "Pode ser discutido como gratificação ajustada, conforme o contrato e a forma de pagamento."
+      "E o bônus combinado na contratação?",
+      "Pode ser discutido como gratificação ajustada. O que decide é o que foi combinado e a forma como era pago."
     ],
     [
-      "O recibo dizia liberalidade. Acabou a discussão?",
-      "Não necessariamente (TST, Súmula 152)."
+      "O recibo dizia liberalidade. A discussão acabou?",
+      "Não necessariamente. Só essa palavra no recibo não afasta o combinado que existia na prática (TST, Súmula 152)."
+    ],
+    [
+      "PLR entra no salário?",
+      "Não. A participação nos lucros segue lei própria e não integra o salário."
     ]
   ],
   "base": [
@@ -50,5 +54,6 @@
     "fonte": "Pexels",
     "url": "https://www.pexels.com/photo/5466250/",
     "licenca": "https://www.pexels.com/license/"
-  }
+  },
+  "atualizado": "2026-11-15"
 }

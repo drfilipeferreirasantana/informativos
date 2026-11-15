@@ -5,32 +5,36 @@
   "serie": "motoristas",
   "ordem": 5,
   "titulo": "Motorista tem direito a uma hora de almoço?",
-  "resumo": "A CLT garante ao motorista profissional empregado intervalo mínimo de 1 hora para refeição, que pode coincidir com a parada obrigatória exigida pelo Código de Trânsito.",
-  "destaque": "Sim, no mínimo 1 hora.",
+  "resumo": "O motorista com carteira assinada tem direito a pelo menos 1 hora de pausa para refeição, que pode coincidir com a parada obrigatória do Código de Trânsito.",
+  "destaque": "Sim: 1 hora, ou paga com 50% a mais.",
   "pontos": [
     [
       "relogio",
-      "O intervalo mínimo para refeição é de 1 hora."
+      "A pausa mínima para refeição é de 1 hora."
     ],
     [
       "check",
-      "Ele pode coincidir com a parada obrigatória do Código de Trânsito."
+      "Ela pode coincidir com a parada obrigatória do Código de Trânsito."
     ],
     [
       "carteira",
-      "Intervalo não concedido é pago com 50% a mais sobre o tempo que faltou."
+      "Pausa não concedida é paga com 50% a mais sobre o tempo que faltou."
     ]
   ],
   "exemplo": "Joana dirige ônibus de viagem e almoça em 20 minutos no posto, porque a escala não deixa mais tempo para parar.",
-  "corpo": "<h2>O que a lei prevê</h2><p>A CLT assegura ao motorista profissional empregado intervalo mínimo de 1 hora para refeição. Esse período pode coincidir com o tempo de parada obrigatória na condução do veículo, previsto no Código de Trânsito.</p><p>Quando o intervalo não é concedido, ou é concedido só em parte, a empresa deve pagar o período que faltou, com acréscimo de 50% sobre a hora normal.</p><h2>Na prática</h2><ul><li>Um almoço de 20 minutos deixa 40 minutos de intervalo a pagar.</li><li>No transporte coletivo de passageiros, a lei permite que convenção ou acordo coletivo reduza ou fracione o intervalo, em condições específicas.</li><li>O registro da jornada deve mostrar o horário do intervalo.</li></ul>",
+  "corpo": "<h2>O que a lei garante</h2><p>O motorista empregado tem direito a pelo menos 1 hora de pausa para refeição. Essa pausa pode coincidir com a parada obrigatória prevista no Código de Trânsito.</p><p>Quando a pausa não é dada, ou é dada só em parte, a empresa deve pagar o tempo que faltou com 50% a mais sobre a hora normal.</p><h2>Na prática</h2><ul><li>Um almoço de 20 minutos deixa 40 minutos de pausa a pagar.</li><li>No transporte coletivo de passageiros, convenção ou acordo coletivo pode reduzir ou dividir a pausa, em condições específicas.</li><li>Fila de descarga não é pausa: a espera conta como jornada, segundo o STF.</li></ul><h2>O erro que enfraquece o caso</h2><p>Aceitar que o registro de jornada não mostre o horário da pausa. É esse horário que prova quanto tempo o motorista realmente parou. Sem anotação, o almoço de 20 minutos vira, no papel, uma hora inteira.</p><h2>O que fazer agora</h2><p>Anote no diário de bordo, ou em foto com horário, o início e o fim de cada parada para refeição. Com algumas semanas de registros, um advogado consegue calcular o que ficou sem pagar.</p>",
   "faq": [
     [
       "O intervalo pode ser feito com o caminhão parado na fila de descarga?",
-      "O intervalo pode coincidir com a parada obrigatória do Código de Trânsito (CLT, art. 235-C, § 2º). Já o tempo de espera por carga e descarga conta como jornada, segundo o STF na ADI 5322."
+      "A pausa pode coincidir com a parada obrigatória do Código de Trânsito (CLT, art. 235-C, § 2º). Já o tempo de espera por carga e descarga conta como jornada, segundo o STF na ADI 5322."
     ],
     [
-      "Como é pago o intervalo não concedido?",
-      "Paga-se o período suprimido, com acréscimo de 50% sobre a hora normal (CLT, art. 71, § 4º)."
+      "Como é paga a pausa não concedida?",
+      "Paga-se o tempo que faltou, com 50% a mais sobre a hora normal (CLT, art. 71, § 4º)."
+    ],
+    [
+      "Motorista de ônibus pode ter pausa menor?",
+      "No transporte coletivo de passageiros, convenção ou acordo coletivo pode reduzir ou dividir a pausa, em condições específicas (CLT, art. 71, § 5º)."
     ]
   ],
   "base": [
@@ -42,5 +46,6 @@
     "fonte": "Pexels",
     "url": "https://www.pexels.com/photo/13335061/",
     "licenca": "https://www.pexels.com/license/"
-  }
+  },
+  "atualizado": "2026-11-15"
 }

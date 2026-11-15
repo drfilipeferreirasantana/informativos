@@ -3,24 +3,24 @@
   "area": "trabalhista",
   "data": "2026-11-08",
   "titulo": "O que acontece se a empresa não pagar na audiência a parte da rescisão que não discute?",
-  "resumo": "Se a empresa não pagar a parte incontroversa das verbas rescisórias na primeira audiência, paga esses valores com 50% a mais.",
-  "destaque": "Ela paga 50% a mais.",
+  "resumo": "O que a empresa admite dever na rescisão tem de ser pago na primeira audiência. Se não pagar, esses valores ficam 50% maiores.",
+  "destaque": "Paga esses valores com 50% a mais.",
   "pontos": [
     [
       "balanca",
-      "Parte incontroversa é a que a própria empresa reconhece como devida."
+      "Parte incontroversa é o valor que a própria empresa admite dever."
     ],
     [
       "calendario",
-      "Ela deve ser paga na data do comparecimento à Justiça do Trabalho."
+      "Ela deve ser paga na data em que a empresa comparece à Justiça do Trabalho."
     ],
     [
       "carteira",
-      "Se não pagar, esses valores sofrem acréscimo de 50%."
+      "Se não pagar, esses valores ficam 50% maiores."
     ]
   ],
   "exemplo": "A empresa de Juliana admite que deve as férias dela, mas discute só as horas extras. Mesmo assim, não pagou nada até a audiência.",
-  "corpo": "<h2>O que a lei prevê</h2><p>A CLT determina que, havendo controvérsia sobre o valor das verbas rescisórias, o empregador pague ao trabalhador a parte incontroversa dessas verbas na data do comparecimento à Justiça do Trabalho, sob pena de pagá-las acrescidas de 50%.</p><p>A multa do art. 467 está entre os dez assuntos mais levados à Justiça do Trabalho, segundo dados do TST de 2025.</p><h2>Na prática</h2><ul><li>A regra impede que a empresa segure valores que ela mesma reconhece dever.</li><li>O que está em discussão segue para decisão do juiz.</li><li>Vale para verbas rescisórias, como saldo de salário, férias e 13º.</li></ul>",
+  "corpo": "<h2>O que a lei garante</h2><p>Quando há discussão sobre o valor da rescisão, a empresa não pode segurar o que ela mesma admite dever (a parte incontroversa). Esse valor tem de ser pago ao trabalhador no dia em que a empresa comparece à Justiça do Trabalho. Se não pagar, paga depois com 50% a mais.</p><p>A multa do art. 467 está entre os dez assuntos mais levados à Justiça do Trabalho, segundo dados do TST de 2025.</p><h2>Na prática</h2><ul><li>A regra vale para verbas rescisórias, como saldo de salário, férias e 13º.</li><li>O que continua em discussão segue para decisão do juiz.</li></ul><h2>O erro que enfraquece o caso</h2><p>Não guardar o termo de rescisão, os contracheques e as mensagens em que a empresa reconhece a dívida. É isso que mostra o que ela já admitia dever.</p><h2>O que fazer agora</h2><p>Separe tudo o que a empresa já reconheceu por escrito e leve à primeira conversa com um advogado, contando também o que pesa contra. Com o quadro completo, fica claro o que é indiscutível e o que vai ao juiz.</p>",
   "faq": [
     [
       "O que é parte incontroversa?",
@@ -29,6 +29,10 @@
     [
       "De quanto é o acréscimo?",
       "50% sobre a parte incontroversa não paga (CLT, art. 467)."
+    ],
+    [
+      "Quando a empresa precisa pagar essa parte?",
+      "Na data do comparecimento à Justiça do Trabalho."
     ]
   ],
   "base": [
@@ -39,5 +43,6 @@
     "fonte": "Pexels",
     "url": "https://www.pexels.com/photo/37726687/",
     "licenca": "https://www.pexels.com/license/"
-  }
+  },
+  "atualizado": "2026-11-15"
 }

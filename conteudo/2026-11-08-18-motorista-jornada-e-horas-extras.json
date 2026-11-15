@@ -5,8 +5,8 @@
   "serie": "motoristas",
   "ordem": 3,
   "titulo": "Qual é a jornada do motorista de caminhão e quanto vale a hora extra?",
-  "resumo": "A jornada do motorista empregado é de 8 horas por dia, com até 2 horas extras, ou até 4 se a convenção ou o acordo coletivo permitir. A hora extra vale pelo menos 50% a mais.",
-  "destaque": "8 horas, mais até 2 extras.",
+  "resumo": "O motorista com carteira assinada trabalha 8 horas por dia, com até 2 horas extras, ou até 4 se a convenção ou o acordo coletivo permitir. Cada hora extra vale pelo menos 50% a mais.",
+  "destaque": "8 horas; o resto é extra, com 50%.",
   "pontos": [
     [
       "relogio",
@@ -14,7 +14,7 @@
     ],
     [
       "calendario",
-      "São até 2 horas extras por dia, ou até 4 com previsão em norma coletiva."
+      "São até 2 horas extras por dia, ou até 4 se a norma coletiva permitir."
     ],
     [
       "carteira",
@@ -22,15 +22,23 @@
     ]
   ],
   "exemplo": "Adriano dirige das 6h às 19h quase todos os dias, com uma hora de almoço. No fim do mês, o salário é sempre o mesmo.",
-  "corpo": "<h2>O que a lei prevê</h2><p>A CLT fixa a jornada diária do motorista profissional empregado em 8 horas. Ela pode ser prorrogada por até 2 horas extras, ou por até 4 horas se houver previsão em convenção ou acordo coletivo.</p><p>As horas extras são pagas com o acréscimo previsto na Constituição, de pelo menos 50% sobre a hora normal, ou compensadas em banco de horas, na forma da CLT.</p><p>Conta como trabalho o tempo em que o motorista está à disposição do empregador, sem contar os intervalos de refeição e de descanso. Desde a decisão do STF na ADI 5322, o tempo de espera por carga e descarga também entra nessa conta.</p><h2>Na prática</h2><ul><li>Some as horas de direção, de carga e descarga e de espera do dia.</li><li>O que passar de 8 horas é hora extra.</li><li>O limite diário serve também para a segurança na estrada.</li></ul>",
+  "corpo": "<h2>O que a lei garante</h2><p>O dia de trabalho do motorista empregado é de 8 horas. Pode ser estendido em até 2 horas extras, ou em até 4 se houver previsão em convenção ou acordo coletivo.</p><p>As horas extras valem pelo menos 50% a mais que a hora normal, como manda a Constituição, ou são compensadas em banco de horas, na forma da CLT.</p><p>Conta como trabalho todo o tempo em que o motorista está à disposição da empresa, menos as pausas de refeição e de descanso. Desde a decisão do STF na ADI 5322, a espera por carga e descarga também entra nessa conta.</p><h2>Na prática</h2><ul><li>Some as horas de direção, de carga e descarga e de espera do dia.</li><li>O que passar de 8 horas é hora extra.</li><li>O limite diário serve também para a segurança na estrada.</li></ul><h2>O erro que enfraquece o caso</h2><p>Aceitar que, por trabalhar na estrada, não existe controle de horas. A lei garante ao motorista empregado jornada controlada e registrada com fidelidade. Quem não guarda cópia desses registros perde a principal prova das horas extras.</p><h2>O que fazer agora</h2><p>Durante um mês, anote o horário de saída e de chegada de cada dia e compare com o contracheque. Se as horas extras não aparecem, leve as anotações e os registros de jornada a um advogado.</p>",
   "faq": [
     [
       "Quem trabalha na estrada pode ficar sem controle de horas?",
-      "Não. A lei garante ao motorista empregado jornada controlada e registrada de maneira fiel (Lei 13.103/2015, art. 2º, V, b)."
+      "Não. A lei garante ao motorista empregado jornada controlada e registrada com fidelidade (Lei 13.103/2015, art. 2º, V, b)."
     ],
     [
       "Banco de horas é permitido?",
       "Sim. As horas extras podem ser compensadas na forma do art. 59, § 2º, da CLT (CLT, art. 235-C, § 5º)."
+    ],
+    [
+      "Quantas horas extras posso fazer por dia?",
+      "Até 2, ou até 4 se a convenção ou o acordo coletivo permitir."
+    ],
+    [
+      "O tempo de espera entra na conta?",
+      "Sim. Desde a decisão do STF na ADI 5322, a espera por carga e descarga conta como jornada."
     ]
   ],
   "base": [
@@ -48,5 +56,6 @@
     "fonte": "Pexels",
     "url": "https://www.pexels.com/photo/24343234/",
     "licenca": "https://www.pexels.com/license/"
-  }
+  },
+  "atualizado": "2026-11-15"
 }

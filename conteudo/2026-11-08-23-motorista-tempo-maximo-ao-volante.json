@@ -5,12 +5,12 @@
   "serie": "motoristas",
   "ordem": 8,
   "titulo": "Quanto tempo o motorista pode dirigir sem parar?",
-  "resumo": "O Código de Trânsito proíbe o motorista profissional de dirigir mais de 5 horas e meia seguidas. No transporte de cargas, são 30 minutos de descanso a cada 6 horas; no de passageiros, a cada 4 horas.",
-  "destaque": "No máximo 5 horas e meia.",
+  "resumo": "O Código de Trânsito proíbe o motorista profissional de dirigir mais de 5 horas e meia seguidas. Na carga, são 30 minutos de descanso a cada 6 horas; no transporte de passageiros, a cada 4 horas.",
+  "destaque": "5h30 seguidas, no máximo.",
   "pontos": [
     [
       "relogio",
-      "O limite é de 5 horas e meia de direção ininterrupta."
+      "O limite é de 5 horas e meia de direção sem parar."
     ],
     [
       "calendario",
@@ -22,19 +22,27 @@
     ],
     [
       "alerta",
-      "Ninguém pode ordenar que o motorista viaje sem o descanso obrigatório."
+      "Ninguém pode mandar o motorista viajar sem o descanso obrigatório."
     ]
   ],
   "exemplo": "Rogério recebeu a carga atrasada e ouviu do despachante que precisava chegar ao destino sem parar, para não perder o horário de entrega.",
-  "corpo": "<h2>O que a lei prevê</h2><p>O Código de Trânsito proíbe o motorista profissional de dirigir por mais de 5 horas e meia ininterruptas veículos de transporte rodoviário de cargas ou de passageiros.</p><p>No transporte de carga, devem ser observados 30 minutos de descanso dentro de cada 6 horas ao volante, que podem ser divididos, desde que não se ultrapassem 5 horas e meia contínuas de direção. No transporte de passageiros, são 30 minutos a cada 4 horas.</p><p>A lei também proíbe transportadores, embarcadores e demais envolvidos de ordenar que o motorista conduza sem o descanso obrigatório.</p><h2>Na prática</h2><ul><li>Prazo de entrega não justifica dirigir além do limite.</li><li>O tempo de direção é só o período efetivamente ao volante.</li><li>O motorista deve controlar e registrar o tempo de condução.</li></ul>",
+  "corpo": "<h2>O que a lei garante</h2><p>O motorista profissional de caminhão ou de ônibus de viagem não pode dirigir mais de 5 horas e meia sem parar.</p><p>No transporte de carga, são 30 minutos de descanso a cada 6 horas ao volante. Esse descanso pode ser dividido, desde que o motorista não passe de 5 horas e meia seguidas dirigindo. No transporte de passageiros, são 30 minutos a cada 4 horas.</p><p>A lei também proíbe transportadores, embarcadores e demais envolvidos de mandar o motorista dirigir sem o descanso obrigatório.</p><h2>Na prática</h2><ul><li>Prazo de entrega não justifica dirigir além do limite.</li><li>Conta só o tempo efetivamente ao volante.</li><li>O motorista deve controlar e registrar o próprio tempo de direção.</li></ul><h2>O erro que enfraquece o caso</h2><p>Cumprir a ordem de seguir direto e não guardar a prova dela. A pressão costuma vir por mensagem ou ligação do despachante. Apagar a conversa e não anotar as paradas deixa o motorista sozinho com o risco e sem como mostrar de onde veio a ordem.</p><h2>O que fazer agora</h2><p>Registre cada parada no diário de bordo e guarde as mensagens que pedem para seguir sem descanso. Se a ordem se repete, procure um advogado antes que um acidente ou uma multa caia sobre quem estava ao volante.</p>",
   "faq": [
     [
       "A empresa pode exigir que eu dirija direto?",
-      "Não. O Código de Trânsito proíbe que transportador ou embarcador ordene a condução sem a observância do descanso (CTB, art. 67-C, § 7º)."
+      "Não. O Código de Trânsito proíbe que transportador ou embarcador mande dirigir sem o descanso obrigatório (CTB, art. 67-C, § 7º)."
     ],
     [
       "Quem controla o tempo ao volante?",
-      "O motorista é responsável por controlar e registrar o tempo de condução (CTB, art. 67-E)."
+      "O motorista é responsável por controlar e registrar o tempo de direção (CTB, art. 67-E)."
+    ],
+    [
+      "O descanso de 30 minutos pode ser dividido?",
+      "No transporte de carga, sim, desde que o motorista não passe de 5 horas e meia seguidas dirigindo."
+    ],
+    [
+      "Qual o descanso no ônibus de passageiros?",
+      "30 minutos a cada 4 horas ao volante."
     ]
   ],
   "base": [
@@ -46,5 +54,6 @@
     "fonte": "Pexels",
     "url": "https://www.pexels.com/photo/977213/",
     "licenca": "https://www.pexels.com/license/"
-  }
+  },
+  "atualizado": "2026-11-15"
 }

@@ -3,32 +3,36 @@
   "area": "familia",
   "data": "2026-11-07",
   "titulo": "Quem mora com os filhos no imóvel do ex-cônjuge precisa pagar aluguel?",
-  "resumo": "Para o STJ, a moradia compartilhada com os filhos comuns não se confunde com uso exclusivo do imóvel.",
-  "destaque": "Pode não precisar.",
+  "resumo": "Para o STJ, quem fica na casa do ex-cônjuge morando com os filhos do casal não está usando o imóvel sozinho, e por isso a cobrança de aluguel foi afastada.",
+  "destaque": "Não, se a casa abriga os filhos.",
   "pontos": [
     [
       "casa",
-      "Morar com os filhos comuns não é o mesmo que usar o imóvel sozinho."
+      "Morar com os filhos do casal não é o mesmo que usar o imóvel sozinho."
     ],
     [
       "filhos",
-      "Os dois genitores têm o dever de garantir moradia aos filhos."
+      "Pai e mãe têm o dever de garantir moradia aos filhos."
     ],
     [
       "balanca",
-      "O uso do imóvel pode ser considerado parte da pensão, em ação própria."
+      "O uso do imóvel pode contar como parte da pensão, em ação própria."
     ]
   ],
   "exemplo": "Depois da separação, Ana continuou morando com os dois filhos na casa que era só do ex-marido. Pouco tempo depois, ele passou a cobrar aluguel dela.",
-  "corpo": "<p>Uma decisão recente da Terceira Turma do Superior Tribunal de Justiça, noticiada em novembro de 2026, tratou de uma situação frequente depois da separação: um dos pais continua morando com os filhos no imóvel que pertence ao outro.</p>\n<h2>O que foi decidido</h2>\n<p>No caso, o imóvel havia sido comprado por um dos cônjuges antes do casamento e por isso não entrava na partilha. As instâncias anteriores haviam condenado a mãe, que permaneceu na casa com os filhos, a pagar aluguel ao ex-marido. O STJ afastou essa cobrança.</p>\n<p>Segundo a notícia, o entendimento foi de que a indenização pelo uso do imóvel se justifica quando um dos ex-cônjuges o usa sozinho, impedindo o outro de usufruir do bem. Quando a casa serve de moradia aos filhos comuns, os dois genitores se beneficiam, porque ambos têm o dever de prover o sustento e a moradia dos filhos.</p>\n<h2>Por que isso importa</h2>\n<p>A lei permite que a obrigação de alimentos seja cumprida também com hospedagem e sustento, e não apenas em dinheiro. Por isso, a decisão mencionou a possibilidade de o uso do imóvel ser considerado parte dos alimentos, a ser discutida em ação própria.</p>",
+  "corpo": "<h2>O que o STJ decidiu</h2><p>Uma decisão da Terceira Turma do Superior Tribunal de Justiça, noticiada em novembro de 2026, tratou de uma situação frequente depois da separação: um dos pais continua morando com os filhos no imóvel que é do outro.</p><p>No caso, a casa tinha sido comprada por um dos cônjuges antes do casamento e não entrava na partilha. A mãe, que ficou ali com os filhos, havia sido condenada a pagar aluguel ao ex-marido. O STJ afastou essa cobrança.</p><p>Segundo a notícia, cobrar pelo uso só se justifica quando um dos dois usa o imóvel sozinho e impede o outro de aproveitar o bem. Quando a casa é a moradia dos filhos, os dois pais se beneficiam, porque ambos têm o dever de sustentar e abrigar os filhos.</p><h2>Por que isso importa</h2><p>A lei permite que a pensão seja paga também com moradia e sustento, e não só em dinheiro. Por isso, a decisão citou a possibilidade de o uso do imóvel contar como parte da pensão, a ser discutida em ação própria.</p><h2>O erro que enfraquece o caso</h2><p>Sair de casa sem orientação, ou começar a pagar aluguel ao ex por pressão, sem nada por escrito. Também pesa não guardar mensagens sobre quem mora no imóvel e quem paga as despesas dos filhos.</p><h2>O que fazer agora</h2><p>Antes de sair ou de aceitar qualquer cobrança, leve à primeira conversa os documentos do imóvel, a decisão ou o acordo sobre guarda e pensão e as mensagens trocadas. Cada caso depende dos fatos, e um acordo bem feito pode evitar o processo.</p>",
   "faq": [
     [
       "Essa decisão vale para todos os casos?",
-      "Não automaticamente. O STJ diferenciou o uso exclusivo do imóvel, que pode gerar indenização, da moradia compartilhada com os filhos comuns. Cada caso depende dos fatos."
+      "Não automaticamente. O STJ diferenciou o uso exclusivo do imóvel, que pode gerar indenização, da moradia compartilhada com os filhos do casal. Cada caso depende dos fatos."
     ],
     [
       "A pensão pode ser cumprida com moradia?",
-      "A lei permite que os alimentos sejam prestados também com hospedagem e sustento, e o juiz pode fixar a forma de cumprimento (Código Civil, art. 1.701)."
+      "Sim. A lei permite que os alimentos sejam prestados também com hospedagem e sustento, e o juiz pode fixar a forma de cumprimento (Código Civil, art. 1.701)."
+    ],
+    [
+      "Quando o uso do imóvel pode gerar cobrança?",
+      "Quando um dos ex-cônjuges usa o imóvel sozinho e impede o outro de aproveitar o bem, segundo o entendimento noticiado."
     ]
   ],
   "base": [
@@ -46,5 +50,6 @@
     "fonte": "Pexels",
     "url": "https://www.pexels.com/photo/4017416/",
     "licenca": "https://www.pexels.com/license/"
-  }
+  },
+  "atualizado": "2026-11-15"
 }

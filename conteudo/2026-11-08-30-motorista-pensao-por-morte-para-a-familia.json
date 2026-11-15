@@ -5,8 +5,8 @@
   "serie": "motoristas",
   "ordem": 15,
   "titulo": "A família do motorista que morre em acidente tem direito a pensão do INSS?",
-  "resumo": "A pensão por morte é paga aos dependentes do segurado que falece. O prazo para pedir importa: pedida em até 90 dias, ou 180 dias para filhos menores de 16 anos, ela é paga desde a data do óbito.",
-  "destaque": "Sim, os dependentes têm.",
+  "resumo": "A família do motorista que morre tem direito a pensão do INSS. O prazo pesa no bolso: pedida em até 90 dias, ou 180 dias para filhos menores de 16 anos, ela é paga desde a data da morte.",
+  "destaque": "Sim, se pedida no prazo, desde a morte.",
   "pontos": [
     [
       "filhos",
@@ -14,7 +14,7 @@
     ],
     [
       "calendario",
-      "Pedida em até 90 dias do óbito, a pensão é paga desde a morte."
+      "Pedida em até 90 dias da morte, a pensão é paga desde a data do óbito."
     ],
     [
       "relogio",
@@ -22,15 +22,19 @@
     ]
   ],
   "exemplo": "Três meses depois de perder o marido num acidente na BR-101, Simone ainda não tinha procurado o INSS, porque achava que a empresa resolveria tudo.",
-  "corpo": "<h2>O que a lei prevê</h2><p>A pensão por morte é devida ao conjunto dos dependentes do segurado que falecer, aposentado ou não. Na primeira classe de dependentes estão o cônjuge, a companheira, o companheiro e o filho menor de 21 anos, inválido ou com deficiência intelectual, mental ou grave. A existência de dependentes dessa classe exclui os das classes seguintes, como pais e irmãos.</p><p>A data de início depende de quando o pedido é feito. Se for pedida em até 90 dias após o óbito, ou em até 180 dias no caso de filhos menores de 16 anos, a pensão é paga desde a data da morte. Depois desse prazo, é paga a partir do pedido.</p><h2>Na prática</h2><ul><li>Pedir dentro do prazo evita perder os meses entre o óbito e o pedido.</li><li>A pensão do INSS não exclui a indenização que a empresa pode dever à família.</li><li>Enteado e menor sob guarda judicial podem ser equiparados a filho, nas condições da lei.</li></ul>",
+  "corpo": "<h2>O que a lei garante</h2><p>A pensão por morte é paga à família (dependentes) de quem contribuía para o INSS e faleceu, aposentado ou não. Em primeiro lugar estão o cônjuge, a companheira ou o companheiro e o filho menor de 21 anos, inválido ou com deficiência intelectual, mental ou grave. Se existir alguém desse grupo, pais e irmãos ficam de fora.</p><p>A data de início depende de quando o pedido é feito. Pedida em até 90 dias da morte, ou em até 180 dias no caso de filhos menores de 16 anos, a pensão é paga desde o dia do óbito. Depois disso, só a partir do pedido.</p><h2>Na prática</h2><ul><li>Enteado e menor sob guarda judicial podem ser tratados como filho, nas condições da lei.</li><li>A pensão do INSS não exclui a indenização que a empresa pode dever à família.</li></ul><h2>O erro que enfraquece o caso</h2><p>Deixar o tempo passar esperando que a empresa resolva tudo. Cada mês depois do prazo é um mês de pensão perdido.</p><h2>O que fazer agora</h2><p>Separe a certidão de óbito, os documentos do motorista e a prova do vínculo familiar, como certidão de casamento ou de nascimento dos filhos, e faça o pedido ao INSS dentro do prazo.</p>",
   "faq": [
     [
       "Pais do motorista têm direito?",
-      "Só se não houver dependentes da primeira classe, como cônjuge, companheira e filhos (Lei 8.213/1991, art. 16, § 1º)."
+      "Só se não houver cônjuge, companheira ou companheiro e filhos com direito (Lei 8.213/1991, art. 16, § 1º)."
     ],
     [
       "E se o pedido for feito depois de 90 dias?",
-      "A pensão passa a ser paga a partir da data do pedido (Lei 8.213/1991, art. 74, II)."
+      "A pensão passa a ser paga só a partir da data do pedido (Lei 8.213/1991, art. 74, II)."
+    ],
+    [
+      "Recebendo a pensão, a família perde a indenização da empresa?",
+      "Não. A pensão do INSS não exclui a indenização que a empresa pode dever."
     ]
   ],
   "base": [
@@ -42,5 +46,6 @@
     "fonte": "Pexels",
     "url": "https://www.pexels.com/photo/7278919/",
     "licenca": "https://www.pexels.com/license/"
-  }
+  },
+  "atualizado": "2026-11-15"
 }

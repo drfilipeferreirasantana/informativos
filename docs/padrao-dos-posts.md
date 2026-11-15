@@ -80,6 +80,28 @@ Regra para cada post novo:
 7. **Cada tema grande tem um guia completo (página-pilar)** em `ferramentas/pilares.py`: texto do começo ao fim do assunto, com links para os informativos do tema. Já no ar: Divórcio (`divorcio.html`) e Pensão alimentícia (`pensao-alimenticia.html`), aprovados em 14/11/2026, e Guarda dos filhos (`guarda-dos-filhos.html`), aprovado em 15/11/2026. Quando um post está em dois guias, o link do topo vai para o mais específico. Post novo do tema entra pelo slug na seção certa do guia; programado só aparece no guia quando for ao ar. Ao mudar o texto do guia, atualizar o campo `atualizado`.
 8. **Pesquisa do site** (caixa na página inicial, `assets/busca.js`): lê o `busca.json` que o gerador cria com os guias, a calculadora e os posts publicados. Palavra nova que o cliente usa e não acha nada: incluir em `SINONIMOS` no `busca.js`.
 
+## 9. Linguagem e voz do escritório (decidido pelo Dr. Filipe em 15/11/2026)
+
+Frase que guia tudo: **"Conhecer o próprio direito é a primeira forma de protegê-lo."** O leitor deve terminar o informativo com **confiança no escritório**: sentir que encontrou quem domina o assunto.
+
+**Tom: conselheiro firme e direto.** Diz o que precisa ser dito, sem rodeio e sem promessa de resultado.
+
+1. **Sem linguagem de lei no texto corrido.** A regra vem traduzida para a vida real; o termo técnico só aparece entre parênteses ou na base legal. Ex.: em vez de "dano extrapatrimonial que ofenda a esfera moral ou existencial", escrever "ser humilhado, xingado ou exposto na frente dos colegas". Evitar também "a qualquer tempo" (usar "sem prazo"), "presumida" (explicar o efeito), "averiguação", "ensejar", "outrossim".
+2. **Destaque com resposta completa**, nunca só "Pode gerar." ou "Depende.". Dizer quando sim e quando não, em até 40 caracteres (limite da arte): "Sim, se repetida ou em público."
+3. **Sem a palavra "comum" para valorizar o tema** ("Dúvidas comuns", "Situações comuns"). Usar "o que mais acontece", "o erro mais frequente", "na prática".
+4. **Texto impessoal**, sem "eu" nem "nós", e sem analogias de negócios. A experiência aparece pelo conteúdo: o erro que as pessoas cometem antes de procurar advogado, o que decide o caso, o que fazer primeiro.
+5. **Exemplo inventado e típico** (campo `exemplo`), nunca ligado a cliente real.
+6. **Alerta de erro na seção "Na prática"**: os erros que o escritório mais vê são sair de casa sem orientação, não guardar provas (apagar mensagens, não juntar documentos) e deixar o tempo passar.
+7. **Fecho variado e com próximo passo.** "Cada caso depende de análise própria" pode aparecer, mas não igual em todos: junto, dizer o que levar à primeira conversa ou o que fazer agora.
+8. **Verdade dos fatos primeiro**: quando couber, lembrar que o caso se constrói com tudo contado, inclusive o que pesa contra.
+9. **Acordo primeiro, se for justo**: em Família e Consumidor, mostrar que dá para resolver sem processo quando o acordo protege a pessoa.
+
+O que mais chega ao escritório, para escolher temas e exemplos:
+- **Família:** medo de perder bens ou a empresa, de ficar longe dos filhos e de não saber por onde começar.
+- **Trabalho:** todos os temas (rescisão e verbas, horas extras e jornada, assédio e dano moral, insalubridade e acidente). Pano de fundo: empregador que trata o trabalhador como instrumento e ignora a dignidade da pessoa.
+- **Previdenciário:** benefício negado sem explicação, pedido feito sozinho e com erro, doente que não consegue trabalhar, dúvida sobre quando aposenta.
+- **Consumidor e Cível:** empresa que não cumpre o contrato e deixa de lado a boa-fé.
+
 ## Publicação programada
 
 - O campo `data` do JSON é o dia em que o post entra no site. Post com data futura fica guardado: não aparece na página inicial, nas séries, no sitemap nem tem página no ar.

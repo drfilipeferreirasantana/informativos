@@ -5,20 +5,20 @@
   "serie": "motoristas",
   "ordem": 10,
   "titulo": "O motorista precisa fazer exame toxicológico, e quem paga?",
-  "resumo": "O exame toxicológico é exigido na admissão e no desligamento do motorista profissional. A CLT o trata no artigo dos exames médicos obrigatórios, que são feitos por conta do empregador, com direito a contraprova e sigilo.",
-  "destaque": "Sim, e por conta da empresa.",
+  "resumo": "O motorista profissional precisa fazer exame toxicológico na contratação, na saída e durante o contrato. Quem paga é a empresa, e o resultado é sigiloso, com direito a contraprova.",
+  "destaque": "Sim, e quem paga é a empresa.",
   "pontos": [
     [
       "saude",
-      "O exame é exigido antes da admissão e no desligamento."
+      "O exame é exigido antes da contratação e na saída da empresa."
     ],
     [
       "carteira",
-      "Os exames médicos obrigatórios do art. 168 da CLT são por conta do empregador."
+      "Os exames médicos obrigatórios da CLT são pagos pelo empregador."
     ],
     [
       "escudo",
-      "Resultado positivo dá direito a contraprova, e o resultado é confidencial."
+      "Resultado positivo dá direito a contraprova, e o resultado é sigiloso."
     ],
     [
       "calendario",
@@ -26,15 +26,23 @@
     ]
   ],
   "exemplo": "Paulo foi contratado por uma transportadora e soube que o valor do exame toxicológico seria descontado do primeiro salário.",
-  "corpo": "<h2>O que a lei prevê</h2><p>A CLT exige exame toxicológico do motorista profissional antes da admissão e no desligamento, com direito à contraprova em caso de resultado positivo e com confidencialidade dos resultados. O exame deve ter janela de detecção mínima de 90 dias.</p><p>Essa regra está no art. 168 da CLT, que trata dos exames médicos obrigatórios e determina que eles sejam feitos por conta do empregador.</p><p>Durante o contrato, o motorista deve se submeter a exame toxicológico e a programa de controle de uso de drogas e álcool instituído pelo empregador, pelo menos uma vez a cada 2 anos e 6 meses.</p><h2>Na prática</h2><ul><li>O exame feito para a CNH pode ser aproveitado, se realizado nos últimos 60 dias.</li><li>A recusa em fazer o exame é considerada infração disciplinar.</li></ul>",
+  "corpo": "<h2>O que a lei garante</h2><p>A CLT exige exame toxicológico do motorista profissional antes da contratação e na saída da empresa. O exame deve detectar uso de drogas em pelo menos 90 dias anteriores. Se der positivo, o motorista tem direito a contraprova, e o resultado não pode ser divulgado.</p><p>Essa regra está no artigo da CLT sobre exames médicos obrigatórios (art. 168), que manda o empregador pagar por eles. Ou seja: o exame não pode ser descontado do salário.</p><p>Durante o contrato, o motorista faz exame toxicológico e participa do programa de controle de drogas e álcool da empresa pelo menos uma vez a cada 2 anos e 6 meses.</p><h2>Na prática</h2><ul><li>O exame feito para a CNH pode ser aproveitado, se realizado nos últimos 60 dias.</li><li>Recusar o exame é falta disciplinar e pode gerar punição.</li></ul><h2>O erro que enfraquece o caso</h2><p>Aceitar o desconto do exame sem guardar o contracheque ou o recibo. Sem esse papel, fica difícil cobrar a devolução depois.</p><h2>O que fazer agora</h2><p>Se o valor do exame apareceu no contracheque, guarde esse documento e o comprovante do exame. São eles que mostram o desconto indevido.</p>",
   "faq": [
     [
       "Posso recusar o exame?",
-      "A recusa é considerada infração disciplinar, passível de penalidade (CLT, art. 235-B, parágrafo único)."
+      "A recusa é falta disciplinar e pode gerar punição (CLT, art. 235-B, parágrafo único)."
     ],
     [
       "Vale o exame feito para a CNH?",
-      "Sim, pode ser usado o exame do Código de Trânsito realizado nos últimos 60 dias (CLT, art. 168, § 7º)."
+      "Sim, se foi feito nos últimos 60 dias (CLT, art. 168, § 7º)."
+    ],
+    [
+      "A empresa pode descontar o exame do salário?",
+      "Não. Os exames médicos obrigatórios do art. 168 da CLT são feitos por conta do empregador."
+    ],
+    [
+      "O resultado pode ser divulgado?",
+      "Não. A lei garante sigilo do resultado e direito a contraprova se der positivo."
     ]
   ],
   "base": [
@@ -46,5 +54,6 @@
     "fonte": "Pexels",
     "url": "https://www.pexels.com/photo/6629374/",
     "licenca": "https://www.pexels.com/license/"
-  }
+  },
+  "atualizado": "2026-11-15"
 }

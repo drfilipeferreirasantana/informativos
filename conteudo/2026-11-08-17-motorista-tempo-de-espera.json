@@ -5,12 +5,12 @@
   "serie": "motoristas",
   "ordem": 2,
   "titulo": "O tempo esperando carga e descarga conta como jornada do motorista?",
-  "resumo": "O STF decidiu que, enquanto espera carga, descarga ou fiscalização, o motorista continua à disposição da empresa. Por isso esse tempo entra na jornada.",
-  "destaque": "Sim, desde 2023.",
+  "resumo": "Enquanto espera carga, descarga ou fiscalização, o motorista continua à disposição da empresa. O STF decidiu que esse tempo é trabalho e entra na jornada.",
+  "destaque": "Sim, desde a decisão do STF de 2023.",
   "pontos": [
     [
       "alerta",
-      "A regra que deixava a espera fora da jornada foi invalidada pelo STF na ADI 5322."
+      "O STF derrubou, na ADI 5322, a regra que deixava a espera fora da jornada."
     ],
     [
       "relogio",
@@ -22,15 +22,23 @@
     ]
   ],
   "exemplo": "Gilberto chegou ao armazém às 14h, mas a carreta só foi carregada às 21h. A empresa não contou essas sete horas na jornada dele.",
-  "corpo": "<h2>O que foi decidido</h2><p>A Lei do Motorista dizia que o tempo em que o motorista empregado fica aguardando carga ou descarga, ou parado em barreira fiscal, não contava como jornada nem como hora extra, e era pago à parte, com 30% do salário-hora.</p><p>Em 2023, ao julgar a ADI 5322, o Supremo Tribunal Federal invalidou essa regra. Para o STF, durante a espera o motorista continua à disposição do empregador, e por isso esse tempo é trabalho.</p><p>Depois, ao analisar recursos sobre a decisão, o STF definiu que ela não alcança períodos anteriores ao julgamento. Para esses períodos, vale a regra antiga.</p><h2>Na prática</h2><ul><li>O tempo de espera soma na jornada do dia.</li><li>Se a soma passar do limite da jornada, as horas a mais devem ser pagas como extras.</li><li>O registro da jornada, em diário de bordo, papeleta ou rastreador, mostra os horários de chegada e de saída.</li></ul>",
+  "corpo": "<h2>O que foi decidido</h2><p>A Lei do Motorista dizia que o tempo parado aguardando carga, descarga ou fiscalização em barreira não contava como jornada nem como hora extra. Era pago à parte, com 30% do valor da hora.</p><p>Em 2023, ao julgar a ADI 5322, o Supremo Tribunal Federal derrubou essa regra. Durante a espera, o motorista continua à disposição da empresa, e por isso esse tempo é trabalho.</p><p>Depois, ao analisar recursos sobre a decisão, o STF definiu que ela não vale para períodos anteriores ao julgamento. Para esses períodos, segue a regra antiga.</p><h2>Na prática</h2><ul><li>O tempo de espera soma na jornada do dia.</li><li>Se a soma passar do limite, as horas a mais devem ser pagas como extras.</li></ul><h2>O erro que enfraquece o caso</h2><p>Não registrar a hora de chegada e a hora de saída do armazém. Sem esses horários no diário de bordo, na papeleta ou no rastreador, a espera some da conta. Foto do registro a cada viagem resolve.</p><h2>O que fazer agora</h2><p>Reúna os registros de chegada e de saída das últimas viagens e os contracheques. Com eles, um advogado calcula quantas horas de espera ficaram sem pagamento e separa o que é antes e depois da decisão do STF.</p>",
   "faq": [
     [
       "Quanto se pagava pela espera antes da decisão?",
-      "A lei previa indenização de 30% do salário-hora normal (CLT, art. 235-C, § 9º), regra que o STF invalidou na ADI 5322."
+      "A lei previa 30% do valor da hora normal (CLT, art. 235-C, § 9º), regra que o STF derrubou na ADI 5322."
     ],
     [
       "A espera em barreira fiscal também conta?",
-      "Sim. A regra invalidada tratava da espera por carga e descarga e do tempo gasto com fiscalização da mercadoria (CLT, art. 235-C, § 8º)."
+      "Sim. A regra derrubada tratava da espera por carga e descarga e do tempo gasto com fiscalização da mercadoria (CLT, art. 235-C, § 8º)."
+    ],
+    [
+      "A decisão vale para viagens antigas?",
+      "Não. O STF definiu que ela não alcança períodos anteriores ao julgamento, que seguem a regra antiga."
+    ],
+    [
+      "Como provo o tempo de espera?",
+      "Com o diário de bordo, a papeleta ou o rastreador, que mostram os horários de chegada e de saída."
     ]
   ],
   "base": [
@@ -51,5 +59,6 @@
     "fonte": "Pexels",
     "url": "https://www.pexels.com/photo/5876475/",
     "licenca": "https://www.pexels.com/license/"
-  }
+  },
+  "atualizado": "2026-11-15"
 }

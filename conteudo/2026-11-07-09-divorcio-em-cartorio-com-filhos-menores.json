@@ -3,8 +3,8 @@
   "area": "familia",
   "data": "2026-11-07",
   "titulo": "Dá para se divorciar em cartório tendo filhos menores?",
-  "resumo": "Desde 2024, a escritura é possível quando guarda, convivência e pensão dos filhos já foram resolvidas na Justiça.",
-  "destaque": "Sim, com condições.",
+  "resumo": "Desde 2024, quem tem filhos menores pode se divorciar em cartório, desde que guarda, convivência e pensão dos filhos já tenham sido resolvidas na Justiça.",
+  "destaque": "Sim, com guarda e pensão já definidas.",
   "pontos": [
     [
       "balanca",
@@ -20,7 +20,7 @@
     ]
   ],
   "exemplo": "Júlia e Pedro decidiram se separar. A guarda e a pensão da filha de seis anos já foram definidas na Justiça, e os dois estão de acordo sobre todo o resto.",
-  "corpo": "<p>Por muito tempo, quem tinha filhos menores ou incapazes só podia se divorciar pela via judicial. Em agosto de 2024, o Conselho Nacional de Justiça mudou essa regra.</p>\n<h2>O que mudou</h2>\n<p>A Resolução 35/2007 do CNJ, com a redação dada pela Resolução 571/2024, passou a permitir a escritura pública de divórcio quando o casal tem filhos menores ou incapazes, desde que todas as questões sobre guarda, visitação e alimentos desses filhos já tenham sido resolvidas antes em juízo. Essa comprovação fica registrada na própria escritura.</p>\n<h2>Na prática</h2>\n<ul>\n<li>O divórcio em cartório continua exigindo acordo entre o casal.</li>\n<li>A guarda, a convivência e a pensão dos filhos não são decididas no cartório: precisam ter passado antes pela Justiça.</li>\n<li>A escritura exige a presença de advogado ou defensor público.</li>\n<li>Se não houver acordo, o caminho continua sendo o processo judicial.</li>\n</ul>",
+  "corpo": "<h2>O que mudou</h2><p>Por muito tempo, quem tinha filhos menores ou incapazes só podia se divorciar na Justiça. Em agosto de 2024, o Conselho Nacional de Justiça mudou essa regra (Resolução 35/2007, com a redação da Resolução 571/2024).</p><p>Agora o divórcio pode ser feito por escritura em cartório mesmo com filhos menores ou incapazes, desde que guarda, visitas e pensão desses filhos já tenham sido resolvidas antes na Justiça. Essa comprovação fica registrada na escritura.</p><h2>Na prática</h2><ul><li>O divórcio em cartório continua exigindo acordo do casal.</li><li>Guarda, convivência e pensão não são decididas no cartório: precisam ter passado antes pela Justiça.</li><li>A escritura exige advogado ou defensor público.</li><li>Sem acordo, o caminho continua sendo o processo judicial.</li></ul><h2>O erro que enfraquece o caso</h2><p>Sair de casa sem orientação ou fechar acordo de boca sobre filhos e bens. O que não está no papel vira briga depois e pode atrasar o divórcio.</p><h2>O que fazer agora</h2><p>Separe a certidão de casamento, a decisão sobre guarda e pensão e a lista dos bens do casal. Com isso em mãos, a primeira conversa já mostra se o cartório é o caminho mais rápido.</p>",
   "faq": [
     [
       "Precisa de advogado para o divórcio em cartório?",
@@ -29,6 +29,10 @@
     [
       "E se a guarda e a pensão dos filhos ainda não foram decididas?",
       "Nesse caso a escritura não pode ser feita. Guarda, convivência e alimentos precisam ser resolvidos antes na Justiça."
+    ],
+    [
+      "Dá para fazer em cartório se o casal não está de acordo?",
+      "Não. Sem acordo, o caminho é o processo judicial."
     ]
   ],
   "base": [
@@ -45,5 +49,6 @@
     "fonte": "Pexels",
     "url": "https://www.pexels.com/photo/8730977/",
     "licenca": "https://www.pexels.com/license/"
-  }
+  },
+  "atualizado": "2026-11-15"
 }

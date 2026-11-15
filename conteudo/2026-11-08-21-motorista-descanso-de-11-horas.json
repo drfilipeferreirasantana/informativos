@@ -5,8 +5,8 @@
   "serie": "motoristas",
   "ordem": 6,
   "titulo": "Quantas horas de descanso o motorista deve ter entre um dia e outro?",
-  "resumo": "Dentro de cada período de 24 horas, o motorista empregado tem direito a 11 horas de descanso. O STF invalidou a regra que permitia dividir esse descanso em partes.",
-  "destaque": "11 horas seguidas.",
+  "resumo": "Dentro de cada 24 horas, o motorista com carteira assinada tem direito a 11 horas de descanso. O STF derrubou a regra que permitia dividir esse descanso em partes.",
+  "destaque": "Sim: 11 horas seguidas, sem dividir.",
   "pontos": [
     [
       "relogio",
@@ -14,7 +14,7 @@
     ],
     [
       "alerta",
-      "Depois da decisão do STF, esse descanso não pode ser fracionado."
+      "Depois da decisão do STF, esse descanso não pode ser dividido."
     ],
     [
       "check",
@@ -22,15 +22,19 @@
     ]
   ],
   "exemplo": "Valter chegou de viagem à 1h da manhã e recebeu ordem de sair de novo às 7h, com outra carga.",
-  "corpo": "<h2>O que a lei prevê</h2><p>A CLT assegura ao motorista profissional empregado 11 horas de descanso dentro de cada período de 24 horas. A lei permitia dividir esse descanso, desde que a primeira parte tivesse pelo menos 8 horas seguidas.</p><p>Em 2023, ao julgar a ADI 5322, o Supremo Tribunal Federal invalidou o fracionamento desse descanso. Assim, as 11 horas devem ser seguidas.</p><p>O Código de Trânsito também determina que o condutor só inicie uma viagem depois de cumprir integralmente o descanso.</p><h2>Na prática</h2><ul><li>Entre o fim de uma jornada e o início da outra devem passar 11 horas.</li><li>Nas viagens longas, o descanso pode ser feito no veículo ou em alojamento, desde que em condições adequadas.</li></ul>",
+  "corpo": "<h2>O que a lei garante</h2><p>O motorista empregado tem direito a 11 horas de descanso dentro de cada período de 24 horas. A lei permitia dividir esse descanso, desde que a primeira parte tivesse pelo menos 8 horas seguidas.</p><p>Em 2023, ao julgar a ADI 5322, o Supremo Tribunal Federal derrubou essa divisão. Agora, as 11 horas devem ser seguidas.</p><p>O Código de Trânsito também manda que o motorista só comece uma viagem depois de cumprir todo o descanso. E proíbe transportadores e embarcadores de mandar sair antes.</p><h2>Na prática</h2><ul><li>Entre o fim de uma jornada e o início da outra devem passar 11 horas.</li><li>Nas viagens longas, o descanso pode ser feito no veículo ou em alojamento, desde que em condições adequadas.</li></ul><h2>O erro que enfraquece o caso</h2><p>Sair de novo sem descansar e não deixar nenhum registro disso. A ordem de saída costuma chegar por mensagem ou ligação. Apagar essas mensagens, ou não anotar a hora de chegada e de partida, tira do motorista a prova de que o descanso foi cortado.</p><h2>O que fazer agora</h2><p>Guarde as mensagens com ordens de saída e as anotações de chegada e partida. Leve esse material a um advogado: ele mostra se o descanso foi respeitado e o que pode ser cobrado.</p>",
   "faq": [
     [
       "Pode descansar dentro do caminhão?",
-      "Nas viagens de longa distância, o repouso diário pode ser feito no veículo ou em alojamento que ofereça condições adequadas (CLT, art. 235-C, § 4º)."
+      "Nas viagens de longa distância, o descanso diário pode ser feito no veículo ou em alojamento com condições adequadas (CLT, art. 235-C, § 4º)."
     ],
     [
       "A empresa pode mandar sair antes do fim do descanso?",
-      "O Código de Trânsito proíbe iniciar viagem sem o descanso completo e proíbe que transportadores ou embarcadores ordenem isso (CTB, art. 67-C, §§ 6º e 7º)."
+      "Não. O Código de Trânsito proíbe começar viagem sem o descanso completo e proíbe que transportadores ou embarcadores mandem fazer isso (CTB, art. 67-C, §§ 6º e 7º)."
+    ],
+    [
+      "O descanso ainda pode ser dividido em duas partes?",
+      "Não. O STF derrubou essa divisão na ADI 5322. As 11 horas devem ser seguidas."
     ]
   ],
   "base": [
@@ -48,5 +52,6 @@
     "fonte": "Pexels",
     "url": "https://www.pexels.com/photo/11911883/",
     "licenca": "https://www.pexels.com/license/"
-  }
+  },
+  "atualizado": "2026-11-15"
 }

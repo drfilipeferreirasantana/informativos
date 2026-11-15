@@ -5,8 +5,8 @@
   "serie": "grandes-causas",
   "ordem": 26,
   "titulo": "Quem ganha salário alto tem menos direitos trabalhistas?",
-  "destaque": "Não, mas algumas regras mudam.",
-  "resumo": "Empregados com diploma de nível superior e salário a partir de duas vezes o teto do INSS podem negociar certos pontos diretamente com a empresa e aceitar arbitragem. Os direitos básicos continuam.",
+  "destaque": "Não, mas pode negociar mais pontos.",
+  "resumo": "Quem tem diploma de nível superior e ganha a partir de duas vezes o teto do INSS pode negociar alguns pontos direto com a empresa e aceitar arbitragem. FGTS, férias, 13º e outros direitos básicos continuam garantidos.",
   "pontos": [
     [
       "maleta",
@@ -14,11 +14,11 @@
     ],
     [
       "documento",
-      "Os pontos negociáveis são os mesmos que a convenção coletiva pode alterar."
+      "Os pontos negociáveis são os mesmos que a convenção coletiva pode mudar."
     ],
     [
       "balanca",
-      "Cláusula de arbitragem depende de iniciativa ou concordância expressa do empregado."
+      "Arbitragem só vale por iniciativa ou concordância expressa do empregado."
     ],
     [
       "escudo",
@@ -26,19 +26,23 @@
     ]
   ],
   "exemplo": "Juliana, engenheira, recebeu uma proposta de diretoria com cláusula de banco de horas individual e de arbitragem para conflitos. Antes de assinar, ela quer saber o que essas cláusulas realmente mudam.",
-  "corpo": "<p>A Reforma Trabalhista de 2017 criou regras próprias para o chamado empregado hipersuficiente: quem tem diploma de nível superior e salário mensal igual ou superior a duas vezes o limite máximo dos benefícios do INSS.</p>\n<h2>O que a lei prevê</h2>\n<ul>\n<li>Para esse empregado, o que for negociado diretamente com a empresa, nos temas do art. 611-A da CLT, tem a mesma força de uma norma coletiva e prevalece sobre ela (CLT, art. 444, parágrafo único).</li>\n<li>Nos contratos com remuneração superior a duas vezes o teto do INSS, pode haver cláusula de arbitragem, desde que por iniciativa do empregado ou com sua concordância expressa (CLT, art. 507-A).</li>\n<li>Os direitos listados no art. 611-B da CLT, como FGTS, 13º, férias com um terço e normas de saúde e segurança, não podem ser suprimidos.</li>\n</ul>\n<h2>Na prática</h2>\n<ul>\n<li>Temas como jornada, banco de horas, intervalo e plano de cargos podem ser negociados dentro desses limites.</li>\n<li>Cláusulas assinadas sem real liberdade ou que retirem direitos mínimos podem ser questionadas.</li>\n<li>A leitura do contrato antes da assinatura evita surpresas na saída.</li>\n</ul>",
+  "corpo": "<p>A Reforma Trabalhista de 2017 criou regras próprias para quem tem diploma de nível superior e salário mensal igual ou maior que duas vezes o teto dos benefícios do INSS (o chamado empregado hipersuficiente). A ideia é que essa pessoa negocia com mais força, mas os direitos básicos não somem.</p>\n<h2>O que a lei diz</h2>\n<ul>\n<li>O que esse empregado combinar direto com a empresa, nos temas do art. 611-A da CLT, vale como norma coletiva e passa à frente dela (CLT, art. 444, parágrafo único).</li>\n<li>Com salário acima de duas vezes o teto do INSS, o contrato pode prever arbitragem para resolver conflitos, desde que por iniciativa do empregado ou com a concordância expressa dele (CLT, art. 507-A).</li>\n<li>Os direitos do art. 611-B da CLT, como FGTS, 13º, férias com um terço e normas de saúde e segurança, não podem ser retirados.</li>\n</ul>\n<h2>Na prática</h2>\n<ul>\n<li>Jornada, banco de horas, intervalo e plano de cargos podem ser negociados dentro desses limites.</li>\n<li>Cláusula assinada sem real liberdade ou que tire direito mínimo pode ser questionada.</li>\n</ul>\n<h2>O erro que enfraquece o caso</h2>\n<p>Assinar a proposta sem ler as cláusulas de jornada e de arbitragem, confiando só no valor do salário. O que se assina na entrada define o que se discute na saída.</p>\n<h2>O que fazer agora</h2>\n<p>Antes de assinar, leve a proposta completa para análise, com a carta de oferta e o contrato. É nessa hora que ainda dá para pedir ajustes.</p>",
   "faq": [
     [
       "Quem é o empregado hipersuficiente?",
-      "Quem tem diploma de nível superior e salário igual ou superior a duas vezes o teto do INSS (CLT, art. 444, parágrafo único)."
+      "Quem tem diploma de nível superior e salário igual ou maior que duas vezes o teto do INSS (CLT, art. 444, parágrafo único)."
     ],
     [
-      "Posso perder o FGTS por negociação?",
-      "Não. O FGTS está entre os direitos que não podem ser suprimidos (CLT, art. 611-B)."
+      "Posso perder o FGTS numa negociação?",
+      "Não. O FGTS está entre os direitos que não podem ser retirados (CLT, art. 611-B)."
     ],
     [
       "A arbitragem é obrigatória?",
-      "Não. Depende de iniciativa ou concordância expressa do empregado (CLT, art. 507-A)."
+      "Não. Só vale se partir do empregado ou se ele concordar de forma expressa (CLT, art. 507-A)."
+    ],
+    [
+      "O que pode ser negociado direto com a empresa?",
+      "Os temas do art. 611-A da CLT, como jornada, banco de horas, intervalo e plano de cargos."
     ]
   ],
   "base": [
@@ -49,5 +53,6 @@
     "fonte": "Pexels",
     "url": "https://www.pexels.com/photo/3760514/",
     "licenca": "https://www.pexels.com/license/"
-  }
+  },
+  "atualizado": "2026-11-15"
 }

@@ -4,8 +4,8 @@
   "data": "2026-11-08",
   "serie": "motoristas",
   "titulo": "Motorista que dirige de madrugada tem direito a adicional noturno?",
-  "resumo": "O motorista profissional com carteira assinada recebe pelo menos 20% a mais pelas horas entre 22h e 5h, e cada hora noturna é contada como 52 minutos e 30 segundos.",
-  "destaque": "Sim, se for empregado.",
+  "resumo": "O motorista com carteira assinada recebe pelo menos 20% a mais pelas horas entre 22h e 5h. E cada hora noturna conta como 52 minutos e 30 segundos.",
+  "destaque": "Sim: 20% a mais, entre 22h e 5h.",
   "pontos": [
     [
       "relogio",
@@ -25,7 +25,7 @@
     ]
   ],
   "exemplo": "Sérgio é motorista de carreta com carteira assinada e faz a rota de Linhares a São Paulo saindo às 21h. Boa parte da viagem acontece de madrugada, mas o contracheque não mostra nenhum adicional noturno.",
-  "corpo": "<h2>O que a lei prevê</h2><p>A CLT tem regras próprias para o motorista profissional empregado do transporte rodoviário de cargas e de passageiros, incluídas pela Lei 13.103/2015. Uma delas manda aplicar à hora de trabalho noturno a mesma regra que vale para os demais trabalhadores.</p><p>Assim, o trabalho feito entre as 22h de um dia e as 5h do dia seguinte é pago com acréscimo de pelo menos 20% sobre a hora diurna. Além disso, cada hora noturna é contada como 52 minutos e 30 segundos, o que faz 7 horas de relógio valerem 8 horas de trabalho. Quando a viagem começa de dia e entra pela noite, a regra vale para as horas noturnas.</p><h2>O que mudou com o STF</h2><p>Em 2023, ao julgar a ADI 5322, o Supremo Tribunal Federal invalidou a regra que deixava fora da jornada o tempo em que o motorista espera carga, descarga ou fiscalização. Para o STF, nesse tempo o motorista continua à disposição da empresa. Por isso, a espera conta como jornada, também quando acontece de madrugada.</p><h2>Na prática</h2><ul><li>A regra vale para o motorista com carteira assinada. O motorista autônomo, sem vínculo de emprego, não está nessas regras da CLT.</li><li>O ajudante que acompanha o motorista segue as mesmas regras de jornada.</li><li>Confira no contracheque se o adicional noturno aparece separado.</li><li>Guarde cópias de diário de bordo, papeletas e relatórios de rastreamento, que mostram os horários.</li></ul>",
+  "corpo": "<h2>O que a lei garante</h2><p>O motorista empregado do transporte rodoviário de cargas e de passageiros tem regras próprias na CLT, incluídas pela Lei 13.103/2015. Uma delas manda pagar o trabalho noturno do mesmo jeito que para os demais trabalhadores.</p><p>Assim, o trabalho feito entre as 22h de um dia e as 5h do dia seguinte vale pelo menos 20% a mais que a hora do dia. E cada hora noturna conta como 52 minutos e 30 segundos, o que faz 7 horas de relógio valerem 8 horas de trabalho. Se a viagem começa de dia e entra pela noite, a regra vale para as horas noturnas.</p><h2>O que mudou com o STF</h2><p>Em 2023, ao julgar a ADI 5322, o Supremo Tribunal Federal derrubou a regra que deixava fora da jornada o tempo de espera por carga, descarga ou fiscalização. Nesse tempo, o motorista continua à disposição da empresa. Por isso, a espera conta como jornada, também de madrugada.</p><h2>Na prática</h2><ul><li>A regra vale para o motorista com carteira assinada. O autônomo, sem vínculo de emprego, não está nessas regras da CLT.</li><li>O ajudante que acompanha o motorista segue as mesmas regras de jornada.</li><li>O contracheque deve mostrar o adicional noturno separado.</li></ul><h2>O erro que enfraquece o caso</h2><p>Não guardar cópia do diário de bordo, das papeletas e dos relatórios do rastreador. São eles que mostram quantas horas foram rodadas de madrugada. Quando o motorista sai da empresa sem essas cópias, a prova fica nas mãos de quem não pagou.</p><h2>O que fazer agora</h2><p>A cada viagem, tire foto do diário de bordo ou da papeleta. Junte os contracheques e leve tudo a um advogado para conferir se o adicional noturno foi pago.</p>",
   "faq": [
     [
       "Motorista autônomo também recebe adicional noturno?",
@@ -33,11 +33,15 @@
     ],
     [
       "O ajudante do caminhão também tem direito?",
-      "Sim. As regras do art. 235-C, inclusive a do trabalho noturno, se aplicam ao ajudante empregado que acompanha o motorista (CLT, art. 235-C, § 16)."
+      "Sim. As regras do art. 235-C, inclusive a do trabalho noturno, valem para o ajudante empregado que acompanha o motorista (CLT, art. 235-C, § 16)."
     ],
     [
       "O motorista de ônibus de viagem entra nessa regra?",
       "Sim. A CLT inclui o motorista empregado do transporte rodoviário coletivo de passageiros (CLT, art. 235-A, I)."
+    ],
+    [
+      "A espera de madrugada no pátio conta?",
+      "Sim. Desde a decisão do STF na ADI 5322, o tempo de espera por carga e descarga conta como jornada, também de madrugada."
     ]
   ],
   "base": [
@@ -57,5 +61,6 @@
     "url": "https://www.pexels.com/photo/11053643/",
     "licenca": "https://www.pexels.com/license/"
   },
-  "ordem": 1
+  "ordem": 1,
+  "atualizado": "2026-11-15"
 }

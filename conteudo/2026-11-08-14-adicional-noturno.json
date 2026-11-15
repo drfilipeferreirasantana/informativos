@@ -3,32 +3,40 @@
   "area": "trabalhista",
   "data": "2026-11-08",
   "titulo": "Quanto vale a hora de trabalho à noite?",
-  "resumo": "O trabalho noturno urbano é pago com pelo menos 20% a mais, e cada hora noturna é contada como 52 minutos e 30 segundos.",
-  "destaque": "20% a mais, e a hora é menor.",
+  "resumo": "Quem trabalha entre 22h e 5h na cidade recebe pelo menos 20% a mais por hora. E a hora da noite é mais curta: 52 minutos e 30 segundos.",
+  "destaque": "Sim: 20% a mais, entre 22h e 5h.",
   "pontos": [
     [
       "relogio",
-      "A hora noturna é contada como 52 minutos e 30 segundos."
+      "A hora da noite é contada como 52 minutos e 30 segundos."
     ],
     [
       "carteira",
-      "O adicional noturno é de pelo menos 20% sobre a hora diurna."
+      "Cada hora noturna vale pelo menos 20% a mais que a hora do dia."
     ],
     [
       "calendario",
-      "No trabalho urbano, o período noturno vai das 22h às 5h."
+      "No trabalho urbano, a noite vai das 22h às 5h."
     ]
   ],
   "exemplo": "Renata trabalha como recepcionista de hotel das 22h às 6h. O contracheque mostra o mesmo valor por hora de quem trabalha de dia.",
-  "corpo": "<h2>O que a lei prevê</h2><p>A CLT determina que o trabalho noturno tenha remuneração superior à do diurno, com acréscimo de pelo menos 20% sobre a hora diurna. A hora do trabalho noturno é computada como de 52 minutos e 30 segundos.</p><p>Para o trabalhador urbano, considera-se noturno o trabalho executado entre as 22h de um dia e as 5h do dia seguinte. O adicional noturno está entre os 20 assuntos mais levados à Justiça do Trabalho.</p><h2>Na prática</h2><ul><li>Como a hora é menor, 7 horas de relógio no período noturno equivalem a 8 horas de trabalho.</li><li>Trabalhadores rurais têm regras próprias.</li><li>Confira no contracheque se o adicional aparece separado.</li></ul>",
+  "corpo": "<h2>O que a lei garante</h2><p>O trabalho à noite deve ser pago com pelo menos 20% a mais sobre a hora do dia (adicional noturno). Além disso, a hora noturna é mais curta: conta como 52 minutos e 30 segundos.</p><p>Para quem trabalha na cidade, é noturno o trabalho feito entre as 22h de um dia e as 5h do dia seguinte. Trabalhadores rurais têm regras próprias. O adicional noturno está entre os 20 assuntos mais levados à Justiça do Trabalho.</p><h2>Na prática</h2><ul><li>Como a hora é menor, 7 horas de relógio à noite equivalem a 8 horas de trabalho.</li><li>O contracheque deve mostrar o adicional noturno separado.</li></ul><h2>O erro que enfraquece o caso</h2><p>Jogar fora os contracheques e não ter registro dos horários. É a comparação entre o horário trabalhado e o valor pago que mostra a diferença. Sem esses papéis, a conta não fecha.</p><h2>O que fazer agora</h2><p>Separe os contracheques dos últimos meses e procure a linha do adicional noturno. Se ela não existe, ou o valor parece baixo, leve os contracheques e a escala de horários a um advogado.</p>",
   "faq": [
     [
       "De quanto é o adicional noturno?",
-      "Pelo menos 20% sobre a hora diurna (CLT, art. 73)."
+      "Pelo menos 20% sobre a hora do dia (CLT, art. 73)."
     ],
     [
       "Quanto dura a hora noturna?",
-      "52 minutos e 30 segundos (CLT, art. 73, § 1º)."
+      "52 minutos e 30 segundos (CLT, art. 73, § 1º). Por isso, 7 horas de relógio à noite valem 8 horas de trabalho."
+    ],
+    [
+      "Qual horário conta como noturno?",
+      "Para o trabalhador urbano, das 22h de um dia às 5h do dia seguinte."
+    ],
+    [
+      "Trabalhador rural segue a mesma regra?",
+      "Não. O trabalho rural tem regras próprias."
     ]
   ],
   "base": [
@@ -39,5 +47,6 @@
     "fonte": "Pexels",
     "url": "https://www.pexels.com/photo/17507234/",
     "licenca": "https://www.pexels.com/license/"
-  }
+  },
+  "atualizado": "2026-11-15"
 }

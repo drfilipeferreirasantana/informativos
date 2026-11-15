@@ -3,12 +3,12 @@
   "area": "trabalhista",
   "data": "2026-11-08",
   "titulo": "Em quais situações dá para faltar ao trabalho sem desconto?",
-  "resumo": "Casamento, falecimento de familiar, nascimento de filho, doação de sangue, vestibular, consultas e exames estão entre as faltas sem desconto.",
-  "destaque": "Em várias, previstas em lei.",
+  "resumo": "Casamento, morte de familiar, nascimento de filho, doação de sangue, vestibular, consultas e exames estão entre as faltas que a empresa não pode descontar do salário.",
+  "destaque": "Sim, nos casos da lei, com comprovante.",
   "pontos": [
     [
       "calendario",
-      "Até 2 dias por falecimento de familiar e até 3 dias pelo casamento."
+      "Até 2 dias pela morte de familiar e até 3 dias pelo casamento."
     ],
     [
       "filhos",
@@ -20,15 +20,23 @@
     ]
   ],
   "exemplo": "O pai de Eduardo faleceu numa terça-feira. No mês seguinte, ele viu dois dias descontados do salário.",
-  "corpo": "<h2>O que a lei prevê</h2><p>A CLT lista situações em que o empregado pode deixar de comparecer ao serviço sem prejuízo do salário. Entre elas: até 2 dias por falecimento do cônjuge, pais, filhos, irmãos ou dependente; até 3 dias por casamento; 5 dias por nascimento de filho, adoção ou guarda compartilhada; 1 dia a cada 12 meses para doação de sangue.</p><p>Também estão na lista: até 2 dias para alistamento eleitoral, os dias de prova de vestibular, o tempo necessário para comparecer a juízo, acompanhar a esposa ou companheira em até 6 consultas na gravidez, 1 dia por ano para levar filho de até 6 anos ao médico e até 3 dias por ano para exames preventivos de câncer.</p><h2>Na prática</h2><ul><li>Leve sempre o comprovante: certidão, atestado ou declaração.</li><li>Acordos e convenções coletivas podem prever prazos maiores.</li><li>Desconto indevido pode ser cobrado.</li></ul>",
+  "corpo": "<h2>O que a lei garante</h2><p>Em algumas situações, o empregado pode faltar sem perder salário. Entre elas:</p><ul><li>até 2 dias pela morte do cônjuge, pais, filhos, irmãos ou dependente;</li><li>até 3 dias pelo casamento;</li><li>5 dias pelo nascimento de filho, adoção ou guarda compartilhada;</li><li>1 dia a cada 12 meses para doar sangue;</li><li>até 2 dias para tirar o título de eleitor;</li><li>os dias de prova de vestibular;</li><li>o tempo necessário para ir à Justiça;</li><li>até 6 consultas para acompanhar a esposa ou companheira na gravidez;</li><li>1 dia por ano para levar filho de até 6 anos ao médico;</li><li>até 3 dias por ano para exames preventivos de câncer.</li></ul><p>Acordos e convenções coletivas podem prever prazos maiores.</p><h2>O erro que enfraquece o caso</h2><p>Faltar sem entregar o comprovante. A certidão, o atestado ou a declaração é o que mostra o motivo da falta. Sem ele, a empresa tem argumento para descontar.</p><h2>O que fazer agora</h2><p>Se houve desconto, compare o contracheque com a data da falta e separe o comprovante entregue. Desconto indevido pode ser cobrado, e esses dois papéis são o ponto de partida.</p>",
   "faq": [
     [
       "Quantos dias posso faltar pelo casamento?",
-      "Até 3 dias consecutivos (CLT, art. 473, II)."
+      "Até 3 dias seguidos (CLT, art. 473, II)."
     ],
     [
       "Posso faltar para levar meu filho ao médico?",
       "Sim, 1 dia por ano para filho de até 6 anos (CLT, art. 473, XI)."
+    ],
+    [
+      "Quantos dias tenho pela morte de um familiar?",
+      "Até 2 dias, no caso de cônjuge, pais, filhos, irmãos ou dependente."
+    ],
+    [
+      "A empresa descontou uma falta permitida. O que fazer?",
+      "Guarde o contracheque e o comprovante da falta. Desconto indevido pode ser cobrado."
     ]
   ],
   "base": [
@@ -39,5 +47,6 @@
     "fonte": "Pexels",
     "url": "https://www.pexels.com/photo/27355925/",
     "licenca": "https://www.pexels.com/license/"
-  }
+  },
+  "atualizado": "2026-11-15"
 }

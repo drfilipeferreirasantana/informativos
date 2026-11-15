@@ -5,31 +5,31 @@
   "serie": "familia-patrimonio",
   "ordem": 4,
   "titulo": "Pacto antenupcial e contrato de convivência: para que servem?",
-  "destaque": "Para o casal escolher as regras.",
-  "resumo": "Antes do casamento, o pacto antenupcial define o regime de bens. Na união estável, o contrato de convivência faz esse papel. Sem eles, vale a comunhão parcial.",
+  "destaque": "Definir o regime de bens do casal.",
+  "resumo": "O pacto antenupcial, feito antes do casamento, define as regras dos bens do casal. Na união estável, o contrato de convivência faz esse papel. Sem eles, vale a comunhão parcial.",
   "pontos": [
     [
       "documento",
-      "O pacto antenupcial é feito por escritura pública, em cartório."
+      "O pacto antenupcial só vale se for feito por escritura pública, em cartório."
     ],
     [
       "casa",
-      "Na união estável, o contrato escrito pode escolher outro regime."
+      "Na união estável, um contrato escrito pode escolher outro regime."
     ],
     [
       "escudo",
-      "Protege especialmente quem já tem empresa ou patrimônio."
+      "Dá segurança especialmente a quem já tem empresa ou patrimônio."
     ],
     [
       "alerta",
-      "Não pode conter cláusula contrária a regra absoluta da lei."
+      "Não pode conter cláusula que contrarie regra obrigatória da lei."
     ]
   ],
   "exemplo": "Camila tem uma clínica e vai se casar com Rafael. Antes do casamento, eles fazem um pacto antenupcial em cartório escolhendo a separação total de bens, para que a clínica e o que ela render fiquem fora de uma futura partilha.",
-  "corpo": "<p>Quem tem empresa, quotas, imóveis ou herança a receber costuma se perguntar como proteger esse patrimônio ao casar ou ao viver em união estável. O caminho previsto em lei é combinar as regras antes, por escrito.</p>\n<h2>O que a lei prevê</h2>\n<ul>\n<li>Os noivos podem estipular quanto aos bens o que quiserem, antes de celebrado o casamento (Código Civil, art. 1.639).</li>\n<li>O pacto antenupcial é nulo se não for feito por escritura pública e não tem efeito se o casamento não acontecer (Código Civil, art. 1.653).</li>\n<li>É nula a cláusula que contrarie disposição absoluta de lei (Código Civil, art. 1.655).</li>\n<li>Para valer perante terceiros, o pacto deve ser registrado no Registro de Imóveis do domicílio do casal (Código Civil, art. 1.657).</li>\n<li>Na união estável, vale a comunhão parcial, salvo contrato escrito entre os companheiros (Código Civil, art. 1.725).</li>\n</ul>\n<h2>Na prática</h2>\n<ul>\n<li>É possível escolher separação total, comunhão universal, participação final nos aquestos ou criar regras próprias, respeitados os limites da lei.</li>\n<li>Já casados podem mudar o regime, mas apenas com pedido de ambos ao juiz (Código Civil, art. 1.639, § 2º).</li>\n<li>Quanto antes o contrato de convivência for feito, menor a dúvida sobre o que foi adquirido antes dele.</li>\n</ul>",
+  "corpo": "<h2>O que a lei diz</h2><p>Quem tem empresa, quotas, imóveis ou herança a receber pode combinar, por escrito e antes, como ficam os bens no casamento ou na união estável.</p><ul><li>Antes do casamento, os noivos podem combinar o que quiserem sobre os bens (Código Civil, art. 1.639).</li><li>O pacto antenupcial não vale se não for feito por escritura pública, e não tem efeito se o casamento não acontecer (Código Civil, art. 1.653).</li><li>Não vale a cláusula que contrarie regra obrigatória da lei (Código Civil, art. 1.655).</li><li>Para valer perante outras pessoas, o pacto deve ser registrado no Registro de Imóveis do domicílio do casal (Código Civil, art. 1.657).</li><li>Na união estável, vale a comunhão parcial, salvo contrato escrito entre os companheiros (Código Civil, art. 1.725).</li></ul><h2>Na prática</h2><ul><li>É possível escolher separação total, comunhão universal, participação final nos aquestos ou criar regras próprias, dentro dos limites da lei.</li><li>Quem já é casado pode mudar o regime, mas só com pedido dos dois ao juiz (Código Civil, art. 1.639, § 2º).</li></ul><h2>O erro mais frequente</h2><p>Deixar para depois. Na união estável, quanto mais tempo passa sem contrato, maior a dúvida sobre o que foi adquirido antes dele. E um pacto feito sem escritura pública simplesmente não vale.</p><h2>Próximo passo</h2><p>Faça uma lista do que cada um já tem e do que espera receber, e leve à conversa com um advogado antes de ir ao cartório. É assim que se escolhe o regime certo para o casal.</p>",
   "faq": [
     [
-      "Pacto antenupcial pode ser feito em papel comum?",
+      "Pacto antenupcial pode ser feito em papel simples?",
       "Não. Precisa de escritura pública em cartório (Código Civil, art. 1.653)."
     ],
     [
@@ -39,6 +39,10 @@
     [
       "Depois de casado ainda dá para mudar?",
       "Sim, com pedido dos dois ao juiz e motivo justificado (Código Civil, art. 1.639, § 2º)."
+    ],
+    [
+      "Sem pacto nem contrato, qual regime vale?",
+      "A comunhão parcial de bens (Código Civil, art. 1.725, para a união estável)."
     ]
   ],
   "base": [
@@ -49,5 +53,6 @@
     "fonte": "Pexels",
     "url": "https://www.pexels.com/photo/7979420/",
     "licenca": "https://www.pexels.com/license/"
-  }
+  },
+  "atualizado": "2026-11-15"
 }

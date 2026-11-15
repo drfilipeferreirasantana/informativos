@@ -6,7 +6,7 @@
   "serie": "grandes-causas",
   "ordem": 3,
   "titulo": "Bancário que trabalha 8 horas recebe a 7ª e a 8ª como extras?",
-  "destaque": "Se não tiver confiança real, sim.",
+  "destaque": "Sim, se a confiança não for real.",
   "resumo": "A jornada do bancário é de 6 horas. A de 8 horas só vale para quem tem cargo de confiança de verdade e gratificação de pelo menos um terço do salário. Sem isso, a 7ª e a 8ª horas são extras.",
   "pontos": [
     [
@@ -15,7 +15,7 @@
     ],
     [
       "maleta",
-      "A de 8 horas exige cargo de confiança real."
+      "A de 8 horas exige cargo de confiança de verdade."
     ],
     [
       "carteira",
@@ -27,7 +27,7 @@
     ]
   ],
   "exemplo": "Rafael trabalhava como analista em uma agência, com jornada de 8 horas e o cargo registrado como de confiança. Ele não tinha subordinados, não assinava sozinho e cumpria tarefas definidas pelo gerente, iguais às dos colegas de 6 horas.",
-  "corpo": "<p>Os bancários têm uma jornada menor que a dos demais trabalhadores. Muitos bancos, porém, registram parte dos empregados em cargos de confiança com jornada de 8 horas, o que gera muitas discussões na Justiça.</p>\n<h2>O que a lei prevê</h2>\n<ul>\n<li>A jornada do bancário é de 6 horas por dia, de segunda a sexta (CLT, art. 224).</li>\n<li>Essa regra não se aplica a quem exerce funções de direção, gerência, fiscalização, chefia ou outros cargos de confiança, desde que a gratificação não seja inferior a um terço do salário do cargo efetivo (art. 224, § 2º). Nesse caso, a jornada é de 8 horas.</li>\n<li>Para o TST, o cargo de confiança depende da prova das reais atribuições do empregado (Súmula 102, I).</li>\n<li>O gerente-geral de agência é tratado como gestor e fica fora do controle de jornada (Súmula 287).</li>\n</ul>\n<h2>Na prática</h2>\n<ul>\n<li>O nome do cargo e o pagamento da gratificação não bastam. Se a função era técnica ou operacional, sem fidúcia especial, a 7ª e a 8ª horas podem ser cobradas como extras.</li>\n<li>A regra geral do TST é que a gratificação não compensa as horas extras (Súmula 109). As convenções coletivas dos bancários mais recentes, porém, trazem cláusula que permite essa compensação, e o TST tem aceitado essa cláusula em vários casos. A convenção do período deve ser conferida.</li>\n<li>Descrição das tarefas, alçadas de aprovação e testemunhas são as provas mais usadas.</li>\n</ul>",
+  "corpo": "<p>O bancário tem jornada menor que a dos demais trabalhadores. Muitos bancos, porém, registram parte dos empregados em cargo de confiança com jornada de 8 horas, e isso leva muitos casos à Justiça.</p><h2>O que a lei garante</h2><ul><li>A jornada do bancário é de 6 horas por dia, de segunda a sexta (CLT, art. 224).</li><li>A jornada de 8 horas vale para quem exerce direção, gerência, fiscalização, chefia ou outro cargo de confiança, com gratificação de pelo menos um terço do salário do cargo efetivo (art. 224, § 2º).</li><li>Para o TST, o cargo de confiança depende da prova do que o empregado realmente fazia (Súmula 102, I).</li><li>O gerente-geral de agência é tratado como gestor e fica fora do controle de horário (Súmula 287).</li></ul><h2>Na prática</h2><ul><li>O nome do cargo e a gratificação não bastam. Se a função era técnica ou operacional, sem confiança especial, a 7ª e a 8ª horas podem ser cobradas como extras.</li><li>A regra geral do TST é que a gratificação não compensa as horas extras (Súmula 109). As convenções coletivas mais recentes dos bancários, porém, trazem cláusula que permite essa compensação, e o TST tem aceitado essa cláusula em vários casos. A convenção do período deve ser conferida.</li></ul><h2>O erro que enfraquece o caso</h2><p>Não guardar prova do dia a dia. O que decide é o que o bancário fazia: descrição das tarefas, limites de aprovação (alçadas) e testemunhas que mostrem que o trabalho era igual ao dos colegas de 6 horas.</p><h2>O que fazer agora</h2><p>Separe os holerites com a gratificação, anote as tarefas que fazia e quem pode confirmar, e leve à primeira conversa. A análise da convenção coletiva de cada período faz parte do cálculo.</p>",
   "faq": [
     [
       "Qual é a jornada normal do bancário?",
@@ -35,11 +35,15 @@
     ],
     [
       "Receber gratificação de função basta para a jornada de 8 horas?",
-      "Não. Também é preciso provar que as atribuições eram de confiança (Súmula 102, I, do TST)."
+      "Não. Também é preciso provar que as tarefas eram de confiança (Súmula 102, I, do TST)."
     ],
     [
       "A gratificação recebida é descontada das horas extras?",
-      "A regra do TST é que não (Súmula 109), mas a convenção coletiva dos bancários pode prever a compensação, e isso precisa ser conferido em cada período."
+      "A regra do TST é que não (Súmula 109). Mas a convenção coletiva dos bancários pode prever a compensação, e isso precisa ser conferido em cada período."
+    ],
+    [
+      "Gerente-geral de agência recebe a 7ª e a 8ª horas?",
+      "Em regra, não. O TST o trata como gestor, fora do controle de horário (Súmula 287)."
     ]
   ],
   "base": [
@@ -56,5 +60,6 @@
     "fonte": "Pexels",
     "url": "https://www.pexels.com/photo/7144249/",
     "licenca": "https://www.pexels.com/license/"
-  }
+  },
+  "atualizado": "2026-11-15"
 }

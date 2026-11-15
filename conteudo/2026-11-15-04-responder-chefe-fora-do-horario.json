@@ -5,21 +5,45 @@
   "serie": "constituicao-no-trabalho",
   "ordem": 1,
   "titulo": "Sou obrigado a responder mensagem do chefe fora do horário?",
-  "destaque": "Em regra, não.",
-  "resumo": "Fora da jornada, o tempo é do empregado: a Constituição protege o descanso e o lazer. Se a empresa exige resposta e tarefas fora do horário, esse tempo pode contar como trabalho e ser pago.",
+  "destaque": "Não, salvo plantão combinado.",
+  "resumo": "Fora do horário, o tempo é do empregado: a Constituição protege o descanso e o lazer. Se a empresa exige resposta e cobra tarefas depois do expediente, esse tempo pode contar como trabalho e ser pago como hora extra.",
   "pontos": [
-    ["relogio", "A Constituição limita a jornada e garante o lazer."],
-    ["alerta", "Ordem dada pelo WhatsApp vale como ordem dada pessoalmente."],
-    ["carteira", "Tarefa cobrada fora do horário pode virar hora extra."],
-    ["check", "Mensagem eventual, sem cobrança de resposta, não gera pagamento."]
+    [
+      "relogio",
+      "A Constituição limita a jornada e garante o lazer."
+    ],
+    [
+      "alerta",
+      "Ordem dada pelo WhatsApp vale como ordem dada pessoalmente."
+    ],
+    [
+      "carteira",
+      "Tarefa cobrada fora do horário pode virar hora extra."
+    ],
+    [
+      "check",
+      "Mensagem eventual, sem cobrança de resposta, não gera pagamento."
+    ]
   ],
   "exemplo": "Carla é assistente administrativa e sai às 18h. Quase toda noite o gerente manda tarefas pelo WhatsApp e cobra resposta na hora; quem demora ouve reclamação no dia seguinte.",
-  "corpo": "<p>Liberdade também é poder desligar. O contrato de trabalho remunera algumas horas do dia, não a vida inteira da pessoa. Com o celular, essa fronteira ficou fácil de atravessar, e muita gente acha que responder o chefe à noite faz parte do emprego.</p>\n<h2>O que dizem a Constituição e a lei?</h2>\n<ul>\n<li>A Constituição limita a duração do trabalho por dia e por semana (art. 7º, XIII) e coloca o lazer entre os direitos sociais (art. 6º).</li>\n<li>A CLT conta como trabalho o tempo em que o empregado fica à disposição da empresa, aguardando ou executando ordens (art. 4º).</li>\n<li>Ordem, controle e cobrança feitos por meios eletrônicos valem como se fossem feitos pessoalmente (CLT, art. 6º, parágrafo único).</li>\n</ul>\n<h2>Quando vira hora extra?</h2>\n<ul>\n<li>Quando a empresa exige resposta ou cobra tarefas fora do horário, o tempo gasto pode ser pago como hora extra, com adicional de no mínimo 50% (Constituição, art. 7º, XVI).</li>\n<li>Quando o empregado fica de plantão, aguardando ser chamado a qualquer momento, a situação pode ser de sobreaviso, que tem pagamento próprio.</li>\n<li>Quem não tem controle de jornada, como alguns gerentes e parte do teletrabalho, segue regras próprias (CLT, art. 62).</li>\n<li>Prints das conversas com data e hora, e-mails e testemunhas são as principais provas. O prazo para cobrar é de 2 anos após a saída, alcançando os últimos 5 anos (Constituição, art. 7º, XXIX).</li>\n</ul>\n<p>Veja também: <a href=\"horas-extras-limite-e-adicional.html\">Quanto vale a hora extra e qual é o limite por dia?</a></p>",
+  "corpo": "<p>O contrato de trabalho paga algumas horas do dia, não a vida inteira da pessoa. Com o celular, essa fronteira ficou fácil de atravessar, e muita gente acha que responder o chefe à noite faz parte do emprego. Não faz.</p>\n<h2>O que dizem a Constituição e a lei</h2>\n<ul>\n<li>A Constituição limita a duração do trabalho por dia e por semana (art. 7º, XIII) e coloca o lazer entre os direitos sociais (art. 6º).</li>\n<li>A CLT conta como trabalho o tempo em que o empregado fica à disposição da empresa, esperando ou cumprindo ordens (art. 4º).</li>\n<li>Ordem, controle e cobrança feitos pelo celular ou e-mail valem como se fossem feitos pessoalmente (CLT, art. 6º, parágrafo único).</li>\n</ul>\n<h2>Quando vira hora extra</h2>\n<ul>\n<li>Quando a empresa exige resposta ou cobra tarefas fora do horário, o tempo gasto pode ser pago como hora extra, com adicional de no mínimo 50% (Constituição, art. 7º, XVI).</li>\n<li>Quem fica de plantão, esperando ser chamado a qualquer momento, pode estar em sobreaviso, que tem pagamento próprio.</li>\n<li>Quem não tem controle de jornada, como alguns gerentes e parte do teletrabalho, segue regras próprias (CLT, art. 62).</li>\n</ul>\n<h2>O erro que enfraquece o caso</h2>\n<p>Apagar as conversas ou sair do grupo da empresa sem salvar nada. As principais provas são os prints com data e hora, os e-mails e as testemunhas. E o tempo corre: o prazo para cobrar é de 2 anos após a saída, alcançando os últimos 5 anos (Constituição, art. 7º, XXIX).</p>\n<h2>O que fazer agora</h2>\n<p>Exporte as conversas do WhatsApp com o chefe e o grupo da empresa e guarde em lugar seguro, fora do celular de trabalho. Com esse material, a primeira conversa já mostra se há horas a cobrar.</p>\n<p>Veja também: <a href=\"horas-extras-limite-e-adicional.html\">Quanto vale a hora extra e qual é o limite por dia?</a></p>",
   "faq": [
-    ["Posso deixar de responder o chefe depois do expediente?", "Em regra, sim. Fora da jornada o empregado não está à disposição, salvo plantão combinado ou situação de emergência."],
-    ["Responder mensagem de trabalho à noite conta como hora extra?", "Pode contar, quando a empresa exige a resposta ou cobra tarefas nesse horário. O tempo gasto é trabalho (CLT, arts. 4º e 6º)."],
-    ["Mensagem no grupo da empresa fora do horário gera pagamento?", "Aviso eventual, sem cobrança de resposta, em regra não gera. O que pesa é a exigência e a frequência."],
-    ["Como provar que trabalhava pelo WhatsApp?", "Guardando prints das conversas com data e hora, e-mails, relatórios enviados e o nome de colegas que passavam pela mesma situação."]
+    [
+      "Posso deixar de responder o chefe depois do expediente?",
+      "Em regra, sim. Fora da jornada o empregado não está à disposição, salvo plantão combinado ou situação de emergência."
+    ],
+    [
+      "Responder mensagem de trabalho à noite conta como hora extra?",
+      "Pode contar, quando a empresa exige a resposta ou cobra tarefas nesse horário. Esse tempo é trabalho (CLT, arts. 4º e 6º)."
+    ],
+    [
+      "Mensagem no grupo da empresa fora do horário gera pagamento?",
+      "Aviso eventual, sem cobrança de resposta, em regra não gera. O que pesa é a exigência e a frequência."
+    ],
+    [
+      "Como provar que trabalhava pelo WhatsApp?",
+      "Com prints das conversas com data e hora, e-mails, relatórios enviados e o nome de colegas que passavam pela mesma situação."
+    ]
   ],
   "base": [
     "Constituição Federal, art. 6º",
@@ -33,5 +57,6 @@
     "fonte": "Pexels",
     "url": "https://www.pexels.com/photo/10335148/",
     "licenca": "https://www.pexels.com/license/"
-  }
+  },
+  "atualizado": "2026-11-15"
 }

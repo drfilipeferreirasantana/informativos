@@ -6,16 +6,16 @@
   "serie": "grandes-causas",
   "ordem": 9,
   "titulo": "Burnout causado pelo trabalho dá direito a estabilidade e indenização?",
-  "destaque": "Pode dar, se ligado ao trabalho.",
-  "resumo": "O burnout é reconhecido como doença ligada ao trabalho. Se ele foi causado pelas condições do emprego, pode gerar afastamento acidentário pelo INSS, estabilidade de 12 meses e indenização da empresa.",
+  "destaque": "Sim, se o trabalho causou a doença.",
+  "resumo": "O burnout é reconhecido como doença ligada ao trabalho. Se foi causado pelas condições do emprego, pode gerar afastamento por acidente de trabalho no INSS, estabilidade de 12 meses e indenização da empresa.",
   "pontos": [
     [
       "saude",
-      "O burnout é reconhecido como doença relacionada ao trabalho."
+      "O burnout é reconhecido como doença ligada ao trabalho."
     ],
     [
       "calendario",
-      "Afastamento acidentário pode gerar estabilidade de 12 meses."
+      "O afastamento por doença do trabalho pode gerar estabilidade de 12 meses."
     ],
     [
       "balanca",
@@ -27,19 +27,23 @@
     ]
   ],
   "exemplo": "Luciana era supervisora de atendimento, com metas que aumentavam todo mês e cobranças por mensagem até de madrugada. Depois de dois anos, passou a ter crises de ansiedade e insônia e foi afastada pelo médico com diagnóstico de burnout.",
-  "corpo": "<p>O esgotamento profissional deixou de ser visto apenas como cansaço. Hoje ele é reconhecido como doença ligada ao trabalho, o que traz consequências para os direitos do trabalhador.</p>\n<h2>O que a lei prevê</h2>\n<ul>\n<li>A Organização Mundial da Saúde passou a classificar o burnout como fenômeno ocupacional na CID-11, em vigor desde 2022 (código QD85).</li>\n<li>A doença adquirida em função das condições especiais em que o trabalho é realizado é considerada acidente de trabalho (Lei 8.213/1991, art. 20, II).</li>\n<li>Com o afastamento acidentário, o trabalhador tem estabilidade de 12 meses após o fim do benefício (art. 118).</li>\n<li>Se a empresa contribuiu para a doença, por cobrança abusiva, jornada excessiva ou assédio, pode ser condenada a indenizar (Constituição, art. 7º, XXVIII; Código Civil, arts. 186 e 927).</li>\n</ul>\n<h2>Na prática</h2>\n<ul>\n<li>A ligação entre a doença e o trabalho costuma ser verificada por perícia médica no processo.</li>\n<li>Relatórios médicos e psicológicos, atestados, mensagens fora do horário, registros de jornada e testemunhas ajudam a mostrar a rotina.</li>\n<li>A indenização pode incluir dano moral, despesas com tratamento e, se houver perda da capacidade de trabalho, pensão.</li>\n<li>Se o INSS concedeu benefício comum, a natureza acidentária pode ser discutida.</li>\n</ul>",
+  "corpo": "<p>O esgotamento profissional deixou de ser visto só como cansaço. Hoje é reconhecido como doença ligada ao trabalho, e isso muda os direitos do trabalhador.</p><h2>O que a lei garante</h2><ul><li>A Organização Mundial da Saúde classifica o burnout como fenômeno ligado ao trabalho na CID-11, em vigor desde 2022 (código QD85).</li><li>A doença causada pelas condições em que o trabalho é feito é considerada acidente de trabalho (Lei 8.213/1991, art. 20, II).</li><li>Com o afastamento por acidente de trabalho, há estabilidade de 12 meses após o fim do benefício (art. 118).</li><li>Se a empresa contribuiu para a doença, com cobrança abusiva, jornada excessiva ou assédio, pode ser condenada a indenizar (Constituição, art. 7º, XXVIII; Código Civil, arts. 186 e 927).</li></ul><h2>Na prática</h2><ul><li>A ligação entre a doença e o trabalho costuma ser verificada por perícia médica no processo.</li><li>A indenização pode incluir dano moral, despesas com tratamento e, se houver perda da capacidade de trabalho, pensão.</li><li>Se o INSS concedeu benefício por doença sem ligação com o trabalho, isso pode ser discutido.</li></ul><h2>O erro que enfraquece o caso</h2><p>Apagar as mensagens de cobrança, tratar a doença sem registro médico ou deixar o tempo passar. Relatórios médicos e psicológicos, atestados, mensagens fora do horário, registros de jornada e testemunhas são o que mostra a rotina que adoeceu.</p><h2>O que fazer agora</h2><p>Procure atendimento médico e guarde todos os relatórios e atestados. Salve as mensagens, anote datas e testemunhas e leve esse material a um advogado antes de qualquer decisão sobre o emprego.</p>",
   "faq": [
     [
       "Burnout é doença do trabalho?",
-      "Pode ser. A CID-11 trata o burnout como fenômeno ocupacional, e a doença causada pelas condições de trabalho é equiparada a acidente (Lei 8.213/1991, art. 20, II)."
+      "Pode ser. A CID-11 trata o burnout como fenômeno ligado ao trabalho, e a doença causada pelas condições de trabalho é equiparada a acidente (Lei 8.213/1991, art. 20, II)."
     ],
     [
       "Tenho estabilidade depois do afastamento por burnout?",
-      "Se o afastamento for acidentário, sim, por 12 meses após o fim do benefício (Lei 8.213/1991, art. 118)."
+      "Se o afastamento for por acidente de trabalho, sim, por 12 meses após o fim do benefício (Lei 8.213/1991, art. 118)."
     ],
     [
       "Como provar que a doença veio do trabalho?",
       "Com laudos médicos, atestados, provas da rotina de trabalho e a perícia feita no processo."
+    ],
+    [
+      "O INSS não ligou a doença ao trabalho. Perdi o direito?",
+      "Não necessariamente. A ligação da doença com o trabalho pode ser discutida."
     ]
   ],
   "base": [
@@ -53,5 +57,6 @@
     "fonte": "Pexels",
     "url": "https://www.pexels.com/photo/9063401/",
     "licenca": "https://www.pexels.com/license/"
-  }
+  },
+  "atualizado": "2026-11-15"
 }

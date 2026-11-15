@@ -3,8 +3,8 @@
   "area": "sucessoes",
   "data": "2026-11-07",
   "titulo": "O herdeiro tem que pagar as dívidas de quem faleceu?",
-  "resumo": "As dívidas são pagas com os bens deixados. O patrimônio pessoal dos herdeiros não responde pelo que exceder.",
-  "destaque": "Só até o valor da herança.",
+  "resumo": "As dívidas de quem faleceu são pagas com os bens que ele deixou. O patrimônio pessoal dos herdeiros não paga o que passar desse valor.",
+  "destaque": "Não. Só até o valor da herança.",
   "pontos": [
     [
       "escudo",
@@ -12,15 +12,15 @@
     ],
     [
       "balanca",
-      "Depois da partilha, cada herdeiro responde na proporção da sua parte."
+      "Depois da partilha, cada herdeiro responde na medida da sua parte."
     ],
     [
       "documento",
-      "O inventário ajuda a mostrar quanto valem os bens herdados."
+      "O inventário mostra quanto valem os bens herdados e protege o herdeiro."
     ]
   ],
   "exemplo": "O pai de Renata faleceu e deixou uma casa simples e dívidas de cartão maiores do que o valor do imóvel. Ela tem medo de ter que pagar com o próprio salário.",
-  "corpo": "<p>Uma preocupação comum de quem perde um familiar é herdar as dívidas dele. A lei estabelece um limite claro.</p>\n<h2>O que a lei prevê</h2>\n<p>O Código Civil determina que o herdeiro não responde por encargos superiores às forças da herança. Em outras palavras, as dívidas do falecido são pagas com os bens que ele deixou. Se as dívidas forem maiores do que esses bens, a diferença não passa para o patrimônio pessoal dos herdeiros.</p>\n<p>Depois da partilha, cada herdeiro responde pelas dívidas apenas na proporção da parte que recebeu.</p>\n<h2>Na prática</h2>\n<ul>\n<li>Cabe ao herdeiro provar que a dívida excede a herança, salvo quando há inventário que já demonstre o valor dos bens herdados.</li>\n<li>Por isso, o inventário também serve para proteger os herdeiros.</li>\n</ul>",
+  "corpo": "<h2>O que a lei garante</h2><p>O medo de herdar dívidas aparece logo depois da perda de um familiar. A lei é clara: o herdeiro não paga dívidas maiores do que o valor da herança. As dívidas do falecido são pagas com os bens que ele deixou. Se as dívidas forem maiores, a diferença não chega ao salário nem aos bens pessoais dos herdeiros.</p><p>Depois da partilha, cada herdeiro responde apenas na medida da parte que recebeu.</p><h2>Na prática</h2><ul><li>Cabe ao herdeiro provar que a dívida passa do valor da herança, a não ser que um inventário já mostre quanto valem os bens.</li><li>Por isso o inventário não serve só para dividir: ele também protege quem herda.</li></ul><h2>O erro que enfraquece o caso</h2><p>Deixar o tempo passar sem abrir o inventário, ou pagar dívidas do falecido do próprio bolso por pressão de cobradores. Sem o inventário, falta o documento que mostra o limite da responsabilidade.</p><h2>O que fazer agora</h2><p>Reúna a certidão de óbito, os documentos dos bens e as cobranças recebidas e leve à primeira conversa com um advogado. Quando os herdeiros estão de acordo, o caminho costuma ser mais simples.</p>",
   "faq": [
     [
       "O patrimônio do herdeiro pode ser usado para pagar dívidas do falecido?",
@@ -29,6 +29,10 @@
     [
       "Depois da partilha, quem responde pelas dívidas?",
       "Cada herdeiro, na proporção da parte que recebeu (Código Civil, art. 1.997)."
+    ],
+    [
+      "Quem precisa provar que a dívida é maior que a herança?",
+      "O herdeiro, salvo quando já existe inventário que mostre o valor dos bens herdados."
     ]
   ],
   "base": [
@@ -40,5 +44,6 @@
     "fonte": "Pexels",
     "url": "https://www.pexels.com/photo/7545305/",
     "licenca": "https://www.pexels.com/license/"
-  }
+  },
+  "atualizado": "2026-11-15"
 }

@@ -3,12 +3,12 @@
   "area": "trabalhista",
   "data": "2026-11-08",
   "titulo": "Qual é o descanso mínimo entre um dia de trabalho e outro?",
-  "resumo": "A CLT garante no mínimo 11 horas consecutivas de descanso entre duas jornadas.",
-  "destaque": "11 horas.",
+  "resumo": "Entre o fim de um dia de trabalho e o início do próximo, a lei garante pelo menos 11 horas seguidas de descanso. Sair tarde e voltar cedo pode desrespeitar essa regra.",
+  "destaque": "Sim: 11 horas seguidas, no mínimo.",
   "pontos": [
     [
       "relogio",
-      "11 horas seguidas de descanso entre uma jornada e outra."
+      "11 horas seguidas de descanso entre um dia de trabalho e outro."
     ],
     [
       "alerta",
@@ -16,19 +16,23 @@
     ],
     [
       "documento",
-      "Os horários de saída e de entrada no ponto mostram o intervalo."
+      "Os horários de saída e de entrada no ponto mostram o descanso real."
     ]
   ],
   "exemplo": "Tiago fecha a loja às 23h e precisa abrir no dia seguinte às 7h. Entre um turno e outro, ele descansa só 8 horas.",
-  "corpo": "<h2>O que a lei prevê</h2><p>A CLT determina que, entre duas jornadas de trabalho, haverá um período mínimo de 11 horas consecutivas para descanso.</p><p>Esse intervalo é diferente do intervalo de almoço e do descanso semanal, e todos são direitos separados.</p><h2>Na prática</h2><ul><li>O desrespeito ao intervalo costuma aparecer em escalas de comércio, saúde e transporte.</li><li>Guarde os registros de ponto e as escalas.</li><li>A forma de compensação das horas suprimidas depende da análise do caso.</li></ul>",
+  "corpo": "<h2>O que a lei garante</h2><p>Entre o fim de um dia de trabalho e o começo do seguinte, devem passar pelo menos 11 horas seguidas de descanso (intervalo entre jornadas, CLT, art. 66).</p><p>Esse descanso não se confunde com o intervalo de almoço nem com a folga semanal. São três direitos separados.</p><h2>O que mais acontece</h2><ul><li>Fechar a loja à noite e abrir na manhã seguinte.</li><li>Troca de turno em hospital ou clínica sem tempo de descanso.</li><li>Escalas de transporte que emendam um turno no outro.</li></ul><h2>O erro que enfraquece o caso</h2><p>Não guardar os registros de ponto e as escalas. São eles que mostram a hora em que o trabalhador saiu e a hora em que voltou. Sem esses papéis, sobra só a memória, que pesa pouco no processo.</p><h2>O que fazer agora</h2><p>Tire foto das escalas e peça cópia do espelho de ponto. Com esses registros, um advogado avalia como as horas de descanso cortadas podem ser compensadas, o que depende da análise do caso.</p>",
   "faq": [
     [
-      "Qual é o intervalo mínimo entre jornadas?",
-      "11 horas consecutivas (CLT, art. 66)."
+      "Qual é o descanso mínimo entre um dia de trabalho e outro?",
+      "11 horas seguidas (CLT, art. 66)."
     ],
     [
       "É o mesmo que o intervalo de almoço?",
-      "Não. O almoço é dentro da jornada. As 11 horas são entre uma jornada e outra."
+      "Não. O almoço acontece dentro do dia de trabalho. As 11 horas ficam entre o fim de um dia e o começo do outro."
+    ],
+    [
+      "Como provo que o descanso não foi respeitado?",
+      "Com os registros de ponto e as escalas, que mostram os horários de saída e de entrada."
     ]
   ],
   "base": [
@@ -39,5 +43,6 @@
     "fonte": "Pexels",
     "url": "https://www.pexels.com/photo/1028741/",
     "licenca": "https://www.pexels.com/license/"
-  }
+  },
+  "atualizado": "2026-11-15"
 }

@@ -3,8 +3,8 @@
   "area": "consumidor",
   "data": "2026-11-07",
   "titulo": "Uma dívida pode deixar o nome negativado para sempre?",
-  "resumo": "Os cadastros de crédito não podem conter informações negativas referentes a período superior a cinco anos.",
-  "destaque": "Não. O limite é de 5 anos.",
+  "resumo": "Dívida antiga não deixa o nome sujo para sempre. Os cadastros de crédito não podem manter informação negativa por mais de 5 anos.",
+  "destaque": "Não. O limite no cadastro é de 5 anos.",
   "pontos": [
     [
       "calendario",
@@ -12,23 +12,27 @@
     ],
     [
       "alerta",
-      "Quem não pediu o cadastro deve ser comunicado por escrito."
+      "Quem não pediu o cadastro tem de ser avisado por escrito."
     ],
     [
       "documento",
-      "Sair do cadastro não significa, por si só, que a dívida acabou."
+      "Sair do cadastro não quer dizer, sozinho, que a dívida acabou."
     ]
   ],
   "exemplo": "João teve o nome negativado por uma conta antiga, de mais de seis anos atrás. O registro continua aparecendo toda vez que ele tenta um financiamento.",
-  "corpo": "<p>Muita gente acredita que uma dívida antiga deixa o nome negativado para sempre. O Código de Defesa do Consumidor estabelece limites.</p>\n<h2>O que a lei prevê</h2>\n<ul>\n<li>Os cadastros de consumidores não podem conter informações negativas referentes a período superior a cinco anos.</li>\n<li>Consumada a prescrição da cobrança da dívida, os serviços de proteção ao crédito não podem fornecer informações que impeçam ou dificultem novo acesso ao crédito.</li>\n<li>O consumidor deve ser comunicado por escrito sobre a abertura de cadastro em seu nome, quando não a tiver solicitado.</li>\n</ul>\n<h2>Na prática</h2>\n<p>A saída do nome do cadastro não significa, por si só, que a dívida deixou de existir. São questões diferentes, que dependem da análise do caso.</p>",
+  "corpo": "<h2>O que a lei garante</h2><p>O Código de Defesa do Consumidor põe prazo na negativação: os cadastros de crédito não podem guardar informação negativa por mais de 5 anos.</p><p>Além disso, quando a cobrança da dívida já não pode mais ser feita na Justiça (a chamada prescrição), os serviços de proteção ao crédito não podem passar informações que impeçam ou dificultem um novo crédito.</p><p>E quem não pediu para ser cadastrado precisa ser avisado por escrito da abertura do registro em seu nome.</p><h2>Na prática</h2><ul><li>Nome que continua negativado depois de 5 anos é registro fora do prazo.</li><li>Negativação feita sem aviso por escrito também merece análise.</li><li>Sair do cadastro e a dívida deixar de existir são coisas diferentes, cada uma com sua análise.</li></ul><h2>O erro que enfraquece o caso</h2><p>Jogar fora cartas, boletos e contratos antigos. São eles que mostram quando a dívida venceu e se houve aviso. Sem essas datas, fica difícil provar que o registro passou do prazo.</p><h2>O que fazer agora</h2><p>Tire a consulta do seu nome nos cadastros de crédito, separe os papéis da dívida e leve tudo à primeira conversa com um advogado. Com as datas na mesa, dá para saber se o registro ainda pode estar lá.</p>",
   "faq": [
     [
       "Depois de 5 anos a informação negativa precisa sair?",
-      "Os cadastros não podem manter informação negativa referente a período superior a cinco anos (CDC, art. 43, § 1º)."
+      "Sim. Os cadastros não podem manter informação negativa por mais de 5 anos (CDC, art. 43, § 1º)."
     ],
     [
       "O consumidor precisa ser avisado da negativação?",
-      "Sim. A abertura de cadastro não solicitada pelo consumidor deve ser comunicada a ele por escrito (CDC, art. 43, § 2º)."
+      "Sim. Quando o consumidor não pediu o cadastro, a abertura precisa ser comunicada a ele por escrito (CDC, art. 43, § 2º)."
+    ],
+    [
+      "Se o nome sair do cadastro, a dívida acaba?",
+      "Não necessariamente. Sair do cadastro e a dívida deixar de existir são questões diferentes, que dependem da análise do caso."
     ]
   ],
   "base": [
@@ -39,5 +43,6 @@
     "fonte": "Pexels",
     "url": "https://www.pexels.com/photo/5900144/",
     "licenca": "https://www.pexels.com/license/"
-  }
+  },
+  "atualizado": "2026-11-15"
 }

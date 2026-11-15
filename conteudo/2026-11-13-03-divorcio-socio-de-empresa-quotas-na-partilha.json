@@ -5,20 +5,20 @@
   "serie": "familia-patrimonio",
   "ordem": 1,
   "titulo": "No divórcio, a empresa do cônjuge entra na partilha?",
-  "destaque": "As quotas podem entrar.",
-  "resumo": "Quando um dos cônjuges é sócio, o que se divide em regra é o valor das quotas adquiridas durante a união, conforme o regime de bens. O outro cônjuge não vira sócio da empresa.",
+  "destaque": "O valor das quotas, conforme o regime.",
+  "resumo": "Quando um dos cônjuges é sócio, o que se divide no divórcio é, em regra, o valor das quotas adquiridas durante a união, conforme o regime de bens. O outro cônjuge não vira sócio da empresa.",
   "pontos": [
     [
       "predio",
-      "O que se partilha é o valor da participação, não a empresa em si."
+      "Divide-se o valor da participação, não a empresa em si."
     ],
     [
       "documento",
-      "O valor é apurado com base em balanço e documentos da sociedade."
+      "O valor é calculado com base no balanço e nos documentos da empresa."
     ],
     [
       "carteira",
-      "Até a apuração, o ex-cônjuge pode ter direito à parte dos lucros."
+      "Até o cálculo, o ex-cônjuge pode ter direito a parte dos lucros."
     ],
     [
       "balanca",
@@ -26,19 +26,23 @@
     ]
   ],
   "exemplo": "Rogério abriu uma distribuidora com um sócio depois de casar, no regime da comunhão parcial. No divórcio, a esposa não passa a ser sócia, mas a metade do valor das quotas dele pode ser incluída na partilha.",
-  "corpo": "<p>É comum que um dos cônjuges tenha empresa, quotas de sociedade limitada ou participação em negócio da família. No divórcio, a pergunta é se esse patrimônio também se divide.</p>\n<h2>O que a lei prevê</h2>\n<ul>\n<li>Na comunhão parcial, entram na comunhão os bens adquiridos durante o casamento a título oneroso, ainda que em nome de um só (Código Civil, art. 1.660, I). Quotas compradas ou integralizadas nesse período seguem essa regra.</li>\n<li>O ex-cônjuge do sócio não pode exigir desde logo a sua parte na quota social, mas pode concorrer à divisão periódica dos lucros até que se liquide a sociedade (Código Civil, art. 1.027).</li>\n<li>O ex-cônjuge pode pedir a apuração dos haveres na sociedade, pagos à conta da quota do sócio (CPC, art. 600, parágrafo único).</li>\n</ul>\n<h2>Na prática</h2>\n<ul>\n<li>Contrato social e suas alterações mostram quando as quotas foram adquiridas.</li>\n<li>Balanços, demonstrações de resultado e distribuição de lucros ajudam a apurar o valor.</li>\n<li>Quotas que o sócio já tinha antes do casamento, em regra, não se dividem na comunhão parcial; a discussão sobre a valorização delas depende de cada caso.</li>\n<li>Muitas vezes a solução é um acordo: o sócio fica com as quotas e compensa o outro com outros bens ou em dinheiro.</li>\n</ul>",
+  "corpo": "<h2>O que a lei diz</h2><ul><li>Na comunhão parcial, entram na divisão os bens comprados durante o casamento, ainda que em nome de um só (Código Civil, art. 1.660, I). Quotas compradas ou pagas nesse período seguem essa regra.</li><li>O ex-cônjuge do sócio não pode exigir na hora a sua parte na quota, mas pode receber parte dos lucros distribuídos até que a participação seja liquidada (Código Civil, art. 1.027).</li><li>O ex-cônjuge pode pedir o cálculo do valor que lhe cabe na sociedade (apuração de haveres), pago com a quota do sócio (CPC, art. 600, parágrafo único).</li></ul><h2>O que decide o caso</h2><ul><li>O contrato social e as alterações mostram quando as quotas foram adquiridas.</li><li>Balanços, demonstrações de resultado e distribuição de lucros ajudam a calcular o valor.</li><li>Quotas que o sócio já tinha antes do casamento, em regra, não se dividem na comunhão parcial; a valorização delas depende de cada caso.</li></ul><h2>O erro que enfraquece o caso</h2><p>Entrar no divórcio sem cópia do contrato social e sem nenhum balanço da empresa. Depois que a separação começa, esses papéis ficam mais difíceis de conseguir.</p><h2>Acordo primeiro, se for justo</h2><p>Muitas vezes a saída é um acordo: o sócio fica com as quotas e compensa o outro com outros bens ou em dinheiro. A empresa segue funcionando e ninguém perde a sua parte. Para avaliar se a proposta é justa, leve à primeira conversa o contrato social, a certidão de casamento e o que tiver de balanços.</p>",
   "faq": [
     [
       "O ex-cônjuge vira sócio da empresa?",
-      "Não automaticamente. Ele tem direito ao valor correspondente, não ao ingresso na sociedade (Código Civil, art. 1.027)."
+      "Não automaticamente. Ele tem direito ao valor correspondente, não a entrar na sociedade (Código Civil, art. 1.027)."
     ],
     [
       "Como se descobre o valor das quotas?",
-      "Por apuração de haveres, com base em balanço e documentos da sociedade (CPC, art. 600, parágrafo único)."
+      "Pelo cálculo do valor na sociedade (apuração de haveres), com base no balanço e nos documentos da empresa (CPC, art. 600, parágrafo único)."
     ],
     [
       "E se a empresa foi aberta antes do casamento?",
       "Na comunhão parcial, a participação anterior em regra não se divide. A análise depende do regime e da história da empresa."
+    ],
+    [
+      "Dá para resolver sem processo?",
+      "Sim, quando há acordo justo: o sócio fica com as quotas e compensa o outro com outros bens ou em dinheiro."
     ]
   ],
   "base": [
@@ -50,5 +54,6 @@
     "fonte": "Pexels",
     "url": "https://www.pexels.com/photo/7433874/",
     "licenca": "https://www.pexels.com/license/"
-  }
+  },
+  "atualizado": "2026-11-15"
 }

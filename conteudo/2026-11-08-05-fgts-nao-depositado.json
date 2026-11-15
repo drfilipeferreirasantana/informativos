@@ -3,8 +3,8 @@
   "area": "trabalhista",
   "data": "2026-11-08",
   "titulo": "A empresa é obrigada a depositar o FGTS todo mês?",
-  "resumo": "O depósito de 8% da remuneração deve ser feito todo mês. Dá para conferir pelo extrato se algum mês ficou faltando.",
-  "destaque": "Sim, 8% da remuneração.",
+  "resumo": "A empresa deve depositar todo mês 8% da remuneração no FGTS. O extrato mostra se algum mês ficou faltando.",
+  "destaque": "Sim, todo mês, 8% da remuneração.",
   "pontos": [
     [
       "calendario",
@@ -12,7 +12,7 @@
     ],
     [
       "carteira",
-      "Entram na conta o salário, as gorjetas, adicionais e o 13º."
+      "Entram na conta o salário, as gorjetas, os adicionais e o 13º."
     ],
     [
       "documento",
@@ -20,7 +20,7 @@
     ]
   ],
   "exemplo": "Patrícia foi olhar o extrato do FGTS para comprar um imóvel e descobriu que a empresa não deposita nada há oito meses.",
-  "corpo": "<h2>O que a lei prevê</h2><p>A Lei do FGTS obriga todos os empregadores a depositar mensalmente, em conta vinculada, 8% da remuneração paga ou devida a cada trabalhador no mês anterior, incluindo parcelas da remuneração e o 13º salário.</p><p>O FGTS aparece entre os dez assuntos mais levados à Justiça do Trabalho, segundo dados do TST de 2025.</p><h2>Na prática</h2><ul><li>Depósitos que faltam diminuem também a multa de 40% numa futura dispensa.</li><li>O extrato pode ser consultado pelo aplicativo oficial do FGTS.</li><li>A falta de depósitos pode ser discutida ainda durante o contrato.</li></ul>",
+  "corpo": "<h2>O que a lei garante</h2><p>Todo empregador é obrigado a depositar, todo mês, 8% da remuneração do mês anterior na conta do FGTS do trabalhador. Entram no cálculo as parcelas da remuneração e o 13º salário.</p><p>O FGTS aparece entre os dez assuntos mais levados à Justiça do Trabalho, segundo dados do TST de 2025.</p><h2>Na prática</h2><ul><li>Depósito que falta também diminui a multa de 40% numa futura dispensa.</li><li>O extrato pode ser consultado pelo aplicativo oficial do FGTS.</li><li>A falta de depósitos pode ser discutida ainda durante o contrato.</li></ul><h2>O erro que enfraquece o caso</h2><p>Só olhar o extrato na hora de sair da empresa ou de comprar um imóvel. Quanto mais o tempo passa, mais meses se acumulam e mais difícil fica reunir os contracheques de cada um.</p><h2>O que fazer agora</h2><p>Confira o extrato no aplicativo e marque os meses sem depósito. Guarde os contracheques desses meses e leve tudo à primeira conversa com um advogado.</p>",
   "faq": [
     [
       "De quanto é o depósito?",
@@ -29,6 +29,10 @@
     [
       "O 13º também entra?",
       "Sim. A lei inclui a gratificação de Natal no cálculo do depósito."
+    ],
+    [
+      "É preciso sair da empresa para reclamar?",
+      "Não. A falta de depósitos pode ser discutida ainda durante o contrato."
     ]
   ],
   "base": [
@@ -39,5 +43,6 @@
     "fonte": "Pexels",
     "url": "https://www.pexels.com/photo/27797871/",
     "licenca": "https://www.pexels.com/license/"
-  }
+  },
+  "atualizado": "2026-11-15"
 }

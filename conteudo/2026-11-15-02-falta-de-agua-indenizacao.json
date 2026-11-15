@@ -3,16 +3,16 @@
   "area": "consumidor",
   "data": "2026-11-15",
   "titulo": "Fiquei dias sem água: tenho direito a indenização?",
-  "resumo": "A água é serviço essencial e deve ser fornecida de forma contínua. Quando a falta é longa e sem justificativa, o prestador pode ter de reparar os prejuízos do consumidor.",
-  "destaque": "Pode ter, conforme o caso.",
+  "resumo": "A água é serviço essencial e não pode faltar sem motivo. Quando a falta é longa, sem aviso e sem explicação, a empresa de abastecimento pode ter de pagar os gastos e prejuízos da família.",
+  "destaque": "Sim, se longa, sem aviso e com prejuízo",
   "pontos": [
     [
       "casa",
-      "Serviço essencial, como a água, deve ser contínuo, segundo o Código de Defesa do Consumidor."
+      "Água é serviço essencial e deve ser contínua, segundo o Código de Defesa do Consumidor."
     ],
     [
       "alerta",
-      "Interrupção programada para obra precisa de aviso prévio aos moradores."
+      "Corte programado para obra precisa de aviso antes aos moradores."
     ],
     [
       "carteira",
@@ -20,19 +20,23 @@
     ]
   ],
   "exemplo": "A família de Rosângela ficou cinco dias sem água em casa, sem nenhum aviso. Ela comprou galões, pagou um caminhão-pipa e precisou levar as roupas para lavar na casa da mãe.",
-  "corpo": "<h2>O que diz a lei</h2><p>O Código de Defesa do Consumidor obriga os órgãos públicos e as empresas que prestam serviço público a fornecer serviço adequado, eficiente, seguro e, quando essencial, contínuo. Se não cumprirem essa obrigação, devem reparar os danos causados.</p><p>A responsabilidade do prestador independe de culpa: basta provar a falha no serviço, o dano e a ligação entre os dois.</p><h2>Quando a interrupção é permitida</h2><p>A Lei do Saneamento (Lei 11.445/2007) admite interromper o abastecimento em situações como emergência que ameace pessoas e bens, ou necessidade de reparos e melhorias no sistema. As interrupções programadas devem ser comunicadas antes aos usuários.</p><p>Ou seja, nem toda falta de água gera indenização. O que costuma pesar é a duração, a falta de aviso, a falta de explicação e o prejuízo concreto para a família.</p><h2>Na prática</h2><ul><li>Registre reclamação no prestador e anote todos os protocolos.</li><li>Fotografe as torneiras secas e guarde mensagens e avisos, com data.</li><li>Guarde notas de compra de água, caminhão-pipa e outros gastos.</li><li>Reúna notícias e relatos de vizinhos que mostram a duração do problema.</li><li>Se não houver solução, é possível reclamar na agência reguladora, no Procon e, depois, buscar o Juizado Especial.</li></ul><p>Os gastos comprovados podem ser cobrados como dano material. O dano moral depende de cada caso e é avaliado pelo juiz.</p>",
+  "corpo": "<h2>O que diz a lei</h2><p>O Código de Defesa do Consumidor obriga órgãos públicos e empresas que prestam serviço público a fornecer serviço adequado, eficiente, seguro e, quando essencial, sem interrupção. Se falharem, devem reparar os danos.</p><p>A empresa responde mesmo sem culpa: basta mostrar a falha no serviço, o prejuízo e a ligação entre os dois.</p><h2>Quando o corte é permitido</h2><p>A Lei do Saneamento (Lei 11.445/2007) admite interromper o abastecimento em situações como emergência que ameace pessoas e bens, ou necessidade de reparos e melhorias no sistema. Os cortes programados devem ser avisados antes aos moradores.</p><p>Nem toda falta de água gera indenização. O que pesa é a duração, a falta de aviso, a falta de explicação e o prejuízo concreto para a família.</p><h2>Na prática</h2><ul><li>Registre reclamação na empresa e anote todos os protocolos.</li><li>Fotografe as torneiras secas e guarde mensagens e avisos, com data.</li><li>Guarde as notas de compra de água, caminhão-pipa e outros gastos.</li><li>Reúna notícias e relatos de vizinhos que mostrem quanto tempo durou o problema.</li></ul><p>Os gastos comprovados podem ser cobrados como prejuízo material (dano material). A indenização pelo transtorno (dano moral) depende de cada caso e é avaliada pelo juiz.</p><h2>O erro que enfraquece o caso</h2><p>Resolver o problema por conta própria e jogar fora as notas, ou não registrar nenhuma reclamação. Sem protocolo e sem comprovante, fica difícil provar a duração da falta e o quanto se gastou.</p><h2>O que fazer agora</h2><p>Se não houver solução, reclame na agência reguladora e no Procon. Muitas vezes a empresa resolve nessa etapa. Se não resolver, leve os protocolos, as fotos e as notas para avaliar a ação no Juizado Especial.</p>",
   "faq": [
     [
       "A água pode faltar por obra sem aviso?",
-      "Não. As interrupções programadas devem ser comunicadas antes ao regulador e aos usuários (Lei 11.445/2007, art. 40, § 1º)."
+      "Não. Os cortes programados devem ser avisados antes ao regulador e aos moradores (Lei 11.445/2007, art. 40, § 1º)."
     ],
     [
-      "O prestador responde mesmo sem culpa?",
-      "Sim. O fornecedor de serviços responde pelos danos causados por defeito na prestação, independentemente de culpa (CDC, art. 14)."
+      "A empresa responde mesmo sem culpa?",
+      "Sim. Quem presta o serviço responde pelos danos causados pela falha, mesmo sem culpa (CDC, art. 14)."
     ],
     [
       "O serviço de água precisa ser contínuo?",
-      "Sim. Os serviços essenciais prestados por órgãos públicos e concessionárias devem ser contínuos (CDC, art. 22)."
+      "Sim. Serviços essenciais prestados por órgãos públicos e concessionárias não podem ser interrompidos sem motivo (CDC, art. 22)."
+    ],
+    [
+      "O que posso cobrar?",
+      "Os gastos comprovados, como água mineral e caminhão-pipa. A indenização pelo transtorno depende de cada caso e é avaliada pelo juiz."
     ]
   ],
   "base": [
@@ -53,5 +57,6 @@
     "fonte": "Pexels",
     "url": "https://www.pexels.com/photo/4612383/",
     "licenca": "https://www.pexels.com/license/"
-  }
+  },
+  "atualizado": "2026-11-15"
 }

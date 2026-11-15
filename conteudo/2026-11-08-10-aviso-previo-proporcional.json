@@ -3,16 +3,16 @@
   "area": "trabalhista",
   "data": "2026-11-08",
   "titulo": "O aviso prévio aumenta com o tempo de empresa?",
-  "resumo": "O aviso prévio é de 30 dias para quem tem até um ano de empresa, com mais 3 dias por ano trabalhado, até o total de 90 dias.",
-  "destaque": "Sim, 3 dias por ano, até 90.",
+  "resumo": "O aviso prévio não é sempre de 30 dias. Quem tem mais de um ano na mesma empresa ganha 3 dias a mais por ano trabalhado, até chegar a 90 dias.",
+  "destaque": "30 dias, mais 3 por ano: até 90.",
   "pontos": [
     [
       "calendario",
-      "30 dias para quem tem até 1 ano na mesma empresa."
+      "Até 1 ano na mesma empresa: 30 dias de aviso."
     ],
     [
       "check",
-      "Mais 3 dias por ano de serviço na mesma empresa."
+      "Cada ano a mais de serviço soma 3 dias."
     ],
     [
       "carteira",
@@ -20,15 +20,23 @@
     ]
   ],
   "exemplo": "Márcia foi dispensada depois de dez anos na mesma empresa e recebeu só 30 dias de aviso prévio, como se tivesse acabado de ser contratada.",
-  "corpo": "<h2>O que a lei prevê</h2><p>A Lei 12.506/2011 estabelece que o aviso prévio é de 30 dias para empregados com até um ano de serviço na mesma empresa. A cada ano de serviço, acrescentam-se 3 dias, até o máximo de 60 dias extras, num total de até 90 dias.</p><p>O aviso prévio está entre os assuntos mais levados à Justiça do Trabalho, segundo dados do TST de 2025.</p><h2>Na prática</h2><ul><li>Confira no termo de rescisão quantos dias de aviso foram considerados.</li><li>O tempo de aviso prévio indenizado conta como tempo de serviço.</li><li>Erros no cálculo afetam também outras verbas.</li></ul>",
+  "corpo": "<h2>O que a lei garante</h2><p>O aviso prévio é de 30 dias para quem tem até um ano na mesma empresa. A cada ano de serviço, somam-se 3 dias, até o máximo de 60 dias extras. Ou seja, o aviso pode chegar a 90 dias (aviso prévio proporcional, Lei 12.506/2011).</p><p>O aviso prévio está entre os assuntos mais levados à Justiça do Trabalho, segundo dados do TST de 2025.</p><h2>Na prática</h2><ul><li>O termo de rescisão mostra quantos dias de aviso foram considerados.</li><li>O tempo de aviso prévio indenizado conta como tempo de serviço.</li><li>Um erro na conta do aviso afeta também outras verbas da rescisão.</li></ul><h2>O erro que enfraquece o caso</h2><p>Assinar a rescisão e jogar o papel fora. O termo de rescisão e a carteira de trabalho são as provas do tempo de casa e do que foi pago. Sem eles, a conferência fica mais difícil, e o tempo para cobrar continua correndo.</p><h2>O que fazer agora</h2><p>Pegue o termo de rescisão, confira quantos dias de aviso aparecem e compare com seus anos de empresa. Se a conta não bater, leve o termo e a carteira de trabalho a um advogado.</p>",
   "faq": [
     [
       "Quantos dias são acrescentados por ano?",
       "3 dias por ano de serviço na mesma empresa (Lei 12.506/2011, art. 1º, parágrafo único)."
     ],
     [
-      "Qual é o máximo?",
-      "90 dias no total."
+      "Qual é o máximo de aviso prévio?",
+      "90 dias no total: os 30 dias iniciais mais até 60 dias extras."
+    ],
+    [
+      "O aviso prévio indenizado conta como tempo de serviço?",
+      "Sim. O período do aviso indenizado conta como tempo de serviço."
+    ],
+    [
+      "Onde confiro quantos dias recebi?",
+      "No termo de rescisão, que mostra quantos dias de aviso foram considerados no cálculo."
     ]
   ],
   "base": [
@@ -39,5 +47,6 @@
     "fonte": "Pexels",
     "url": "https://www.pexels.com/photo/955393/",
     "licenca": "https://www.pexels.com/license/"
-  }
+  },
+  "atualizado": "2026-11-15"
 }

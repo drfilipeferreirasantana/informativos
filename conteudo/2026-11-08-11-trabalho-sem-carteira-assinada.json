@@ -3,12 +3,12 @@
   "area": "trabalhista",
   "data": "2026-11-08",
   "titulo": "Quem trabalha sem carteira assinada pode ter o vínculo reconhecido?",
-  "resumo": "Quem trabalha de forma não eventual, com subordinação e salário é empregado, mesmo sem registro. A carteira deve ser anotada em até 5 dias úteis.",
-  "destaque": "Sim, pode.",
+  "resumo": "Quem trabalha com frequência, recebe ordens e ganha salário é empregado, mesmo sem carteira assinada. A empresa tem 5 dias úteis para fazer o registro.",
+  "destaque": "Sim: com rotina, ordens e salário.",
   "pontos": [
     [
       "maleta",
-      "Trabalho habitual, com ordens e salário, caracteriza emprego."
+      "Trabalho frequente, com ordens e salário, é emprego."
     ],
     [
       "calendario",
@@ -16,19 +16,27 @@
     ],
     [
       "documento",
-      "Mensagens, comprovantes de pagamento e testemunhas ajudam a provar."
+      "Mensagens, comprovantes de pagamento e testemunhas provam o vínculo."
     ]
   ],
   "exemplo": "Bruno trabalha há dois anos como auxiliar numa oficina, todos os dias, com horário fixo e salário mensal. Nunca teve a carteira assinada.",
-  "corpo": "<h2>O que a lei prevê</h2><p>A CLT considera empregado toda pessoa física que presta serviços de natureza não eventual a empregador, sob a dependência deste e mediante salário. Presentes esses elementos, existe relação de emprego, com ou sem registro.</p><p>O empregador tem 5 dias úteis para anotar na carteira de trabalho a admissão, a remuneração e as condições especiais. O reconhecimento de vínculo está entre os 15 assuntos mais levados à Justiça do Trabalho.</p><h2>Na prática</h2><ul><li>Com o vínculo reconhecido, podem ser cobrados FGTS, férias, 13º e demais direitos do período.</li><li>Contratação como PJ ou MEI com ordens e horário fixo também pode ser discutida.</li><li>Atenção ao prazo de 2 anos depois do fim do trabalho para entrar com a ação.</li></ul>",
+  "corpo": "<h2>O que a lei garante</h2><p>É empregado quem trabalha de forma frequente para alguém, recebendo ordens e salário. Se isso acontece, existe relação de emprego, com ou sem registro (vínculo de emprego, CLT, art. 3º).</p><p>A empresa tem 5 dias úteis para anotar na carteira de trabalho a admissão, o salário e as condições especiais. O reconhecimento de vínculo está entre os 15 assuntos mais levados à Justiça do Trabalho.</p><h2>Na prática</h2><ul><li>Com o vínculo reconhecido, podem ser cobrados FGTS, férias, 13º e os demais direitos do período.</li><li>Contratação como PJ ou MEI, com ordens e horário fixo, também pode ser discutida.</li></ul><h2>O erro que enfraquece o caso</h2><p>Deixar o tempo passar e não guardar nada. Quem sai do trabalho tem 2 anos para entrar com a ação. E, sem carteira, a prova está nas mensagens com o patrão, nos comprovantes de pagamento e no nome de quem via o trabalho todos os dias. Apagar conversas é perder prova.</p><h2>O que fazer agora</h2><p>Salve as conversas, os comprovantes de pagamento e anote o nome de colegas e clientes que podem confirmar a rotina. Com esse material, uma conversa com um advogado mostra quanto o caso vale e qual é o prazo.</p>",
   "faq": [
     [
       "O que caracteriza o emprego?",
-      "Trabalho não eventual, sob dependência do empregador e mediante salário (CLT, art. 3º)."
+      "Trabalho frequente, recebendo ordens do empregador e salário (CLT, art. 3º)."
     ],
     [
       "Em quanto tempo a carteira deve ser anotada?",
       "Em até 5 dias úteis da admissão (CLT, art. 29)."
+    ],
+    [
+      "Quem é contratado como MEI ou PJ pode ser empregado?",
+      "Pode, se trabalha com ordens e horário fixo. Isso pode ser discutido na Justiça."
+    ],
+    [
+      "Até quando posso cobrar?",
+      "A ação deve ser proposta em até 2 anos depois do fim do trabalho."
     ]
   ],
   "base": [
@@ -39,5 +47,6 @@
     "fonte": "Pexels",
     "url": "https://www.pexels.com/photo/8986040/",
     "licenca": "https://www.pexels.com/license/"
-  }
+  },
+  "atualizado": "2026-11-15"
 }

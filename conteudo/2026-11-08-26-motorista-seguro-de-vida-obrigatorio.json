@@ -5,12 +5,12 @@
   "serie": "motoristas",
   "ordem": 11,
   "titulo": "O motorista tem direito a seguro de vida pago pela empresa?",
-  "resumo": "A Lei do Motorista garante ao motorista empregado seguro de contratação obrigatória, pago pelo empregador, com cobertura de morte, invalidez por acidente, traslado e auxílio-funeral, no valor mínimo de 10 vezes o piso da categoria.",
-  "destaque": "Sim, é obrigatório.",
+  "resumo": "Todo motorista empregado tem direito a seguro pago pela empresa, que cobre morte, invalidez por acidente, traslado e funeral. O valor mínimo é de 10 vezes o piso da categoria.",
+  "destaque": "Sim, obrigatório e pago pela empresa.",
   "pontos": [
     [
       "escudo",
-      "O seguro é obrigatório, contratado e pago pelo empregador."
+      "O seguro é obrigatório, contratado e pago pela empresa."
     ],
     [
       "filhos",
@@ -22,15 +22,23 @@
     ]
   ],
   "exemplo": "Depois que o marido, motorista de uma transportadora, sofreu um acidente na estrada, Cláudia descobriu que a empresa nunca tinha contratado o seguro.",
-  "corpo": "<h2>O que a lei prevê</h2><p>A Lei 13.103/2015 lista entre os direitos do motorista empregado o benefício de seguro de contratação obrigatória, assegurado e custeado pelo empregador.</p><p>O seguro deve cobrir morte natural, morte por acidente, invalidez total ou parcial decorrente de acidente, traslado e auxílio para funeral referentes às atividades do motorista. O valor mínimo corresponde a 10 vezes o piso salarial da categoria, ou valor superior que venha a ser fixado.</p><h2>Na prática</h2><ul><li>O seguro não pode ser descontado do salário: o custo é da empresa.</li><li>A família pode pedir à empresa a apólice e os dados da seguradora.</li><li>A convenção coletiva da categoria pode trazer valores maiores.</li></ul>",
+  "corpo": "<h2>O que a lei garante</h2><p>A Lei 13.103/2015 coloca entre os direitos do motorista empregado um seguro obrigatório, contratado e pago pela empresa.</p><p>O seguro deve cobrir morte natural, morte por acidente, invalidez total ou parcial causada por acidente, traslado e auxílio-funeral ligados ao trabalho do motorista. O valor mínimo é de 10 vezes o piso salarial da categoria, ou mais, se outro valor for fixado.</p><h2>Na prática</h2><ul><li>O seguro não pode ser descontado do salário: o custo é da empresa.</li><li>A convenção coletiva da categoria pode trazer valores maiores.</li></ul><h2>O erro que enfraquece o caso</h2><p>A família só descobrir que o seguro não existe depois do acidente, sem nenhum documento em mãos. Saber antes evita surpresa.</p><h2>O que fazer agora</h2><p>Peça à empresa a apólice e os dados da seguradora. Se ela não tiver o seguro, guarde a resposta por escrito: esse registro é o ponto de partida para cobrar o direito.</p>",
   "faq": [
     [
       "O seguro pode ser descontado do salário?",
-      "Não. A lei diz que o seguro é assegurado e custeado pelo empregador (Lei 13.103/2015, art. 2º, V, c)."
+      "Não. A lei diz que o seguro é contratado e pago pelo empregador (Lei 13.103/2015, art. 2º, V, c)."
     ],
     [
       "Vale para motorista autônomo?",
-      "A regra é para o motorista empregado (Lei 13.103/2015, art. 2º, V)."
+      "Não. A regra é para o motorista empregado (Lei 13.103/2015, art. 2º, V)."
+    ],
+    [
+      "Qual o valor mínimo do seguro?",
+      "10 vezes o piso salarial da categoria, ou valor maior que venha a ser fixado."
+    ],
+    [
+      "A família pode pedir a apólice?",
+      "Sim. A família pode pedir à empresa a apólice e os dados da seguradora."
     ]
   ],
   "base": [
@@ -41,5 +49,6 @@
     "fonte": "Pexels",
     "url": "https://www.pexels.com/photo/7302896/",
     "licenca": "https://www.pexels.com/license/"
-  }
+  },
+  "atualizado": "2026-11-15"
 }

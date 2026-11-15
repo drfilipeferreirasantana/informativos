@@ -5,32 +5,36 @@
   "serie": "motoristas",
   "ordem": 22,
   "titulo": "Motorista pode se recusar a dirigir caminhão sem condições de segurança?",
-  "resumo": "A empresa é responsável pelas medidas de segurança do trabalhador. Se o motorista é obrigado a correr perigo manifesto de mal considerável, a CLT permite que ele considere o contrato rescindido por culpa da empresa.",
-  "destaque": "A lei protege o motorista.",
+  "resumo": "Dirigir com freio falhando ou veículo sem segurança não é obrigação do motorista. A empresa responde pela segurança, e quem é obrigado a correr risco grave pode encerrar o contrato por culpa dela.",
+  "destaque": "Sim, se houver risco grave e real.",
   "pontos": [
     [
       "escudo",
-      "A empresa responde pelas medidas de proteção e segurança do trabalhador."
+      "A empresa é responsável pela proteção e segurança de quem trabalha."
     ],
     [
       "alerta",
-      "Correr perigo manifesto de mal considerável autoriza a rescisão indireta."
+      "Ser obrigado a viajar correndo risco grave permite sair por culpa da empresa."
     ],
     [
       "check",
-      "Estar atento às condições de segurança do veículo é dever do motorista previsto na CLT."
+      "O motorista deve ficar atento à segurança do veículo e avisar os defeitos."
     ]
   ],
   "exemplo": "Há semanas, Reinaldo avisa que o freio da carreta está falhando. A resposta da empresa é sempre a mesma: segue viagem, que na volta a gente arruma.",
-  "corpo": "<h2>O que a lei prevê</h2><p>A Lei 8.213/1991 diz que a empresa é responsável pela adoção e uso das medidas coletivas e individuais de proteção e segurança da saúde do trabalhador.</p><p>A CLT lista entre os deveres do motorista profissional empregado estar atento às condições de segurança do veículo e conduzi-lo com perícia, prudência e zelo.</p><p>Quando o empregado é obrigado a correr perigo manifesto de mal considerável, a CLT permite que ele considere rescindido o contrato e peça a indenização correspondente. É a chamada rescisão indireta, em que a culpa pelo fim do contrato é do empregador.</p><h2>Na prática</h2><ul><li>Comunique o defeito por escrito, por mensagem ou no checklist do veículo, e guarde a cópia.</li><li>Fotos do problema e ordens recebidas ajudam a mostrar o risco.</li><li>Cada situação depende de análise: a rescisão indireta tem efeitos importantes e deve ser bem avaliada.</li></ul>",
+  "corpo": "<h2>O que a lei garante</h2><p>A segurança de quem trabalha é responsabilidade da empresa. A lei obriga o empregador a adotar e fazer usar as medidas de proteção à saúde e à segurança do trabalhador.</p><p>O motorista também tem um dever: ficar atento às condições de segurança do veículo e dirigir com perícia, prudência e zelo. Avisar o defeito faz parte do trabalho dele.</p><p>Quando a empresa obriga o empregado a correr um risco evidente de sofrer um dano grave, a CLT permite que ele encerre o contrato por culpa do empregador e receba as verbas como se tivesse sido dispensado (a chamada rescisão indireta).</p><h2>O erro que enfraquece o caso</h2><p>Avisar o defeito só de boca e seguir viagem sem deixar registro. Sem prova do aviso e da ordem recebida, fica a palavra do motorista contra a da empresa.</p><ul><li>Comunique o defeito por escrito, por mensagem ou no checklist do veículo, e guarde a cópia.</li><li>Tire fotos do problema e guarde as ordens recebidas.</li><li>Não abandone o emprego por conta própria: a saída por culpa da empresa tem efeitos sérios e precisa ser planejada.</li></ul><h2>O que fazer agora</h2><p>Reúna os avisos enviados, as respostas da empresa e as fotos do veículo e leve tudo a um advogado antes de tomar qualquer decisão sobre o contrato.</p>",
   "faq": [
     [
       "O que é rescisão indireta?",
-      "É quando o empregado considera o contrato rescindido por falta grave do empregador, como expô-lo a perigo manifesto de mal considerável (CLT, art. 483, c)."
+      "É o fim do contrato por falta grave da empresa, como obrigar o empregado a correr risco evidente de dano grave (CLT, art. 483, c). O trabalhador recebe as verbas como se tivesse sido dispensado."
     ],
     [
       "Avisar o defeito é obrigação do motorista?",
-      "Sim. A CLT diz que é dever do motorista estar atento às condições de segurança do veículo (CLT, art. 235-B, I)."
+      "Sim. A CLT diz que o motorista deve ficar atento às condições de segurança do veículo (art. 235-B, I). Por isso, o aviso deve ser feito e registrado."
+    ],
+    [
+      "Posso simplesmente parar de trabalhar?",
+      "Não é o recomendado. A saída por culpa da empresa precisa ser bem avaliada antes, para não ser tratada como abandono ou pedido de demissão."
     ]
   ],
   "base": [
@@ -43,5 +47,6 @@
     "fonte": "Pexels",
     "url": "https://www.pexels.com/photo/7564861/",
     "licenca": "https://www.pexels.com/license/"
-  }
+  },
+  "atualizado": "2026-11-15"
 }

@@ -5,16 +5,16 @@
   "serie": "grandes-causas",
   "ordem": 1,
   "titulo": "Contratado como PJ, mas trabalhava como empregado: tem direitos da CLT?",
-  "destaque": "Depende da prova; o tema está no STF.",
-  "resumo": "Se havia ordens, horário e salário como os de um empregado, a Justiça pode reconhecer o vínculo. Mas o STF ainda está julgando a validade desses contratos.",
+  "destaque": "Pode ter, mas o STF ainda vai decidir.",
+  "resumo": "Se havia ordens, horário e salário fixo como os de um empregado, a Justiça pode reconhecer o vínculo e os direitos da CLT. Mas o STF ainda está julgando quando esse tipo de contrato é válido.",
   "pontos": [
     [
       "maleta",
-      "O que vale é a realidade do trabalho, e não o nome do contrato."
+      "O que vale é como o trabalho acontecia, e não o nome do contrato."
     ],
     [
       "check",
-      "Ordens, horário, pessoalidade e salário fixo indicam vínculo de emprego."
+      "Ordens, horário, trabalho pessoal e salário fixo indicam emprego."
     ],
     [
       "alerta",
@@ -26,11 +26,11 @@
     ]
   ],
   "exemplo": "Marcelo trabalhou cinco anos como coordenador comercial de uma empresa, com horário fixo, metas e um chefe direto. Para ser contratado, teve de abrir uma empresa e emitir nota fiscal todo mês. Quando foi desligado, não recebeu férias, 13º nem FGTS.",
-  "corpo": "<p>A contratação de profissionais como pessoa jurídica, a chamada pejotização, ficou comum em empresas de vários setores. Em muitos casos, o profissional trabalha como qualquer empregado, mas sem carteira assinada e sem os direitos que vêm com ela.</p>\n<h2>O que a lei prevê</h2>\n<p>A CLT considera empregado quem presta serviço de forma pessoal, não eventual, com subordinação e mediante salário (art. 3º). A lei também diz que são nulos os atos feitos para desvirtuar ou impedir a aplicação das regras trabalhistas (art. 9º).</p>\n<p>Por isso, a Justiça do Trabalho costuma olhar para a realidade, e não apenas para o contrato assinado. Se os requisitos do vínculo de emprego estão presentes, ele pode ser reconhecido, com o pagamento de férias, 13º salário, FGTS, horas extras e verbas da rescisão.</p>\n<h2>O julgamento no STF</h2>\n<p>O STF já decidiu que a terceirização e outras formas de organizar o trabalho são, em princípio, lícitas (ADPF 324 e Tema 725). Agora, no Tema 1.389, o tribunal discute quando a contratação de pessoa jurídica ou autônomo é válida, qual Justiça julga esses casos e quem deve provar a fraude.</p>\n<p>Em 2025, o relator determinou a suspensão dos processos sobre o tema em todo o país. Até a data deste informativo, a tese ainda não tinha sido fixada. Por isso, a situação de cada processo precisa ser conferida no momento em que for proposto.</p>\n<h2>Na prática</h2>\n<ul>\n<li>E-mails, mensagens com ordens, controle de horário, metas, crachá e testemunhas ajudam a mostrar como era o trabalho.</li>\n<li>Notas fiscais em sequência, sempre para a mesma empresa e no mesmo valor, também são indício.</li>\n<li>O prazo para cobrar é de 2 anos após o fim da relação, alcançando os últimos 5 anos (Constituição, art. 7º, XXIX).</li>\n</ul>",
+  "corpo": "<p>Muitas empresas contratam profissionais como pessoa jurídica (a chamada pejotização). Em vários casos, a pessoa trabalha como qualquer empregado, mas sem carteira assinada e sem os direitos que vêm com ela.</p><h2>O que a lei garante</h2><p>A CLT considera empregado quem trabalha pessoalmente, de forma contínua, recebendo ordens e salário (art. 3º). E diz que não vale nada feito para escapar das regras trabalhistas (art. 9º).</p><p>Por isso, a Justiça do Trabalho costuma olhar para o dia a dia, e não só para o contrato assinado. Presentes esses requisitos, o vínculo pode ser reconhecido, com férias, 13º salário, FGTS, horas extras e verbas da rescisão.</p><h2>O julgamento no STF</h2><p>O STF já decidiu que a terceirização e outras formas de organizar o trabalho são, em princípio, permitidas (ADPF 324 e Tema 725). Agora, no Tema 1.389, discute quando a contratação de pessoa jurídica ou autônomo é válida, qual Justiça julga esses casos e quem deve provar a fraude.</p><p>Em 2025, o relator mandou suspender os processos sobre o tema em todo o país. Até a data deste informativo, a decisão final ainda não tinha saído. A situação precisa ser conferida no momento em que a ação for proposta.</p><h2>O erro que enfraquece o caso</h2><p>Sair da empresa sem guardar nada e deixar o tempo passar esperando o STF. O prazo de 2 anos continua correndo, e a prova some quando o e-mail da empresa é desligado.</p><ul><li>Guarde e-mails e mensagens com ordens, controle de horário, metas e crachá, e anote o nome de quem pode testemunhar.</li><li>Notas fiscais em sequência, sempre para a mesma empresa e no mesmo valor, também ajudam a mostrar a relação.</li><li>O prazo é de 2 anos após o fim da relação, para cobrar os últimos 5 anos (Constituição, art. 7º, XXIX).</li></ul><h2>O que fazer agora</h2><p>Reúna o contrato de PJ, as notas emitidas e as provas da rotina e leve a um advogado. Com isso em mãos, dá para avaliar a força do caso e o melhor momento de entrar com a ação diante do julgamento no STF.</p>",
   "faq": [
     [
       "Assinei contrato de PJ. Perdi o direito de pedir o vínculo?",
-      "Não necessariamente. A CLT considera nulos os atos feitos para fraudar a lei trabalhista (art. 9º), mas o STF ainda vai fixar os critérios no Tema 1.389."
+      "Não necessariamente. A CLT invalida o que é feito para fraudar a lei trabalhista (art. 9º), mas o STF ainda vai fixar os critérios no Tema 1.389."
     ],
     [
       "O processo sobre pejotização está parado?",
@@ -39,6 +39,10 @@
     [
       "Qual é o prazo para entrar com a ação?",
       "Até 2 anos após o fim da relação, cobrando os últimos 5 anos (Constituição, art. 7º, XXIX)."
+    ],
+    [
+      "Que provas ajudam a mostrar o vínculo?",
+      "E-mails e mensagens com ordens, controle de horário, metas, crachá, testemunhas e notas fiscais em sequência para a mesma empresa."
     ]
   ],
   "base": [
@@ -52,5 +56,6 @@
     "fonte": "Pexels",
     "url": "https://www.pexels.com/photo/36697262/",
     "licenca": "https://www.pexels.com/license/"
-  }
+  },
+  "atualizado": "2026-11-15"
 }

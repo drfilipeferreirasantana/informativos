@@ -3,8 +3,8 @@
   "area": "trabalhista",
   "data": "2026-11-08",
   "titulo": "Qual é o prazo para a empresa pagar a rescisão?",
-  "resumo": "Os valores da rescisão e os documentos devem ser entregues em até 10 dias após o fim do contrato. O atraso gera multa de um salário a favor do trabalhador.",
-  "destaque": "10 dias após o fim do contrato.",
+  "resumo": "A empresa tem até 10 dias depois do fim do contrato para pagar a rescisão e entregar os documentos. Se atrasar, paga ao trabalhador multa de um salário.",
+  "destaque": "Até 10 dias. Atraso gera multa.",
   "pontos": [
     [
       "calendario",
@@ -20,15 +20,19 @@
     ]
   ],
   "exemplo": "Diego foi dispensado no começo do mês. Já se passaram três semanas e a empresa ainda não pagou a rescisão nem entregou as guias.",
-  "corpo": "<h2>O que a lei prevê</h2><p>A CLT determina que a entrega dos documentos da extinção do contrato e o pagamento dos valores da rescisão sejam feitos em até dez dias, contados do término do contrato.</p><p>Se o prazo não for cumprido, a empresa paga ao empregado uma multa no valor do seu salário, salvo quando o próprio trabalhador der causa ao atraso. Verbas rescisórias e a multa do art. 477 estão entre os cinco assuntos mais levados à Justiça do Trabalho.</p><h2>Na prática</h2><ul><li>O prazo vale para qualquer forma de saída: dispensa, pedido de demissão ou fim de contrato.</li><li>Guarde o termo de rescisão e os comprovantes de pagamento.</li><li>Confira se cada parcela está discriminada no recibo.</li></ul>",
+  "corpo": "<h2>O que a lei garante</h2><p>Terminado o contrato, a empresa tem até 10 dias para pagar os valores da rescisão e entregar os documentos da saída.</p><p>Se não cumprir o prazo, paga ao trabalhador uma multa no valor do salário dele. A exceção é quando o próprio trabalhador causou o atraso. Verbas rescisórias e essa multa (do art. 477 da CLT) estão entre os cinco assuntos mais levados à Justiça do Trabalho.</p><h2>Na prática</h2><ul><li>O prazo vale para qualquer forma de saída: dispensa, pedido de demissão ou fim de contrato.</li><li>Cada parcela deve aparecer separada no recibo.</li></ul><h2>O erro que enfraquece o caso</h2><p>Não guardar o termo de rescisão, os comprovantes de pagamento e as mensagens com a empresa sobre a data da saída. São eles que mostram o atraso, dia a dia.</p><h2>O que fazer agora</h2><p>Anote a data em que o contrato terminou e a data em que o dinheiro caiu. Se passou de 10 dias, leve esses comprovantes à primeira conversa com um advogado.</p>",
   "faq": [
     [
-      "A multa vale também se eu pedi demissão?",
+      "A multa vale também para quem pediu demissão?",
       "Sim. O prazo de 10 dias vale para o término do contrato, qualquer que seja a forma (CLT, art. 477, § 6º)."
     ],
     [
       "De quanto é a multa?",
       "Um valor equivalente ao salário do empregado, corrigido (CLT, art. 477, § 8º)."
+    ],
+    [
+      "Existe caso em que a multa não é devida?",
+      "Sim. Quando o próprio trabalhador deu causa ao atraso."
     ]
   ],
   "base": [
@@ -39,5 +43,6 @@
     "fonte": "Pexels",
     "url": "https://www.pexels.com/photo/30754336/",
     "licenca": "https://www.pexels.com/license/"
-  }
+  },
+  "atualizado": "2026-11-15"
 }

@@ -4,12 +4,12 @@
   "data": "2026-11-14",
   "google": 65,
   "titulo": "Grávida pode pedir pensão antes do bebê nascer?",
-  "resumo": "A gestante pode pedir ao futuro pai que ajude nas despesas da gravidez, como consultas, exames, parto e alimentação especial. São os chamados alimentos gravídicos.",
-  "destaque": "Sim, são os alimentos gravídicos.",
+  "resumo": "A gestante pode pedir ao futuro pai que divida as despesas da gravidez, como consultas, exames, parto e alimentação especial, sem esperar o bebê nascer. São os chamados alimentos gravídicos.",
+  "destaque": "Sim, desde a gravidez, sem exame de DNA",
   "pontos": [
     [
       "documento",
-      "Bastam indícios de que ele é o pai, sem exame de DNA antes do nascimento."
+      "Bastam sinais de que ele é o pai, sem exame de DNA antes do nascimento."
     ],
     [
       "filhos",
@@ -21,11 +21,11 @@
     ]
   ],
   "exemplo": "Juliana está grávida de 4 meses. O pai do bebê sabe da gravidez, mas não ajuda nas consultas, nos exames nem no enxoval. Ela guardou as conversas em que os dois falam sobre a gestação.",
-  "corpo": "<p>As despesas começam bem antes do nascimento. Por isso, a lei permite que a gestante peça ajuda ao futuro pai já durante a gravidez, sem esperar o bebê nascer para pedir pensão.</p>\n<h2>O que a lei prevê</h2>\n<p>A Lei 11.804/2008 garante à gestante os alimentos gravídicos, que cobrem as despesas da gravidez, da concepção ao parto.</p>\n<ul>\n<li>Entram alimentação especial, assistência médica e psicológica, exames, internações, parto, medicamentos e outras despesas que o médico considerar necessárias.</li>\n<li>O valor é dividido entre o futuro pai e a gestante, na proporção dos recursos de cada um.</li>\n<li>O juiz decide com base em indícios da paternidade. Não é preciso exame de DNA durante a gravidez.</li>\n<li>Depois do nascimento, os alimentos gravídicos passam a ser pensão alimentícia da criança, até que alguém peça a revisão.</li>\n</ul>\n<h2>Na prática</h2>\n<p>Mensagens, fotos, redes sociais e testemunhas que mostrem o relacionamento são os indícios mais usados. Também ajudam os comprovantes das despesas da gravidez, como notas de consultas, exames e farmácia.</p>\n<p>Se, depois do nascimento, o exame de DNA mostrar que ele não é o pai, a questão pode ser discutida no processo, mas isso não impede o pedido durante a gestação.</p>",
+  "corpo": "<p>As despesas começam muito antes do nascimento. Por isso, a lei permite que a gestante peça ajuda ao futuro pai já durante a gravidez, sem esperar o bebê nascer para pedir pensão.</p>\n<h2>O que a lei garante</h2>\n<p>A Lei 11.804/2008 garante à gestante os alimentos gravídicos, que cobrem as despesas da gravidez, da concepção ao parto.</p>\n<ul>\n<li>Entram alimentação especial, acompanhamento médico e psicológico, exames, internações, parto, remédios e outras despesas que o médico considerar necessárias.</li>\n<li>O valor é dividido entre o futuro pai e a gestante, conforme o que cada um pode pagar.</li>\n<li>O juiz decide com base em sinais da paternidade (indícios). Não é preciso exame de DNA durante a gravidez.</li>\n<li>Depois do nascimento, os alimentos gravídicos passam a ser pensão alimentícia da criança, até que alguém peça a revisão.</li>\n</ul>\n<h2>Na prática</h2>\n<p>Mensagens, fotos, redes sociais e testemunhas que mostrem o relacionamento são as provas mais usadas. Também ajudam os comprovantes das despesas, como notas de consultas, exames e farmácia.</p>\n<p>Se, depois do nascimento, o DNA mostrar que ele não é o pai, a questão pode ser discutida no processo, mas isso não impede o pedido durante a gestação.</p>\n<p>Quando o futuro pai está disposto a ajudar, um acordo bem feito pode resolver sem processo, desde que o valor cubra de verdade as despesas.</p>\n<h2>O erro que enfraquece o pedido</h2>\n<p>Apagar as conversas com o futuro pai e deixar de guardar as notas das despesas. Cada mês de espera também é um mês de gastos que a gestante carrega sozinha.</p>\n<h2>O que fazer agora</h2>\n<p>Salve as conversas sobre a gravidez, reúna os comprovantes de consultas, exames e farmácia e leve tudo à primeira conversa, com o que se sabe sobre a renda dele.</p>",
   "faq": [
     [
       "Preciso de exame de DNA para pedir?",
-      "Não. Durante a gravidez, o juiz decide com base em indícios da paternidade (Lei 11.804/2008, art. 6º)."
+      "Não. Durante a gravidez, o juiz decide com base em sinais da paternidade (Lei 11.804/2008, art. 6º)."
     ],
     [
       "O que acontece quando o bebê nasce?",
@@ -33,7 +33,11 @@
     ],
     [
       "Quais despesas entram?",
-      "Alimentação especial, assistência médica e psicológica, exames, internações, parto, medicamentos e outras despesas indicadas pelo médico (Lei 11.804/2008, art. 2º)."
+      "Alimentação especial, acompanhamento médico e psicológico, exames, internações, parto, remédios e outras despesas indicadas pelo médico (Lei 11.804/2008, art. 2º)."
+    ],
+    [
+      "Ele paga tudo sozinho?",
+      "Não. O valor é dividido entre o futuro pai e a gestante, conforme o que cada um pode pagar."
     ]
   ],
   "base": [
@@ -44,5 +48,6 @@
     "fonte": "Pexels",
     "url": "https://www.pexels.com/photo/7089337/",
     "licenca": "https://www.pexels.com/license/"
-  }
+  },
+  "atualizado": "2026-11-15"
 }

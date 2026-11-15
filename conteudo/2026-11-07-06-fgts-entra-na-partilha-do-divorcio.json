@@ -3,8 +3,8 @@
   "area": "familia",
   "data": "2026-11-07",
   "titulo": "O FGTS entra na partilha do divórcio?",
-  "resumo": "No regime da comunhão parcial, os depósitos feitos durante a união integram o patrimônio comum.",
-  "destaque": "Sim, na comunhão parcial.",
+  "resumo": "Na comunhão parcial de bens, o FGTS depositado durante o casamento ou a união estável pertence ao casal e entra na divisão.",
+  "destaque": "Sim, na comunhão parcial, o da união.",
   "pontos": [
     [
       "calendario",
@@ -20,7 +20,7 @@
     ]
   ],
   "exemplo": "Lucas e Bia foram casados por dez anos em comunhão parcial de bens. Na separação, ninguém lembrou do saldo de FGTS que Lucas juntou nesse período.",
-  "corpo": "<p>Na hora de dividir os bens no divórcio, muita gente esquece do saldo do FGTS. O Superior Tribunal de Justiça já decidiu que ele pode ser partilhado.</p>\n<h2>O que o STJ decidiu</h2>\n<p>No julgamento do REsp 1.399.199/RS, a Segunda Seção do STJ entendeu que os valores depositados no FGTS durante o casamento ou a união estável, no regime da comunhão parcial de bens, integram o patrimônio comum do casal.</p>\n<h2>Na prática</h2>\n<ul>\n<li>Entram na conta apenas os depósitos feitos durante a união. O saldo formado antes dela fica de fora.</li>\n<li>Os depósitos podem ser identificados pelo extrato analítico do FGTS.</li>\n<li>O saque continua dependendo das hipóteses previstas em lei. Por isso, a parte do outro cônjuge costuma ficar reservada até que o saque seja possível.</li>\n<li>Se o FGTS foi usado para comprar um imóvel durante a união, a partilha recai sobre o próprio imóvel.</li>\n<li>No regime da separação de bens, a regra é outra.</li>\n</ul>",
+  "corpo": "<h2>O que o STJ decidiu</h2><p>Na divisão dos bens, o saldo do FGTS é um dos itens mais esquecidos. O Superior Tribunal de Justiça decidiu que, na comunhão parcial de bens, o que foi depositado no FGTS durante o casamento ou a união estável pertence aos dois (REsp 1.399.199/RS).</p><h2>Na prática</h2><ul><li>Entram só os depósitos feitos durante a união. O saldo formado antes fica de fora.</li><li>O extrato analítico do FGTS mostra cada depósito, mês a mês.</li><li>O saque continua seguindo as regras do FGTS. Por isso, a parte do outro costuma ficar reservada até o saque ser possível.</li><li>Se o FGTS foi usado na compra de um imóvel durante a união, a divisão recai sobre o imóvel.</li><li>Na separação de bens, a regra é outra.</li></ul><h2>O erro que enfraquece o caso</h2><p>Sair de casa ou assinar acordo sem orientação e sem levantar o patrimônio todo. O FGTS esquecido no acordo dificilmente volta à mesa depois.</p><h2>O que fazer agora</h2><p>Peça o extrato analítico do FGTS e leve à primeira conversa com um advogado, junto com a certidão de casamento ou a prova da união. Se o acordo for justo, a divisão pode ser resolvida sem briga.</p>",
   "faq": [
     [
       "O FGTS de antes do casamento entra na partilha?",
@@ -29,6 +29,14 @@
     [
       "O valor é sacado na hora do divórcio?",
       "O saque segue as regras do FGTS. A parte do outro cônjuge costuma ficar reservada até que o saque seja possível."
+    ],
+    [
+      "E se o FGTS foi usado para comprar a casa?",
+      "A partilha recai sobre o próprio imóvel comprado durante a união."
+    ],
+    [
+      "Vale para quem casou com separação de bens?",
+      "Não. No regime da separação de bens, a regra é outra."
     ]
   ],
   "base": [
@@ -44,5 +52,6 @@
     "fonte": "Pexels",
     "url": "https://www.pexels.com/photo/6964107/",
     "licenca": "https://www.pexels.com/license/"
-  }
+  },
+  "atualizado": "2026-11-15"
 }

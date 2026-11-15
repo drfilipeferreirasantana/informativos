@@ -4,36 +4,40 @@
   "data": "2026-11-15",
   "google": 7,
   "titulo": "Como funciona o banco de horas?",
-  "resumo": "O banco de horas troca as horas a mais de um dia por folga em outro, sem o adicional de hora extra, desde que respeitados os prazos e limites da CLT.",
-  "destaque": "Hora a mais vira folga, com prazo.",
+  "resumo": "O banco de horas troca as horas a mais de um dia por folga em outro, sem o adicional de hora extra. Mas só vale dentro dos prazos e limites da CLT, e o saldo não folgado precisa ser pago.",
+  "destaque": "Hora a mais vira folga, dentro do prazo",
   "pontos": [
     [
       "relogio",
-      "A jornada no banco de horas não pode passar de 10 horas por dia."
+      "No banco de horas, a jornada não pode passar de 10 horas por dia."
     ],
     [
       "documento",
-      "Por acordo individual escrito, a compensação deve ocorrer em até seis meses."
+      "Por acordo individual escrito, a folga deve sair em até seis meses."
     ],
     [
       "carteira",
-      "Horas não compensadas até a saída devem ser pagas como extras."
+      "Horas não folgadas até a saída devem ser pagas como extras."
     ]
   ],
   "exemplo": "Sandra trabalha em uma loja de materiais de construção e ficou duas horas a mais várias vezes no mês. A gerente disse que essas horas iriam para o banco e seriam folgadas depois.",
-  "corpo": "<p>Em vez de pagar a hora extra, muitas empresas oferecem folga em outro dia. É o chamado banco de horas. Ele é permitido pela CLT, mas a lei impõe condições, e o trabalhador deve acompanhar o próprio saldo.</p>\n<h2>O que a lei prevê</h2>\n<p>A CLT dispensa o acréscimo de salário quando o excesso de horas de um dia é compensado pela diminuição em outro, sem ultrapassar o limite de 10 horas diárias. O prazo para compensar depende da forma do acordo:</p>\n<ul>\n<li>por convenção ou acordo coletivo, em até um ano;</li>\n<li>por acordo individual escrito, em até seis meses;</li>\n<li>por acordo individual, tácito ou escrito, quando a compensação ocorre no mesmo mês.</li>\n</ul>\n<p>Se o contrato terminar antes de as horas serem compensadas, o trabalhador recebe as horas extras não compensadas, calculadas sobre a remuneração da data da rescisão.</p>\n<p>A lei também diz que fazer horas extras com frequência não descaracteriza, por si só, o banco de horas.</p>\n<h2>Na prática</h2>\n<ul>\n<li>Peça para ver o acordo que criou o banco de horas e confira se ele é coletivo ou individual escrito. Isso define o prazo de compensação.</li>\n<li>Anote os dias em que ficou além do horário e os dias de folga recebidos. Compare com o saldo informado pela empresa.</li>\n<li>Acompanhe o vencimento do prazo. Horas que não forem compensadas no período previsto merecem análise.</li>\n<li>Na saída, verifique se o saldo positivo foi pago no acerto.</li>\n</ul>\n<p>Quando as horas do banco são convertidas em pagamento, valem as regras da hora extra, com adicional de pelo menos 50% sobre a hora normal.</p>\n<p>Guarde espelhos de ponto, mensagens com pedidos para ficar além do horário e comunicados sobre folgas. São esses registros que permitem conferir se o saldo está correto.</p>",
+  "corpo": "<p>Em vez de pagar a hora extra, muitas empresas oferecem folga em outro dia. É o banco de horas. A CLT permite, mas impõe condições, e quem trabalha precisa acompanhar o próprio saldo.</p>\n<h2>O que a lei diz</h2>\n<p>A CLT dispensa o adicional quando as horas a mais de um dia são trocadas por folga em outro, sem passar de 10 horas por dia. O prazo para folgar depende de como o banco foi criado:</p>\n<ul>\n<li>por convenção ou acordo coletivo, em até um ano;</li>\n<li>por acordo individual escrito, em até seis meses;</li>\n<li>por acordo individual, falado ou escrito, quando a folga sai no mesmo mês.</li>\n</ul>\n<p>Se o contrato terminar antes da folga, o trabalhador recebe as horas como extras, calculadas sobre o salário da data da rescisão. Quando as horas viram pagamento, valem as regras da hora extra, com adicional de pelo menos 50%.</p>\n<p>A lei também diz que fazer horas extras com frequência não anula, por si só, o banco de horas.</p>\n<h2>Na prática</h2>\n<ul>\n<li>Peça para ver o acordo que criou o banco e veja se é coletivo ou individual escrito. Isso define o prazo.</li>\n<li>Acompanhe o vencimento: horas não folgadas no período previsto merecem análise.</li>\n<li>Na saída, confira se o saldo positivo foi pago no acerto.</li>\n</ul>\n<h2>O erro que enfraquece o caso</h2>\n<p>Confiar só no saldo informado pela empresa. Sem as próprias anotações dos dias em que ficou além do horário e das folgas recebidas, não há como mostrar que a conta está errada.</p>\n<h2>O que fazer agora</h2>\n<p>Comece hoje a anotar entradas, saídas e folgas, e guarde espelhos de ponto e mensagens pedindo para ficar além do horário. Com esse registro, dá para conferir o saldo e cobrar a diferença.</p>",
   "faq": [
     [
-      "Qual é o prazo para compensar as horas?",
-      "Até um ano, se o banco for criado por convenção ou acordo coletivo, e até seis meses, se for por acordo individual escrito (CLT, art. 59, §§ 2º e 5º)."
+      "Qual é o prazo para folgar as horas?",
+      "Até um ano, se o banco foi criado por convenção ou acordo coletivo, e até seis meses, se foi por acordo individual escrito (CLT, art. 59, §§ 2º e 5º)."
     ],
     [
       "Saí da empresa com horas no banco. Recebo?",
-      "Sim. As horas não compensadas são pagas como extras, calculadas sobre a remuneração na data da rescisão (CLT, art. 59, § 3º)."
+      "Sim. As horas não folgadas são pagas como extras, calculadas sobre o salário da data da rescisão (CLT, art. 59, § 3º)."
     ],
     [
       "Quantas horas posso trabalhar por dia no banco de horas?",
-      "A compensação não pode ultrapassar o limite máximo de 10 horas diárias (CLT, art. 59, § 2º)."
+      "No máximo 10 horas por dia (CLT, art. 59, § 2º)."
+    ],
+    [
+      "Faço hora extra toda semana. O banco deixa de valer?",
+      "Não automaticamente. A lei diz que horas extras frequentes não anulam, por si só, o banco de horas (CLT, art. 59-B, parágrafo único)."
     ]
   ],
   "base": [
@@ -45,5 +49,6 @@
     "fonte": "Pexels",
     "url": "https://www.pexels.com/photo/36713389/",
     "licenca": "https://www.pexels.com/license/"
-  }
+  },
+  "atualizado": "2026-11-15"
 }

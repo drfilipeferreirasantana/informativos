@@ -3,12 +3,12 @@
   "area": "trabalhista",
   "data": "2026-11-08",
   "titulo": "Quem trabalha exposto a agentes nocivos recebe adicional de insalubridade?",
-  "resumo": "Quem trabalha acima dos limites de tolerância a ruído, calor, produtos químicos ou agentes biológicos recebe um adicional de 10%, 20% ou 40%.",
-  "destaque": "Sim, de 10% a 40%.",
+  "resumo": "Quem trabalha acima dos limites tolerados de ruído, calor, produtos químicos ou agentes biológicos tem direito a um adicional de 10%, 20% ou 40%.",
+  "destaque": "Sim, de 10% a 40%, conforme perícia.",
   "pontos": [
     [
       "saude",
-      "Vale para exposição a agentes nocivos acima dos limites fixados pelo Ministério do Trabalho."
+      "Vale para exposição a agentes nocivos acima dos limites do Ministério do Trabalho."
     ],
     [
       "carteira",
@@ -16,11 +16,11 @@
     ],
     [
       "documento",
-      "A insalubridade é verificada por perícia técnica."
+      "A insalubridade é confirmada por perícia técnica."
     ]
   ],
   "exemplo": "Sandra trabalha há três anos na limpeza de banheiros de um shopping, com produtos químicos fortes e contato com lixo. Ela nunca recebeu nada além do salário.",
-  "corpo": "<h2>O que a lei prevê</h2><p>A CLT assegura adicional ao trabalho em condições insalubres, acima dos limites de tolerância estabelecidos pelo Ministério do Trabalho. O percentual é de 40%, 20% ou 10%, conforme a insalubridade seja de grau máximo, médio ou mínimo.</p><p>O adicional de insalubridade é o assunto mais levado à Justiça do Trabalho no país, segundo dados do TST de 2025.</p><h2>Na prática</h2><ul><li>Ruído, calor, poeira, produtos químicos e contato com agentes biológicos estão entre as situações mais comuns.</li><li>A existência e o grau da insalubridade dependem de perícia no local de trabalho.</li><li>Equipamento de proteção pode eliminar ou reduzir o risco, e isso também é avaliado na perícia.</li></ul>",
+  "corpo": "<h2>O que a lei garante</h2><p>Trabalhar exposto a algo que faz mal à saúde, acima dos limites tolerados pelo Ministério do Trabalho, dá direito a um adicional (insalubridade). O valor é de 40%, 20% ou 10%, conforme o grau seja máximo, médio ou mínimo.</p><p>É o assunto mais levado à Justiça do Trabalho no país, segundo dados do TST de 2025.</p><h2>O que mais acontece</h2><ul><li>Ruído, calor, poeira, produtos químicos e contato com agentes biológicos.</li><li>A existência e o grau da insalubridade são decididos por perícia no local de trabalho.</li><li>Equipamento de proteção pode eliminar ou reduzir o risco, e isso também é avaliado na perícia.</li></ul><h2>O erro que enfraquece o caso</h2><p>Sair da empresa sem guardar nada e deixar o tempo passar. Fotos do ambiente, nomes dos produtos usados, registros de entrega de equipamento e o nome de colegas que viram a rotina ajudam a mostrar o que acontecia.</p><h2>O que fazer agora</h2><p>Anote quais produtos e condições enfrenta no dia a dia e desde quando, e leve isso com os contracheques à primeira conversa com um advogado.</p>",
   "faq": [
     [
       "Usar EPI tira o direito ao adicional?",
@@ -29,6 +29,10 @@
     [
       "Quais são os percentuais?",
       "40% no grau máximo, 20% no médio e 10% no mínimo (CLT, art. 192)."
+    ],
+    [
+      "Quem decide se o trabalho é insalubre?",
+      "A perícia técnica no local de trabalho, que avalia a existência e o grau da insalubridade."
     ]
   ],
   "base": [
@@ -39,5 +43,6 @@
     "fonte": "Pexels",
     "url": "https://www.pexels.com/photo/4021256/",
     "licenca": "https://www.pexels.com/license/"
-  }
+  },
+  "atualizado": "2026-11-15"
 }

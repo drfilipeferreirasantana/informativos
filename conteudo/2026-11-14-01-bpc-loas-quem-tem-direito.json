@@ -4,36 +4,40 @@
   "data": "2026-11-14",
   "google": 6,
   "titulo": "Quem tem direito ao BPC/LOAS e o que entra na renda da família?",
-  "resumo": "O BPC garante um salário mínimo por mês à pessoa idosa com 65 anos ou mais e à pessoa com deficiência, quando a renda por pessoa da família é de até 1/4 do salário mínimo.",
-  "destaque": "Idosos e pessoas com deficiência.",
+  "resumo": "O BPC paga um salário mínimo por mês ao idoso com 65 anos ou mais e à pessoa com deficiência, quando a renda por pessoa da família é de até 1/4 do salário mínimo. Não exige contribuição ao INSS.",
+  "destaque": "65+ ou com deficiência, de baixa renda.",
   "pontos": [
     [
       "carteira",
-      "Paga um salário mínimo por mês e não depende de ter contribuído para o INSS."
+      "Paga um salário mínimo por mês e não exige contribuição ao INSS."
     ],
     [
       "casa",
-      "A renda por pessoa da família que vive sob o mesmo teto deve ser de até 1/4 do salário mínimo."
+      "A renda por pessoa da família que mora junto deve ser de até 1/4 do salário mínimo."
     ],
     [
       "documento",
-      "É preciso ter CPF e inscrição no Cadastro Único para receber e manter o benefício."
+      "Sem CPF e Cadastro Único atualizado, o benefício não sai nem se mantém."
     ]
   ],
   "exemplo": "Dona Aparecida tem 67 anos, nunca contribuiu para o INSS e mora com o marido, de 70 anos, que recebe aposentadoria de um salário mínimo. Ela quer saber se a renda dele impede o BPC.",
-  "corpo": "<p>O Benefício de Prestação Continuada, conhecido como BPC ou LOAS, não é aposentadoria. É um benefício da assistência social, pago pelo INSS a quem não tem meios de se sustentar nem de ser sustentado pela família. Por isso, não exige contribuição.</p>\n<h2>O que a lei prevê</h2>\n<p>A Lei 8.742/1993 garante um salário mínimo mensal a dois grupos:</p>\n<ul>\n<li>pessoa idosa com 65 anos ou mais;</li>\n<li>pessoa com deficiência, isto é, com impedimento de natureza física, mental, intelectual ou sensorial que produza efeitos por no mínimo 2 anos e dificulte sua participação na sociedade.</li>\n</ul>\n<p>Nos dois casos, a renda mensal por pessoa da família deve ser igual ou inferior a 1/4 do salário mínimo. Entram na conta o requerente, o cônjuge ou companheiro, os pais (ou madrasta e padrasto, na falta de um deles), os irmãos solteiros, os filhos e enteados solteiros e os menores tutelados, desde que vivam sob o mesmo teto.</p>\n<p>Para a pessoa com deficiência, a concessão depende de avaliação médica e avaliação social feitas pelo INSS.</p>\n<h2>Na prática</h2>\n<p>Alguns valores ficam fora da conta da renda. É o caso do BPC ou do benefício previdenciário de até um salário mínimo pago a outro idoso acima de 65 anos ou a outra pessoa com deficiência da mesma família. Também não entram os valores de auxílio financeiro temporário ou de indenização recebidos por causa do rompimento de barragens, nem a renda de estágio supervisionado e de aprendizagem.</p>\n<p>Antes do pedido, confira se o Cadastro Único está atualizado e se a composição da família está correta. A inscrição é requisito para conceder, manter e revisar o benefício.</p>\n<p>O BPC não pode ser acumulado com outro benefício da seguridade social, como aposentadoria ou pensão, salvo as exceções da lei, como a assistência médica e a pensão especial de natureza indenizatória. Ele não paga 13º, não gera pensão por morte e deve ser revisto a cada 2 anos.</p>",
+  "corpo": "<p>O Benefício de Prestação Continuada, conhecido como BPC ou LOAS, não é aposentadoria. É um benefício da assistência social, pago pelo INSS a quem não tem como se sustentar nem ser sustentado pela família. Por isso, não exige contribuição.</p>\n<h2>O que a lei garante</h2>\n<p>A Lei 8.742/1993 garante um salário mínimo por mês a dois grupos:</p>\n<ul>\n<li>pessoa idosa com 65 anos ou mais;</li>\n<li>pessoa com deficiência, isto é, com limitação física, mental, intelectual ou sensorial que dure pelo menos 2 anos e dificulte sua participação na sociedade.</li>\n</ul>\n<p>Nos dois casos, a renda mensal por pessoa da família deve ser de até 1/4 do salário mínimo. Entram na conta, se morarem na mesma casa: o requerente, o cônjuge ou companheiro, os pais (ou madrasta e padrasto, na falta de um deles), os irmãos solteiros, os filhos e enteados solteiros e os menores tutelados.</p>\n<p>Para a pessoa com deficiência, o INSS faz avaliação médica e avaliação social.</p>\n<h2>O que fica fora da conta da renda</h2>\n<ul>\n<li>O BPC ou o benefício do INSS de até um salário mínimo pago a outro idoso acima de 65 anos ou a outra pessoa com deficiência da mesma família.</li>\n<li>Auxílio financeiro temporário ou indenização recebidos por causa do rompimento de barragens.</li>\n<li>Renda de estágio supervisionado e de aprendizagem.</li>\n</ul>\n<h2>O que o BPC não faz</h2>\n<p>Não pode ser somado a outro benefício da seguridade social, como aposentadoria ou pensão, salvo as exceções da lei, como a assistência médica e a pensão especial de natureza indenizatória. Não paga 13º, não gera pensão por morte e é revisto a cada 2 anos.</p>\n<h2>O erro que enfraquece o pedido</h2>\n<p>Fazer o pedido com o Cadastro Único desatualizado ou com a família informada errado. A inscrição é exigida para conceder, manter e revisar o benefício, e um dado errado na composição da família pode levar à negativa.</p>\n<h2>O que fazer agora</h2>\n<p>Atualize o Cadastro Único no CRAS antes do pedido e separe os documentos de todos que moram na casa, com os comprovantes de renda. Se o pedido já foi negado, leve a carta do INSS para análise.</p>",
   "faq": [
     [
+      "Preciso ter contribuído para o INSS?",
+      "Não. O BPC é benefício da assistência social e não exige contribuição."
+    ],
+    [
       "O BPC paga 13º salário?",
-      "Não. O benefício não gera direito ao pagamento de abono anual (Decreto 6.214/2007, art. 22)."
+      "Não. O benefício não dá direito ao abono anual (Decreto 6.214/2007, art. 22)."
     ],
     [
       "Quando o beneficiário falece, a família recebe pensão?",
-      "Não. O BPC é intransferível e não gera pensão por morte, mas o valor que ficou sem receber em vida é pago aos herdeiros (Decreto 6.214/2007, art. 23)."
+      "Não. O BPC não gera pensão por morte, mas o valor que ficou sem receber em vida é pago aos herdeiros (Decreto 6.214/2007, art. 23)."
     ],
     [
       "A aposentadoria do marido idoso entra na renda da família?",
-      "Se for de até um salário mínimo e paga a idoso acima de 65 anos, não entra no cálculo da renda para o BPC de outro idoso da mesma família (Lei 8.742/1993, art. 20, § 14)."
+      "Se for de até um salário mínimo e paga a idoso acima de 65 anos, não entra na conta para o BPC de outro idoso da mesma família (Lei 8.742/1993, art. 20, § 14)."
     ]
   ],
   "base": [
@@ -47,5 +51,6 @@
     "fonte": "Pexels",
     "url": "https://www.pexels.com/photo/11489432/",
     "licenca": "https://www.pexels.com/license/"
-  }
+  },
+  "atualizado": "2026-11-15"
 }

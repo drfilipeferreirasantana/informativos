@@ -3,32 +3,40 @@
   "area": "trabalhista",
   "data": "2026-11-08",
   "titulo": "O intervalo de almoço não concedido deve ser pago?",
-  "resumo": "Quem trabalha mais de 6 horas tem direito a no mínimo 1 hora de intervalo. O tempo suprimido é pago com acréscimo de 50%.",
-  "destaque": "Sim, com 50% a mais.",
+  "resumo": "Quem trabalha mais de 6 horas por dia tem direito a pelo menos 1 hora de pausa para comer e descansar. O tempo de pausa que a empresa corta deve ser pago com 50% a mais.",
+  "destaque": "Sim: 1 hora, ou paga com 50% a mais.",
   "pontos": [
     [
       "relogio",
-      "Jornada acima de 6 horas: intervalo de no mínimo 1 hora."
+      "Mais de 6 horas de trabalho no dia: pausa de pelo menos 1 hora."
     ],
     [
       "calendario",
-      "Jornada entre 4 e 6 horas: intervalo de 15 minutos."
+      "De 4 a 6 horas de trabalho: pausa de 15 minutos."
     ],
     [
       "carteira",
-      "O tempo de intervalo suprimido é pago com 50% a mais."
+      "O tempo de pausa cortado é pago com 50% a mais."
     ]
   ],
   "exemplo": "Fernanda trabalha 8 horas por dia numa loja, mas almoça em 20 minutos no estoque porque o gerente pede para ela voltar logo ao balcão.",
-  "corpo": "<h2>O que a lei prevê</h2><p>A CLT torna obrigatório, em todo trabalho contínuo acima de 6 horas, um intervalo para repouso ou alimentação de no mínimo 1 hora. Quando a jornada passa de 4 horas sem exceder 6, o intervalo é de 15 minutos.</p><p>A não concessão ou a concessão parcial do intervalo mínimo gera o pagamento, de natureza indenizatória, do período suprimido com acréscimo de 50% sobre a hora normal.</p><h2>Na prática</h2><ul><li>O intervalo é para descanso: almoçar trabalhando não conta.</li><li>Intervalo marcado no ponto, mas não usufruído, pode ser discutido com outras provas.</li><li>O intervalo de almoço está entre os dez assuntos mais levados à Justiça do Trabalho.</li></ul>",
+  "corpo": "<h2>O que a lei garante</h2><p>Quem trabalha mais de 6 horas seguidas tem direito a uma pausa de pelo menos 1 hora para comer e descansar. Se o dia de trabalho passa de 4 horas, mas não chega a 6, a pausa é de 15 minutos.</p><p>Quando a empresa não dá a pausa, ou dá só uma parte, deve pagar o tempo que faltou com 50% a mais sobre a hora normal (pagamento de natureza indenizatória).</p><h2>O que mais acontece</h2><ul><li>Almoçar no posto de trabalho, atendendo cliente ou telefone: isso não é pausa.</li><li>Ponto marcado com 1 hora de intervalo que, na verdade, não foi usada.</li><li>Pedido do chefe para voltar mais cedo todos os dias.</li></ul><p>O intervalo de almoço está entre os dez assuntos mais levados à Justiça do Trabalho.</p><h2>O erro que enfraquece o caso</h2><p>Confiar só no ponto. Se o registro mostra uma pausa que não aconteceu, a prova vem de outro lugar: mensagens chamando de volta ao trabalho, colegas que viam a rotina, anotações feitas no dia. Quem não guarda nada fica sem como mostrar o que viveu.</p><h2>O que fazer agora</h2><p>Durante algumas semanas, anote o horário real de cada pausa e quem estava junto. Leve essas anotações e os contracheques à primeira conversa com um advogado.</p>",
   "faq": [
     [
       "Quanto tempo de intervalo é obrigatório?",
-      "No mínimo 1 hora em jornadas acima de 6 horas (CLT, art. 71)."
+      "Pelo menos 1 hora para quem trabalha mais de 6 horas no dia, e 15 minutos para quem trabalha de 4 a 6 horas (CLT, art. 71)."
     ],
     [
-      "Como é pago o intervalo não concedido?",
-      "O tempo suprimido, com 50% a mais (CLT, art. 71, § 4º)."
+      "Almoçar trabalhando conta como intervalo?",
+      "Não. O intervalo é para descanso e alimentação. Comer atendendo ou à disposição da empresa não cumpre a regra."
+    ],
+    [
+      "Como é pago o intervalo que não foi dado?",
+      "O tempo que faltou é pago com 50% a mais sobre a hora normal (CLT, art. 71, § 4º)."
+    ],
+    [
+      "O ponto mostra 1 hora de pausa, mas eu não tirava. E agora?",
+      "O registro pode ser questionado com outras provas, como mensagens e testemunhas que conheciam a rotina."
     ]
   ],
   "base": [
@@ -39,5 +47,6 @@
     "fonte": "Pexels",
     "url": "https://www.pexels.com/photo/8691845/",
     "licenca": "https://www.pexels.com/license/"
-  }
+  },
+  "atualizado": "2026-11-15"
 }
