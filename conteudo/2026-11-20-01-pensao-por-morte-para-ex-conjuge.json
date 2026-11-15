@@ -4,12 +4,12 @@
   "data": "2026-11-20",
   "google": 12,
   "titulo": "Quem recebia pensão alimentícia do ex tem direito à pensão por morte?",
-  "resumo": "Sim. O ex-cônjuge divorciado ou separado que recebia pensão alimentícia divide a pensão por morte do INSS, em igualdade, com o viúvo ou companheiro e os filhos.",
+  "resumo": "Sim. Quem estava divorciado ou separado e recebia pensão alimentícia do ex tem direito a dividir a pensão por morte do INSS, em partes iguais, com a viúva ou o companheiro atual e os filhos.",
   "destaque": "Sim, em partes iguais com os demais.",
   "pontos": [
     [
       "balanca",
-      "O ex-cônjuge que recebia alimentos concorre em igualdade com cônjuge, companheiro e filhos."
+      "Quem recebia pensão alimentícia do ex entra na divisão junto com o cônjuge atual e os filhos."
     ],
     [
       "carteira",
@@ -17,23 +17,27 @@
     ],
     [
       "calendario",
-      "Se os alimentos eram temporários, a pensão vale só pelo prazo que faltava na data do óbito."
+      "Se a pensão alimentícia tinha prazo para acabar, a pensão por morte vale só pelo tempo que faltava."
     ]
   ],
   "exemplo": "Márcia se divorciou há oito anos e recebia pensão alimentícia do ex-marido, que depois se casou de novo. Ele faleceu, e a atual esposa já pediu a pensão por morte no INSS.",
-  "corpo": "<p>Quando um segurado do INSS morre, a pensão por morte vai para os dependentes. A dúvida aparece quando ele já estava separado e pagava pensão alimentícia ao ex-cônjuge: essa pessoa também tem direito, mesmo que ele tenha formado nova família?</p>\n<h2>O que a lei prevê</h2>\n<p>A Lei 8.213/1991 responde que sim. O cônjuge divorciado, separado judicialmente ou separado de fato que recebia pensão de alimentos concorre em igualdade de condições com os dependentes da primeira classe: cônjuge, companheira ou companheiro e filhos menores de 21 anos, inválidos ou com deficiência intelectual, mental ou grave.</p>\n<ul>\n<li>Havendo mais de um pensionista, a pensão é dividida entre todos em partes iguais.</li>\n<li>Quando a cota de um deles termina, ela passa para os demais.</li>\n<li>Se o falecido pagava alimentos temporários por determinação judicial, a pensão por morte é devida só pelo prazo que faltava na data do óbito.</li>\n</ul>\n<h2>Na prática</h2>\n<p>O ponto central é provar que os alimentos eram pagos. Sentença, acordo homologado, escritura de divórcio e comprovantes de desconto em folha ou de depósitos costumam ser usados para isso.</p>\n<p>O prazo também conta. Pedida em até 90 dias após o óbito, a pensão é paga desde a data da morte; depois disso, a partir do pedido. Para filhos menores de 16 anos, o prazo é de 180 dias.</p>\n<p>Se outro dependente já recebe a pensão, o INSS não espera pelo ex-cônjuge para conceder o benefício, e a habilitação feita depois só produz efeito a partir da data em que for feita. Demorar, portanto, significa perder parcelas.</p>\n<p>Quem renunciou aos alimentos no divórcio deve analisar o caso com cuidado: a Súmula 336 do STJ admite a pensão por morte quando se comprova necessidade econômica surgida depois.</p>",
+  "corpo": "<h2>O que a lei garante</h2><p>Quando um segurado do INSS morre, a pensão por morte vai para os dependentes. Se ele pagava pensão alimentícia ao ex-cônjuge, essa pessoa também tem direito, mesmo que ele tenha formado nova família. Vale para quem estava divorciado, separado na Justiça ou apenas separado de fato (Lei 8.213/1991, art. 16, I, e art. 76).</p><ul><li>O ex-cônjuge divide a pensão com o cônjuge ou companheiro atual e os filhos menores de 21 anos, inválidos ou com deficiência intelectual, mental ou grave.</li><li>A divisão é em partes iguais. Quando a parte de um termina, ela passa para os demais.</li><li>Se a pensão alimentícia tinha prazo fixado pela Justiça, a pensão por morte é paga só pelo tempo que faltava na data da morte.</li></ul><h2>O que decide o caso</h2><p>Provar que a pensão alimentícia era paga. Sentença, acordo homologado, escritura de divórcio, desconto em folha e comprovantes de depósito servem para isso.</p><p>Quem abriu mão da pensão alimentícia no divórcio não está necessariamente fora: a Súmula 336 do STJ admite a pensão por morte quando se comprova necessidade econômica que surgiu depois.</p><h2>O erro que custa dinheiro</h2><p>Deixar o tempo passar. Pedida em até 90 dias após a morte, a pensão é paga desde a data do falecimento; depois disso, só a partir do pedido. Para filhos menores de 16 anos, o prazo é de 180 dias. E se outro dependente já recebe, o INSS não espera pelo ex-cônjuge: o pedido feito depois só vale dali para frente. Cada mês de demora é uma parcela perdida.</p><h2>O que fazer agora</h2><p>Junte a certidão de óbito, o documento que fixou a pensão alimentícia e os comprovantes de pagamento, e faça o pedido sem esperar o fim do luto da outra família.</p>",
   "faq": [
     [
-      "A minha cota fica limitada ao valor dos alimentos que eu recebia?",
-      "Não. A lei manda dividir a pensão por morte entre todos os pensionistas em partes iguais (Lei 8.213/1991, art. 77, caput)."
+      "Minha parte fica limitada ao valor da pensão alimentícia que eu recebia?",
+      "Não. A lei manda dividir a pensão por morte entre todos os dependentes em partes iguais (Lei 8.213/1991, art. 77, caput)."
     ],
     [
-      "E se a pensão alimentícia era por prazo determinado?",
-      "A pensão por morte será devida apenas pelo prazo que faltava na data do óbito (Lei 8.213/1991, art. 76, § 3º)."
+      "E se a pensão alimentícia tinha prazo para acabar?",
+      "A pensão por morte é paga só pelo tempo que faltava na data da morte (Lei 8.213/1991, art. 76, § 3º)."
     ],
     [
       "Até quando posso pedir sem perder os atrasados?",
-      "Pedida em até 90 dias do óbito, a pensão conta desde a data da morte; depois desse prazo, a partir do pedido (Lei 8.213/1991, art. 74, I e II)."
+      "Em até 90 dias da morte, a pensão conta desde o falecimento. Depois disso, conta a partir do pedido (Lei 8.213/1991, art. 74, I e II)."
+    ],
+    [
+      "Abri mão da pensão no divórcio. Perdi o direito?",
+      "Não necessariamente. A Súmula 336 do STJ admite a pensão por morte se ficar provada necessidade econômica que surgiu depois."
     ]
   ],
   "base": [

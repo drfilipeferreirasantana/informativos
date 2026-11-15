@@ -3,8 +3,8 @@
   "area": "familia",
   "data": "2026-12-26",
   "titulo": "No divórcio, as dívidas também são divididas?",
-  "destaque": "Depende de para que foram feitas.",
-  "resumo": "Dívidas feitas durante o casamento para as despesas da família são, em regra, do casal. Dívidas anteriores ao casamento ou feitas só no interesse de um ficam com quem as contraiu.",
+  "destaque": "Sim, as feitas para a família.",
+  "resumo": "Dívidas feitas durante o casamento para as despesas da família são, em regra, do casal. Dívidas de antes do casamento ou feitas só no interesse de um ficam com quem as fez.",
   "pontos": [
     [
       "casa",
@@ -12,7 +12,7 @@
     ],
     [
       "documento",
-      "Dívidas anteriores ao casamento continuam de quem as fez."
+      "Dívidas de antes do casamento continuam de quem as fez."
     ],
     [
       "alerta",
@@ -24,7 +24,7 @@
     ]
   ],
   "exemplo": "Fernanda e Lucas estão se divorciando. Durante o casamento, Lucas fez um empréstimo no nome dele para reformar a casa onde a família morava. Ele quer saber se Fernanda deve ajudar a pagar.",
-  "corpo": "<p>Na separação, a atenção costuma ficar nos bens: casa, carro, conta bancária. Mas as dívidas também fazem parte da vida do casal e precisam entrar na conversa.</p>\n<h2>O que a lei prevê</h2>\n<p>No regime da comunhão parcial, o Código Civil traz algumas regras:</p>\n<ul>\n<li>os bens do casal respondem pelas dívidas feitas por qualquer um dos dois para atender às despesas da família (art. 1.664);</li>\n<li>as compras e os empréstimos para a economia doméstica obrigam os dois cônjuges (arts. 1.643 e 1.644);</li>\n<li>ficam fora da comunhão as dívidas anteriores ao casamento e as que vêm de ato ilícito de um deles, salvo se o casal se beneficiou (art. 1.659, III e IV);</li>\n<li>as dívidas feitas para administrar os bens particulares de um não atingem os bens do casal (art. 1.666).</li>\n</ul>\n<p>Além disso, a pessoa casada, salvo na separação absoluta de bens, precisa da autorização do cônjuge para prestar fiança ou aval (art. 1.647, III).</p>\n<h2>Na prática</h2>\n<ul>\n<li>O ponto principal é provar a finalidade da dívida: reforma da casa, escola dos filhos e despesas do dia a dia apontam para dívida do casal.</li>\n<li>O acordo de divórcio vale entre os ex-cônjuges. Para o banco, continua devedor quem assinou o contrato. Se o outro assumiu pagar parte, quem pagou pode cobrar dele depois.</li>\n<li>Dívidas e bens costumam ser tratados juntos na partilha, para que a divisão seja equilibrada.</li>\n</ul>",
+  "corpo": "<p>Na separação, a atenção costuma ficar nos bens: casa, carro, conta bancária. Mas as dívidas também fazem parte da vida do casal e precisam entrar na conversa.</p>\n<h2>O que a lei prevê</h2>\n<p>Na comunhão parcial de bens, o Código Civil diz:</p>\n<ul>\n<li>os bens do casal respondem pelas dívidas feitas por qualquer um dos dois para as despesas da família (art. 1.664);</li>\n<li>compras e empréstimos para o dia a dia da casa obrigam os dois (arts. 1.643 e 1.644);</li>\n<li>ficam de fora as dívidas de antes do casamento e as que vêm de ato ilícito de um deles, salvo se o casal se beneficiou (art. 1.659, III e IV);</li>\n<li>dívidas feitas para cuidar dos bens só de um não atingem os bens do casal (art. 1.666).</li>\n</ul>\n<p>Além disso, a pessoa casada, salvo na separação absoluta de bens, precisa da autorização do cônjuge para ser fiadora ou avalista (art. 1.647, III).</p>\n<h2>Na prática</h2>\n<ul>\n<li>O que decide é a finalidade da dívida: reforma da casa, escola dos filhos e despesas do dia a dia apontam para dívida do casal.</li>\n<li>O acordo de divórcio vale entre os dois. Para o banco, continua devedor quem assinou o contrato. Se o outro assumiu pagar parte, quem pagou pode cobrar dele depois.</li>\n<li>Dívidas e bens costumam ser tratados juntos na partilha, para a divisão ficar equilibrada.</li>\n</ul>\n<h2>O erro que enfraquece o caso</h2>\n<p>Não guardar a prova do destino do dinheiro. Sem notas da reforma, boletos da escola ou extratos, fica difícil mostrar que o empréstimo foi para a família.</p>\n<h2>O que fazer agora</h2>\n<p>Liste todas as dívidas, com o nome de quem assinou, a data e para que serviu cada uma, e junte os comprovantes. Muitas vezes, com esse quadro na mesa, dívidas e bens se resolvem num acordo justo, sem processo.</p>",
   "faq": [
     [
       "O cartão de crédito no meu nome é dívida do casal?",
@@ -32,11 +32,15 @@
     ],
     [
       "Uma dívida que eu tinha antes de casar passa para o meu cônjuge?",
-      "Não. Dívidas anteriores ao casamento ficam fora da comunhão (art. 1.659, III)."
+      "Não. Dívidas de antes do casamento ficam fora da divisão (Código Civil, art. 1.659, III)."
     ],
     [
       "Se o acordo diz que meu ex paga a dívida, o banco deixa de me cobrar?",
       "Não necessariamente. O banco pode cobrar de quem assinou o contrato; o acordo serve para cobrar o ex-cônjuge depois."
+    ],
+    [
+      "Posso ser fiador sem a autorização do meu cônjuge?",
+      "Em regra, não. Salvo na separação absoluta de bens, a fiança e o aval exigem autorização do cônjuge (Código Civil, art. 1.647, III)."
     ]
   ],
   "base": [

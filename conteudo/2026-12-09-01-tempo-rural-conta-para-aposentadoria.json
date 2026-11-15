@@ -4,36 +4,40 @@
   "data": "2026-12-09",
   "google": 31,
   "titulo": "Tempo de roça conta para a aposentadoria?",
-  "resumo": "Conta. O trabalho rural anterior à Lei 8.213/1991 é computado mesmo sem contribuições, exceto para a carência, desde que haja início de prova material da época.",
-  "destaque": "Sim, com prova documental da época.",
+  "resumo": "Conta. O trabalho na roça antes de 1991 entra no tempo de aposentadoria mesmo sem ter pago o INSS, mas exige documentos da época. Só testemunhas não bastam.",
+  "destaque": "Sim, com documentos da época.",
   "pontos": [
     [
       "calendario",
-      "O tempo rural anterior a 1991 conta sem contribuição, mas não vale como carência."
+      "O tempo rural antes de 1991 conta sem contribuição, mas não entra no mínimo de contribuições (carência)."
     ],
     [
       "documento",
-      "É preciso início de prova material da época, como notas do produtor e contratos rurais."
+      "É preciso documento da época, como notas do produtor e contratos rurais."
     ],
     [
       "alerta",
-      "Testemunhas complementam a prova, mas sozinhas não bastam."
+      "Testemunhas completam a prova, mas sozinhas não bastam."
     ]
   ],
   "exemplo": "Antônio trabalhou na lavoura de café com os pais, no interior do Espírito Santo, até se mudar para a cidade e ter carteira assinada em 1989. Ele quer somar esse período ao tempo urbano.",
-  "corpo": "<p>Muita gente começou a trabalhar cedo, na lavoura da família, sem carteira assinada e sem pagar o INSS. Esse tempo não precisa ser esquecido na hora de planejar a aposentadoria, mas exige prova.</p>\n<h2>O que a lei prevê</h2>\n<p>A Lei 8.213/1991 diz que o tempo de serviço do trabalhador rural anterior ao início da sua vigência é computado independentemente de contribuições. A exceção é a carência: esse período não conta como número mínimo de contribuições.</p>\n<p>A comprovação precisa de início de prova material contemporânea dos fatos. A prova só por testemunhas não é admitida, salvo força maior ou caso fortuito. A lei cita, entre outros, estes documentos:</p>\n<ul>\n<li>contrato de arrendamento, parceria ou comodato rural;</li>\n<li>bloco de notas do produtor rural;</li>\n<li>notas fiscais de venda da produção com o nome do segurado como vendedor;</li>\n<li>documentos de entrega da produção a cooperativa;</li>\n<li>declaração de imposto de renda com renda da produção rural;</li>\n<li>licença de ocupação ou permissão do Incra.</li>\n</ul>\n<h2>Na prática</h2>\n<p>O segurado especial, que trabalha individualmente ou em regime de economia familiar, tem regras próprias. Mesmo depois de 1991 e sem contribuir, ele tem garantidos benefícios de um salário mínimo, como a aposentadoria por idade, desde que comprove a atividade rural no período anterior ao pedido.</p>\n<p>A aposentadoria por idade do trabalhador rural exige idade menor: 60 anos para o homem e 55 para a mulher. Quem tem períodos rurais e de outras categorias pode somá-los, mas, nesse caso, não se aplica a redução de idade do rural.</p>\n<p>Antes de pedir, reúna documentos da época com o seu nome. O STJ firmou, na Súmula 149, que a prova exclusivamente testemunhal não basta para comprovar a atividade rural. As testemunhas servem para completar o que os documentos mostram.</p>",
+  "corpo": "<p>Muita gente começou a trabalhar cedo, na lavoura da família, sem carteira assinada e sem pagar o INSS. Esse tempo não está perdido na hora de se aposentar, mas exige prova.</p>\n<h2>O que a lei garante</h2>\n<p>O trabalho rural anterior à Lei 8.213/1991 conta como tempo de serviço mesmo sem contribuições. A exceção é a carência: esse período não entra no número mínimo de contribuições exigido.</p>\n<p>Para provar, é preciso pelo menos um começo de prova em documento da época (início de prova material). Testemunhas sozinhas não são aceitas, salvo força maior ou caso fortuito. A lei cita, entre outros:</p>\n<ul>\n<li>contrato de arrendamento, parceria ou comodato rural;</li>\n<li>bloco de notas do produtor rural;</li>\n<li>notas fiscais de venda da produção em nome do trabalhador;</li>\n<li>documentos de entrega da produção a cooperativa;</li>\n<li>declaração de imposto de renda com renda da produção rural;</li>\n<li>licença de ocupação ou permissão do Incra (instituto federal de reforma agrária).</li>\n</ul>\n<h2>Na prática</h2>\n<p>Quem trabalha na roça sozinho ou com a família, para o próprio sustento (segurado especial), tem regras próprias. Mesmo depois de 1991 e sem contribuir, tem garantidos benefícios de um salário mínimo, como a aposentadoria por idade, se comprovar a atividade rural no período anterior ao pedido.</p>\n<p>A aposentadoria por idade do trabalhador rural sai mais cedo: 60 anos para o homem e 55 para a mulher. Quem soma tempo rural com tempo de cidade pode juntar os dois, mas aí perde a redução de idade do rural.</p>\n<h2>O erro que enfraquece o pedido</h2>\n<p>Pedir ao INSS contando só com testemunhas. O STJ firmou, na Súmula 149, que a prova apenas por testemunhas não basta. Elas servem para completar o que os documentos mostram.</p>\n<h2>O que fazer agora</h2>\n<p>Procure documentos com o seu nome ou da família na época: notas, contratos, fichas de cooperativa, certidões. Leve o que encontrar à primeira conversa, mesmo que pareça pouco; às vezes um único papel antigo abre o caminho para o período inteiro.</p>",
   "faq": [
     [
       "O tempo rural antes de 1991 conta para a carência?",
-      "Não. Ele conta como tempo de serviço sem contribuições, exceto para efeito de carência (Lei 8.213/1991, art. 55, § 2º)."
+      "Não. Ele conta como tempo de serviço sem contribuições, mas não entra no mínimo de contribuições (Lei 8.213/1991, art. 55, § 2º)."
     ],
     [
       "Só testemunhas resolvem?",
-      "Não. A lei exige início de prova material contemporânea e não admite prova exclusivamente testemunhal, salvo força maior ou caso fortuito (Lei 8.213/1991, art. 55, § 3º)."
+      "Não. A lei exige documento da época e não aceita prova só por testemunhas, salvo força maior ou caso fortuito (Lei 8.213/1991, art. 55, § 3º; Súmula 149 do STJ)."
     ],
     [
       "Com que idade o trabalhador rural se aposenta por idade?",
       "Aos 60 anos, se homem, e aos 55, se mulher (Constituição Federal, art. 201, § 7º, II; Lei 8.213/1991, art. 48, § 1º)."
+    ],
+    [
+      "Posso somar tempo de roça com tempo de cidade?",
+      "Pode, mas nesse caso não se aplica a redução de idade do trabalhador rural (Lei 8.213/1991, art. 48, § 3º)."
     ]
   ],
   "base": [

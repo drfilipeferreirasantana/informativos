@@ -4,36 +4,40 @@
   "data": "2026-12-08",
   "google": 30,
   "titulo": "Meu nome foi negativado por uma dívida que não devo. O que fazer?",
-  "resumo": "O consumidor pode exigir a correção imediata do registro indevido, e a negativação indevida pode gerar indenização por dano moral, salvo se já havia outra anotação legítima.",
-  "destaque": "Pode caber retirada e indenização.",
+  "resumo": "O consumidor pode exigir que o nome seja limpo de imediato. A negativação indevida pode gerar indenização por dano moral, salvo se já havia outra negativação legítima em seu nome.",
+  "destaque": "Exigir a retirada e pedir indenização.",
   "pontos": [
     [
       "alerta",
-      "A abertura de registro que o consumidor não pediu deve ser comunicada a ele por escrito."
+      "O consumidor deve ser avisado por escrito antes de ter o nome registrado."
     ],
     [
       "documento",
-      "Dado errado deve ser corrigido de imediato, com aviso aos destinatários em 5 dias úteis."
+      "Dado errado deve ser corrigido de imediato, com aviso a quem recebeu a informação em 5 dias úteis."
     ],
     [
       "balanca",
-      "Se já havia outra anotação legítima, o STJ afasta o dano moral, mas o registro indevido cai."
+      "Se já havia outra negativação legítima, não cabe dano moral, mas o registro indevido deve sair."
     ]
   ],
   "exemplo": "Patrícia teve um financiamento recusado e descobriu que seu nome estava negativado por uma linha de celular que nunca contratou. Ela não recebeu nenhum aviso antes do registro.",
-  "corpo": "<p>Descobrir uma negativação na hora de pedir crédito já é ruim. Pior ainda quando a dívida não existe, já foi paga ou foi feita por outra pessoa com os seus dados. Nesses casos o registro é indevido, e o Código de Defesa do Consumidor dá instrumentos para reagir.</p>\n<h2>O que a lei prevê</h2>\n<ul>\n<li>O consumidor tem direito de acessar as informações que existem sobre ele nos cadastros e de saber de onde elas vieram.</li>\n<li>Os dados precisam ser verdadeiros, e a abertura de registro não solicitada pelo consumidor deve ser comunicada a ele por escrito.</li>\n<li>Encontrando dado incorreto, o consumidor pode exigir a correção imediata. O arquivista tem 5 dias úteis para comunicar a alteração a quem recebeu a informação errada.</li>\n<li>A efetiva reparação dos danos materiais e morais é direito básico do consumidor.</li>\n<li>Deixar de corrigir de imediato informação que se sabe ou deveria saber inexata é crime previsto no próprio CDC.</li>\n</ul>\n<p>O STJ tem súmulas importantes sobre o tema. A Súmula 359 diz que cabe ao órgão mantenedor do cadastro notificar o devedor antes da inscrição. A Súmula 385 diz que, se já existia anotação legítima anterior, não cabe indenização por dano moral, ressalvado o direito ao cancelamento do registro irregular.</p>\n<h2>Na prática</h2>\n<ul>\n<li>Consulte o seu CPF nos cadastros de crédito e guarde o comprovante com o nome do credor, o valor e a data do registro.</li>\n<li>Reúna o que mostra que a dívida é indevida: comprovante de pagamento, cancelamento do contrato, protocolo de contestação ou boletim de ocorrência, se houve fraude.</li>\n<li>Peça a correção por escrito ao credor e ao cadastro, e guarde os protocolos.</li>\n</ul>\n<p>Se a dívida já foi paga e o nome continua lá, a Súmula 548 do STJ atribui ao credor a exclusão do registro em até 5 dias úteis após o pagamento integral.</p>\n<p>Se o registro não for retirado, é possível pedir à Justiça a exclusão e a indenização cabível. Antes disso, confira se não há outra negativação legítima em seu nome, porque isso muda o que pode ser pedido.</p>",
+  "corpo": "<p>Descobrir o nome sujo na hora de pedir crédito já é ruim. Pior quando a dívida não existe, já foi paga ou foi feita por outra pessoa com os seus dados. Nesses casos o registro é indevido, e o Código de Defesa do Consumidor dá meios de reagir.</p>\n<h2>O que a lei garante</h2>\n<ul>\n<li>O consumidor pode ver tudo o que os cadastros de crédito têm sobre ele e saber de onde veio a informação.</li>\n<li>Os dados precisam ser verdadeiros, e o consumidor deve ser avisado por escrito antes de ter o nome registrado sem ter pedido.</li>\n<li>Achando dado errado, pode exigir a correção imediata. O cadastro tem 5 dias úteis para avisar a correção a quem recebeu a informação errada.</li>\n<li>Ser indenizado pelos prejuízos materiais e morais é direito básico do consumidor.</li>\n<li>Deixar de corrigir na hora informação que se sabe errada é crime previsto no próprio CDC.</li>\n</ul>\n<p>O STJ firmou três entendimentos importantes: o aviso antes do registro cabe ao cadastro (Súmula 359); se já havia negativação legítima anterior, não cabe dano moral, mas o registro indevido deve ser cancelado (Súmula 385); e, paga a dívida, o credor tem até 5 dias úteis para tirar o nome (Súmula 548).</p>\n<h2>O erro que enfraquece o caso</h2>\n<p>Pagar uma dívida que não deve só para limpar o nome, ou reclamar só por telefone, sem protocolo. Sem prova de que a dívida é indevida e de que a empresa foi avisada, o caso perde força.</p>\n<ul>\n<li>Consulte o CPF nos cadastros de crédito e guarde o comprovante com credor, valor e data.</li>\n<li>Reúna o que mostra que a dívida é indevida: comprovante de pagamento, cancelamento do contrato, protocolo de reclamação ou boletim de ocorrência, se houve fraude.</li>\n<li>Peça a correção por escrito ao credor e ao cadastro, e guarde os protocolos.</li>\n</ul>\n<h2>O que fazer agora</h2>\n<p>Se o registro não sair, é possível pedir à Justiça a retirada e a indenização. Antes, confira se há outra negativação em seu nome e conte isso na primeira conversa, porque muda o que pode ser pedido.</p>",
   "faq": [
     [
       "Eu tinha que ser avisado antes da negativação?",
-      "A abertura de registro não solicitada deve ser comunicada por escrito, e a Súmula 359 do STJ atribui essa notificação prévia ao órgão do cadastro (CDC, art. 43, § 2º)."
+      "Sim. O aviso por escrito é obrigatório, e o STJ atribui essa tarefa ao cadastro de crédito (CDC, art. 43, § 2º; Súmula 359 do STJ)."
     ],
     [
       "Já tenho outra negativação. Ainda posso pedir indenização?",
-      "Se a anotação anterior era legítima, a Súmula 385 do STJ afasta o dano moral, mas o registro indevido deve ser corrigido (CDC, art. 43, § 3º)."
+      "Se a anterior era legítima, o STJ não admite dano moral, mas o registro indevido deve ser cancelado (Súmula 385 do STJ)."
     ],
     [
       "Quanto tempo o cadastro tem para corrigir?",
-      "A correção deve ser imediata, e o arquivista tem 5 dias úteis para comunicar a alteração aos destinatários da informação errada (CDC, art. 43, § 3º)."
+      "A correção deve ser imediata, e o cadastro tem 5 dias úteis para avisar quem recebeu a informação errada (CDC, art. 43, § 3º)."
+    ],
+    [
+      "Paguei a dívida e o nome continua sujo. E agora?",
+      "O credor tem até 5 dias úteis após o pagamento integral para retirar o registro (Súmula 548 do STJ)."
     ]
   ],
   "base": [

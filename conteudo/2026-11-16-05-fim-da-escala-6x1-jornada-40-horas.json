@@ -5,29 +5,59 @@
   "serie": "constituicao-no-trabalho",
   "ordem": 3,
   "titulo": "A escala 6x1 acabou? O que muda com a jornada de 40 horas",
-  "destaque": "Como regra, sim, em 16/12/2026.",
-  "resumo": "A Emenda Constitucional 141/2026 garante 2 dias de folga por semana a partir de 16/12/2026 e reduz a jornada em etapas: 42 horas semanais nessa data e 40 horas a partir de 16/12/2027, sem redução de salário.",
+  "destaque": "Sim, como regra, em 16/12/2026.",
+  "resumo": "A Emenda Constitucional 141/2026 garante 2 dias de folga por semana a partir de 16/12/2026 e reduz a jornada em etapas: 42 horas nessa data e 40 horas a partir de 16/12/2027, sem corte de salário.",
   "pontos": [
-    ["calendario", "A partir de 16/12/2026, são 2 dias de folga remunerada por semana."],
-    ["relogio", "A jornada cai para 42 horas e, em 16/12/2027, para 40 horas."],
-    ["carteira", "O salário não pode ser reduzido por causa da mudança."],
-    ["livro", "Só convenção ou acordo coletivo pode compensar folgas dentro do mês."]
+    [
+      "calendario",
+      "A partir de 16/12/2026, são 2 dias de folga remunerada por semana."
+    ],
+    [
+      "relogio",
+      "A jornada cai para 42 horas e, em 16/12/2027, para 40 horas."
+    ],
+    [
+      "carteira",
+      "O salário não pode diminuir por causa da mudança."
+    ],
+    [
+      "livro",
+      "Só acordo com o sindicato pode compensar folgas dentro do mês."
+    ]
   ],
   "exemplo": "Juliana é operadora de caixa e trabalha de segunda a sábado, com folga só no domingo. Ela ouviu falar que a escala 6x1 acabou, mas não sabe se isso vale para ela nem se o salário vai diminuir.",
-  "corpo": "<p>A escala 6x1, seis dias de trabalho para um de descanso, marcou a vida de milhões de trabalhadores do comércio, dos serviços e da indústria. A Emenda Constitucional 141, publicada em 16/10/2026, mudou essa regra na própria Constituição, ao lado do direito ao descanso e ao lazer.</p>\n<h2>O que muda e quando?</h2>\n<ul>\n<li><strong>16/12/2026:</strong> o repouso semanal remunerado passa a ser de 2 dias, um deles de preferência no domingo, e a jornada normal não pode passar de 42 horas por semana (Constituição, art. 7º, XV; Emenda 141, arts. 6º, I, e 10, I).</li>\n<li><strong>16/12/2027:</strong> a jornada normal não pode passar de 40 horas por semana (Emenda 141, art. 6º, II).</li>\n<li>O limite de 8 horas por dia continua (Constituição, art. 7º, XIII).</li>\n</ul>\n<h2>O salário pode diminuir?</h2>\n<p>Não. A redução vale para os contratos em vigor e não pode diminuir o salário de forma alguma, nem os pisos da categoria (Emenda 141, art. 2º). Quem já trabalha 40 horas ou menos mantém a jornada e também ganha os 2 dias de folga (art. 4º).</p>\n<h2>Ainda pode haver semana com uma folga só?</h2>\n<ul>\n<li>Só por convenção ou acordo coletivo, com uma compensação que garanta, na média do mês, 2 dias de folga por semana, e pelo menos 1 folga dentro de cada semana de trabalho (Constituição, art. 7º, § 2º).</li>\n<li>Cláusulas de convenções e acordos coletivos que contrariem a emenda perdem efeito em 16/12/2026 (Emenda 141, art. 3º).</li>\n<li>Uma lei complementar poderá trazer medidas de transição para MEI, microempresas e empresas de pequeno porte (Emenda 141, art. 5º).</li>\n</ul>\n<h2>Quem fica fora das regras de jornada?</h2>\n<p>O empregado com diploma de nível superior e salário igual ou maior que duas vezes e meia o teto do INSS não segue as regras de duração e controle de jornada, salvo se a empresa ou a convenção coletiva previrem o contrário. Mesmo assim, tem direito aos 2 dias de folga (Emenda 141, art. 8º).</p>\n<p>Como a emenda é nova, alguns pontos ainda vão ser definidos por lei e pelos tribunais. Veja também: <a href=\"hipersuficiente-o-que-muda-no-contrato.html\">o que muda no contrato do empregado hipersuficiente</a>.</p>",
+  "corpo": "<p>A escala 6x1, seis dias de trabalho para um de descanso, marcou a vida de milhões de pessoas no comércio, nos serviços e na indústria. A Emenda Constitucional 141, publicada em 16/10/2026, mudou essa regra na própria Constituição.</p><h2>O que muda e quando</h2><ul><li><strong>16/12/2026:</strong> a folga semanal remunerada passa a ser de 2 dias, um deles de preferência no domingo, e a jornada não pode passar de 42 horas por semana (Constituição, art. 7º, XV; Emenda 141, arts. 6º, I, e 10, I).</li><li><strong>16/12/2027:</strong> a jornada não pode passar de 40 horas por semana (Emenda 141, art. 6º, II).</li><li>O limite de 8 horas por dia continua (Constituição, art. 7º, XIII).</li></ul><h2>O salário pode diminuir?</h2><p>Não. A redução vale para os contratos atuais e não pode cortar o salário de forma alguma, nem o piso da categoria (Emenda 141, art. 2º). Quem já trabalha 40 horas ou menos mantém a jornada e também ganha os 2 dias de folga (art. 4º).</p><h2>Ainda pode haver semana com uma folga só?</h2><ul><li>Só por convenção ou acordo coletivo (o acordo feito com o sindicato), desde que garanta, na média do mês, 2 folgas por semana e pelo menos 1 folga em cada semana (Constituição, art. 7º, § 2º).</li><li>Regras de acordos coletivos que contrariem a emenda perdem efeito em 16/12/2026 (Emenda 141, art. 3º).</li><li>Uma lei complementar poderá trazer regras de transição para microempreendedor individual, microempresas e empresas de pequeno porte (Emenda 141, art. 5º).</li></ul><h2>Quem fica fora das regras de jornada</h2><p>O empregado com diploma de curso superior e salário igual ou maior que duas vezes e meia o teto do INSS não segue as regras de controle de jornada, salvo se a empresa ou o acordo coletivo disserem o contrário. Mesmo assim, tem direito aos 2 dias de folga (Emenda 141, art. 8º).</p><h2>O erro que enfraquece o caso</h2><p>Continuar na escala antiga depois de 16/12/2026 sem guardar nada. As escalas, os cartões de ponto e as mensagens com ordens de trabalho são a prova do descanso que não foi dado.</p><h2>O que fazer agora</h2><p>Como a emenda é nova, alguns pontos ainda serão definidos por lei e pelos tribunais. Guarde desde já a escala e o ponto de cada mês. Veja também: <a href=\"hipersuficiente-o-que-muda-no-contrato.html\">o que muda no contrato do empregado hipersuficiente</a>.</p>",
   "faq": [
-    ["Quando a escala 6x1 deixa de valer?", "Como regra, em 16/12/2026, quando o repouso semanal remunerado passa a ser de 2 dias (Emenda Constitucional 141/2026, art. 10, I)."],
-    ["A jornada de 40 horas já está valendo?", "Ainda não. A jornada cai para 42 horas em 16/12/2026 e para 40 horas em 16/12/2027 (Emenda Constitucional 141/2026, art. 6º)."],
-    ["A empresa pode reduzir o salário por causa da jornada menor?", "Não. A emenda proíbe qualquer redução salarial, nominal ou proporcional, inclusive dos pisos (art. 2º)."],
-    ["A empresa ainda pode me dar só uma folga em alguma semana?", "Só se houver convenção ou acordo coletivo garantindo, na média do mês, 2 folgas por semana, com pelo menos 1 folga em cada semana (Constituição, art. 7º, § 2º)."],
-    ["Se a empresa continuar com a escala 6x1 depois de 16/12/2026, o que acontece?", "O descanso não concedido e as horas além do limite podem ser cobrados. Escalas, cartões de ponto e mensagens são as principais provas."]
+    [
+      "Quando a escala 6x1 deixa de valer?",
+      "Como regra, em 16/12/2026, quando a folga semanal remunerada passa a ser de 2 dias (Emenda Constitucional 141/2026, art. 10, I)."
+    ],
+    [
+      "A jornada de 40 horas já está valendo?",
+      "Ainda não. A jornada cai para 42 horas em 16/12/2026 e para 40 horas em 16/12/2027 (Emenda Constitucional 141/2026, art. 6º)."
+    ],
+    [
+      "A empresa pode reduzir o salário por causa da jornada menor?",
+      "Não. A emenda proíbe qualquer redução de salário, inclusive do piso da categoria (art. 2º)."
+    ],
+    [
+      "A empresa ainda pode dar só uma folga em alguma semana?",
+      "Só se houver acordo com o sindicato garantindo, na média do mês, 2 folgas por semana, com pelo menos 1 folga em cada semana (Constituição, art. 7º, § 2º)."
+    ],
+    [
+      "E se a empresa mantiver a escala 6x1 depois de 16/12/2026?",
+      "O descanso não dado e as horas além do limite podem ser cobrados. Escalas, cartões de ponto e mensagens são as principais provas."
+    ]
   ],
   "base": [
     "Constituição Federal, art. 7º, XIII, XV e § 2º",
     "Emenda Constitucional 141/2026, arts. 2º a 6º, 8º e 10"
   ],
   "fontes": [
-    ["Planalto: Emenda Constitucional nº 141, de 16 de outubro de 2026", "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc141.htm"]
+    [
+      "Planalto: Emenda Constitucional nº 141, de 16 de outubro de 2026",
+      "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc141.htm"
+    ]
   ],
   "foto": {
     "fonte": "Pexels",

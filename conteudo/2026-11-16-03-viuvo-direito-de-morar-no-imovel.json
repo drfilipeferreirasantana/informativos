@@ -4,36 +4,40 @@
   "data": "2026-11-16",
   "google": 67,
   "titulo": "Viúvo pode continuar morando no imóvel da família?",
-  "resumo": "Quem fica viúvo pode continuar morando no imóvel em que o casal vivia, mesmo que ele seja dividido entre os herdeiros. É o direito real de habitação.",
-  "destaque": "Sim, é o direito real de habitação.",
+  "resumo": "Quem fica viúvo pode continuar morando na casa em que o casal vivia, mesmo que ela vá para os herdeiros. Os herdeiros não podem tirá-lo de lá nem cobrar aluguel.",
+  "destaque": "Sim, e os herdeiros não podem tirá-lo.",
   "pontos": [
     [
       "casa",
-      "Vale qualquer que seja o regime de bens do casamento."
+      "O direito vale em qualquer regime de bens do casamento."
     ],
     [
       "filhos",
-      "Vale também para quem vivia em união estável."
+      "Quem vivia em união estável também tem esse direito."
     ],
     [
       "escudo",
-      "Os herdeiros não podem exigir que ele saia nem cobrar aluguel por isso."
+      "Os herdeiros não podem exigir a saída nem cobrar aluguel."
     ]
   ],
   "exemplo": "Dona Maria morou 40 anos com o marido na casa da família. Depois que ele faleceu, os filhos do primeiro casamento dele quiseram vender o imóvel e pediram que ela se mudasse.",
-  "corpo": "<p>A morte de um dos cônjuges não pode deixar o outro sem moradia de uma hora para outra. Por isso, o Código Civil garante a quem fica viúvo o direito de continuar morando no lar da família.</p>\n<h2>O que a lei prevê</h2>\n<p>O cônjuge sobrevivente tem direito real de habitação sobre o imóvel que era a residência da família, desde que seja o único dessa natureza a ser inventariado.</p>\n<ul>\n<li>O direito vale qualquer que seja o regime de bens e sem prejuízo da parte que couber ao viúvo na herança.</li>\n<li>A Justiça estende o mesmo direito ao companheiro da união estável, também previsto na Lei 9.278/1996.</li>\n<li>O imóvel continua sendo dos herdeiros, que podem recebê-lo no inventário, mas não podem tirar o viúvo de lá.</li>\n</ul>\n<h2>Na prática</h2>\n<p>Segundo a jurisprudência do STJ, o direito não depende de registro em cartório e os herdeiros não podem cobrar aluguel do viúvo pelo uso do imóvel. O viúvo, por sua vez, deve cuidar do bem e não pode alugá-lo nem emprestá-lo.</p>\n<p>Quem vivia em união estável deve reunir provas da convivência, como contas no mesmo endereço, declarações e fotos, porque o direito depende do reconhecimento da união.</p>",
+  "corpo": "<h2>O que a lei garante</h2><p>A morte de um dos dois não pode deixar o outro sem teto de uma hora para outra. Quem fica viúvo tem o direito de continuar morando no imóvel que era o lar da família, desde que seja o único imóvel residencial a ser dividido no inventário (direito real de habitação, Código Civil, art. 1.831).</p><ul><li>Vale em qualquer regime de bens e não tira do viúvo a parte que lhe cabe na herança.</li><li>Vale também para quem vivia em união estável (Lei 9.278/1996).</li><li>O imóvel pode ficar para os herdeiros no inventário, mas eles não podem tirar o viúvo de lá.</li></ul><h2>Na prática</h2><p>Segundo o Superior Tribunal de Justiça, esse direito não depende de registro em cartório, e os herdeiros não podem cobrar aluguel. Em troca, o viúvo deve cuidar do imóvel e não pode alugá-lo nem emprestá-lo.</p><h2>O erro que enfraquece o caso</h2><p>Na união estável, não guardar provas da vida em comum. O direito depende de mostrar que o casal vivia junto: contas no mesmo endereço, declarações e fotos fazem a diferença.</p><h2>O que fazer agora</h2><p>Se os herdeiros pressionam pela saída ou pela venda, não assine nada nem deixe a casa antes de buscar orientação. Leve à primeira conversa a certidão de casamento ou as provas da união, a certidão de óbito e os documentos do imóvel.</p>",
   "faq": [
     [
       "Depende do regime de bens?",
-      "Não. O direito real de habitação vale qualquer que seja o regime de bens (Código Civil, art. 1.831)."
+      "Não. O direito de continuar morando vale em qualquer regime de bens (Código Civil, art. 1.831)."
     ],
     [
       "Quem vivia em união estável também tem esse direito?",
-      "Sim. O companheiro também tem o direito (Lei 9.278/1996, art. 7º, parágrafo único), e o STJ aplica a ele a regra do Código Civil."
+      "Sim. A lei garante o mesmo direito ao companheiro (Lei 9.278/1996, art. 7º, parágrafo único), e o Superior Tribunal de Justiça aplica a ele a regra do Código Civil."
     ],
     [
       "Os herdeiros podem cobrar aluguel?",
-      "Não. Enquanto durar o direito real de habitação, o viúvo pode morar no imóvel sem pagar aluguel aos herdeiros, segundo a jurisprudência do STJ."
+      "Não. Enquanto durar o direito, o viúvo mora no imóvel sem pagar aluguel aos herdeiros, segundo o Superior Tribunal de Justiça."
+    ],
+    [
+      "O viúvo pode alugar o imóvel?",
+      "Não. O direito é de morar ali; ele não pode alugar nem emprestar o imóvel e deve cuidar dele."
     ]
   ],
   "base": [

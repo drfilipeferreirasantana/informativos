@@ -4,8 +4,8 @@
   "data": "2026-11-18",
   "google": 69,
   "titulo": "Separados de fato: o que compram depois entra na partilha?",
-  "resumo": "Para a Justiça, a separação de fato encerra a comunhão de bens. O que cada um adquire depois disso, em regra, não é dividido.",
-  "destaque": "Em regra, não entra.",
+  "resumo": "Para a Justiça, quando o casal deixa de viver junto de vez, acaba a divisão dos bens. O que cada um compra depois disso, em regra, não entra na partilha.",
+  "destaque": "Em regra, não. Fica com quem comprou.",
   "pontos": [
     [
       "casa",
@@ -21,19 +21,23 @@
     ]
   ],
   "exemplo": "Paulo e Renata se separaram em 2021, mas só agora vão fazer o divórcio. Em 2023, Paulo comprou um carro com o próprio salário, e Renata quer metade do valor.",
-  "corpo": "<p>Muitos casais se separam na vida real e demoram anos para formalizar o divórcio. Nesse intervalo, cada um segue a vida, trabalha e compra bens. A dúvida é se esses bens entram na partilha.</p>\n<h2>O que a lei prevê</h2>\n<p>O Código Civil diz que a separação judicial põe fim ao regime de bens. O STJ aplica a mesma lógica à separação de fato: quando o casal deixa de viver junto de forma definitiva, termina a comunhão de bens.</p>\n<ul>\n<li>O que cada um adquire depois da separação de fato, em regra, não é dividido.</li>\n<li>A regra vale para o casamento e para a união estável, que também termina com o fim da convivência.</li>\n<li>Os bens comprados antes da separação continuam sendo partilhados conforme o regime de bens.</li>\n</ul>\n<h2>Na prática</h2>\n<p>A data da separação de fato é o ponto central da discussão. Contrato de aluguel em outro endereço, contas separadas, mensagens e testemunhas ajudam a prová-la. Quanto mais clara essa data, mais simples a partilha.</p>",
+  "corpo": "<p>Muitos casais se separam na vida real e levam anos para fazer o divórcio. Nesse meio tempo, cada um trabalha e compra bens. A dúvida é se isso entra na partilha.</p><h2>O que a lei prevê</h2><p>O Código Civil diz que a separação judicial encerra o regime de bens (art. 1.576). O Superior Tribunal de Justiça aplica a mesma lógica à separação de fato: quando o casal deixa de viver junto de forma definitiva, acaba a comunhão de bens.</p><ul><li>O que cada um compra depois da separação de fato, em regra, não é dividido.</li><li>A regra vale para o casamento e para a união estável, que também termina com o fim da convivência.</li><li>O que foi comprado antes da separação continua sendo dividido conforme o regime de bens.</li></ul><h2>O erro que enfraquece o caso</h2><p>Não ter como provar a data da separação. É ela que decide o que entra e o que fica de fora. Sair de casa sem orientação e sem documentar a mudança deixa essa data em aberto.</p><h2>O que fazer agora</h2><p>Reúna o que marca a separação: contrato de aluguel em outro endereço, contas separadas, mensagens e nomes de testemunhas. Quanto mais clara a data, mais simples a partilha e mais fácil um acordo justo.</p>",
   "faq": [
     [
-      "A separação de fato acaba com a comunhão de bens?",
-      "Sim. Segundo a jurisprudência do STJ, a separação de fato encerra a comunhão, aplicando a lógica do art. 1.576 do Código Civil."
+      "A separação de fato acaba com a divisão dos bens?",
+      "Sim. Segundo o Superior Tribunal de Justiça, ela encerra a comunhão, pela lógica do art. 1.576 do Código Civil."
     ],
     [
       "Vale para união estável?",
-      "Sim. A união estável termina com o fim da convivência, e os bens adquiridos depois, em regra, não são divididos."
+      "Sim. A união estável termina com o fim da convivência, e os bens comprados depois, em regra, não são divididos."
     ],
     [
       "Como provar a data da separação?",
-      "Com documentos como contrato de aluguel em outro endereço, contas separadas, mensagens e testemunhas."
+      "Com contrato de aluguel em outro endereço, contas separadas, mensagens e testemunhas."
+    ],
+    [
+      "E os bens comprados antes da separação?",
+      "Continuam sendo divididos conforme o regime de bens do casal."
     ]
   ],
   "base": [

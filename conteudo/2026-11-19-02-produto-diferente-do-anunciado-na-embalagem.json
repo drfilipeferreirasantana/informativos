@@ -3,8 +3,8 @@
   "area": "consumidor",
   "data": "2026-11-19",
   "titulo": "Comprei frango sem pele e veio com pele: o que o consumidor pode exigir?",
-  "resumo": "Quando o alimento embalado não corresponde ao que diz a embalagem, há vício do produto. O consumidor pode pedir a troca, o dinheiro de volta ou o abatimento do preço.",
-  "destaque": "Troca, devolução ou desconto.",
+  "resumo": "Quando o alimento não corresponde ao que diz a embalagem, o produto tem defeito para a lei. O consumidor pode pedir a troca, o dinheiro de volta ou um desconto no preço, e, por ser alimento, na hora.",
+  "destaque": "Troca, dinheiro de volta ou desconto.",
   "pontos": [
     [
       "carrinho",
@@ -12,7 +12,7 @@
     ],
     [
       "check",
-      "O consumidor escolhe: troca, dinheiro de volta corrigido ou abatimento do preço."
+      "O consumidor escolhe: troca, dinheiro de volta corrigido ou desconto no preço."
     ],
     [
       "calendario",
@@ -20,23 +20,23 @@
     ]
   ],
   "exemplo": "Renata comprou uma bandeja de filé de peito \"sem pele\". Ao abrir em casa, viu que boa parte da carne vinha com pele, o que também aumentava o peso pago.",
-  "corpo": "<h2>O que diz a lei</h2><p>O Código de Defesa do Consumidor considera vício do produto a diferença entre o que vem dentro da embalagem e o que está escrito no recipiente, no rótulo ou na propaganda. Também diz que a oferta deve trazer informações corretas, claras e precisas sobre as características do produto.</p><p>Respondem juntos o fabricante e o comerciante. O consumidor pode reclamar com qualquer um deles.</p><h2>O que pode ser exigido</h2><ul><li>Troca por outro produto da mesma espécie, sem o problema.</li><li>Devolução imediata do valor pago, corrigido.</li><li>Abatimento proporcional do preço.</li></ul><p>A lei dá ao fornecedor até 30 dias para resolver o vício. Mas, quando se trata de produto essencial, como alimento, o consumidor pode exigir uma dessas opções de imediato. Se o peso líquido for menor do que o informado, também pode pedir a complementação do peso.</p><h2>Na prática</h2><ul><li>Não jogue fora a embalagem: fotografe o rótulo, o produto e a etiqueta de peso.</li><li>Guarde a nota fiscal ou o cupom.</li><li>Reclame no mercado ou no serviço de atendimento do fabricante e anote o protocolo.</li><li>Se não houver solução, procure o Procon.</li></ul><p>O prazo para reclamar é de 30 dias para produtos não duráveis, como alimentos, contados da entrega.</p>",
+  "corpo": "<h2>O que a lei garante</h2><p>Para o Código de Defesa do Consumidor, há defeito no produto (vício) quando o que vem dentro não bate com o que está escrito na embalagem, no rótulo ou na propaganda. A oferta também precisa trazer informações corretas e claras.</p><p>O fabricante e o mercado respondem juntos. O consumidor pode reclamar com qualquer um dos dois.</p><h2>O que pode ser exigido</h2><ul><li>Troca por outro produto igual, sem o problema.</li><li>Devolução imediata do valor pago, corrigido.</li><li>Desconto proporcional no preço.</li></ul><p>Em regra, o fornecedor tem até 30 dias para resolver. Mas, em produto essencial como alimento, o consumidor pode exigir uma dessas opções na hora. Se o peso for menor que o informado, também pode pedir que o peso seja completado.</p><h2>O erro que enfraquece o caso</h2><p>Jogar fora a embalagem e o cupom antes de reclamar, ou deixar passar o prazo. O prazo é de 30 dias para alimentos, contados da entrega.</p><h2>O que fazer agora</h2><ul><li>Fotografe o rótulo, o produto e a etiqueta de peso.</li><li>Guarde a nota fiscal ou o cupom.</li><li>Reclame no mercado ou no atendimento do fabricante e anote o protocolo.</li><li>Sem solução, procure o Procon.</li></ul>",
   "faq": [
     [
       "Quem responde: o mercado ou o fabricante?",
-      "Os dois respondem juntos pelos vícios de qualidade e pelos decorrentes da diferença com o que diz a embalagem (CDC, art. 18, caput)."
+      "Os dois respondem juntos quando o produto não corresponde à embalagem (CDC, art. 18, caput)."
     ],
     [
       "Preciso esperar 30 dias pela solução?",
-      "Não, se o produto for essencial. Nesse caso, o consumidor pode usar de imediato a troca, a devolução ou o abatimento (CDC, art. 18, § 3º)."
+      "Não, se o produto for essencial, como alimento. O consumidor pode exigir na hora a troca, a devolução ou o desconto (CDC, art. 18, § 3º)."
     ],
     [
       "Qual o prazo para reclamar?",
-      "Trinta dias para produtos não duráveis, contados da entrega efetiva (CDC, art. 26, I e § 1º)."
+      "Trinta dias para alimentos e outros produtos que não duram, contados da entrega (CDC, art. 26, I e § 1º)."
     ],
     [
       "E se o peso for menor que o informado?",
-      "Há vício de quantidade. O consumidor pode pedir abatimento, complementação do peso, troca ou devolução do valor (CDC, art. 19)."
+      "O consumidor pode pedir desconto, que o peso seja completado, troca ou devolução do valor (CDC, art. 19)."
     ]
   ],
   "base": [

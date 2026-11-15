@@ -4,8 +4,8 @@
   "data": "2026-11-24",
   "google": 76,
   "titulo": "A empresa pode recusar meu atestado médico?",
-  "resumo": "O atestado médico justifica a falta, e o dia não pode ser descontado do salário nem das férias.",
-  "destaque": "Não pode recusar sem motivo.",
+  "resumo": "Não sem motivo. A falta com atestado médico é justificada: o dia não pode ser descontado do salário nem das férias. A empresa pode conferir se o atestado é verdadeiro, mas não pode simplesmente ignorá-lo.",
+  "destaque": "Não, só se o atestado for falso.",
   "pontos": [
     [
       "saude",
@@ -21,7 +21,7 @@
     ]
   ],
   "exemplo": "Lucas faltou dois dias por causa de uma infecção e entregou o atestado do posto de saúde. O supervisor disse que não aceitava atestado e descontou os dias do salário.",
-  "corpo": "<p>Ficar doente não é falta injustificada. A lei garante que a ausência comprovada por atestado médico não gere desconto no salário nem prejuízo nas férias.</p>\n<h2>O que a lei prevê</h2>\n<p>A Lei 605/1949 considera justificada a falta por doença comprovada por atestado médico. A CLT diz que essa falta não reduz os dias de férias.</p>\n<ul>\n<li>A lei indica uma ordem de preferência entre os médicos que podem atestar, como o do INSS, o da empresa ou o do convênio, e outros na falta deles.</li>\n<li>Nos primeiros 15 dias de afastamento por doença, o salário é pago pela empresa. A partir do 16º dia, o trabalhador é encaminhado ao INSS.</li>\n<li>A empresa pode verificar se o atestado é verdadeiro, mas não pode simplesmente ignorá-lo.</li>\n</ul>\n<h2>Na prática</h2>\n<p>Entregue o atestado dentro do prazo previsto na empresa ou na convenção coletiva e peça recibo ou guarde uma cópia. Desconto indevido pode ser cobrado, e punir o trabalhador por apresentar atestado verdadeiro é irregular. Atestado falso, por outro lado, é falta grave.</p>",
+  "corpo": "<h2>O que a lei garante</h2><p>Ficar doente não é faltar sem motivo. A falta por doença comprovada por atestado médico é justificada e não gera desconto no salário (Lei 605/1949). Também não reduz os dias de férias (CLT, art. 131).</p><ul><li>A lei indica uma ordem de preferência entre os médicos que podem atestar, como o do INSS, o da empresa ou o do convênio, e outros na falta deles.</li><li>Nos primeiros 15 dias de afastamento por doença, quem paga o salário é a empresa. A partir do 16º dia, o trabalhador é encaminhado ao INSS.</li><li>A empresa pode verificar se o atestado é verdadeiro, mas não pode simplesmente ignorá-lo.</li></ul><p>O desconto indevido pode ser cobrado, e punir quem apresenta atestado verdadeiro é irregular. Atestado falso, por outro lado, é falta grave.</p><h2>O erro que enfraquece o caso</h2><p>Entregar o atestado sem ficar com nada. Sem cópia ou recibo, a empresa pode dizer que nunca recebeu.</p><h2>O que fazer agora</h2><p>Entregue o atestado no prazo da empresa ou da convenção coletiva, peça recibo ou fotografe o documento entregue, e guarde os contracheques. Se houver desconto, leve esses papéis a um advogado.</p>",
   "faq": [
     [
       "A falta com atestado pode ser descontada?",
@@ -29,11 +29,15 @@
     ],
     [
       "A falta com atestado reduz as férias?",
-      "Não. A ausência justificada por doença não é considerada falta para o cálculo das férias (CLT, art. 131, III)."
+      "Não. A falta justificada por doença não conta para o cálculo das férias (CLT, art. 131, III)."
     ],
     [
       "Quem paga os dias de afastamento?",
-      "A empresa paga os primeiros 15 dias; a partir do 16º, o trabalhador é encaminhado ao INSS (Lei 8.213/1991, art. 60, § 3º)."
+      "A empresa paga os primeiros 15 dias. A partir do 16º, o trabalhador é encaminhado ao INSS (Lei 8.213/1991, art. 60, § 3º)."
+    ],
+    [
+      "A empresa pode me punir por entregar atestado?",
+      "Não, se o atestado for verdadeiro. Atestado falso, por outro lado, é falta grave."
     ]
   ],
   "base": [

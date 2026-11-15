@@ -4,8 +4,8 @@
   "data": "2026-11-17",
   "google": 68,
   "titulo": "Salário atrasado: posso sair da empresa com todos os direitos?",
-  "resumo": "Atrasar ou deixar de pagar o salário é falta grave da empresa e permite a rescisão indireta, com as mesmas verbas de uma dispensa sem justa causa.",
-  "destaque": "Pode, pela rescisão indireta.",
+  "resumo": "Atrasar o salário de forma repetida é falta grave da empresa. O trabalhador pode encerrar o contrato por culpa dela e receber as mesmas verbas de quem é dispensado sem justa causa.",
+  "destaque": "Sim, pela rescisão indireta.",
   "pontos": [
     [
       "calendario",
@@ -13,7 +13,7 @@
     ],
     [
       "alerta",
-      "Atraso de 3 meses ou mais é chamado de mora contumaz."
+      "Atraso de 3 meses ou mais é falta grave reconhecida em lei."
     ],
     [
       "documento",
@@ -21,7 +21,7 @@
     ]
   ],
   "exemplo": "Cláudia trabalha em uma confecção que há meses paga o salário com 15 ou 20 dias de atraso. Ela quer sair, mas não quer pedir demissão e perder os direitos.",
-  "corpo": "<p>O salário é a principal obrigação da empresa. Quando ele atrasa de forma repetida ou deixa de ser pago, o trabalhador não precisa pedir demissão para sair: pode encerrar o contrato por culpa da empresa.</p>\n<h2>O que a lei prevê</h2>\n<p>A CLT determina que o salário mensal seja pago até o 5º dia útil do mês seguinte. O descumprimento das obrigações do contrato pela empresa permite a rescisão indireta, uma espécie de justa causa do empregador.</p>\n<ul>\n<li>A rescisão indireta garante as mesmas verbas da dispensa sem justa causa: aviso prévio, férias e 13º proporcionais, multa de 40% do FGTS, saque do fundo e seguro-desemprego.</li>\n<li>O Decreto-Lei 368/1968 chama de mora contumaz o atraso ou a falta de pagamento por 3 meses ou mais.</li>\n<li>A Justiça também reconhece a falta grave em atrasos frequentes, mesmo de menos tempo, quando são habituais.</li>\n</ul>\n<h2>Na prática</h2>\n<p>A rescisão indireta é pedida na Justiça do Trabalho. Extratos bancários, holerites e mensagens sobre os atrasos são as provas principais. Antes de deixar o emprego, é importante buscar orientação, porque a forma de sair influencia o resultado.</p>",
+  "corpo": "<p>O salário é a principal obrigação da empresa. Quando ele atrasa sempre ou deixa de ser pago, o trabalhador não precisa pedir demissão para sair: pode encerrar o contrato por culpa da empresa (a chamada rescisão indireta).</p><h2>O que a lei garante</h2><p>A CLT manda pagar o salário até o 5º dia útil do mês seguinte. Quando a empresa descumpre o contrato, o trabalhador pode sair como se tivesse sido dispensado.</p><ul><li>Recebe as mesmas verbas da dispensa sem justa causa: aviso prévio, férias e 13º proporcionais, multa de 40% do FGTS, saque do fundo e seguro-desemprego.</li><li>A lei considera falta grave o atraso ou a falta de pagamento por 3 meses ou mais (mora contumaz, Decreto-Lei 368/1968).</li><li>A Justiça também reconhece a falta grave em atrasos menores, quando se repetem com frequência.</li></ul><h2>O erro que enfraquece o caso</h2><p>Pedir demissão ou simplesmente parar de ir ao trabalho por conta própria. A forma de sair muda o resultado: quem pede demissão perde verbas que teria na rescisão indireta.</p><h2>O que fazer agora</h2><p>Junte extratos bancários, holerites e mensagens sobre os atrasos, mês a mês. Com esse histórico, busque orientação antes de deixar o emprego: a rescisão indireta é pedida na Justiça do Trabalho.</p>",
   "faq": [
     [
       "Até quando o salário deve ser pago?",
@@ -29,11 +29,15 @@
     ],
     [
       "O que recebo na rescisão indireta?",
-      "As mesmas verbas de uma dispensa sem justa causa, incluindo aviso prévio, multa de 40% do FGTS e seguro-desemprego (CLT, art. 483)."
+      "As mesmas verbas da dispensa sem justa causa, incluindo aviso prévio, multa de 40% do FGTS e seguro-desemprego (CLT, art. 483)."
     ],
     [
-      "O que é mora contumaz?",
-      "É o atraso ou a falta de pagamento do salário por 3 meses ou mais (Decreto-Lei 368/1968, art. 2º, § 1º)."
+      "Quantos meses de atraso a lei considera falta grave?",
+      "Atraso ou falta de pagamento por 3 meses ou mais (Decreto-Lei 368/1968, art. 2º, § 1º). Atrasos menores e frequentes também podem ser reconhecidos pela Justiça."
+    ],
+    [
+      "Posso simplesmente parar de trabalhar?",
+      "Não é o caminho seguro. A forma de sair influencia o que se recebe, por isso vale buscar orientação antes."
     ]
   ],
   "base": [

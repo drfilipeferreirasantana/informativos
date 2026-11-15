@@ -4,16 +4,16 @@
   "data": "2026-12-06",
   "google": 28,
   "titulo": "Bateram no meu carro. O que posso cobrar de quem causou o acidente?",
-  "resumo": "Quem causa o acidente por imprudência ou negligência deve reparar o dano: o conserto, o que a vítima deixou de ganhar e, se houve lesão, o tratamento e outros prejuízos provados.",
-  "destaque": "O conserto e outros prejuízos provados.",
+  "resumo": "Quem causa o acidente por descuido ou imprudência deve pagar o prejuízo: o conserto, o que a vítima deixou de ganhar e, se houve lesão, o tratamento e outros danos que ela provar.",
+  "destaque": "Conserto, ganhos perdidos e tratamento.",
   "pontos": [
     [
       "documento",
-      "O conserto e as despesas que você efetivamente teve entram na indenização."
+      "O conserto e as outras despesas causadas pela batida entram na indenização."
     ],
     [
       "carteira",
-      "O que você razoavelmente deixou de ganhar por causa da batida também pode ser cobrado."
+      "O que a vítima deixou de ganhar com o carro parado também pode ser cobrado."
     ],
     [
       "saude",
@@ -21,19 +21,23 @@
     ]
   ],
   "exemplo": "Marcos, motorista de aplicativo, teve o carro atingido na traseira enquanto esperava o sinal abrir. O veículo ficou duas semanas na oficina, e ele ficou sem trabalhar nesse período.",
-  "corpo": "<p>Depois de uma batida, a primeira preocupação costuma ser o conserto. Mas o prejuízo de quem foi atingido muitas vezes vai além da oficina, e o Código Civil indica o que pode ser cobrado de quem causou o acidente.</p>\n<h2>O que a lei prevê</h2>\n<p>Comete ato ilícito quem, por ação ou omissão voluntária, negligência ou imprudência, viola direito e causa dano a outra pessoa, ainda que o dano seja só moral. E quem causa dano por ato ilícito fica obrigado a repará-lo.</p>\n<p>A indenização se mede pela extensão do dano. Por isso, pode incluir:</p>\n<ul>\n<li>o que a vítima efetivamente perdeu, como o conserto do veículo e outras despesas causadas pela batida;</li>\n<li>o que ela razoavelmente deixou de ganhar, os chamados lucros cessantes;</li>\n<li>se houve lesão, as despesas do tratamento e os lucros cessantes até o fim da recuperação, além de outro prejuízo que a vítima prove ter sofrido;</li>\n<li>se a lesão deixou sequela que impeça ou reduza a capacidade de trabalho, uma pensão correspondente.</li>\n</ul>\n<p>Se a própria vítima também agiu com culpa, a indenização é fixada levando em conta a gravidade da culpa dela em confronto com a do outro motorista.</p>\n<h2>Na prática</h2>\n<p>A cobrança depende de prova. Logo após o acidente:</p>\n<ul>\n<li>registre o boletim de ocorrência;</li>\n<li>fotografe a posição dos veículos, os danos e a sinalização do local;</li>\n<li>anote nome, placa e contato do outro motorista e de testemunhas;</li>\n<li>faça mais de um orçamento e guarde notas fiscais e recibos.</li>\n</ul>\n<p>Para cobrar o que deixou de ganhar, reúna documentos da renda perdida, como extratos de aplicativo, contratos ou notas de serviço do período parado.</p>\n<p>O prazo para pedir a reparação civil, em regra, é de 3 anos. Quem espera demais pode perder o direito de cobrar.</p>",
+  "corpo": "<p>Depois de uma batida, a primeira preocupação é o conserto. Mas o prejuízo de quem foi atingido muitas vezes vai além da oficina, e o Código Civil diz o que pode ser cobrado de quem causou o acidente.</p>\n<h2>O que a lei garante</h2>\n<p>Quem, por descuido ou imprudência, causa dano a outra pessoa, ainda que só moral, comete ato ilícito e é obrigado a reparar. A indenização se mede pelo tamanho do prejuízo e pode incluir:</p>\n<ul>\n<li>o que a vítima perdeu de fato, como o conserto do veículo e outras despesas da batida;</li>\n<li>o que ela razoavelmente deixou de ganhar (lucros cessantes), como os dias sem poder trabalhar;</li>\n<li>se houve lesão, o tratamento e os ganhos perdidos até o fim da recuperação, além de outro prejuízo provado;</li>\n<li>se ficou sequela que impeça ou reduza a capacidade de trabalho, uma pensão correspondente.</li>\n</ul>\n<p>Se a vítima também teve parte da culpa, a indenização leva em conta a culpa de cada um.</p>\n<h2>O erro que enfraquece o caso</h2>\n<p>Sair do local sem registrar nada, confiar só na palavra do outro motorista ou deixar o tempo passar. A cobrança depende de prova, e ela se perde rápido. Logo após o acidente:</p>\n<ul>\n<li>registre o boletim de ocorrência;</li>\n<li>fotografe a posição dos veículos, os danos e a sinalização;</li>\n<li>anote nome, placa e contato do outro motorista e de testemunhas;</li>\n<li>faça mais de um orçamento e guarde notas fiscais e recibos.</li>\n</ul>\n<p>Para cobrar o que deixou de ganhar, junte a prova da renda do período parado: extratos de aplicativo, contratos ou notas de serviço.</p>\n<h2>O que fazer agora</h2>\n<p>O prazo para cobrar, em regra, é de 3 anos. Muitas vezes uma proposta por escrito, com orçamentos e recibos, resolve sem processo. Se não resolver, leve esse material à primeira conversa com um advogado.</p>",
   "faq": [
     [
-      "Posso cobrar os dias em que fiquei sem trabalhar com o carro parado?",
-      "Pode, se houver prova do que você razoavelmente deixou de ganhar, que integra as perdas e danos (Código Civil, art. 402)."
+      "Posso cobrar os dias sem trabalhar com o carro parado?",
+      "Pode, se houver prova do que deixou de ganhar nesse período, como extratos de aplicativo ou notas de serviço (Código Civil, art. 402)."
     ],
     [
       "E se eu também tive parte da culpa?",
-      "A indenização é fixada considerando a gravidade da sua culpa em confronto com a do autor do dano (Código Civil, art. 945)."
+      "A indenização é fixada levando em conta a gravidade da culpa de cada um (Código Civil, art. 945)."
     ],
     [
       "Qual é o prazo para cobrar?",
-      "Em regra, 3 anos para a pretensão de reparação civil (Código Civil, art. 206, § 3º, V)."
+      "Em regra, 3 anos (Código Civil, art. 206, § 3º, V)."
+    ],
+    [
+      "Dá para resolver sem processo?",
+      "Sim. Uma proposta por escrito ao causador, com orçamentos e recibos, muitas vezes resolve. Se não houver acordo, o caminho é a Justiça."
     ]
   ],
   "base": [

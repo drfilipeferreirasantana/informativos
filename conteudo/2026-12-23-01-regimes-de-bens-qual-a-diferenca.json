@@ -3,8 +3,8 @@
   "area": "familia",
   "data": "2026-12-23",
   "titulo": "Comunhão parcial, universal ou separação: qual a diferença entre os regimes de bens?",
-  "destaque": "Muda o que é dividido no fim.",
-  "resumo": "O regime de bens define quais bens são de cada um e quais são do casal. Sem pacto antenupcial, vale a comunhão parcial: divide-se o que foi comprado durante o casamento.",
+  "destaque": "Definem o que é dividido no divórcio.",
+  "resumo": "O regime de bens é a regra que diz o que é de cada um e o que será dividido se o casamento acabar. Sem pacto feito em cartório, vale a comunhão parcial: divide-se o que foi comprado durante o casamento.",
   "pontos": [
     [
       "casa",
@@ -12,19 +12,19 @@
     ],
     [
       "filhos",
-      "Comunhão universal: divide quase tudo, inclusive o que era de antes."
+      "Comunhão universal: divide quase tudo, inclusive o que cada um tinha antes."
     ],
     [
       "escudo",
-      "Separação de bens: cada um fica com o que está em seu nome."
+      "Separação de bens: cada um fica com o que está no seu nome."
     ],
     [
       "documento",
-      "Fora da comunhão parcial, é preciso pacto antenupcial em cartório."
+      "Para fugir da comunhão parcial, é preciso pacto em cartório antes do casamento."
     ]
   ],
   "exemplo": "Larissa e Diego vão se casar no ano que vem. Ela já tem um apartamento e ele tem uma empresa pequena. No cartório, perguntaram qual regime de bens eles queriam, e os dois não souberam responder.",
-  "corpo": "<p>Na hora de marcar o casamento, o cartório pergunta qual será o regime de bens. Muita gente responde sem saber o que isso muda. Na prática, o regime é a regra que vai dizer o que é de cada um e o que será dividido se o casamento acabar.</p>\n<h2>O que a lei prevê</h2>\n<p>O Código Civil traz quatro regimes principais:</p>\n<ul>\n<li><b>Comunhão parcial de bens:</b> é o regime que vale quando o casal não faz pacto (art. 1.640). Entram na divisão os bens comprados durante o casamento (art. 1.658). Ficam de fora os bens que cada um já tinha antes e os recebidos por doação ou herança (art. 1.659).</li>\n<li><b>Comunhão universal de bens:</b> os bens presentes e futuros dos dois passam a ser do casal, com algumas exceções previstas em lei, como os bens doados ou herdados com cláusula de incomunicabilidade (arts. 1.667 e 1.668).</li>\n<li><b>Separação de bens:</b> cada um continua dono e administrador do que está em seu nome e pode vendê-lo livremente (art. 1.687).</li>\n<li><b>Participação final nos aquestos:</b> durante o casamento, cada um tem o seu patrimônio; se o casamento acabar, cada um tem direito à metade dos bens que o casal comprou durante a união (art. 1.672).</li>\n</ul>\n<p>Para escolher um regime diferente da comunhão parcial, o casal precisa fazer um pacto antenupcial por escritura pública, em cartório de notas, antes do casamento (art. 1.653).</p>\n<h2>Na prática</h2>\n<p>Alguns pontos costumam gerar dúvida:</p>\n<ul>\n<li>A lei impõe a separação de bens em alguns casos, como o da pessoa maior de 70 anos (art. 1.641, II). Em 2024, o STF decidiu que, nesse caso, o casal pode afastar a separação por escritura pública e escolher outro regime (Tema 1.236).</li>\n<li>Na união estável, vale a comunhão parcial, salvo contrato escrito entre os companheiros (art. 1.725).</li>\n<li>O regime também influencia a herança. O cônjuge pode ser herdeiro mesmo na separação de bens escolhida em pacto.</li>\n</ul>\n<p>Não existe regime melhor ou pior para todos. A escolha depende do patrimônio de cada um, da atividade profissional e dos planos do casal.</p>",
+  "corpo": "<p>Na hora de marcar o casamento, o cartório pergunta qual será o regime de bens, e muita gente responde sem saber o que isso muda. O regime é a regra que vai dizer o que é de cada um e o que será dividido se o casamento acabar.</p>\n<h2>Os quatro regimes</h2>\n<ul>\n<li><b>Comunhão parcial de bens:</b> vale quando o casal não escolhe outro (art. 1.640). Divide-se o que foi comprado durante o casamento (art. 1.658). Ficam de fora os bens que cada um já tinha e os recebidos por doação ou herança (art. 1.659).</li>\n<li><b>Comunhão universal de bens:</b> os bens de hoje e os futuros dos dois passam a ser do casal, com exceções previstas em lei, como bens doados ou herdados com cláusula que os mantém fora da divisão (arts. 1.667 e 1.668).</li>\n<li><b>Separação de bens:</b> cada um continua dono do que está no seu nome, administra e pode vender livremente (art. 1.687).</li>\n<li><b>Participação final nos aquestos:</b> durante o casamento, cada um tem o seu patrimônio; se o casamento acabar, cada um tem direito à metade do que o casal comprou durante a união (art. 1.672).</li>\n</ul>\n<p>Para escolher regime diferente da comunhão parcial, o casal precisa assinar um pacto antenupcial por escritura pública, em cartório de notas, antes do casamento (art. 1.653).</p>\n<h2>Na prática</h2>\n<ul>\n<li>A lei impõe a separação de bens em alguns casos, como o da pessoa com mais de 70 anos (art. 1.641, II). Em 2024, o STF (Supremo Tribunal Federal) decidiu que, nesse caso, o casal pode afastar a separação por escritura pública e escolher outro regime (Tema 1.236).</li>\n<li>Na união estável, vale a comunhão parcial, salvo contrato escrito entre os dois (art. 1.725).</li>\n<li>O regime também pesa na herança: o cônjuge pode ser herdeiro mesmo na separação de bens escolhida em pacto.</li>\n</ul>\n<h2>O erro mais frequente</h2>\n<p>Escolher o regime na pressa, sem olhar o que cada um já tem e o que pretende construir. Depois do casamento, mudar exige pedido dos dois ao juiz.</p>\n<h2>O que fazer agora</h2>\n<p>Não existe regime melhor para todos. Antes de ir ao cartório, faça uma lista do que cada um já tem, da atividade profissional de cada um e dos planos do casal, e leve essa lista a uma orientação. A escolha certa nasce desse retrato.</p>",
   "faq": [
     [
       "Se não escolhermos nada, qual é o regime?",
@@ -32,11 +32,19 @@
     ],
     [
       "Na comunhão parcial, a herança que eu receber será dividida?",
-      "Não. Bens recebidos por doação ou herança ficam fora da divisão (art. 1.659, I)."
+      "Não. Bens recebidos por doação ou herança ficam fora da divisão (Código Civil, art. 1.659, I)."
     ],
     [
       "Quem tem mais de 70 anos é obrigado a casar com separação de bens?",
-      "Segundo o STF (Tema 1.236), a separação prevista no art. 1.641, II, pode ser afastada por escritura pública."
+      "Não necessariamente. Segundo o STF (Tema 1.236), a separação prevista para esse caso pode ser afastada por escritura pública (Código Civil, art. 1.641, II)."
+    ],
+    [
+      "Como escolher um regime diferente da comunhão parcial?",
+      "Com pacto antenupcial feito por escritura pública em cartório de notas, antes do casamento (Código Civil, art. 1.653)."
+    ],
+    [
+      "E na união estável?",
+      "Vale a comunhão parcial, a menos que o casal faça contrato escrito com outra regra (Código Civil, art. 1.725)."
     ]
   ],
   "base": [

@@ -4,8 +4,8 @@
   "data": "2026-11-19",
   "google": 11,
   "titulo": "Guarda compartilhada é a regra quando os pais não se entendem?",
-  "resumo": "Sim. Se pai e mãe não chegam a acordo e os dois estão aptos, a lei manda aplicar a guarda compartilhada, salvo duas exceções.",
-  "destaque": "Sim, quando os dois estão aptos.",
+  "resumo": "Sim. Se pai e mãe não chegam a acordo e os dois têm condições de cuidar do filho, a lei manda aplicar a guarda compartilhada. Ela só fica de fora em duas situações.",
+  "destaque": "Sim, se os dois têm condições.",
   "pontos": [
     [
       "filhos",
@@ -13,7 +13,7 @@
     ],
     [
       "alerta",
-      "Ela não se aplica se houver indícios de risco de violência doméstica ou familiar."
+      "Ela não se aplica se houver sinais de risco de violência doméstica."
     ],
     [
       "casa",
@@ -21,19 +21,23 @@
     ]
   ],
   "exemplo": "Rafael e Patrícia se separaram e não chegam a um acordo sobre quem fica com o filho de 6 anos. Os dois trabalham, moram na mesma cidade e participam da rotina da criança.",
-  "corpo": "<p>Na separação, a pergunta sobre com quem os filhos vão ficar costuma gerar o maior conflito. A lei dá um ponto de partida claro para quando não há acordo.</p>\n<h2>O que a lei prevê</h2>\n<p>A guarda pode ser unilateral ou compartilhada. Na compartilhada, pai e mãe que não vivem juntos dividem a responsabilidade e o exercício dos direitos e deveres sobre os filhos (Código Civil, art. 1.583, § 1º).</p>\n<p>Quando não há acordo e os dois estão aptos a exercer o poder familiar, aplica-se a guarda compartilhada, salvo em duas situações (art. 1.584, § 2º):</p>\n<ul>\n<li>se um dos pais declarar ao juiz que não deseja a guarda;</li>\n<li>se houver elementos que mostrem a probabilidade de risco de violência doméstica ou familiar.</li>\n</ul>\n<p>Nas ações de guarda, antes da audiência de mediação e conciliação, o juiz pergunta às partes e ao Ministério Público se há risco de violência e dá 5 dias para a apresentação de provas ou indícios (CPC, art. 699-A).</p>\n<h2>Na prática</h2>\n<p>Guarda compartilhada não quer dizer que a criança mora metade do tempo em cada casa. A lei pede que o convívio seja dividido de forma equilibrada, conforme as condições de fato e os interesses dos filhos, e que se defina a cidade de base de moradia (art. 1.583, §§ 2º e 3º).</p>\n<p>Ela também não acaba com a pensão. O dever de sustento continua, e os pais contribuem na proporção dos seus recursos (art. 1.703).</p>\n<p>O que muda é a participação nas decisões. Os dois pais dirigem a criação e a educação dos filhos e precisam consentir, por exemplo, com a mudança de residência permanente para outro município (art. 1.634, I e V). Escolas, hospitais e outros estabelecimentos são obrigados a prestar informações sobre os filhos a qualquer dos pais (art. 1.584, § 6º).</p>\n<p>Para quem vai discutir a guarda, ajuda mostrar como cada um participa da rotina da criança e qual arranjo de convivência atende melhor a ela. É o interesse do filho que orienta a decisão.</p>",
+  "corpo": "<p>Na separação, a pergunta sobre com quem os filhos vão ficar costuma gerar o maior conflito. A lei dá um ponto de partida claro quando não há acordo.</p><h2>O que a lei prevê</h2><p>Na guarda compartilhada, pai e mãe que não vivem juntos dividem as decisões e as responsabilidades sobre os filhos (Código Civil, art. 1.583, § 1º). Sem acordo e com os dois aptos, ela é a regra, salvo em duas situações (art. 1.584, § 2º):</p><ul><li>se um dos pais disser ao juiz que não quer a guarda;</li><li>se houver sinais de risco de violência doméstica ou familiar.</li></ul><p>Antes da audiência de conciliação, o juiz pergunta às partes e ao Ministério Público se há risco de violência e dá 5 dias para apresentar provas ou indícios (CPC, art. 699-A).</p><h2>Na prática</h2><p>Guarda compartilhada não quer dizer metade do tempo em cada casa. O convívio deve ser equilibrado, conforme a realidade e o interesse dos filhos, com uma cidade definida como base de moradia (art. 1.583, §§ 2º e 3º).</p><p>Ela também não acaba com a pensão. Os pais contribuem conforme os próprios recursos (art. 1.703).</p><p>O que muda é a participação nas decisões. Os dois decidem sobre criação e educação e precisam concordar, por exemplo, com a mudança definitiva do filho para outra cidade (art. 1.634, I e V). Escolas e hospitais são obrigados a dar informações sobre os filhos a qualquer dos pais (art. 1.584, § 6º).</p><h2>O erro que enfraquece o caso</h2><p>Sair de casa sem orientação e se afastar da rotina do filho enquanto a guarda não é definida. O que pesa na decisão é a participação real de cada um no dia a dia da criança.</p><h2>O que fazer agora</h2><p>Registre como participa da rotina: escola, consultas, atividades, mensagens com o outro sobre o filho. Leve isso à primeira conversa com um advogado. Sempre que possível, um acordo sobre a convivência protege mais a criança do que uma briga longa.</p>",
   "faq": [
     [
       "Se um dos pais não quiser a guarda, ela é compartilhada mesmo assim?",
-      "Não. A guarda compartilhada deixa de ser aplicada se um dos genitores declarar ao juiz que não deseja a guarda (Código Civil, art. 1.584, § 2º)."
+      "Não. A guarda compartilhada deixa de ser aplicada se um dos pais disser ao juiz que não a quer (Código Civil, art. 1.584, § 2º)."
     ],
     [
       "Na guarda compartilhada a criança passa metade do tempo em cada casa?",
-      "Não necessariamente. O tempo de convívio deve ser equilibrado, conforme as condições de fato e os interesses dos filhos (Código Civil, art. 1.583, § 2º)."
+      "Não necessariamente. O convívio deve ser equilibrado, conforme a realidade e o interesse dos filhos (Código Civil, art. 1.583, § 2º)."
     ],
     [
       "Com guarda compartilhada, deixa de existir pensão?",
-      "Não. Os pais contribuem para a manutenção dos filhos na proporção dos seus recursos (Código Civil, art. 1.703)."
+      "Não. Os pais contribuem para o sustento dos filhos conforme os próprios recursos (Código Civil, art. 1.703)."
+    ],
+    [
+      "Um dos pais pode mudar de cidade com o filho por conta própria?",
+      "Não. A mudança definitiva do filho para outra cidade depende da concordância dos dois (Código Civil, art. 1.634, V)."
     ]
   ],
   "base": [

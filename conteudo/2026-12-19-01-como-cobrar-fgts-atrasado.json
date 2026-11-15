@@ -4,16 +4,16 @@
   "data": "2026-12-19",
   "google": 41,
   "titulo": "Como cobrar o FGTS que a empresa não depositou?",
-  "resumo": "O trabalhador pode conferir os depósitos pelos serviços digitais do FGTS, comunicar a fiscalização do trabalho e cobrar a empresa diretamente na Justiça do Trabalho.",
-  "destaque": "Confira o extrato e cobre na Justiça.",
+  "resumo": "A empresa é obrigada a depositar o FGTS todo mês. Se faltou depósito, o trabalhador pode conferir o extrato, avisar a fiscalização do trabalho e cobrar a empresa na Justiça do Trabalho, inclusive sem sair do emprego.",
+  "destaque": "Pode cobrar na Justiça, até trabalhando.",
   "pontos": [
     [
       "documento",
-      "Confira o extrato da conta e compare com os meses trabalhados."
+      "Confira o extrato do FGTS e compare com cada mês trabalhado."
     ],
     [
       "alerta",
-      "O atraso gera atualização, juros de 0,5% ao mês e multa para a empresa."
+      "Quem atrasa paga correção, juros de 0,5% ao mês e multa."
     ],
     [
       "balanca",
@@ -21,19 +21,23 @@
     ]
   ],
   "exemplo": "Adriana trabalha há dois anos como auxiliar de limpeza. Ao consultar o extrato do FGTS para planejar a compra de uma casa, viu que vários meses estavam sem depósito.",
-  "corpo": "<p>O FGTS é depositado pela empresa todo mês, mas o trabalhador nem sempre acompanha. Muitas vezes, a falta de depósitos só aparece na hora de sacar. Saber conferir e cobrar evita surpresas e perda de valores.</p>\n<h2>O que a lei prevê</h2>\n<p>A Lei do FGTS obriga o empregador a depositar, até o dia 20 de cada mês, 8% da remuneração paga ou devida no mês anterior.</p>\n<ul>\n<li>O Poder Executivo deve oferecer serviços digitais com informações sobre os créditos do trabalhador e o acionamento da inspeção do trabalho em caso de falta de depósito.</li>\n<li>Quem não deposita no prazo responde pela atualização pela TR, juros de mora de 0,5% ao mês e multa de 5% no mês do vencimento ou de 10% a partir do mês seguinte.</li>\n<li>O próprio trabalhador, seus dependentes e sucessores, ou o sindicato, podem acionar a empresa diretamente na Justiça do Trabalho para obrigá-la a depositar.</li>\n<li>Na ação, o juiz determina que a empresa condenada recolha imediatamente os valores devidos.</li>\n</ul>\n<h2>Na prática</h2>\n<ul>\n<li>Consulte o extrato pelo aplicativo oficial do FGTS e compare os depósitos com os contracheques, mês a mês.</li>\n<li>Guarde imagens do extrato e os contracheques que mostram o salário de cada período.</li>\n<li>A falta de depósito pode ser levada à fiscalização do trabalho, que apura os débitos e notifica a empresa.</li>\n<li>A cobrança pode ser feita ainda durante o contrato. A falta de depósitos também pode ser enquadrada como descumprimento das obrigações do contrato, hipótese de rescisão indireta prevista na CLT.</li>\n</ul>\n<p>Atenção ao prazo: segundo a Súmula 362 do TST, a cobrança do FGTS não depositado segue a prescrição de 5 anos, observado o limite de 2 anos após o fim do contrato.</p>",
+  "corpo": "<p>O FGTS é depositado pela empresa todo mês, mas pouca gente acompanha. Muitas vezes a falta de depósito só aparece na hora de sacar, quando o dinheiro faz falta.</p>\n<h2>O que a lei garante</h2>\n<p>A empresa deve depositar, até o dia 20 de cada mês, 8% do salário do mês anterior na conta do FGTS do trabalhador.</p>\n<ul>\n<li>O governo deve oferecer serviços digitais para o trabalhador consultar os depósitos e avisar a fiscalização do trabalho quando faltar algum.</li>\n<li>A empresa que atrasa paga correção (pela TR, índice oficial de atualização), juros de 0,5% ao mês e multa de 5% no mês do vencimento ou de 10% a partir do mês seguinte.</li>\n<li>O próprio trabalhador, seus dependentes e sucessores, ou o sindicato, podem processar a empresa na Justiça do Trabalho para obrigá-la a depositar.</li>\n<li>Se a empresa perder, o juiz manda recolher na hora os valores devidos.</li>\n</ul>\n<h2>Na prática</h2>\n<ul>\n<li>Consulte o extrato no aplicativo oficial do FGTS e compare, mês a mês, com os contracheques.</li>\n<li>A falta de depósito pode ser levada à fiscalização do trabalho, que apura a dívida e notifica a empresa.</li>\n<li>Dá para cobrar ainda trabalhando. A falta de depósitos também pode ser tratada como descumprimento do contrato pela empresa, o que permite ao trabalhador encerrar o contrato com os direitos de quem foi demitido (a chamada rescisão indireta, prevista na CLT).</li>\n</ul>\n<h2>O erro que enfraquece o caso</h2>\n<p>Deixar o tempo passar. Pela Súmula 362 do TST (Tribunal Superior do Trabalho), a cobrança alcança os últimos 5 anos e precisa ser feita em até 2 anos depois do fim do contrato. Quem espera demais perde meses de depósito pelo caminho.</p>\n<h2>O que fazer agora</h2>\n<p>Baixe o extrato do FGTS, separe os contracheques do mesmo período e marque os meses sem depósito. Com esse levantamento em mãos, a primeira conversa com um advogado já mostra o tamanho da dívida.</p>",
   "faq": [
     [
       "Posso cobrar o FGTS ainda trabalhando na empresa?",
-      "Sim. O próprio trabalhador pode acionar a empresa na Justiça do Trabalho para obrigá-la a depositar (Lei 8.036/1990, art. 25)."
+      "Sim. O próprio trabalhador pode processar a empresa na Justiça do Trabalho para obrigá-la a depositar (Lei 8.036/1990, art. 25)."
     ],
     [
       "O sindicato pode cobrar por mim?",
-      "Sim. A lei permite que o sindicato a que o trabalhador está vinculado acione diretamente a empresa (Lei 8.036/1990, art. 25)."
+      "Sim. A lei permite que o sindicato do trabalhador cobre a empresa diretamente (Lei 8.036/1990, art. 25)."
     ],
     [
       "Quem fiscaliza os depósitos?",
-      "Cabe ao Ministério do Trabalho verificar o cumprimento da lei e apurar os débitos dos empregadores (Lei 8.036/1990, art. 23)."
+      "O Ministério do Trabalho, que confere se a lei está sendo cumprida e apura a dívida das empresas (Lei 8.036/1990, art. 23)."
+    ],
+    [
+      "Até quando posso cobrar o FGTS atrasado?",
+      "A cobrança alcança os últimos 5 anos e deve ser feita em até 2 anos depois do fim do contrato (Súmula 362 do TST)."
     ]
   ],
   "base": [

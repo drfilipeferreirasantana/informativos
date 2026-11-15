@@ -4,36 +4,40 @@
   "data": "2026-11-29",
   "google": 21,
   "titulo": "O INSS negou meu benefício. O que posso fazer?",
-  "resumo": "Dá para recorrer ao Conselho de Recursos da Previdência Social em 30 dias da ciência da decisão ou entrar com ação na Justiça. A escolha depende do motivo da negativa.",
+  "resumo": "Dá para recorrer dentro do próprio INSS em 30 dias, contados de quando a pessoa soube da decisão, ou entrar com ação na Justiça. O caminho certo depende do motivo da negativa.",
   "destaque": "Recorrer em 30 dias ou ir à Justiça.",
   "pontos": [
     [
       "documento",
-      "A carta de indeferimento mostra o motivo da negativa e orienta o próximo passo."
+      "A carta de negativa mostra o motivo e indica o próximo passo."
     ],
     [
       "calendario",
-      "O recurso administrativo tem prazo de 30 dias, contado da ciência da decisão."
+      "O recurso no INSS tem prazo de 30 dias, contado de quando a pessoa soube da decisão."
     ],
     [
       "balanca",
-      "Entrar na Justiça com o mesmo pedido encerra o recurso administrativo."
+      "Entrar na Justiça com o mesmo pedido encerra o recurso no INSS."
     ]
   ],
   "exemplo": "Cláudio pediu auxílio por incapacidade depois de uma cirurgia na coluna, e a perícia do INSS concluiu que ele podia trabalhar. A carta de indeferimento chegou na semana passada.",
-  "corpo": "<p>Receber um \"não\" do INSS é frustrante, mas a decisão pode ser revista. O primeiro passo é entender por que o pedido foi negado: falta de documento, perícia desfavorável, carência, qualidade de segurado ou outro requisito.</p>\n<h2>O que a lei prevê</h2>\n<p>Existem dois caminhos, que não devem correr ao mesmo tempo:</p>\n<ul>\n<li>Recurso administrativo: é julgado pelo Conselho de Recursos da Previdência Social, primeiro nas Juntas de Recursos e, depois, nas Câmaras de Julgamento. O prazo é de 30 dias, contado da ciência da decisão.</li>\n<li>Ação judicial: em regra, na Justiça Federal. Causas de até 60 salários mínimos são do Juizado Especial Federal. As causas de acidente do trabalho ficam fora da Justiça Federal e são julgadas pela Justiça Estadual (Súmula 15 do STJ).</li>\n</ul>\n<p>Ao receber o recurso, o próprio INSS pode rever sua decisão e, se reconhecer o direito, deixa de enviá-lo ao Conselho.</p>\n<p>Atenção: entrar na Justiça com o mesmo pedido importa renúncia ao recurso administrativo e desistência do recurso já apresentado.</p>\n<h2>Na prática</h2>\n<p>Quando a negativa vem de documento faltando ou de prova incompleta, o recurso permite juntar o que faltou. Quando o problema é a perícia médica ou a interpretação da lei pelo INSS, vale lembrar que, na Justiça, a perícia é feita por perito nomeado pelo juiz.</p>\n<p>O STF decidiu, no Tema 350, que em regra é preciso ter feito o pedido ao INSS antes de ir à Justiça, mas não é necessário esgotar os recursos administrativos.</p>\n<p>Não convém deixar o assunto parado: as parcelas atrasadas prescrevem em 5 anos, contados da data em que deveriam ter sido pagas.</p>\n<p>Guarde a carta de indeferimento, a cópia do processo administrativo e os laudos e exames. Eles servem de base para qualquer um dos dois caminhos.</p>",
+  "corpo": "<p>Um \"não\" do INSS não é o fim. Primeiro é preciso entender o motivo: documento faltando, perícia desfavorável, número mínimo de contribuições (carência), perda da proteção do INSS (qualidade de segurado) ou outro requisito.</p><h2>Os dois caminhos</h2><p>Eles não devem correr ao mesmo tempo:</p><ul><li><b>Recurso no INSS:</b> julgado pelo Conselho de Recursos da Previdência Social, primeiro nas Juntas de Recursos e depois nas Câmaras de Julgamento. Prazo de 30 dias, contado de quando a pessoa soube da decisão. Ao receber o recurso, o próprio INSS pode rever a negativa e reconhecer o direito.</li><li><b>Ação na Justiça:</b> em regra, na Justiça Federal. Causas de até 60 salários mínimos vão para o Juizado Especial Federal. Casos de acidente do trabalho são julgados pela Justiça Estadual (Súmula 15 do Superior Tribunal de Justiça).</li></ul><p>Atenção: entrar na Justiça com o mesmo pedido significa abrir mão do recurso no INSS, inclusive do que já foi apresentado.</p><p>O Supremo Tribunal Federal decidiu (Tema 350) que, em regra, é preciso ter feito o pedido ao INSS antes de ir à Justiça, mas não é necessário esperar o fim de todos os recursos.</p><h2>Como escolher</h2><p>Se faltou documento ou prova, o recurso permite juntar o que faltou. Se o problema é a perícia médica ou a forma como o INSS leu a lei, na Justiça a perícia é feita por perito nomeado pelo juiz.</p><h2>O erro que custa dinheiro</h2><p>Deixar o assunto parado. As parcelas atrasadas se perdem depois de 5 anos, contados da data em que deveriam ter sido pagas.</p><h2>O que fazer agora</h2><p>Separe a carta de negativa, a cópia do processo no INSS e os laudos e exames. Esse material serve para qualquer um dos dois caminhos e é o que se analisa na primeira conversa.</p>",
   "faq": [
     [
-      "Qual é o prazo para recorrer ao Conselho de Recursos?",
-      "São 30 dias, contados da ciência da decisão (Decreto 3.048/1999, art. 305, § 1º, II)."
+      "Qual é o prazo para recorrer no INSS?",
+      "São 30 dias, contados de quando a pessoa soube da decisão (Decreto 3.048/1999, art. 305, § 1º, II)."
     ],
     [
       "Posso recorrer e entrar na Justiça ao mesmo tempo?",
-      "Não. A ação com pedido idêntico importa renúncia ao direito de recorrer na esfera administrativa e desistência do recurso interposto (Lei 8.213/1991, art. 126, § 3º)."
+      "Não. A ação com o mesmo pedido significa abrir mão do recurso no INSS, inclusive do já apresentado (Lei 8.213/1991, art. 126, § 3º)."
     ],
     [
       "Perdi o prazo do recurso. Acabou?",
-      "Não necessariamente. Ainda é possível buscar a Justiça, mas as parcelas vencidas há mais de 5 anos prescrevem (Lei 8.213/1991, art. 103, parágrafo único)."
+      "Não necessariamente. Ainda é possível ir à Justiça, mas as parcelas vencidas há mais de 5 anos se perdem (Lei 8.213/1991, art. 103, parágrafo único)."
+    ],
+    [
+      "Preciso esgotar os recursos antes de ir à Justiça?",
+      "Não. Em regra, basta ter feito o pedido ao INSS (Supremo Tribunal Federal, Tema 350)."
     ]
   ],
   "base": [

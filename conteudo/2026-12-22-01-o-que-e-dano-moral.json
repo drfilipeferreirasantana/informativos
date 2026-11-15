@@ -4,7 +4,7 @@
   "data": "2026-12-22",
   "google": 44,
   "titulo": "O que é dano moral e quando ele dá direito a indenização?",
-  "resumo": "Dano moral é a ofensa a direitos da pessoa, como honra, imagem, intimidade e vida privada. A Constituição e o Código Civil asseguram indenização a quem sofre esse tipo de dano.",
+  "resumo": "Dano moral é a ofensa que atinge a própria pessoa: o nome, a reputação, a imagem, a privacidade. A Constituição e o Código Civil garantem indenização a quem sofre esse tipo de ofensa, desde que ela seja provada.",
   "destaque": "Ofensa à honra, imagem ou intimidade.",
   "pontos": [
     [
@@ -13,27 +13,35 @@
     ],
     [
       "balanca",
-      "Quem causa dano, ainda que só moral, comete ato ilícito e deve repará-lo."
+      "Quem causa dano, mesmo que só moral, deve indenizar."
     ],
     [
       "carteira",
-      "A indenização se mede pela extensão do dano, conforme o caso concreto."
+      "O valor depende do tamanho do dano, caso a caso."
     ]
   ],
   "exemplo": "Paulo teve uma foto sua usada, sem autorização, na propaganda de uma loja nas redes sociais. Amigos e clientes começaram a perguntar se ele trabalhava para a empresa.",
-  "corpo": "<p>A expressão dano moral é muito usada, mas nem sempre bem entendida. Ela não se refere a um prejuízo no bolso, e sim a uma ofensa que atinge a própria pessoa: o nome, a reputação, a imagem, a privacidade.</p>\n<h2>O que a lei prevê</h2>\n<p>A Constituição declara invioláveis a intimidade, a vida privada, a honra e a imagem das pessoas e assegura indenização pelo dano material ou moral decorrente da sua violação. Também assegura, ao lado do direito de resposta, indenização por dano material, moral ou à imagem.</p>\n<p>O Código Civil segue a mesma linha:</p>\n<ul>\n<li>comete ato ilícito quem, por ação ou omissão voluntária, negligência ou imprudência, viola direito e causa dano a outra pessoa, ainda que exclusivamente moral;</li>\n<li>quem causa dano por ato ilícito fica obrigado a repará-lo;</li>\n<li>é possível exigir que cesse a ameaça ou a lesão a direito da personalidade, além de pedir perdas e danos;</li>\n<li>o uso não autorizado da imagem de alguém pode ser proibido, sem prejuízo da indenização, quando atinge a honra, a boa fama ou a respeitabilidade, ou quando tem fins comerciais.</li>\n</ul>\n<p>A indenização se mede pela extensão do dano. O Código Civil não traz tabela de valores: cabe ao juiz fixar a quantia conforme as circunstâncias de cada caso. Pela Súmula 37 do STJ, o dano material e o moral que vêm do mesmo fato podem ser cobrados juntos.</p>\n<h2>Na prática</h2>\n<p>Nem todo incômodo gera indenização. É preciso demonstrar a violação de um direito e o dano que ela causou, e isso exige prova.</p>\n<ul>\n<li>Quando a ofensa ocorre na internet, salve prints com data, link e nome de quem publicou.</li>\n<li>Reúna testemunhas que presenciaram a situação.</li>\n<li>Registre boletim de ocorrência, se o fato também puder ser crime.</li>\n<li>Anote como a ofensa afetou a sua rotina, o seu trabalho e as suas relações.</li>\n</ul>\n<p>O prazo para pedir a reparação civil, em regra, é de 3 anos.</p>",
+  "corpo": "<p>Dano moral não é prejuízo no bolso. É a ofensa que atinge a própria pessoa: o nome, a reputação, a imagem, a privacidade.</p>\n<h2>O que a lei garante</h2>\n<p>A Constituição declara invioláveis a intimidade, a vida privada, a honra e a imagem das pessoas e garante indenização pelo prejuízo material ou moral causado pela ofensa. Também garante o direito de resposta.</p>\n<p>O Código Civil segue a mesma linha:</p>\n<ul>\n<li>quem, por ação, omissão, descuido ou imprudência, viola direito de alguém e causa dano, mesmo que só moral, comete ato ilícito;</li>\n<li>quem causa o dano deve repará-lo;</li>\n<li>é possível exigir que a ofensa pare, além de pedir indenização;</li>\n<li>o uso da imagem de alguém sem autorização pode ser proibido quando atinge a honra, a boa fama ou a respeitabilidade, ou quando tem fins comerciais, sem prejuízo da indenização.</li>\n</ul>\n<p>Não existe tabela de valores: o juiz fixa a quantia conforme o tamanho do dano em cada caso. Pela Súmula 37 do STJ (Superior Tribunal de Justiça), o prejuízo material e o moral que vêm do mesmo fato podem ser cobrados juntos.</p>\n<h2>O erro que enfraquece o caso</h2>\n<p>Nem todo aborrecimento gera indenização, e o que decide é a prova. Apagar a publicação ofensiva, não salvar a conversa ou esperar a poeira baixar enfraquece o pedido. Por isso:</p>\n<ul>\n<li>na internet, salve prints com data, link e nome de quem publicou;</li>\n<li>anote o nome de quem presenciou a situação;</li>\n<li>registre boletim de ocorrência, se o fato também puder ser crime;</li>\n<li>anote como a ofensa afetou a sua rotina, o seu trabalho e as suas relações.</li>\n</ul>\n<h2>O que fazer agora</h2>\n<p>O prazo para pedir a indenização, em regra, é de 3 anos. Reúna as provas enquanto estão à mão e leve tudo à primeira conversa, contando também o que pesa contra. É com o quadro completo que se avalia se a ofensa gera indenização.</p>",
   "faq": [
     [
       "Dano moral e dano material podem ser cobrados juntos?",
-      "Sim. A Súmula 37 do STJ admite a cumulação quando os dois decorrem do mesmo fato, e a Constituição assegura a indenização de ambos (Constituição Federal, art. 5º, V e X)."
+      "Sim, quando os dois vêm do mesmo fato (Súmula 37 do STJ; Constituição Federal, art. 5º, V e X)."
     ],
     [
       "Quem define o valor da indenização?",
-      "O juiz, conforme o caso, já que a indenização se mede pela extensão do dano (Código Civil, art. 944)."
+      "O juiz, conforme o tamanho do dano em cada caso (Código Civil, art. 944)."
     ],
     [
       "Posso pedir que a ofensa pare, além da indenização?",
-      "Sim. É possível exigir que cesse a ameaça ou a lesão a direito da personalidade e reclamar perdas e danos (Código Civil, art. 12)."
+      "Sim. É possível exigir que a ofensa cesse e também pedir indenização (Código Civil, art. 12)."
+    ],
+    [
+      "Usaram minha foto em propaganda sem autorização. Cabe dano moral?",
+      "Pode caber. O uso da imagem com fins comerciais sem autorização pode ser proibido e gerar indenização (Código Civil, art. 20)."
+    ],
+    [
+      "Qual é o prazo para pedir?",
+      "Em regra, 3 anos (Código Civil, art. 206, § 3º, V)."
     ]
   ],
   "base": [

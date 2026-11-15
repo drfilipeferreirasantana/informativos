@@ -4,16 +4,16 @@
   "data": "2026-12-12",
   "google": 34,
   "titulo": "Produto com defeito: tenho direito a troca ou dinheiro de volta?",
-  "resumo": "O fornecedor tem até 30 dias para sanar o defeito. Se não resolver, o consumidor escolhe entre a troca, a devolução do valor corrigido ou o abatimento do preço.",
-  "destaque": "Se não consertarem em 30 dias, sim.",
+  "resumo": "O fornecedor tem até 30 dias para consertar. Se não resolver, o consumidor escolhe: troca, dinheiro de volta corrigido ou desconto no preço.",
+  "destaque": "Sim, se o conserto passar de 30 dias.",
   "pontos": [
     [
       "relogio",
-      "O fornecedor tem até 30 dias para sanar o defeito."
+      "O fornecedor tem até 30 dias para consertar o defeito."
     ],
     [
       "check",
-      "Sem solução, o consumidor escolhe: troca, dinheiro de volta ou abatimento."
+      "Sem solução, o consumidor escolhe: troca, dinheiro de volta ou desconto no preço."
     ],
     [
       "predio",
@@ -21,19 +21,23 @@
     ]
   ],
   "exemplo": "Luciana comprou uma geladeira que parou de gelar no segundo mês de uso. A loja disse que o assunto era com a assistência técnica do fabricante, e o conserto já passou de 30 dias.",
-  "corpo": "<p>Quando um produto apresenta defeito, é comum o consumidor ser jogado de um lado para o outro: a loja manda falar com o fabricante, o fabricante manda esperar a assistência técnica. O Código de Defesa do Consumidor organiza essa situação com prazos e escolhas claras.</p>\n<h2>O que a lei prevê</h2>\n<p>Os fornecedores respondem solidariamente pelos vícios que tornem o produto impróprio ou inadequado ao uso, ou que diminuam o seu valor. Isso quer dizer que o consumidor pode reclamar com a loja, com o fabricante ou com ambos.</p>\n<p>O fornecedor tem até 30 dias para sanar o defeito. Se não resolver nesse prazo, o consumidor escolhe uma destas opções:</p>\n<ul>\n<li>a troca por outro produto da mesma espécie, em perfeitas condições de uso;</li>\n<li>a devolução imediata do valor pago, com atualização monetária, sem prejuízo de perdas e danos;</li>\n<li>o abatimento proporcional do preço.</li>\n</ul>\n<p>O consumidor não precisa esperar os 30 dias quando a troca das peças puder comprometer a qualidade do produto ou diminuir o seu valor, ou quando se tratar de produto essencial.</p>\n<p>A garantia legal existe mesmo sem termo escrito. A garantia dada pelo fabricante é complementar a ela, e não a substitui.</p>\n<h2>Na prática</h2>\n<p>Há prazo para reclamar: 30 dias para produtos não duráveis e 90 dias para os duráveis, contados da entrega. Se o defeito for oculto, o prazo começa quando ele se tornar evidente.</p>\n<p>A reclamação comprovada feita ao fornecedor impede que esse prazo corra até a resposta negativa. Por isso:</p>\n<ul>\n<li>reclame por escrito ou anote o número de protocolo do atendimento;</li>\n<li>guarde a nota fiscal, o termo de garantia e a ordem de serviço;</li>\n<li>registre a data em que o produto foi entregue para conserto, para acompanhar os 30 dias.</li>\n</ul>\n<p>Se o prazo passar sem solução, comunique a sua escolha por escrito à loja ou ao fabricante.</p>",
+  "corpo": "<p>Com produto com defeito, o consumidor costuma ser jogado de um lado para o outro: a loja manda falar com o fabricante, o fabricante manda esperar a assistência técnica. O Código de Defesa do Consumidor põe prazo e dá a escolha a quem comprou.</p>\n<h2>O que a lei garante</h2>\n<p>Loja e fabricante respondem juntos (solidariamente) pelo defeito que torne o produto impróprio para o uso ou diminua o seu valor. O consumidor pode reclamar com qualquer um deles ou com os dois.</p>\n<p>O fornecedor tem até 30 dias para consertar. Se não resolver, o consumidor escolhe:</p>\n<ul>\n<li>a troca por outro produto igual, em perfeitas condições;</li>\n<li>o dinheiro de volta na hora, corrigido, sem perder o direito a outros prejuízos;</li>\n<li>um desconto proporcional no preço.</li>\n</ul>\n<p>Não é preciso esperar os 30 dias quando trocar as peças puder piorar o produto ou diminuir seu valor, ou quando o produto for essencial.</p>\n<p>A garantia da lei existe mesmo sem papel. A garantia do fabricante soma-se a ela, não a substitui.</p>\n<h2>O erro que enfraquece o caso</h2>\n<p>Reclamar só por telefone, sem protocolo, e deixar o tempo passar. Há prazo para reclamar: 30 dias para produtos não duráveis e 90 dias para duráveis, contados da entrega. Se o defeito estava escondido, o prazo começa quando ele aparece. A reclamação comprovada segura esse prazo até a resposta negativa. Por isso:</p>\n<ul>\n<li>reclame por escrito ou anote o número de protocolo;</li>\n<li>guarde a nota fiscal, o termo de garantia e a ordem de serviço;</li>\n<li>anote o dia em que o produto foi para o conserto, para contar os 30 dias.</li>\n</ul>\n<h2>O que fazer agora</h2>\n<p>Passados os 30 dias sem solução, comunique por escrito à loja ou ao fabricante qual opção escolheu. Muitas vezes isso basta para resolver sem processo; se não bastar, leve a nota e os protocolos à primeira conversa.</p>",
   "faq": [
     [
       "A loja pode me mandar resolver só com o fabricante?",
-      "Não. Os fornecedores respondem solidariamente pelos vícios do produto, e quem comercializa também é fornecedor (CDC, arts. 3º e 18)."
+      "Não. Loja e fabricante respondem juntos pelo defeito do produto (CDC, arts. 3º e 18)."
     ],
     [
       "Produto essencial também tem que esperar 30 dias?",
-      "Não. Nesse caso, o consumidor pode exigir de imediato a troca, o dinheiro de volta ou o abatimento (CDC, art. 18, § 3º)."
+      "Não. Nesse caso, o consumidor pode exigir na hora a troca, o dinheiro de volta ou o desconto (CDC, art. 18, § 3º)."
     ],
     [
       "Qual é o prazo para reclamar do defeito?",
-      "30 dias para produtos não duráveis e 90 dias para duráveis; no defeito oculto, o prazo conta de quando ele aparece (CDC, art. 26, I, II e § 3º)."
+      "30 dias para produtos não duráveis e 90 dias para duráveis; no defeito escondido, conta de quando ele aparece (CDC, art. 26, I, II e § 3º)."
+    ],
+    [
+      "Sem termo de garantia, tenho garantia?",
+      "Sim. A garantia da lei existe mesmo sem papel, e a do fabricante se soma a ela (CDC, arts. 24 e 50)."
     ]
   ],
   "base": [

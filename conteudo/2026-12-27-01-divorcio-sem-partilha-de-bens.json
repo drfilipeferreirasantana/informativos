@@ -4,7 +4,7 @@
   "data": "2026-12-27",
   "titulo": "Dá para se divorciar antes de dividir os bens?",
   "destaque": "Sim, a partilha pode ficar para depois.",
-  "resumo": "A lei permite o divórcio sem a partilha dos bens. Enquanto a divisão não é feita, os bens continuam sendo dos dois, e quem quiser casar de novo fica sujeito a uma restrição.",
+  "resumo": "Dá. A lei permite o divórcio sem a divisão dos bens. Até a partilha, os bens continuam sendo dos dois, e quem casar de novo antes dela fica, em regra, sujeito à separação de bens.",
   "pontos": [
     [
       "check",
@@ -16,23 +16,27 @@
     ],
     [
       "alerta",
-      "Novo casamento antes da partilha pode impor a separação de bens."
+      "Casar de novo antes da partilha pode impor a separação de bens."
     ]
   ],
   "exemplo": "Sandra e Paulo decidiram se divorciar, mas ainda não chegaram a um acordo sobre a casa e o carro. Sandra quer resolver logo o divórcio e deixar a divisão dos bens para quando os dois estiverem mais tranquilos.",
-  "corpo": "<p>A divisão dos bens costuma ser a parte mais demorada da separação. Para não ficar presa a essa discussão, a lei permite que o divórcio seja resolvido primeiro.</p>\n<h2>O que a lei prevê</h2>\n<p>O Código Civil é claro: o divórcio pode ser concedido sem que haja prévia partilha de bens (art. 1.581). O STJ tem o mesmo entendimento na Súmula 197.</p>\n<p>Há, porém, uma consequência para quem pretende casar de novo. A lei diz que o divorciado não deve casar enquanto a partilha não for decidida (art. 1.523, III). Se casar assim, o novo casamento terá, em regra, o regime da separação obrigatória de bens (art. 1.641, I). A restrição pode ser afastada se ficar provado que não haverá prejuízo para o ex-cônjuge (art. 1.523, parágrafo único).</p>\n<h2>Na prática</h2>\n<ul>\n<li>Enquanto a partilha não acontece, os bens comuns continuam pertencendo aos dois. Vender um imóvel, por exemplo, depende da assinatura de ambos.</li>\n<li>Se só um usa o imóvel comum, pode surgir a discussão sobre o pagamento de aluguel ao outro.</li>\n<li>Com acordo, a partilha pode ser feita mais tarde. Sem acordo, ela é decidida pela Justiça.</li>\n<li>Deixar a partilha para depois resolve a urgência do divórcio, mas não deve ser esquecida: com o tempo, provas e valores ficam mais difíceis de reunir.</li>\n</ul>",
+  "corpo": "<p>A divisão dos bens costuma ser a parte mais demorada da separação. Para ninguém ficar preso a essa discussão, a lei permite resolver o divórcio primeiro.</p>\n<h2>O que a lei prevê</h2>\n<p>O Código Civil é direto: o divórcio pode sair sem que os bens tenham sido divididos antes (art. 1.581). O STJ (Superior Tribunal de Justiça) pensa o mesmo, na Súmula 197.</p>\n<p>Há uma consequência para quem quer casar de novo. A lei diz que o divorciado não deve casar enquanto a partilha não for decidida (art. 1.523, III). Se casar assim, o novo casamento terá, em regra, separação obrigatória de bens (art. 1.641, I). Essa restrição pode ser afastada se ficar provado que o ex-cônjuge não terá prejuízo (art. 1.523, parágrafo único).</p>\n<h2>Na prática</h2>\n<ul>\n<li>Até a partilha, os bens do casal continuam dos dois. Vender um imóvel, por exemplo, depende da assinatura de ambos.</li>\n<li>Se só um usa o imóvel do casal, pode surgir a discussão sobre pagar aluguel ao outro.</li>\n<li>Com acordo, a partilha pode ser feita mais tarde. Sem acordo, quem decide é a Justiça.</li>\n</ul>\n<h2>O erro que enfraquece o caso</h2>\n<p>Deixar a partilha para depois e esquecer dela. Com o tempo, provas e valores ficam mais difíceis de reunir. Sair de casa sem orientação também pode pesar na discussão sobre o uso do imóvel.</p>\n<h2>O que fazer agora</h2>\n<p>Se o divórcio é urgente, resolva-o primeiro, mas já guarde a lista dos bens, os documentos de cada um e os comprovantes de compra. Quando houver clima para conversar, um acordo justo sobre a partilha costuma sair mais rápido do que um processo.</p>",
   "faq": [
     [
       "Preciso dividir os bens para conseguir o divórcio?",
-      "Não. O divórcio pode ser concedido sem prévia partilha (Código Civil, art. 1.581; Súmula 197 do STJ)."
+      "Não. O divórcio pode sair sem a partilha antes (Código Civil, art. 1.581; Súmula 197 do STJ)."
     ],
     [
       "Posso casar de novo antes da partilha?",
-      "Pode, mas o novo casamento terá, em regra, a separação obrigatória de bens, salvo prova de que não há prejuízo ao ex-cônjuge (arts. 1.523, III e parágrafo único, e 1.641, I)."
+      "Pode, mas o novo casamento terá, em regra, separação obrigatória de bens, salvo prova de que o ex-cônjuge não terá prejuízo (Código Civil, arts. 1.523, III e parágrafo único, e 1.641, I)."
     ],
     [
       "Posso vender sozinho um bem do casal depois do divórcio?",
-      "Enquanto não houver partilha, o bem continua sendo dos dois, e a venda depende de ambos."
+      "Não. Enquanto não houver partilha, o bem continua sendo dos dois, e a venda depende de ambos."
+    ],
+    [
+      "Quem mora sozinho no imóvel do casal paga aluguel ao outro?",
+      "Pode surgir essa discussão, porque o imóvel continua sendo dos dois até a partilha."
     ]
   ],
   "base": [

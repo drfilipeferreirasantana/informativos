@@ -4,16 +4,16 @@
   "data": "2026-12-10",
   "google": 32,
   "titulo": "O cachorro do vizinho me mordeu. Quem paga o prejuízo?",
-  "resumo": "Paga o dono ou quem estava com o animal. Ele só se livra da obrigação se provar que a culpa foi da vítima ou que houve força maior.",
-  "destaque": "O dono ou quem cuidava do animal.",
+  "resumo": "Paga o dono ou quem estava com o animal. Ele só se livra se provar que a culpa foi da vítima ou que houve um fato inevitável, fora do seu controle.",
+  "destaque": "O dono ou quem estava com o animal.",
   "pontos": [
     [
       "balanca",
-      "O dono ou o detentor do animal deve ressarcir o dano que ele causar."
+      "O dono ou quem estava com o animal deve pagar o prejuízo que ele causar."
     ],
     [
       "alerta",
-      "Ele só se livra se provar culpa da vítima ou força maior."
+      "Ele só se livra se provar culpa da vítima ou um fato inevitável (força maior)."
     ],
     [
       "saude",
@@ -21,19 +21,23 @@
     ]
   ],
   "exemplo": "Renato caminhava pela calçada quando o cachorro do vizinho escapou pelo portão aberto e mordeu sua perna. Ele precisou de pontos e ficou uma semana afastado do trabalho.",
-  "corpo": "<p>Mordidas de cachorro quase sempre envolvem conhecidos: o vizinho, um parente, o dono de um comércio. Por constrangimento, muita gente deixa de cobrar o prejuízo ou acha que a lei não ampara a vítima. O Código Civil tem uma regra específica para os danos causados por animais.</p>\n<h2>O que a lei prevê</h2>\n<p>O dono ou o detentor do animal deve ressarcir o dano que ele causar. Detentor, em linguagem simples, é quem tem o animal sob seus cuidados naquele momento, como quem o leva para passear.</p>\n<p>Pela redação da lei, não é a vítima que precisa provar descuido. É o responsável pelo animal que só se livra se provar uma de duas situações:</p>\n<ul>\n<li>culpa da vítima, por exemplo, se ela provocou o animal;</li>\n<li>força maior, um fato inevitável e fora do controle do responsável.</li>\n</ul>\n<p>Quando a mordida causa lesão, a indenização inclui as despesas do tratamento e os lucros cessantes até o fim da recuperação, além de outros prejuízos que a vítima provar. Se a sequela impedir ou reduzir a capacidade de trabalho, a lei prevê também uma pensão. E, como o Código Civil considera ilícito o dano ainda que exclusivamente moral, essa reparação também pode ser pedida.</p>\n<h2>Na prática</h2>\n<ul>\n<li>Procure atendimento médico logo após a mordida e guarde prontuário, atestados e receitas.</li>\n<li>Fotografe o ferimento ao longo da recuperação.</li>\n<li>Anote nome e endereço do dono e de quem estava com o animal, além do contato de testemunhas.</li>\n<li>Guarde notas de farmácia, consultas e transporte, e comprovantes dos dias sem trabalhar.</li>\n<li>Pergunte ao dono sobre a vacinação do animal e informe ao médico.</li>\n</ul>\n<p>Uma conversa direta com o vizinho, com os recibos em mãos, às vezes resolve. Se não resolver, o prazo para cobrar a reparação civil, em regra, é de 3 anos.</p>",
+  "corpo": "<p>Mordida de cachorro quase sempre envolve conhecidos: o vizinho, um parente, o dono de um comércio. Por constrangimento, muita gente deixa de cobrar o prejuízo ou acha que a lei não ampara a vítima. O Código Civil tem regra própria para isso.</p>\n<h2>O que a lei garante</h2>\n<p>O dono do animal, ou quem estava com ele naquele momento (detentor), como quem o levava para passear, deve pagar o prejuízo que ele causar.</p>\n<p>Não é a vítima que precisa provar descuido. É o responsável pelo animal que só se livra se provar uma de duas situações:</p>\n<ul>\n<li>culpa da vítima, por exemplo, se ela provocou o animal;</li>\n<li>força maior, um fato inevitável e fora do controle do responsável.</li>\n</ul>\n<p>Se a mordida causou lesão, a indenização inclui o tratamento, os ganhos perdidos até o fim da recuperação e outros prejuízos provados. Se ficou sequela que impeça ou reduza a capacidade de trabalho, cabe também uma pensão. E o sofrimento causado pode gerar indenização por dano moral.</p>\n<h2>O erro que enfraquece o caso</h2>\n<p>Deixar passar por educação e jogar fora os recibos. Sem prova do ferimento e dos gastos, a cobrança fica difícil depois.</p>\n<ul>\n<li>Procure atendimento médico logo e guarde prontuário, atestados e receitas.</li>\n<li>Fotografe o ferimento ao longo da recuperação.</li>\n<li>Anote nome e endereço do dono e de quem estava com o animal, e o contato de testemunhas.</li>\n<li>Guarde notas de farmácia, consultas e transporte, e comprovantes dos dias sem trabalhar.</li>\n<li>Pergunte sobre a vacinação do animal e informe ao médico.</li>\n</ul>\n<h2>O que fazer agora</h2>\n<p>Uma conversa direta com o vizinho, com os recibos em mãos, às vezes resolve sem processo. Se não resolver, o prazo para cobrar é, em regra, de 3 anos; leve os documentos à primeira conversa com um advogado.</p>",
   "faq": [
     [
       "E se o cachorro estava com outra pessoa, e não com o dono?",
-      "A lei atribui o dever de indenizar ao dono ou ao detentor do animal, isto é, a quem estava com ele (Código Civil, art. 936)."
+      "A lei põe o dever de indenizar no dono ou em quem estava com o animal (Código Civil, art. 936)."
     ],
     [
       "Preciso provar que o dono foi descuidado?",
-      "Não. É o responsável pelo animal que só se livra se provar culpa da vítima ou força maior (Código Civil, art. 936)."
+      "Não. É o responsável que só se livra se provar culpa da vítima ou força maior (Código Civil, art. 936)."
     ],
     [
       "O que pode ser cobrado?",
-      "As despesas do tratamento, os lucros cessantes até o fim da recuperação e outros prejuízos provados (Código Civil, art. 949)."
+      "O tratamento, os ganhos perdidos até a recuperação e outros prejuízos provados (Código Civil, art. 949)."
+    ],
+    [
+      "Qual é o prazo para cobrar?",
+      "Em regra, 3 anos (Código Civil, art. 206, § 3º, V)."
     ]
   ],
   "base": [

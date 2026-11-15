@@ -4,12 +4,12 @@
   "data": "2026-11-21",
   "google": 75,
   "titulo": "Trabalhei no domingo ou no feriado. Recebo em dobro?",
-  "resumo": "O trabalho em domingo ou feriado sem folga compensatória deve ser pago em dobro.",
+  "resumo": "Quem trabalha no domingo ou no feriado deve ganhar uma folga em outro dia. Se a empresa não der a folga, o dia trabalhado deve ser pago em dobro.",
   "destaque": "Sim, se não tiver folga em outro dia.",
   "pontos": [
     [
       "calendario",
-      "O descanso semanal não pode passar do 7º dia seguido de trabalho."
+      "A folga semanal não pode passar do 7º dia seguido de trabalho."
     ],
     [
       "livro",
@@ -21,23 +21,23 @@
     ]
   ],
   "exemplo": "Diego trabalha em um posto de combustível e, nas escalas de fim de ano, trabalhou no Natal e em dois domingos seguidos, sem folga em outro dia da semana.",
-  "corpo": "<p>Todo empregado tem direito a um descanso semanal remunerado, de preferência aos domingos, e a não trabalhar nos feriados. Quando a atividade exige trabalho nesses dias, a lei prevê uma compensação.</p>\n<h2>O que a lei prevê</h2>\n<p>A Lei 605/1949 garante o repouso semanal remunerado e os feriados. Nas atividades em que o trabalho não pode parar, a empresa deve dar outro dia de folga. Se não der, deve pagar o dia em dobro.</p>\n<ul>\n<li>A Súmula 146 do TST confirma que o trabalho em domingo ou feriado não compensado é pago em dobro, sem prejuízo do descanso semanal.</li>\n<li>Segundo o TST, o descanso semanal concedido depois do 7º dia seguido de trabalho é irregular e também deve ser pago em dobro.</li>\n<li>Comércio, saúde e outras atividades têm regras próprias nas convenções coletivas.</li>\n</ul>\n<h2>O que muda em 16/12/2026?</h2>\n<p>A Emenda Constitucional 141/2026 aumentou o repouso semanal remunerado para 2 dias, um deles de preferência aos domingos, a partir de 16/12/2026. Convenção ou acordo coletivo pode fazer uma compensação que garanta, na média, 2 dias de folga por semana dentro do mês, desde que pelo menos 1 folga caia dentro de cada semana de trabalho.</p>\n<h2>Na prática</h2>\n<p>Confira as escalas e o cartão de ponto: eles mostram os domingos e feriados trabalhados e as folgas dadas. Se não houve folga compensatória, as diferenças podem ser cobradas dos últimos 5 anos.</p>",
+  "corpo": "<h2>O que a lei garante</h2><p>Todo empregado tem direito a uma folga semanal remunerada, de preferência no domingo, e a não trabalhar nos feriados (Lei 605/1949). Onde o trabalho não pode parar, a empresa deve dar outro dia de folga. Se não der, paga o dia em dobro.</p><ul><li>O TST confirma: domingo ou feriado trabalhado sem folga em outro dia é pago em dobro, além da folga semanal (Súmula 146).</li><li>A folga dada depois do 7º dia seguido de trabalho é irregular e também deve ser paga em dobro.</li><li>Comércio, saúde e outras atividades têm regras próprias nas convenções coletivas.</li></ul><h2>O que muda em 16/12/2026</h2><p>A Emenda Constitucional 141/2026 aumentou a folga semanal remunerada para 2 dias, um deles de preferência no domingo. Convenção ou acordo coletivo pode organizar as folgas para garantir, na média do mês, 2 dias por semana, desde que pelo menos 1 folga caia em cada semana de trabalho.</p><h2>O erro que enfraquece o caso</h2><p>Deixar o tempo passar e não guardar as escalas. As diferenças podem ser cobradas dos últimos 5 anos, e o que não for cobrado a tempo se perde. Sem escala ou cartão de ponto, fica difícil mostrar quais domingos e feriados foram trabalhados.</p><h2>O que fazer agora</h2><p>Tire foto das escalas e peça cópia dos cartões de ponto. Marque os domingos e feriados trabalhados e as folgas que vieram depois. Com essa lista, um advogado calcula o que há para receber.</p>",
   "faq": [
     [
       "Trabalhar no domingo sempre dá direito ao dobro?",
-      "Não. Só quando não há folga compensatória em outro dia da semana (Lei 605/1949, art. 9º; Súmula 146 do TST)."
+      "Não. Só quando não há folga em outro dia da semana (Lei 605/1949, art. 9º; Súmula 146 do TST)."
     ],
     [
       "A folga pode demorar mais de uma semana?",
-      "Não. O descanso concedido depois do 7º dia seguido de trabalho é irregular e deve ser pago em dobro (OJ 410 da SDI-1 do TST)."
+      "Não. A folga dada depois do 7º dia seguido de trabalho é irregular e deve ser paga em dobro (OJ 410 da SDI-1 do TST)."
     ],
     [
       "A convenção coletiva pode mudar a regra?",
-      "Pode trazer regras próprias para certas categorias, como o comércio, que devem ser conferidas caso a caso."
+      "Pode trazer regras próprias para certas categorias, como o comércio. É preciso conferir a convenção da sua categoria."
     ],
     [
-      "O descanso semanal vai ser de 2 dias?",
-      "Sim. A partir de 16/12/2026, a Constituição garante 2 dias de repouso semanal remunerado, um deles de preferência no domingo (Emenda Constitucional 141/2026)."
+      "A folga semanal vai ser de 2 dias?",
+      "Sim. A partir de 16/12/2026, a Constituição garante 2 dias de folga semanal remunerada, um deles de preferência no domingo (Emenda Constitucional 141/2026)."
     ]
   ],
   "base": [

@@ -6,40 +6,44 @@
   "serie": "grandes-causas",
   "ordem": 12,
   "titulo": "Assédio sexual no trabalho gera indenização e rescisão indireta?",
-  "destaque": "Sim, e a empresa responde.",
-  "resumo": "O assédio sexual no trabalho é crime e permite à vítima encerrar o contrato por falta grave da empresa, com todos os direitos, além de pedir indenização por dano moral.",
+  "destaque": "Sim, as duas coisas, e a empresa paga.",
+  "resumo": "Assédio sexual no trabalho é crime. A vítima pode sair da empresa com todos os direitos de quem é demitido sem justa causa e ainda pedir indenização por dano moral.",
   "pontos": [
     [
       "alerta",
-      "O assédio sexual por superior é crime previsto no Código Penal."
+      "Assédio sexual praticado por superior é crime (Código Penal)."
     ],
     [
       "documento",
-      "A vítima pode pedir a rescisão indireta, com todos os direitos."
+      "A vítima pode encerrar o contrato com todos os direitos (rescisão indireta)."
     ],
     [
       "balanca",
-      "A empresa responde pelos atos dos seus empregados e chefes."
+      "A empresa responde pelos atos dos seus chefes e empregados."
     ],
     [
       "escudo",
-      "Mensagens, testemunhas e registros internos ajudam a provar."
+      "Mensagens, testemunhas e denúncias internas ajudam a provar."
     ]
   ],
   "exemplo": "Tatiane recebia mensagens com convites e comentários sobre o seu corpo enviadas pelo gerente, que dizia que a promoção dela dependia de sair com ele. Ela recusou e passou a ser excluída das reuniões.",
-  "corpo": "<p>O assédio sexual no trabalho costuma acontecer longe de testemunhas e deixa a vítima com medo de perder o emprego. A lei oferece caminhos de proteção na esfera penal e na trabalhista.</p>\n<h2>O que a lei prevê</h2>\n<ul>\n<li>Constranger alguém para obter vantagem sexual, valendo-se da condição de superior hierárquico, é crime (Código Penal, art. 216-A).</li>\n<li>O empregado pode considerar rescindido o contrato quando o empregador ou seus prepostos praticam contra ele ato lesivo da honra e boa fama, ou o tratam com rigor excessivo (CLT, art. 483, \"b\" e \"e\"). É a rescisão indireta, com as mesmas verbas da dispensa sem justa causa.</li>\n<li>O empregador responde pelos atos de seus empregados no exercício do trabalho (Código Civil, art. 932, III).</li>\n<li>A Lei 14.457/2022 obriga as empresas com CIPA a adotar regras de prevenção e canais de denúncia de assédio sexual.</li>\n</ul>\n<h2>Na prática</h2>\n<ul>\n<li>Na Justiça do Trabalho, a palavra da vítima tem peso especial nesses casos, sobretudo quando confirmada por outros indícios.</li>\n<li>Prints de mensagens, e-mails, áudios, testemunhas, registros no canal de denúncia e atendimentos médicos ou psicológicos ajudam a provar.</li>\n<li>A indenização por dano moral considera a gravidade da conduta, a duração e as consequências na vida da vítima.</li>\n<li>O prazo para cobrar é de 2 anos após a saída, alcançando os últimos 5 anos (Constituição, art. 7º, XXIX).</li>\n</ul>",
+  "corpo": "<h2>O que a lei garante</h2><p>Usar a posição de chefe para constranger alguém em busca de vantagem sexual é crime (Código Penal, art. 216-A). No trabalho, a vítima pode considerar o contrato encerrado por culpa da empresa quando é atingida na honra ou tratada com rigor excessivo (rescisão indireta, CLT, art. 483, \"b\" e \"e\"). Ela recebe as mesmas verbas de quem é demitido sem justa causa.</p><p>A empresa responde pelo que seus empregados e chefes fazem no trabalho (Código Civil, art. 932, III). A Lei 14.457/2022 obriga as empresas com CIPA a ter regras de prevenção e canal de denúncia de assédio sexual.</p><h2>Na prática</h2><ul><li>Como o assédio costuma acontecer longe de testemunhas, a palavra da vítima tem peso especial, sobretudo quando confirmada por outros indícios.</li><li>A indenização considera a gravidade da conduta, quanto tempo durou e as consequências na vida da vítima.</li></ul><h2>O erro que enfraquece o caso</h2><p>Apagar as mensagens por vergonha, não contar a ninguém e deixar o tempo passar. Prints, e-mails, áudios, registros no canal de denúncia e atendimentos médicos ou psicológicos são o que sustenta o caso. O prazo para cobrar é de 2 anos após a saída da empresa, alcançando os últimos 5 anos (Constituição, art. 7º, XXIX).</p><h2>O que fazer agora</h2><p>Salve as provas fora do celular de trabalho e anote datas e quem pode confirmar o que viu ou ouviu. Com esse material, a primeira conversa já define se o caminho é a rescisão indireta, a indenização ou as duas.</p>",
   "faq": [
     [
-      "Assédio sexual vindo de colega, e não de chefe, também gera indenização?",
-      "Pode gerar. A empresa responde pelos atos de seus empregados no trabalho (Código Civil, art. 932, III) e tem o dever de prevenir."
+      "Assédio vindo de colega, e não de chefe, também gera indenização?",
+      "Pode gerar. A empresa responde pelos atos dos seus empregados no trabalho (Código Civil, art. 932, III) e tem o dever de prevenir."
     ],
     [
       "Posso sair da empresa e receber tudo?",
-      "Sim, pela rescisão indireta, com as verbas da dispensa sem justa causa (CLT, art. 483)."
+      "Sim, pela rescisão indireta, com as verbas de quem é demitido sem justa causa (CLT, art. 483)."
     ],
     [
       "Preciso registrar boletim de ocorrência?",
-      "Não é obrigatório para a ação trabalhista, mas pode reforçar a prova e é o caminho para a apuração do crime."
+      "Não é obrigatório para a ação trabalhista. Mas reforça a prova e é o caminho para apurar o crime."
+    ],
+    [
+      "E se ninguém viu?",
+      "A palavra da vítima tem peso especial nesses casos, sobretudo com mensagens, áudios ou atendimentos médicos que a confirmem."
     ]
   ],
   "base": [

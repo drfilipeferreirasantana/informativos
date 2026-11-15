@@ -4,16 +4,16 @@
   "data": "2026-11-27",
   "google": 79,
   "titulo": "Recebi da Samarco. Posso entrar na ação de Londres?",
-  "resumo": "Para receber as indenizações do Novo Acordo, o atingido assina um termo de quitação, que significa desistir de ações no Brasil e no exterior. A Justiça inglesa entendeu que quem já recebeu com quitação integral no Brasil não segue na ação contra a BHP em Londres.",
-  "destaque": "Em regra, não, por causa da quitação.",
+  "resumo": "Para receber as indenizações do Novo Acordo, o atingido assina um termo de quitação: com ele, desiste de ações no Brasil e no exterior. Segundo o escritório que conduz a ação contra a BHP em Londres, a Justiça inglesa entendeu que quem já recebeu com quitação integral no Brasil não segue no processo.",
+  "destaque": "Em regra, não, se já deu quitação.",
   "pontos": [
     [
       "documento",
-      "O termo de quitação é exigido para receber a indenização."
+      "Sem assinar o termo de quitação, não se recebe a indenização do acordo."
     ],
     [
       "balanca",
-      "A quitação implica desistir de ações no Brasil e no exterior, se houver."
+      "Quem assina desiste de ações no Brasil e no exterior, se houver."
     ],
     [
       "calendario",
@@ -21,11 +21,11 @@
     ]
   ],
   "exemplo": "Carlos fazia parte da ação em Londres e, em 2025, aceitou os R$ 35 mil do PID. Agora ele quer saber se ainda pode receber o que for decidido na Inglaterra.",
-  "corpo": "<p>Muitos atingidos participam ao mesmo tempo dos programas do acordo brasileiro e da ação coletiva aberta na Inglaterra contra a BHP, uma das donas da Samarco. As duas coisas, porém, se cruzam.</p>\n<h2>O que diz o acordo</h2>\n<p>Segundo a Samarco, para receber a indenização é necessária a assinatura do Termo de Quitação, que configura a desistência de ação judicial no Brasil e no exterior. O acordo também exclui das indenizações quem propôs ação, no Brasil ou fora dele, depois de 26 de outubro de 2021.</p>\n<h2>E a ação de Londres?</h2>\n<ul>\n<li>A Justiça inglesa reconheceu a responsabilidade da BHP pelo rompimento da barragem.</li>\n<li>A fase que vai definir os valores das indenizações está prevista para abril de 2027.</li>\n<li>Segundo o escritório que conduz a ação, a Justiça inglesa entendeu que quem firmou acordo com quitação integral no Brasil e já foi indenizado não pode seguir no processo.</li>\n</ul>\n<h2>Na prática</h2>\n<p>Antes de assinar qualquer quitação ou de decidir entre um caminho e outro, é preciso conferir o que já foi assinado, quais danos foram indenizados e em que fase está cada processo. Guarde cópia de todos os termos e propostas recebidos.</p>",
+  "corpo": "<p>Muitos atingidos participam ao mesmo tempo dos programas do acordo brasileiro e da ação coletiva na Inglaterra contra a BHP, uma das donas da Samarco. Os dois caminhos se cruzam, e uma assinatura num deles pode fechar o outro.</p><h2>O que diz o acordo</h2><p>Segundo a Samarco, para receber a indenização é preciso assinar o Termo de Quitação, que significa desistir de ação judicial no Brasil e no exterior. O acordo também exclui das indenizações quem entrou com ação, no Brasil ou fora dele, depois de 26 de outubro de 2021.</p><h2>E a ação de Londres?</h2><ul><li>A Justiça inglesa reconheceu a responsabilidade da BHP pelo rompimento da barragem.</li><li>A fase que vai definir os valores está prevista para abril de 2027.</li><li>Segundo o escritório que conduz a ação, a Justiça inglesa entendeu que quem fez acordo com quitação integral no Brasil e já foi indenizado não pode seguir no processo.</li></ul><h2>O erro que não tem volta</h2><p>Assinar a quitação sem saber o que ela encerra. Depois de assinada e paga, a escolha está feita.</p><h2>O que fazer agora</h2><p>Antes de assinar qualquer termo ou escolher um caminho, confira o que já foi assinado, quais danos foram indenizados e em que fase está cada processo. Guarde cópia de todos os termos e propostas e leve esse material à primeira conversa.</p>",
   "faq": [
     [
       "O que o termo de quitação significa?",
-      "Que o atingido dá por encerrada a reparação daqueles danos e desiste de ações sobre eles no Brasil e no exterior, conforme informa a Samarco."
+      "Que o atingido dá por encerrada a reparação daqueles danos e desiste de ações sobre eles no Brasil e no exterior, segundo a Samarco."
     ],
     [
       "Quem recebeu no Brasil continua na ação de Londres?",

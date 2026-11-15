@@ -3,8 +3,8 @@
   "area": "sucessoes",
   "data": "2026-12-31",
   "titulo": "Qual é o prazo para abrir o inventário? E se atrasar?",
-  "destaque": "Dois meses a partir da morte.",
-  "resumo": "A lei manda abrir o inventário em até dois meses da morte. O atraso não faz ninguém perder a herança, mas pode gerar multa no imposto estadual e deixar os bens parados.",
+  "destaque": "2 meses; atraso não tira a herança.",
+  "resumo": "A lei manda abrir o inventário em até dois meses da morte. O atraso não faz ninguém perder a herança, mas pode gerar multa no imposto estadual e deixar os bens travados.",
   "pontos": [
     [
       "calendario",
@@ -24,19 +24,23 @@
     ]
   ],
   "exemplo": "O pai de Rodrigo morreu há um ano e meio e deixou uma casa e um carro. Como a família não tinha pressa de vender nada, ninguém abriu o inventário. Agora Rodrigo recebeu uma proposta pela casa e não sabe se pode vendê-la.",
-  "corpo": "<p>Depois de uma perda, é natural que a família adie a parte burocrática. Mas o inventário tem prazo, e o atraso pode custar caro.</p>\n<h2>O que a lei prevê</h2>\n<ul>\n<li>O inventário deve ser aberto em até dois meses a contar da morte e terminar nos doze meses seguintes. O juiz pode prorrogar esses prazos (Código de Processo Civil, art. 611).</li>\n<li>Os estados podem cobrar multa pelo atraso no início ou no fim do inventário. O STF considera essa multa válida (Súmula 542).</li>\n<li>Enquanto o inventário não é aberto, quem está na posse dos bens os administra provisoriamente (CPC, arts. 613 e 614).</li>\n</ul>\n<h2>Na prática</h2>\n<ul>\n<li>O atraso não faz o herdeiro perder o direito à herança.</li>\n<li>A multa, quando prevista, é calculada sobre o imposto da herança (ITCMD) e varia de estado para estado.</li>\n<li>Sem inventário, os imóveis continuam no nome de quem faleceu. Vender, financiar ou regularizar o bem fica muito mais difícil.</li>\n<li>Contas bancárias e veículos também ficam bloqueados até a partilha ou uma autorização judicial.</li>\n<li>Se houver acordo entre os herdeiros, o inventário pode ser feito em cartório, o que costuma ser mais rápido.</li>\n</ul>",
+  "corpo": "<p>Depois de uma perda, é natural que a família adie a parte burocrática. Mas o inventário tem prazo, e o atraso pode custar caro.</p>\n<h2>O que a lei prevê</h2>\n<ul>\n<li>O inventário deve ser aberto em até dois meses da morte e terminar nos doze meses seguintes. O juiz pode prorrogar esses prazos (Código de Processo Civil, art. 611).</li>\n<li>Os estados podem cobrar multa pelo atraso no início ou no fim do inventário. O STF (Supremo Tribunal Federal) considera essa multa válida (Súmula 542).</li>\n<li>Enquanto o inventário não é aberto, quem está com os bens cuida deles provisoriamente (Código de Processo Civil, arts. 613 e 614).</li>\n</ul>\n<h2>Na prática</h2>\n<ul>\n<li>O atraso não faz o herdeiro perder o direito à herança.</li>\n<li>A multa, quando existe, é calculada sobre o imposto da herança (ITCMD) e varia de estado para estado.</li>\n<li>Contas bancárias e veículos também ficam travados até a partilha ou uma autorização do juiz.</li>\n</ul>\n<h2>O erro que custa caro</h2>\n<p>Deixar o tempo passar porque ninguém tem pressa de vender. Sem inventário, os imóveis continuam no nome de quem faleceu: vender, financiar ou regularizar fica muito mais difícil, e o atraso pode gerar multa.</p>\n<h2>O que fazer agora</h2>\n<p>Reúna a certidão de óbito e a lista dos bens deixados e converse com os demais herdeiros. Se todos estiverem de acordo, o inventário pode ser feito em cartório, o que costuma ser mais rápido.</p>",
   "faq": [
     [
       "Perco a herança se não abrir o inventário no prazo?",
-      "Não. O atraso pode gerar multa no imposto, mas não tira o direito à herança (CPC, art. 611; STF, Súmula 542)."
+      "Não. O atraso pode gerar multa no imposto, mas não tira o direito à herança (Código de Processo Civil, art. 611; STF, Súmula 542)."
     ],
     [
       "Quem pode abrir o inventário?",
-      "Quem está na posse e administração dos bens, além do cônjuge ou companheiro, herdeiros, credores e outros interessados (CPC, arts. 615 e 616)."
+      "Quem está com os bens, o cônjuge ou companheiro, os herdeiros, os credores e outros interessados (Código de Processo Civil, arts. 615 e 616)."
     ],
     [
       "Dá para vender um imóvel antes do inventário?",
-      "Em regra, a venda depende do inventário ou de autorização judicial, porque o imóvel continua no nome de quem faleceu."
+      "Em regra, não. A venda depende do inventário ou de autorização do juiz, porque o imóvel continua no nome de quem faleceu."
+    ],
+    [
+      "O prazo de 12 meses pode ser prorrogado?",
+      "Sim. O juiz pode prorrogar os prazos de abertura e de conclusão (Código de Processo Civil, art. 611)."
     ]
   ],
   "base": [

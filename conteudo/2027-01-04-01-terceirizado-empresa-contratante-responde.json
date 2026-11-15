@@ -6,12 +6,12 @@
   "serie": "grandes-causas",
   "ordem": 13,
   "titulo": "Terceirizado sem receber: a empresa contratante também responde?",
-  "destaque": "Sim, de forma subsidiária.",
-  "resumo": "Se a empresa terceirizada não paga os direitos, a empresa que contratou o serviço responde pelas dívidas do período em que o trabalhador prestou serviços a ela.",
+  "destaque": "Sim, se a terceirizada não pagar.",
+  "resumo": "Se a empresa terceirizada não paga os direitos do trabalhador, a empresa que contratou o serviço paga no lugar dela, pelo período em que recebeu esse trabalho.",
   "pontos": [
     [
       "predio",
-      "A tomadora responde se a terceirizada não pagar."
+      "A contratante paga se a terceirizada não pagar."
     ],
     [
       "calendario",
@@ -19,7 +19,7 @@
     ],
     [
       "documento",
-      "As duas empresas devem ser incluídas na ação desde o início."
+      "As duas empresas devem entrar na ação desde o início."
     ],
     [
       "alerta",
@@ -27,11 +27,11 @@
     ]
   ],
   "exemplo": "Josiane fazia a limpeza de um hospital particular, contratada por uma empresa terceirizada. A terceirizada fechou as portas sem pagar a rescisão nem o FGTS dos últimos meses.",
-  "corpo": "<p>Na terceirização, o trabalhador é contratado por uma empresa e presta serviços para outra. Quando a contratada desaparece ou não paga, a dúvida é se a empresa que recebeu o serviço também tem obrigação.</p>\n<h2>O que a lei prevê</h2>\n<ul>\n<li>A empresa contratante é subsidiariamente responsável pelas obrigações trabalhistas do período em que o serviço foi prestado (Lei 6.019/1974, art. 5º-A, § 5º).</li>\n<li>Responsabilidade subsidiária significa que a tomadora paga se a empresa contratada não pagar.</li>\n<li>A contratante deve garantir condições de segurança, higiene e saúde quando o trabalho é feito nas suas dependências (art. 5º-A, § 3º).</li>\n<li>O TST tem o mesmo entendimento, desde que a tomadora tenha participado do processo (Súmula 331, IV).</li>\n</ul>\n<h2>Na prática</h2>\n<ul>\n<li>A tomadora precisa ser incluída na ação desde o início. Não basta procurá-la só na hora de receber.</li>\n<li>Quando a tomadora é órgão público, ela só responde se ficar provado que falhou na fiscalização do contrato. Segundo o STF, essa prova cabe a quem pede (Temas 246 e 1.118).</li>\n<li>Crachás, uniformes, escalas e testemunhas ajudam a mostrar onde e para quem o serviço era prestado.</li>\n<li>O prazo para cobrar é de 2 anos após a saída, alcançando os últimos 5 anos (Constituição, art. 7º, XXIX).</li>\n</ul>",
+  "corpo": "<h2>O que a lei garante</h2><p>Na terceirização, o trabalhador é contratado por uma empresa e trabalha para outra. Se a terceirizada fecha ou não paga, a empresa que recebeu o serviço (tomadora) paga as dívidas trabalhistas do período em que o serviço foi prestado a ela (responsabilidade subsidiária, Lei 6.019/1974, art. 5º-A, § 5º). O TST tem o mesmo entendimento, desde que a tomadora tenha participado do processo (Súmula 331, IV).</p><p>A contratante também deve garantir segurança, higiene e saúde quando o trabalho é feito no seu local (art. 5º-A, § 3º).</p><h2>Quando o serviço é para órgão público</h2><p>A prefeitura, o estado ou outro órgão público só paga se ficar provado que falhou na fiscalização do contrato. Segundo o STF, essa prova cabe a quem pede (Temas 246 e 1.118).</p><h2>O erro que enfraquece o caso</h2><p>Processar só a terceirizada e deixar para procurar a tomadora na hora de receber. Ela precisa estar na ação desde o início. Também pesa não guardar crachá, uniforme e escalas, que mostram onde e para quem o serviço era feito. O prazo para cobrar é de 2 anos após a saída da empresa, alcançando os últimos 5 anos (Constituição, art. 7º, XXIX).</p><h2>O que fazer agora</h2><p>Reúna carteira de trabalho, contracheques, crachá, escalas e o nome de colegas que trabalhavam no mesmo local. Com isso, as duas empresas já entram no pedido desde o começo.</p>",
   "faq": [
     [
       "A empresa onde eu trabalhava como terceirizado paga a minha rescisão?",
-      "Se a terceirizada não pagar, a contratante responde pelo período em que você trabalhou para ela (Lei 6.019/1974, art. 5º-A, § 5º)."
+      "Se a terceirizada não pagar, a contratante paga pelo período em que você trabalhou para ela (Lei 6.019/1974, art. 5º-A, § 5º)."
     ],
     [
       "Preciso incluir as duas empresas na ação?",
@@ -39,7 +39,7 @@
     ],
     [
       "E se o serviço era para a prefeitura?",
-      "O ente público só responde se ficar provada falha na fiscalização do contrato (STF, Temas 246 e 1.118)."
+      "O órgão público só paga se ficar provada falha na fiscalização do contrato (STF, Temas 246 e 1.118)."
     ]
   ],
   "base": [

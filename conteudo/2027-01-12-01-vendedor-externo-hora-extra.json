@@ -6,8 +6,8 @@
   "serie": "grandes-causas",
   "ordem": 21,
   "titulo": "Vendedor externo tem direito a hora extra?",
-  "destaque": "Sim, se a empresa podia controlar.",
-  "resumo": "O trabalho externo só fica sem controle de jornada quando é impossível fiscalizar o horário. Se a empresa acompanhava a rotina por roteiro, aplicativo ou GPS, as horas extras são devidas.",
+  "destaque": "Sim, se a empresa podia ver o horário.",
+  "resumo": "Trabalhar na rua não tira, sozinho, o direito à hora extra. Se a empresa acompanhava a rotina por roteiro, aplicativo ou GPS, as horas a mais devem ser pagas.",
   "pontos": [
     [
       "carrinho",
@@ -27,11 +27,11 @@
     ]
   ],
   "exemplo": "Leandro é vendedor externo de uma distribuidora de alimentos. Recebe o roteiro de visitas pelo aplicativo, tem o celular rastreado, precisa começar às 7h e só termina depois de lançar os pedidos, à noite.",
-  "corpo": "<p>Vendedores, representantes, técnicos e motoristas que trabalham na rua costumam ouvir que, por serem externos, não têm hora extra. A lei é mais restrita do que isso.</p>\n<h2>O que a lei prevê</h2>\n<ul>\n<li>Ficam fora do controle de jornada os empregados que exercem atividade externa incompatível com a fixação de horário. Essa condição deve estar anotada na carteira e no registro de empregados (CLT, art. 62, I).</li>\n<li>O que importa é a impossibilidade de controle. Se a empresa podia acompanhar o horário, a exceção não se aplica, e valem a jornada de 8 horas e o adicional de pelo menos 50% (Constituição, art. 7º, XIII e XVI).</li>\n</ul>\n<h2>Na prática</h2>\n<ul>\n<li>Roteiros de visitas, aplicativos de pedidos, rastreamento por GPS, reuniões obrigatórias no início ou no fim do dia e prestação de contas por mensagem mostram que havia controle.</li>\n<li>A Justiça do Trabalho costuma reconhecer as horas extras quando a empresa tinha meios de saber a jornada, mesmo sem cartão de ponto.</li>\n<li>As horas extras refletem em descanso semanal, férias, 13º salário e FGTS.</li>\n<li>O prazo para cobrar é de 2 anos após a saída, alcançando os últimos 5 anos (Constituição, art. 7º, XXIX).</li>\n</ul>",
+  "corpo": "<h2>O que a lei garante</h2><p>Vendedores, representantes, técnicos e motoristas que trabalham na rua muitas vezes ouvem que, por serem externos, não têm hora extra. A lei é mais restrita: só fica sem controle de jornada quem faz trabalho externo em que é impossível fixar horário, e essa condição deve estar anotada na carteira e no registro de empregados (CLT, art. 62, I).</p><p>Se a empresa podia acompanhar o horário, a exceção não se aplica. Valem a jornada de 8 horas e o adicional de pelo menos 50% sobre a hora extra (Constituição, art. 7º, XIII e XVI).</p><h2>Na prática</h2><ul><li>Roteiros de visitas, aplicativos de pedidos, rastreamento por GPS, reuniões obrigatórias no início ou no fim do dia e prestação de contas por mensagem mostram que havia controle.</li><li>A Justiça do Trabalho costuma reconhecer as horas extras quando a empresa tinha meios de saber a jornada, mesmo sem cartão de ponto.</li><li>As horas extras refletem em descanso semanal, férias, 13º salário e FGTS.</li></ul><h2>O erro que enfraquece o caso</h2><p>Perder o histórico do aplicativo e as mensagens quando devolve o celular da empresa. Sem esses registros, fica mais difícil mostrar a jornada real. O prazo para cobrar é de 2 anos após a saída da empresa, alcançando os últimos 5 anos (Constituição, art. 7º, XXIX).</p><h2>O que fazer agora</h2><p>Guarde prints dos roteiros, dos horários de login no aplicativo e das mensagens de cobrança, e anote o horário real de início e fim. Leve esse material à primeira conversa.</p>",
   "faq": [
     [
       "Todo trabalhador externo fica sem hora extra?",
-      "Não. Só quando a atividade é incompatível com o controle de horário (CLT, art. 62, I)."
+      "Não. Só quando é impossível controlar o horário (CLT, art. 62, I)."
     ],
     [
       "Como provo a minha jornada sem cartão de ponto?",

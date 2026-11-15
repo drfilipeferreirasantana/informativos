@@ -4,12 +4,12 @@
   "data": "2026-11-26",
   "google": 78,
   "titulo": "R$ 35 mil ou R$ 95 mil: quem recebeu quanto da Samarco?",
-  "resumo": "O Novo Acordo do Rio Doce criou várias portas de indenização, com valores diferentes. O PID paga R$ 35 mil; pescadores profissionais e agricultores familiares da lista da União tiveram R$ 95 mil; e há regras próprias para o Dano Água e para quem tinha atividade formal.",
-  "destaque": "Depende da porta de indenização.",
+  "resumo": "O Novo Acordo do Rio Doce separou os atingidos em grupos, cada um com regras e valores próprios. O Programa Indenizatório Definitivo (PID) paga R$ 35 mil; pescadores profissionais e agricultores familiares da lista da União tiveram R$ 95 mil; e o Dano Água e quem tinha atividade formal seguem regras próprias.",
+  "destaque": "Depende do grupo: R$ 35 mil ou 95 mil.",
   "pontos": [
     [
       "carteira",
-      "PID: R$ 35 mil por pessoa ou pequena empresa elegível."
+      "PID: R$ 35 mil por pessoa ou pequena empresa que se enquadra nas regras."
     ],
     [
       "maleta",
@@ -17,23 +17,27 @@
     ],
     [
       "alerta",
-      "As indenizações não se somam: quem recebe em uma porta não recebe em outra."
+      "Os valores não se somam: quem recebe por um caminho não recebe por outro."
     ]
   ],
   "exemplo": "Dona Célia é agricultora familiar e o vizinho dela, comerciante. Os dois foram atingidos, mas receberam propostas de valores diferentes e não entendem o motivo.",
-  "corpo": "<p>O acordo dividiu os atingidos em grupos, cada um com sua porta de indenização, regras de prova e valores próprios. Por isso, pessoas da mesma comunidade podem ter recebido quantias diferentes.</p>\n<h2>As principais portas</h2>\n<ul>\n<li><b>PID (Programa Indenizatório Definitivo):</b> R$ 35 mil em parcela única, para pessoas físicas e microempresas, MEI e empresas de pequeno porte elegíveis. Fechou para novos pedidos em 15/08/2026.</li>\n<li><b>Sistema Agro e Pesca:</b> R$ 95 mil para pescadores profissionais e agricultores familiares que constavam de lista da União. Ficou aberto de 5 de abril a 4 de junho de 2025.</li>\n<li><b>Sistema PIM-AFE:</b> para quem tinha atividade profissional formal e documentos para comprovar os danos. Encerrou o ingresso em 5 de abril de 2025.</li>\n<li><b>Dano Água:</b> proposta fixa de R$ 13.018,00 apenas para quem tinha ação judicial individual proposta até 26/10/2021 e morava em determinados municípios de Minas Gerais.</li>\n</ul>\n<h2>Na prática</h2>\n<p>Segundo a Samarco, essas indenizações não são cumulativas: quem recebe em uma porta não recebe em outra, salvo exceção prevista para o Dano Água. Em todas, era obrigatório ter Defensoria Pública ou advogado. Quando há advogado particular, os honorários previstos no acordo são pagos pela Samarco, sem desconto no valor do atingido.</p>",
+  "corpo": "<p>O acordo dividiu os atingidos em grupos. Cada grupo tem seu caminho de indenização, suas exigências de prova e seu valor. Por isso vizinhos da mesma comunidade receberam quantias diferentes.</p><h2>Os principais caminhos</h2><ul><li><b>PID (Programa Indenizatório Definitivo):</b> R$ 35 mil de uma vez, para pessoas e para microempresas, microempreendedores individuais (MEI) e empresas de pequeno porte que se enquadram nas regras. Fechou para novos pedidos em 15/08/2026.</li><li><b>Sistema Agro e Pesca:</b> R$ 95 mil para pescadores profissionais e agricultores familiares que constavam de lista da União. Ficou aberto de 5 de abril a 4 de junho de 2025.</li><li><b>Sistema PIM-AFE:</b> para quem tinha atividade profissional formal e documentos para provar os danos. Fechou a entrada em 5 de abril de 2025.</li><li><b>Dano Água:</b> proposta fixa de R$ 13.018,00, só para quem tinha ação judicial individual proposta até 26/10/2021 e morava em determinados municípios de Minas Gerais.</li></ul><h2>O que mais confunde</h2><p>Segundo a Samarco, os valores não se somam: quem recebe por um caminho não recebe por outro, com exceção prevista para o Dano Água. Em todos era obrigatório ter Defensoria Pública ou advogado. Quando há advogado particular, os honorários previstos no acordo são pagos pela Samarco, sem desconto no valor do atingido.</p><h2>O que fazer agora</h2><p>Antes de concluir que recebeu menos do que devia, confira em qual grupo o seu pedido entrou. Leve a proposta recebida e os documentos da sua atividade à Defensoria Pública ou a um advogado.</p>",
   "faq": [
     [
       "Quem tinha direito a R$ 95 mil?",
-      "Pescadores profissionais e agricultores familiares elegíveis, com base em lista da União, que ingressaram no sistema entre 5 de abril e 4 de junho de 2025."
+      "Pescadores profissionais e agricultores familiares que constavam da lista da União e entraram no sistema entre 5 de abril e 4 de junho de 2025."
     ],
     [
       "Posso receber em mais de um programa?",
-      "Em regra, não. As indenizações não são cumulativas; a Samarco ressalva apenas casos de quitação exclusiva do Dano Água, que não impedem o PID."
+      "Em regra, não. Os valores não se somam; a Samarco só ressalva a quitação exclusiva do Dano Água, que não impede o PID."
     ],
     [
       "O PID tem desconto de Imposto de Renda?",
-      "Segundo a Samarco, não, salvo casos de empresas encerradas ou de requerentes falecidos com inventário extrajudicial em que o valor não esteja na partilha."
+      "Segundo a Samarco, não, salvo empresas encerradas ou pessoas falecidas com inventário em cartório em que o valor não esteja na partilha."
+    ],
+    [
+      "Preciso pagar o advogado do meu bolso?",
+      "Não pelos honorários previstos no acordo: eles são pagos pela Samarco, sem desconto no valor do atingido."
     ]
   ],
   "base": [

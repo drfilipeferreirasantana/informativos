@@ -3,16 +3,16 @@
   "area": "consumidor",
   "data": "2026-11-17",
   "titulo": "Fui multado por violação do hidrômetro sem prova: posso contestar?",
-  "resumo": "Sim. A acusação de fraude no medidor precisa ser apurada com direito de defesa. Uma vistoria feita só pelo prestador, sem ouvir o consumidor, é frágil para justificar multa e cobrança.",
-  "destaque": "Sim, com direito de defesa.",
+  "resumo": "Sim. Acusar o morador de mexer no hidrômetro exige prova e direito de defesa. Vistoria feita só pela empresa, sem chamar o consumidor, é base fraca para multa e cobrança.",
+  "destaque": "Sim. Sem defesa, a multa é frágil.",
   "pontos": [
     [
       "escudo",
-      "A Constituição garante contraditório e ampla defesa também em processo administrativo."
+      "A Constituição garante o direito de se defender, também fora da Justiça."
     ],
     [
       "balanca",
-      "O juiz pode inverter o ônus da prova a favor do consumidor."
+      "O juiz pode passar para a empresa o dever de provar a fraude."
     ],
     [
       "documento",
@@ -20,19 +20,23 @@
     ]
   ],
   "exemplo": "Joana recebeu uma conta com multa por \"violação do hidrômetro\". Ninguém a chamou para acompanhar a vistoria, ela não recebeu cópia de nenhum documento e o consumo da casa sempre foi o mesmo.",
-  "corpo": "<h2>O que diz a lei</h2><p>A Lei do Saneamento permite ao prestador interromper o serviço em caso de manipulação indevida do medidor. Mas a acusação precisa ser provada. A Constituição garante contraditório e ampla defesa em processo judicial ou administrativo, e o Código de Defesa do Consumidor permite que o juiz inverta o ônus da prova quando a alegação do consumidor for verossímil ou quando ele for a parte mais fraca.</p><h2>O que o STJ decidiu para a energia</h2><p>No caso da energia elétrica, o STJ fixou no Tema 699 que o corte por débito de fraude no medidor só é possível se a fraude for apurada com contraditório e ampla defesa, com aviso prévio. A Resolução ANEEL 1.000/2021 descreve como a distribuidora deve apurar: termo de ocorrência entregue ao consumidor, possibilidade de perícia, avaliação técnica e análise do histórico de consumo.</p><p>Para a água, as regras de apuração são definidas pela agência reguladora ou pelo regulamento do serviço em cada lugar. A garantia de defesa, porém, vem da Constituição e vale para todos.</p><h2>Como contestar</h2><ul><li>Peça por escrito cópia do auto de vistoria, das fotos e do laudo, se houver.</li><li>Apresente defesa no prazo indicado pelo prestador e guarde o protocolo.</li><li>Junte o histórico de consumo: se não houve queda, isso enfraquece a tese de fraude.</li><li>Se possível, peça perícia no medidor.</li><li>Se pagar valor indevido, é possível pedir a devolução, inclusive em dobro quando não houver engano justificável.</li></ul>",
+  "corpo": "<h2>O que a lei garante</h2><p>A Lei do Saneamento permite à empresa cortar a água quando há violação do medidor. Mas a acusação precisa ser provada. A Constituição garante o direito de defesa também nos processos da própria empresa (art. 5º, LV), e o Código de Defesa do Consumidor permite que o juiz passe para a empresa o dever de provar (inversão do ônus da prova), quando a versão do consumidor for convincente ou ele for a parte mais fraca.</p><h2>O que já foi decidido para a energia</h2><p>Para a luz, o Superior Tribunal de Justiça decidiu que o corte por fraude no medidor só é possível se a fraude for apurada com direito de defesa e aviso prévio (Tema 699). As regras da agência que fiscaliza o setor elétrico, a ANEEL, exigem termo de ocorrência entregue ao consumidor, possibilidade de perícia e análise do histórico de consumo.</p><p>Para a água, as regras de apuração variam conforme a agência ou o regulamento de cada lugar. O direito de defesa, porém, vem da Constituição e vale em todo o país.</p><h2>O erro que enfraquece o caso</h2><p>Pagar a multa para evitar o corte e deixar o assunto de lado, ou não responder no prazo dado pela empresa. Quanto mais tempo passa, mais difícil fica provar que o medidor estava em ordem.</p><h2>O que fazer agora</h2><ul><li>Peça por escrito cópia do auto de vistoria, das fotos e do laudo, se houver.</li><li>Apresente defesa no prazo indicado e guarde o protocolo.</li><li>Junte o histórico de consumo: se não houve queda, a tese de fraude perde força.</li><li>Se possível, peça perícia no medidor.</li><li>Se pagou valor indevido, é possível pedir a devolução, inclusive em dobro quando não houver engano justificável.</li></ul>",
   "faq": [
     [
-      "O prestador pode me multar sem me ouvir?",
-      "A cobrança deve respeitar o contraditório e a ampla defesa, garantidos também em processos administrativos (Constituição Federal, art. 5º, LV)."
+      "A empresa pode me multar sem me ouvir?",
+      "Não deveria. A cobrança precisa respeitar o direito de defesa, garantido também fora da Justiça (Constituição Federal, art. 5º, LV)."
     ],
     [
       "Quem precisa provar a fraude?",
-      "Quem acusa. Além disso, o juiz pode inverter o ônus da prova a favor do consumidor (CDC, art. 6º, VIII)."
+      "Quem acusa. Além disso, o juiz pode passar para a empresa o dever de provar (CDC, art. 6º, VIII)."
     ],
     [
       "Paguei a multa e depois provei que era indevida. Recebo de volta?",
-      "Sim. O consumidor cobrado em quantia indevida tem direito à devolução em dobro do que pagou em excesso, salvo engano justificável (CDC, art. 42, parágrafo único)."
+      "Sim. Quem paga cobrança indevida tem direito à devolução em dobro do que pagou a mais, salvo engano justificável (CDC, art. 42, parágrafo único)."
+    ],
+    [
+      "O histórico de consumo ajuda na defesa?",
+      "Sim. Se o consumo não caiu, isso enfraquece a acusação de que o medidor foi violado."
     ]
   ],
   "base": [
