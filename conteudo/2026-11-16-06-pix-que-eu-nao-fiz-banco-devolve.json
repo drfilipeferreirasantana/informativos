@@ -1,0 +1,58 @@
+{
+  "slug": "pix-que-eu-nao-fiz-banco-devolve",
+  "area": "consumidor",
+  "data": "2026-11-16",
+  "titulo": "Saiu da minha conta um Pix que eu não fiz. O banco tem que devolver?",
+  "resumo": "O banco responde pelos danos do serviço mesmo sem culpa, e a fraude de terceiro dentro da operação bancária é risco dele, não do cliente.",
+  "destaque": "Sim, se o banco falhou na segurança.",
+  "pontos": [
+    [
+      "escudo",
+      "Proteger a conta faz parte do serviço do banco, que responde mesmo sem culpa."
+    ],
+    [
+      "alerta",
+      "Pix de madrugada, em sequência ou fora do seu perfil deve ser barrado pelo banco."
+    ],
+    [
+      "relogio",
+      "No mesmo dia: contestar no aplicativo, pedir o MED e registrar boletim de ocorrência."
+    ]
+  ],
+  "exemplo": "Marcos acordou e viu no extrato quatro Pix feitos de madrugada para empresas que ele nunca ouviu falar. Antes deles, alguém tinha resgatado a reserva que ele guardava na própria conta.",
+  "corpo": "<p>O celular continua no bolso, a senha não foi passada a ninguém, e mesmo assim o extrato mostra transferências que a pessoa não fez. Nesse momento, a primeira dúvida é se o dinheiro está perdido. A lei coloca boa parte dessa responsabilidade no banco.</p>\n<h2>Por que o banco responde</h2>\n<p>O banco vende um serviço, e a segurança da conta faz parte dele. Se o serviço falha e o cliente sai no prejuízo, o banco responde, mesmo que não tenha tido culpa (Código de Defesa do Consumidor, art. 14).</p>\n<p>O Superior Tribunal de Justiça foi além: a fraude feita por terceiro dentro da operação bancária é risco da própria atividade do banco (Súmula 479). Quem lucra com o serviço arca com os golpes que acontecem dentro dele.</p>\n<h2>Quando a transação foge do seu perfil</h2>\n<p>O banco conhece o jeito como cada cliente usa a conta. Por isso deve perceber e bloquear movimentações que destoam desse padrão, como:</p>\n<ul>\n<li>Pix feito de madrugada;</li>\n<li>transferências para empresas desconhecidas;</li>\n<li>várias transferências seguidas, em poucos minutos;</li>\n<li>resgate da reserva ou da aplicação logo antes do Pix.</li>\n</ul>\n<p>O STJ já decidiu que o banco tem o dever de criar mecanismos que identifiquem e impeçam movimentações fora do perfil do cliente. Deixar passar operações totalmente atípicas é falha no dever de segurança.</p>\n<h2>O que fazer assim que perceber</h2>\n<ul>\n<li>Conteste na hora pelo aplicativo do banco e anote o número do protocolo.</li>\n<li>Peça o MED (Mecanismo Especial de Devolução do Pix), que permite bloquear o valor na conta de quem recebeu.</li>\n<li>Registre boletim de ocorrência. No Espírito Santo, dá para fazer pela Delegacia Online.</li>\n<li>Guarde prints, extratos e todas as conversas com o banco.</li>\n</ul>\n<h2>O erro que mais pesa contra</h2>\n<p>Esperar alguns dias para ver se o banco resolve sozinho. A contestação e o MED funcionam melhor quanto mais cedo forem pedidos, e a demora também dificulta mostrar que a transação foi estranha desde o início. Contar tudo como aconteceu, inclusive se houve clique em link ou ligação suspeita, ajuda a montar o caso de forma correta.</p>\n<h2>Se o banco negar a devolução</h2>\n<p>É possível pedir na Justiça a restituição do valor e, conforme o caso, indenização. Em causas de menor valor, o caminho costuma ser o Juizado Especial Cível. Cada caso tem particularidades; leve à primeira conversa o extrato, os protocolos, o boletim de ocorrência e os prints.</p>",
+  "faq": [
+    [
+      "O banco pode dizer que a culpa é minha?",
+      "Não automaticamente. O STJ entende que o banco deve identificar e impedir movimentações fora do perfil do cliente; se não faz isso, há defeito no serviço."
+    ],
+    [
+      "O que é o MED do Pix?",
+      "É o Mecanismo Especial de Devolução do Pix. Ele permite que o banco bloqueie o valor na conta de quem recebeu e devolva ao cliente, por isso deve ser pedido logo."
+    ],
+    [
+      "Preciso registrar boletim de ocorrência?",
+      "Sim. O boletim registra a fraude e reforça o pedido ao banco e à Justiça. No Espírito Santo, pode ser feito pela Delegacia Online."
+    ],
+    [
+      "Se o banco negar, qual o caminho?",
+      "Pedir na Justiça a restituição e, conforme o caso, indenização. Em causas de menor valor, o caminho costuma ser o Juizado Especial Cível."
+    ]
+  ],
+  "base": [
+    "Código de Defesa do Consumidor, art. 14",
+    "Súmula 479 do Superior Tribunal de Justiça",
+    "STJ, REsp 2.052.228, Terceira Turma"
+  ],
+  "fontes": [
+    [
+      "STJ: Para evitar fraudes, banco tem o dever de identificar e impedir transações que destoam do perfil do cliente (30/10/2023)",
+      "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2023/30102023-Para-evitar-fraudes--banco-tem-o-dever-de-identificar-e-impedir-transacoes-que-destoam-do-perfil-do-cliente.aspx"
+    ]
+  ],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/7534380/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}
