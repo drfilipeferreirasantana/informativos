@@ -1,0 +1,52 @@
+{
+  "slug": "acidente-com-maquina-empresa-responde-sem-culpa",
+  "area": "trabalhista",
+  "data": "2026-12-04",
+  "serie": "grandes-causas",
+  "ordem": 33,
+  "titulo": "Acidente com máquina no trabalho: a empresa responde mesmo sem culpa?",
+  "destaque": "Sim, quando a atividade é de risco.",
+  "resumo": "O Supremo decidiu que, em atividades que expõem o trabalhador a risco acima do normal, a empresa responde pelo acidente mesmo sem culpa. Nas demais, basta mostrar que ela falhou na segurança.",
+  "pontos": [
+    [
+      "alerta",
+      "Atividade de risco: a empresa responde sem precisar provar culpa."
+    ],
+    [
+      "maleta",
+      "Máquina sem proteção ou sem botão de emergência descumpre a NR 12."
+    ],
+    [
+      "documento",
+      "Fotos da máquina e relatos de colegas logo após o acidente pesam muito."
+    ]
+  ],
+  "exemplo": "Edson trabalhava numa serraria de eucalipto. A serra circular estava sem a capa de proteção, retirada para aumentar a produção, e ele sofreu um corte profundo no antebraço.",
+  "corpo": "<h2>O que decidiu o Supremo</h2><p>Em regra, a empresa indeniza o acidente quando teve culpa (Constituição, art. 7º, XXVIII). Mas o STF decidiu que, quando a atividade expõe o trabalhador a risco especial, maior que o das outras pessoas, a empresa responde mesmo sem culpa (Tema 932; Código Civil, art. 927, parágrafo único).</p><h2>Máquinas e a NR 12</h2><p>A Norma Regulamentadora 12 exige proteções fixas ou móveis, dispositivos de parada de emergência e treinamento de quem opera a máquina. Retirar a proteção para ganhar velocidade é uma das falhas que mais aparecem nesses processos.</p><h2>Na prática</h2><ul><li>A empresa costuma alegar culpa do trabalhador. Essa culpa exclusiva precisa ser provada por ela.</li><li>Falta de treinamento, jornada exaustiva e pressão por produção pesam contra a empresa.</li><li>A indenização pode incluir dano moral, dano estético, despesas e pensão.</li></ul><h2>O erro que enfraquece o caso</h2><p>Não registrar como estava a máquina no dia. Depois do acidente, é frequente a proteção ser recolocada. Fotos, vídeos e o nome de quem viu fazem diferença. O prazo para cobrar é de 2 anos depois da saída da empresa, alcançando os últimos 5 anos (Constituição, art. 7º, XXIX).</p><h2>O que fazer agora</h2><p>Peça a CAT, guarde prontuários e reúna fotos e mensagens do dia do acidente. Veja também <a href=\"perda-de-dedo-mao-ou-braco-no-trabalho-indenizacao.html\">o que pode ser pedido quando há perda de parte do corpo</a>.</p>",
+  "faq": [
+    [
+      "O que é atividade de risco?",
+      "É a que, pela própria natureza, expõe o trabalhador a perigo maior que o das outras pessoas, como operar máquinas pesadas, trabalhar com eletricidade ou em altura."
+    ],
+    [
+      "E se disserem que a culpa foi minha?",
+      "A culpa exclusiva do trabalhador precisa ser provada pela empresa. Falta de treinamento ou de proteção na máquina pesa contra ela."
+    ],
+    [
+      "A empresa pode retirar a proteção para produzir mais?",
+      "Não. A NR 12 exige proteções e dispositivos de parada em máquinas perigosas."
+    ]
+  ],
+  "base": [
+    "Constituição Federal, art. 7º, XXII e XXVIII",
+    "Código Civil, art. 927, parágrafo único",
+    "STF, Tema 932 (RE 828.040)",
+    "Norma Regulamentadora 12"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/39839908/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

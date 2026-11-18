@@ -1,0 +1,55 @@
+{
+  "slug": "morte-no-trabalho-quem-da-familia-pode-pedir-indenizacao",
+  "area": "trabalhista",
+  "data": "2026-12-01",
+  "serie": "grandes-causas",
+  "ordem": 30,
+  "titulo": "Morte no trabalho: quem da família pode pedir indenização?",
+  "destaque": "Cônjuge, filhos, pais e quem dependia.",
+  "resumo": "Quando o trabalhador morre em acidente de trabalho, o cônjuge ou companheiro, os filhos e os pais podem pedir indenização à empresa, cada um em nome próprio. Quem dependia da renda dele pode pedir também pensão mensal.",
+  "pontos": [
+    [
+      "filhos",
+      "Cada familiar próximo tem direito próprio ao dano moral."
+    ],
+    [
+      "carteira",
+      "Quem dependia da renda pode pedir pensão mensal."
+    ],
+    [
+      "balanca",
+      "O processo corre na Justiça do Trabalho."
+    ]
+  ],
+  "exemplo": "Gilberto, operador de empilhadeira, morreu atingido por uma carga mal amarrada no pátio da empresa. Deixou a esposa, dois filhos pequenos e a mãe, que morava com ele.",
+  "corpo": "<h2>O que a lei garante</h2><p>A empresa que causa a morte do trabalhador deve pagar as despesas com funeral e luto e uma pensão a quem ele sustentava (Código Civil, art. 948). Além disso, cada familiar próximo pode pedir indenização pelo próprio sofrimento, o chamado dano moral. A ação é proposta na Justiça do Trabalho (Constituição, art. 114, VI).</p><h2>Quem pode pedir</h2><ul><li>O cônjuge ou o companheiro, inclusive na união estável sem papel passado, desde que comprovada.</li><li>Todos os filhos, inclusive os de outros relacionamentos.</li><li>Os pais.</li><li>Irmãos e avós, principalmente quando mostram convivência próxima.</li><li>Para a pensão mensal: quem dependia da renda do trabalhador.</li></ul><h2>Na prática</h2><p>A empresa responde quando teve culpa, como falta de treinamento ou de equipamento. Em atividades de risco, responde mesmo sem culpa (STF, Tema 932). A pensão por morte do INSS é outra coisa e não diminui a indenização paga pela empresa. Veja também <a href=\"morte-em-acidente-de-trabalho-indenizacao-familia.html\">o que a indenização à família pode incluir</a>.</p><h2>O erro que enfraquece o caso</h2><p>Deixar o tempo passar no luto e perder as provas. Os prazos para cobrar existem e podem ser curtos. Peça logo a CAT, o boletim de ocorrência, o laudo do IML e o relatório de investigação do acidente, e anote o contato dos colegas que viram o que aconteceu.</p><h2>O que fazer agora</h2><p>Reúna os documentos do trabalhador, a certidão de óbito e os papéis que mostram o vínculo com cada familiar. Leve também os comprovantes de que a família dependia da renda dele.</p>",
+  "faq": [
+    [
+      "Companheira sem casamento pode pedir?",
+      "Sim, se provar a união estável com o trabalhador."
+    ],
+    [
+      "Filho de outro relacionamento tem direito?",
+      "Sim. Todos os filhos têm direito, qualquer que seja a relação de origem."
+    ],
+    [
+      "A pensão do INSS diminui a indenização?",
+      "Não. A pensão por morte do INSS e a indenização paga pela empresa são independentes e podem ser recebidas juntas."
+    ],
+    [
+      "Irmãos podem pedir dano moral?",
+      "Podem, principalmente quando mostram convivência próxima com quem morreu."
+    ]
+  ],
+  "base": [
+    "Constituição Federal, arts. 7º, XXVIII, e 114, VI",
+    "Código Civil, arts. 186, 927 e 948",
+    "STF, Tema 932 (RE 828.040)"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/8963947/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

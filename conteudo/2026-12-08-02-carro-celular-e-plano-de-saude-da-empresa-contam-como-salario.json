@@ -1,0 +1,50 @@
+{
+  "slug": "carro-celular-e-plano-de-saude-da-empresa-contam-como-salario",
+  "area": "trabalhista",
+  "data": "2026-12-08",
+  "serie": "grandes-causas",
+  "ordem": 37,
+  "titulo": "Carro, celular e plano de saúde da empresa contam como salário?",
+  "destaque": "Não, se forem necessários ao trabalho.",
+  "resumo": "Plano de saúde e seguro de vida nunca contam. Carro e celular só contam quando são dados como vantagem, sem ligação com a função, e aí entram no cálculo de férias, 13º, FGTS e rescisão.",
+  "pontos": [
+    [
+      "carteira",
+      "Benefício dado como vantagem pode virar salário e aumentar a rescisão."
+    ],
+    [
+      "maleta",
+      "Carro necessário à função não é salário, mesmo com uso pessoal."
+    ],
+    [
+      "saude",
+      "Plano de saúde e seguro de vida não entram no salário."
+    ]
+  ],
+  "exemplo": "Luciano, diretor de uma indústria, recebia um carro de luxo que a família usava nos fins de semana e nas férias, além do carro de serviço que ele usava nas visitas a clientes.",
+  "corpo": "<h2>A regra geral</h2><p>Além do dinheiro, o salário inclui as vantagens dadas ao empregado de forma habitual, como moradia ou alimentação (CLT, art. 458). A lei, porém, tira dessa conta vários benefícios, como plano de saúde, seguro de vida, previdência privada e educação (art. 458, § 2º).</p><h2>Carro e celular</h2><p>O carro fornecido porque é indispensável ao trabalho não é salário, mesmo que também seja usado na vida particular (TST, Súmula 367, I). A mesma lógica vale para o celular de trabalho. Já o carro dado como vantagem, sem ligação com a função, pode ser considerado salário.</p><h2>O que muda quando é salário</h2><p>O valor do benefício entra no cálculo de férias, 13º, FGTS e verbas da rescisão. Em cargos altos, essa diferença costuma ser expressiva.</p><h2>O erro que enfraquece o caso</h2><p>Não guardar prova de como o benefício era usado. Política de frota, e-mails sobre o uso do carro pela família e o contrato de trabalho mostram se era ferramenta ou vantagem. O prazo para cobrar é de 2 anos depois da saída da empresa, alcançando os últimos 5 anos (Constituição, art. 7º, XXIX).</p><h2>O que fazer agora</h2><p>Reúna o contrato, a política de benefícios e documentos do veículo. Leve também a descrição das suas funções à primeira conversa.</p>",
+  "faq": [
+    [
+      "O carro da empresa que levo para casa é salário?",
+      "Se for indispensável ao trabalho, não, mesmo com uso particular (Súmula 367 do TST). Se for dado como vantagem, sem relação com a função, pode ser."
+    ],
+    [
+      "Plano de saúde conta para a rescisão?",
+      "Não. A lei diz que assistência médica não é salário (CLT, art. 458, § 2º, IV)."
+    ],
+    [
+      "O que muda se o benefício for salário?",
+      "O valor dele entra no cálculo de férias, 13º, FGTS e verbas da rescisão."
+    ]
+  ],
+  "base": [
+    "CLT, art. 458, caput e § 2º",
+    "TST, Súmula 367, I"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/7144207/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

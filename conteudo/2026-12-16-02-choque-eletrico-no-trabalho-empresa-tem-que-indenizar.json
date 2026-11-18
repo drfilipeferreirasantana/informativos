@@ -1,0 +1,53 @@
+{
+  "slug": "choque-eletrico-no-trabalho-empresa-tem-que-indenizar",
+  "area": "trabalhista",
+  "data": "2026-12-16",
+  "serie": "grandes-causas",
+  "ordem": 44,
+  "titulo": "Choque elétrico no trabalho: a empresa tem que indenizar?",
+  "destaque": "Em regra sim: é atividade de risco.",
+  "resumo": "Em caso de choque, a empresa responde pelo acidente mesmo sem culpa e deve indenizar o trabalhador ou a família, porque a eletricidade expõe a um perigo especial.",
+  "pontos": [
+    [
+      "alerta",
+      "Eletricidade é atividade de risco: não é preciso provar culpa."
+    ],
+    [
+      "escudo",
+      "A NR 10 exige desligamento, aterramento, treinamento e equipamento adequado."
+    ],
+    [
+      "carteira",
+      "Quem trabalha exposto à eletricidade tem adicional de periculosidade de 30%."
+    ]
+  ],
+  "exemplo": "Marcelo, eletricista de uma empresa terceirizada, fazia manutenção numa rede de média tensão quando a linha foi religada sem aviso. Sofreu queimaduras e perdeu parte dos movimentos da mão.",
+  "corpo": "<h2>Responsabilidade sem culpa</h2><p>O STF decidiu que, em atividades com exposição habitual a risco especial, a empresa responde pelo acidente mesmo sem culpa (Tema 932; Código Civil, art. 927, parágrafo único). O trabalho com eletricidade é o exemplo clássico.</p><h2>O que a empresa deve fazer</h2><p>A Norma Regulamentadora 10 exige desligamento e bloqueio da rede antes do serviço, aterramento, treinamento específico e equipamentos de proteção adequados. Quem trabalha exposto à energia elétrica também tem direito ao adicional de periculosidade de 30% (CLT, art. 193, I e § 1º).</p><h2>O que pode ser pedido</h2><ul><li>Dano moral e dano estético pelas queimaduras e sequelas.</li><li>Despesas de tratamento.</li><li>Pensão, se houver perda da capacidade de trabalho.</li><li>Em caso de morte, indenização e pensão à família.</li></ul><h2>O erro que enfraquece o caso</h2><p>Não pedir a CAT e o relatório de investigação do acidente. O prazo para cobrar é de 2 anos depois da saída da empresa, alcançando os últimos 5 anos (Constituição, art. 7º, XXIX). Se o eletricista era terceirizado, a empresa tomadora também pode responder (Lei 6.019/1974, art. 5º-A, § 3º).</p><h2>O que fazer agora</h2><p>Reúna prontuários, a ordem de serviço do dia e o nome de quem estava na equipe. Veja também <a href=\"acidente-com-maquina-empresa-responde-sem-culpa.html\">quando a empresa responde mesmo sem culpa</a>.</p>",
+  "faq": [
+    [
+      "Precisa provar culpa da empresa?",
+      "Em atividade de risco como a elétrica, não é necessário (STF, Tema 932)."
+    ],
+    [
+      "O que pode ser pedido?",
+      "Dano moral, dano estético, despesas de tratamento e pensão se houver perda da capacidade de trabalho."
+    ],
+    [
+      "E se o eletricista era terceirizado?",
+      "A tomadora do serviço também pode responder, porque deve garantir a segurança no local (Lei 6.019/1974, art. 5º-A, § 3º)."
+    ]
+  ],
+  "base": [
+    "Constituição Federal, art. 7º, XXVIII",
+    "Código Civil, art. 927, parágrafo único",
+    "STF, Tema 932 (RE 828.040)",
+    "CLT, art. 193, I e § 1º",
+    "Norma Regulamentadora 10"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/17018103/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

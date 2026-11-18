@@ -1,0 +1,61 @@
+{
+  "slug": "perda-de-dedo-mao-ou-braco-no-trabalho-indenizacao",
+  "area": "trabalhista",
+  "data": "2026-12-02",
+  "serie": "grandes-causas",
+  "ordem": 31,
+  "titulo": "Perdi um dedo, a mão ou o braço no trabalho: qual indenização posso pedir?",
+  "destaque": "Dano moral, estético e pensão.",
+  "resumo": "Quem perde parte do corpo em acidente de trabalho pode pedir à empresa dano moral, dano estético e pensão pela redução da capacidade de trabalho, além das despesas com tratamento e prótese.",
+  "pontos": [
+    [
+      "balanca",
+      "Dano moral e dano estético podem ser pedidos juntos."
+    ],
+    [
+      "carteira",
+      "Pensão proporcional à capacidade de trabalho perdida."
+    ],
+    [
+      "saude",
+      "Tratamento, cirurgias e prótese entram na conta."
+    ],
+    [
+      "escudo",
+      "Estabilidade de 12 meses depois da volta ao trabalho."
+    ]
+  ],
+  "exemplo": "Sebastião operava uma prensa sem a proteção que impede a descida com a mão embaixo. Num dia de produção acelerada, perdeu três dedos da mão direita.",
+  "corpo": "<h2>O que pode ser pedido</h2><ul><li><b>Dano moral:</b> pelo sofrimento e pela mudança de vida.</li><li><b>Dano estético:</b> pela mudança permanente na aparência. Pode ser pedido junto com o dano moral (STJ, Súmula 387).</li><li><b>Pensão:</b> proporcional à capacidade de trabalho perdida (Código Civil, art. 950).</li><li><b>Despesas:</b> tratamento, cirurgias, remédios e prótese (Código Civil, art. 949).</li></ul><h2>Como a pensão é calculada</h2><p>Uma perícia médica define quanto da capacidade de trabalho foi perdida. A pensão parte da remuneração do trabalhador e segue esse percentual. A lei permite pedir o pagamento de uma só vez (Código Civil, art. 950, parágrafo único); nesse caso, o juiz fixa o valor e costuma aplicar um desconto pela antecipação.</p><h2>Na prática</h2><p>Grande parte desses acidentes acontece em máquinas sem a proteção exigida pela Norma Regulamentadora 12. Em atividades de risco, a empresa responde mesmo sem culpa (STF, Tema 932). O auxílio-acidente do INSS não diminui a indenização da empresa. Quem ficou afastado mais de 15 dias com benefício por acidente tem 12 meses de estabilidade na volta (Lei 8.213/1991, art. 118).</p><h2>O erro que enfraquece o caso</h2><p>Voltar ao trabalho sem a CAT emitida e aceitar um acordo rápido, antes da perícia mostrar o tamanho da perda. O prazo para cobrar é de 2 anos depois da saída da empresa, alcançando os últimos 5 anos (Constituição, art. 7º, XXIX).</p><h2>O que fazer agora</h2><p>Guarde prontuários, exames, receitas e fotos da máquina. Leve também os recibos de salário, que servem de base para a pensão.</p>",
+  "faq": [
+    [
+      "Posso receber a pensão de uma vez?",
+      "A lei permite pedir o pagamento de uma só vez (Código Civil, art. 950, parágrafo único). O juiz define o valor e costuma aplicar um desconto pela antecipação."
+    ],
+    [
+      "Recebo auxílio-acidente do INSS. Ainda posso pedir pensão à empresa?",
+      "Sim. O benefício do INSS e a indenização da empresa são independentes."
+    ],
+    [
+      "Tenho estabilidade?",
+      "Se ficou afastado mais de 15 dias com benefício por acidente, tem 12 meses de estabilidade na volta (Lei 8.213/1991, art. 118)."
+    ],
+    [
+      "O que é dano estético?",
+      "É a indenização pela mudança permanente na aparência, como a perda de um dedo ou uma cicatriz, separada do dano moral."
+    ]
+  ],
+  "base": [
+    "Constituição Federal, art. 7º, XXVIII",
+    "Código Civil, arts. 949 e 950",
+    "STJ, Súmula 387",
+    "Lei 8.213/1991, art. 118",
+    "Norma Regulamentadora 12"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/6519914/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

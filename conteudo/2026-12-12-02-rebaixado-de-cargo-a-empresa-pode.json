@@ -1,0 +1,50 @@
+{
+  "slug": "rebaixado-de-cargo-a-empresa-pode",
+  "area": "trabalhista",
+  "data": "2026-12-12",
+  "serie": "grandes-causas",
+  "ordem": 41,
+  "titulo": "Fui rebaixado de cargo: a empresa pode fazer isso?",
+  "destaque": "Só para voltar ao cargo de origem.",
+  "resumo": "A empresa não pode mudar o contrato para pior. A exceção é tirar o empregado de um cargo de confiança e devolvê-lo ao cargo efetivo, o que a lei permite, desde que sem humilhação e sem reduzir o salário do cargo original.",
+  "pontos": [
+    [
+      "balanca",
+      "Mudança para pior no contrato é proibida."
+    ],
+    [
+      "maleta",
+      "Voltar do cargo de confiança ao cargo efetivo é permitido."
+    ],
+    [
+      "alerta",
+      "Rebaixar para humilhar pode gerar dano moral e rescisão indireta."
+    ]
+  ],
+  "exemplo": "Rogério coordenava uma equipe de 20 pessoas havia 6 anos. Depois de discordar do novo diretor, foi colocado numa mesa no corredor, sem equipe e com tarefas de auxiliar, e passou a ouvir piadas dos colegas.",
+  "corpo": "<h2>O que diz a lei</h2><p>A empresa não pode alterar o contrato de forma que prejudique o empregado (CLT, art. 468). A lei permite, porém, que quem ocupa cargo de confiança volte ao cargo efetivo (art. 468, § 1º). Desde 2017, a gratificação de função não se incorpora ao salário, mesmo depois de muitos anos (art. 468, § 2º).</p><h2>O limite</h2><ul><li>O salário do cargo efetivo não pode ser reduzido (Constituição, art. 7º, VI).</li><li>Rebaixar para um cargo inferior ao de origem é alteração proibida.</li><li>Deixar o empregado sem função, isolado ou exposto ao ridículo pode ser assédio moral.</li></ul><h2>Na prática</h2><p>Quando o rebaixamento serve para humilhar ou forçar um pedido de demissão, o empregado pode encerrar o contrato por culpa da empresa, com todas as verbas (CLT, art. 483), e pedir dano moral.</p><h2>O erro que enfraquece o caso</h2><p>Pedir demissão no impulso. Quem pede demissão perde verbas que teria na rescisão indireta. O prazo para cobrar é de 2 anos depois da saída da empresa, alcançando os últimos 5 anos (Constituição, art. 7º, XXIX).</p><h2>O que fazer agora</h2><p>Guarde o comunicado da mudança, e-mails, mensagens e o organograma antes e depois. Anote datas e nomes de quem presenciou as situações.</p>",
+  "faq": [
+    [
+      "A empresa pode tirar minha gratificação de função?",
+      "Pode, ao devolver o empregado ao cargo efetivo. Desde 2017, a gratificação não se incorpora ao salário (CLT, art. 468, § 2º)."
+    ],
+    [
+      "O salário do cargo efetivo pode ser reduzido?",
+      "Não. O salário é irredutível, salvo acordo ou convenção coletiva (Constituição, art. 7º, VI)."
+    ],
+    [
+      "E se me deixarem sem função nenhuma?",
+      "Deixar o empregado sem trabalho para isolá-lo pode ser assédio moral e permitir a rescisão indireta (CLT, art. 483)."
+    ]
+  ],
+  "base": [
+    "Constituição Federal, art. 7º, VI",
+    "CLT, arts. 468 e 483"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/8453806/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

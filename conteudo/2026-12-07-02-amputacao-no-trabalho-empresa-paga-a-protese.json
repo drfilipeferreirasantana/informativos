@@ -1,0 +1,57 @@
+{
+  "slug": "amputacao-no-trabalho-empresa-paga-a-protese",
+  "area": "trabalhista",
+  "data": "2026-12-07",
+  "serie": "grandes-causas",
+  "ordem": 36,
+  "titulo": "Amputação no trabalho: a empresa tem que pagar a prótese?",
+  "destaque": "Sim, se responde pelo acidente.",
+  "resumo": "A prótese faz parte das despesas de tratamento que entram na indenização por acidente de trabalho, inclusive as trocas ao longo da vida.",
+  "pontos": [
+    [
+      "saude",
+      "Prótese e trocas futuras entram nas despesas de tratamento."
+    ],
+    [
+      "escudo",
+      "O INSS também fornece prótese na reabilitação profissional."
+    ],
+    [
+      "documento",
+      "Laudo e orçamentos mostram o modelo de que a pessoa precisa."
+    ]
+  ],
+  "exemplo": "Valdir perdeu a perna abaixo do joelho quando uma esteira o puxou numa pedreira. A prótese indicada pelo médico custa caro e precisa ser trocada de tempos em tempos.",
+  "corpo": "<h2>O que diz a lei</h2><p>Quem causa uma lesão deve pagar as despesas do tratamento (Código Civil, art. 949) e, se a capacidade de trabalho diminuiu, uma pensão (art. 950). A prótese faz parte do tratamento. A empresa responde quando teve culpa ou quando a atividade era de risco (STF, Tema 932).</p><h2>O que pode ser pedido</h2><ul><li>A prótese indicada pelo médico como adequada ao caso.</li><li>As trocas futuras, porque a prótese tem vida útil limitada.</li><li>Fisioterapia e adaptação.</li><li>Dano moral, dano estético e pensão (STJ, Súmula 387).</li></ul><h2>E o INSS?</h2><p>Na reabilitação profissional, o INSS também fornece prótese (Lei 8.213/1991, art. 89). Isso não impede o pedido à empresa responsável pelo acidente.</p><h2>O erro que enfraquece o caso</h2><p>Aceitar uma prótese inadequada ou um acordo antes da perícia. O laudo médico com a indicação do modelo e o orçamento atualizado são a base do pedido. O prazo para cobrar é de 2 anos depois da saída da empresa, alcançando os últimos 5 anos (Constituição, art. 7º, XXIX).</p><h2>O que fazer agora</h2><p>Guarde o prontuário, o laudo do médico assistente e os orçamentos. Veja também <a href=\"perda-de-dedo-mao-ou-braco-no-trabalho-indenizacao.html\">a indenização pela perda de parte do corpo</a>.</p>",
+  "faq": [
+    [
+      "Posso pedir a prótese indicada pelo meu médico?",
+      "Pode ser pedida a prótese adequada ao caso; o modelo é discutido com base no laudo e na perícia."
+    ],
+    [
+      "E as trocas futuras?",
+      "Podem entrar no pedido, já que a prótese tem vida útil limitada."
+    ],
+    [
+      "O INSS não resolve?",
+      "O INSS fornece prótese na reabilitação profissional (Lei 8.213/1991, art. 89), mas isso não impede o pedido à empresa responsável."
+    ],
+    [
+      "O que mais entra na indenização?",
+      "Dano moral, dano estético e pensão pela perda da capacidade de trabalho."
+    ]
+  ],
+  "base": [
+    "Constituição Federal, art. 7º, XXVIII",
+    "Código Civil, arts. 949 e 950",
+    "Lei 8.213/1991, art. 89",
+    "STJ, Súmula 387",
+    "STF, Tema 932 (RE 828.040)"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/8437025/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

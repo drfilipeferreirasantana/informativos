@@ -1,0 +1,55 @@
+{
+  "slug": "diretor-de-empresa-tem-direitos-trabalhistas",
+  "area": "trabalhista",
+  "data": "2026-11-30",
+  "serie": "grandes-causas",
+  "ordem": 29,
+  "titulo": "Diretor da empresa tem direitos trabalhistas?",
+  "destaque": "Sim, se trabalha com subordinação.",
+  "resumo": "O empregado eleito diretor tem o contrato de emprego suspenso, mas o período conta como emprego se ele continuou recebendo ordens e prestando contas a alguém acima dele.",
+  "pontos": [
+    [
+      "maleta",
+      "Diretor eleito pela assembleia tem o contrato de emprego suspenso."
+    ],
+    [
+      "balanca",
+      "Se continuou subordinado, o tempo de diretor conta como emprego."
+    ],
+    [
+      "documento",
+      "Atas, e-mails e metas impostas mostram quem mandava de fato."
+    ]
+  ],
+  "exemplo": "Ricardo foi promovido a diretor comercial depois de 12 anos na empresa. Passou a assinar como diretor estatutário, mas continuou cumprindo metas definidas pelo presidente e pedindo autorização para cada viagem.",
+  "corpo": "<h2>O que diz a regra</h2><p>Quando um empregado é eleito diretor pela assembleia ou pelo conselho, o contrato de emprego fica suspenso e esse período, em regra, não conta como tempo de serviço. A exceção é importante: se ele continuou subordinado, como qualquer empregado, o período conta como emprego (TST, Súmula 269).</p><p>Quem já foi contratado como diretor também pode ser empregado, se o trabalho for pessoal, habitual, pago e com subordinação (CLT, art. 3º).</p><h2>Na prática</h2><ul><li>O nome do cargo não decide. Decide como o trabalho era feito no dia a dia.</li><li>Prestar contas a um superior, cumprir metas impostas e não poder decidir sozinho os rumos da área são sinais de subordinação.</li><li>Reconhecido o emprego, entram FGTS, férias, 13º e verbas da rescisão sobre toda a remuneração do período.</li></ul><h2>O erro que enfraquece o caso</h2><p>Assinar termos de quitação na saída sem orientação e não guardar os e-mails e relatórios que mostram as ordens recebidas. O prazo para cobrar é de 2 anos depois da saída da empresa, alcançando os últimos 5 anos (Constituição, art. 7º, XXIX).</p><h2>O que fazer agora</h2><p>Reúna o estatuto, as atas de eleição, o contrato, e-mails com ordens e cobranças de metas. Com esse material, a primeira conversa já permite avaliar se havia subordinação.</p>",
+  "faq": [
+    [
+      "Diretor estatutário tem FGTS?",
+      "Em regra, não, enquanto o contrato de emprego estiver suspenso. Se havia subordinação, o período pode ser reconhecido como emprego, com FGTS (TST, Súmula 269)."
+    ],
+    [
+      "O que é subordinação no caso de um diretor?",
+      "É receber ordens e prestar contas a alguém acima, sem poder decidir sozinho os rumos da área."
+    ],
+    [
+      "Fui contratado já como diretor. Posso ser empregado?",
+      "Sim, se o trabalho era pessoal, habitual, pago e subordinado (CLT, art. 3º)."
+    ],
+    [
+      "Qual o prazo para cobrar?",
+      "Até 2 anos depois da saída, alcançando os últimos 5 anos (Constituição, art. 7º, XXIX)."
+    ]
+  ],
+  "base": [
+    "CLT, art. 3º",
+    "TST, Súmula 269",
+    "Constituição Federal, art. 7º, XXIX"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/30692587/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

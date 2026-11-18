@@ -1,0 +1,52 @@
+{
+  "slug": "queimadura-grave-no-trabalho-indenizacao",
+  "area": "trabalhista",
+  "data": "2026-12-11",
+  "serie": "grandes-causas",
+  "ordem": 40,
+  "titulo": "Queimadura grave no trabalho: dá direito a indenização?",
+  "destaque": "Sim, se a empresa falhou na proteção.",
+  "resumo": "Queimadura causada por fogo, produto químico, vapor ou eletricidade no trabalho pode gerar dano moral, dano estético pelas cicatrizes e pensão, se reduzir a capacidade de trabalho.",
+  "pontos": [
+    [
+      "alerta",
+      "Cicatriz permanente dá direito a dano estético, além do dano moral."
+    ],
+    [
+      "escudo",
+      "Roupa e luvas adequadas ao risco são obrigação da empresa."
+    ],
+    [
+      "saude",
+      "Cirurgias reparadoras e tratamento psicológico entram nas despesas."
+    ]
+  ],
+  "exemplo": "Josiane trabalhava na cozinha industrial de um frigorífico. Uma panela de pressão sem manutenção estourou, e ela teve queimaduras no rosto e no pescoço.",
+  "corpo": "<h2>O que pode ser pedido</h2><ul><li><b>Dano moral:</b> pela dor e pelo sofrimento.</li><li><b>Dano estético:</b> pelas cicatrizes, pedido junto com o dano moral (STJ, Súmula 387).</li><li><b>Despesas:</b> internação, cirurgias reparadoras, curativos e acompanhamento psicológico (Código Civil, art. 949).</li><li><b>Pensão:</b> se a queimadura reduziu a capacidade de trabalho (art. 950).</li></ul><h2>Quando a empresa responde</h2><p>Quando teve culpa, como falta de manutenção, de treinamento ou de equipamento adequado (Constituição, art. 7º, XXVIII). A Norma Regulamentadora 6 obriga a empresa a fornecer equipamento de proteção adequado ao risco e a fiscalizar o uso. Em atividades de risco, ela responde mesmo sem culpa (STF, Tema 932).</p><h2>Na prática</h2><p>O valor do dano estético leva em conta o local, o tamanho e a visibilidade das cicatrizes. Fotos tiradas em cada fase do tratamento ajudam a mostrar a gravidade.</p><h2>O erro que enfraquece o caso</h2><p>Não fotografar as lesões desde o início e não guardar os comprovantes de gastos. O prazo para cobrar é de 2 anos depois da saída da empresa, alcançando os últimos 5 anos (Constituição, art. 7º, XXIX).</p><h2>O que fazer agora</h2><p>Reúna prontuários, fotos, recibos e a CAT. Anote o nome de quem presenciou o acidente.</p>",
+  "faq": [
+    [
+      "Cicatriz no rosto vale mais?",
+      "A Justiça leva em conta o local, o tamanho e a visibilidade da cicatriz ao fixar o dano estético."
+    ],
+    [
+      "Posso pedir a cirurgia plástica?",
+      "Sim. As despesas de tratamento, inclusive cirurgias reparadoras, entram na indenização (Código Civil, art. 949)."
+    ],
+    [
+      "Recebi o EPI. A empresa ainda responde?",
+      "Pode responder, se o equipamento não era adequado ao risco ou se a empresa não fiscalizava o uso."
+    ]
+  ],
+  "base": [
+    "Constituição Federal, art. 7º, XXVIII",
+    "Código Civil, arts. 949 e 950",
+    "STJ, Súmula 387",
+    "Norma Regulamentadora 6"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/4085452/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

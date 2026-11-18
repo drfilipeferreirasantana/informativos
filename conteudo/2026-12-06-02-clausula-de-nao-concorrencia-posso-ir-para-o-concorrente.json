@@ -1,0 +1,51 @@
+{
+  "slug": "clausula-de-nao-concorrencia-posso-ir-para-o-concorrente",
+  "area": "trabalhista",
+  "data": "2026-12-06",
+  "serie": "grandes-causas",
+  "ordem": 35,
+  "titulo": "Cláusula de não concorrência: posso trabalhar no concorrente depois de sair?",
+  "destaque": "Sim, se a cláusula não tem compensação.",
+  "resumo": "A Justiça do Trabalho costuma aceitar a cláusula de não concorrência apenas quando ela tem prazo, área e atividade limitados e quando o ex-empregado recebe uma compensação pelo período em que fica impedido de trabalhar.",
+  "pontos": [
+    [
+      "calendario",
+      "Precisa de prazo definido e proporcional."
+    ],
+    [
+      "carteira",
+      "Sem compensação financeira, a cláusula tende a ser anulada."
+    ],
+    [
+      "maleta",
+      "Segredos da empresa continuam protegidos mesmo sem cláusula."
+    ]
+  ],
+  "exemplo": "Fernando era gerente de vendas de uma distribuidora de insumos agrícolas e recebeu proposta de um concorrente. O contrato dele proibia trabalhar no mesmo ramo por três anos, em todo o país, sem pagar nada por isso.",
+  "corpo": "<h2>O ponto de partida</h2><p>A Constituição garante a liberdade de escolher o trabalho (art. 5º, XIII). Por isso, impedir alguém de trabalhar depois de sair da empresa é exceção, e só é aceito com limites.</p><h2>Quando a cláusula costuma valer</h2><ul><li>Tem prazo definido e proporcional.</li><li>Limita a área geográfica e a atividade ao que a empresa realmente precisa proteger.</li><li>Paga uma compensação ao ex-empregado durante o período de restrição.</li></ul><p>Sem esses limites, e principalmente sem compensação, a tendência é a Justiça considerar a cláusula abusiva.</p><h2>O que continua proibido</h2><p>Mesmo sem cláusula, usar informação confidencial da antiga empresa, como lista de clientes e preços, pode ser concorrência desleal (Lei 9.279/1996, art. 195, XI).</p><h2>O erro que enfraquece o caso</h2><p>Aceitar o novo emprego sem avaliar a cláusula ou levar arquivos da empresa antiga. As duas atitudes dão argumento contra o ex-empregado.</p><h2>O que fazer agora</h2><p>Antes de assinar com o concorrente, leve o contrato antigo, a proposta nova e a descrição das duas funções à primeira conversa.</p>",
+  "faq": [
+    [
+      "A cláusula vale mesmo sem eu receber nada?",
+      "A tendência da Justiça do Trabalho é não aceitar a cláusula sem compensação financeira pelo período de restrição."
+    ],
+    [
+      "Qual prazo costuma ser aceito?",
+      "Prazos curtos e proporcionais ao tempo em que a informação da empresa continua estratégica. Restrição longa e sem limite de área tende a ser considerada abusiva."
+    ],
+    [
+      "Posso levar a carteira de clientes?",
+      "Usar informação confidencial da antiga empresa pode ser concorrência desleal (Lei 9.279/1996, art. 195, XI), mesmo sem cláusula no contrato."
+    ]
+  ],
+  "base": [
+    "Constituição Federal, art. 5º, XIII",
+    "CLT, art. 444",
+    "Lei 9.279/1996, art. 195, XI"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/261621/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

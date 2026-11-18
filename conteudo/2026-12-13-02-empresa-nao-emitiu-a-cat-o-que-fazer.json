@@ -1,0 +1,50 @@
+{
+  "slug": "empresa-nao-emitiu-a-cat-o-que-fazer",
+  "area": "trabalhista",
+  "data": "2026-12-13",
+  "serie": "grandes-causas",
+  "ordem": 42,
+  "titulo": "A empresa não emitiu a CAT do acidente: o que fazer?",
+  "destaque": "Você ou o sindicato podem emitir.",
+  "resumo": "A empresa deve comunicar o acidente ao INSS até o primeiro dia útil seguinte e, em caso de morte, de imediato. Se ela não faz, o próprio trabalhador, a família, o sindicato, o médico ou uma autoridade pública podem emitir a CAT.",
+  "pontos": [
+    [
+      "relogio",
+      "Prazo da empresa: até o 1º dia útil após o acidente."
+    ],
+    [
+      "documento",
+      "Sem a CAT da empresa, o trabalhador pode registrar pelo Meu INSS."
+    ],
+    [
+      "escudo",
+      "O benefício por acidente garante FGTS no afastamento e estabilidade na volta."
+    ]
+  ],
+  "exemplo": "Cláudio caiu de uma escada no depósito e quebrou o pé. O encarregado disse para ele tratar pelo plano de saúde e voltar quando melhorasse, sem registrar nada.",
+  "corpo": "<h2>O que diz a lei</h2><p>A empresa deve comunicar o acidente de trabalho ao INSS até o primeiro dia útil seguinte e, em caso de morte, de imediato (Lei 8.213/1991, art. 22). Se ela não comunica, podem emitir a CAT o próprio acidentado, os dependentes, o sindicato, o médico que atendeu ou qualquer autoridade pública, sem o limite desse prazo (art. 22, § 2º).</p><h2>Por que a CAT importa</h2><ul><li>Registra que o acidente ou a doença têm ligação com o trabalho.</li><li>No afastamento por acidente, a empresa continua depositando o FGTS (Lei 8.036/1990, art. 15, § 5º).</li><li>Quem fica afastado mais de 15 dias com benefício por acidente tem 12 meses de estabilidade na volta (Lei 8.213/1991, art. 118).</li><li>É uma das primeiras provas num pedido de indenização.</li></ul><h2>Na prática</h2><p>A CAT pode ser registrada pela internet, no Meu INSS. A doença causada pelo trabalho também deve ser comunicada, porque a lei a trata como acidente (art. 20).</p><h2>O erro que enfraquece o caso</h2><p>Aceitar tratar o acidente como problema particular, sem registro. Meses depois, fica mais difícil provar que a lesão veio do trabalho.</p><h2>O que fazer agora</h2><p>Guarde o atendimento médico do dia, exames e mensagens com a chefia. Se a empresa se recusar, registre a CAT e leve o protocolo à primeira conversa.</p>",
+  "faq": [
+    [
+      "Por que a CAT é tão importante?",
+      "Ela registra que o acidente foi do trabalho. Isso garante o benefício por acidente, o FGTS no afastamento e a estabilidade de 12 meses na volta."
+    ],
+    [
+      "Ainda dá para emitir CAT depois de muito tempo?",
+      "Sim. Quando a empresa não emite, o trabalhador e os demais legitimados não ficam presos ao prazo (Lei 8.213/1991, art. 22, § 2º)."
+    ],
+    [
+      "Doença do trabalho também tem CAT?",
+      "Sim. A doença causada pelo trabalho é equiparada a acidente e também deve ser comunicada."
+    ]
+  ],
+  "base": [
+    "Lei 8.213/1991, arts. 20, 22 e 118",
+    "Lei 8.036/1990, art. 15, § 5º"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/9064799/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

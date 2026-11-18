@@ -1,0 +1,51 @@
+{
+  "slug": "stock-options-perco-as-acoes-na-demissao",
+  "area": "trabalhista",
+  "data": "2026-12-03",
+  "serie": "grandes-causas",
+  "ordem": 32,
+  "titulo": "Fui demitido: perco minhas ações (stock options) da empresa?",
+  "destaque": "O plano decide, mas pode ser contestado.",
+  "resumo": "As regras do plano de ações definem o que acontece na demissão. Dispensa feita às vésperas da liberação, para impedir que o direito se complete, pode ser questionada na Justiça.",
+  "pontos": [
+    [
+      "documento",
+      "O regulamento do plano é o documento que define a perda ou não."
+    ],
+    [
+      "relogio",
+      "Opções já liberadas costumam ter prazo curto para exercício após a saída."
+    ],
+    [
+      "balanca",
+      "Demissão para impedir a aquisição do direito pode ser contestada."
+    ]
+  ],
+  "exemplo": "Paula, gerente de tecnologia, tinha opções de ações liberadas em quatro parcelas anuais. Foi dispensada três semanas antes da terceira liberação, sem nenhuma queixa sobre o trabalho dela.",
+  "corpo": "<h2>O que define a perda</h2><p>As opções de compra de ações seguem o regulamento do plano. Ele diz quando cada parte é liberada, o prazo para exercer depois da saída e o que acontece em cada tipo de desligamento. Muitos planos preservam as opções já liberadas por um prazo curto e cancelam as que ainda não foram.</p><h2>Quando dá para contestar</h2><p>Se a empresa dispensa o empregado justamente para impedir que o direito se complete, a lei considera a condição cumprida (Código Civil, art. 129). Regras confusas ou que só beneficiam a empresa também podem ser discutidas. A Justiça do Trabalho julga esses casos, por nascerem do contrato de trabalho (Constituição, art. 114, I).</p><h2>Na prática</h2><ul><li>Prevalece o entendimento de que as opções, quando o empregado paga para exercer e assume o risco da bolsa, não são salário e não entram em férias e 13º.</li><li>O prazo para exercer depois da demissão costuma ser de poucos dias ou semanas.</li></ul><h2>O erro que enfraquece o caso</h2><p>Deixar passar o prazo de exercício por não ler o regulamento logo após a demissão. O prazo para cobrar é de 2 anos depois da saída da empresa, alcançando os últimos 5 anos (Constituição, art. 7º, XXIX).</p><h2>O que fazer agora</h2><p>Peça cópia do regulamento, dos termos de outorga e do extrato das opções. Anote as datas de cada liberação e a data da dispensa.</p>",
+  "faq": [
+    [
+      "Stock options entram no cálculo das férias e do 13º?",
+      "Em regra, não. Prevalece o entendimento de que, quando o empregado paga para exercer a opção e assume o risco, ela não é salário."
+    ],
+    [
+      "Tenho prazo para exercer as opções depois de sair?",
+      "Normalmente sim, e costuma ser curto. O prazo está no regulamento do plano, que deve ser lido logo após a demissão."
+    ],
+    [
+      "Fui demitido às vésperas da liberação. Posso questionar?",
+      "Pode. Quando a dispensa serve para impedir que o direito se complete, a lei considera a condição cumprida (Código Civil, art. 129)."
+    ]
+  ],
+  "base": [
+    "CLT, art. 457",
+    "Código Civil, art. 129",
+    "Constituição Federal, art. 114, I"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/8353793/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

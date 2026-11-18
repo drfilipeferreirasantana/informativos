@@ -1,0 +1,50 @@
+{
+  "slug": "acidente-no-caminho-do-trabalho-empresa-paga-indenizacao",
+  "area": "trabalhista",
+  "data": "2026-12-15",
+  "serie": "grandes-causas",
+  "ordem": 43,
+  "titulo": "Acidente no caminho para o trabalho: a empresa paga indenização?",
+  "destaque": "Só se ela teve culpa no acidente.",
+  "resumo": "Para o INSS, o acidente no caminho entre a casa e o trabalho é acidente de trabalho. Já a indenização da empresa só cabe quando ela contribuiu para o acidente, como no transporte fornecido por ela.",
+  "pontos": [
+    [
+      "documento",
+      "Para o INSS, acidente no trajeto é acidente de trabalho."
+    ],
+    [
+      "balanca",
+      "A indenização da empresa depende de culpa dela."
+    ],
+    [
+      "predio",
+      "No ônibus ou na van da empresa, ela responde como transportadora."
+    ]
+  ],
+  "exemplo": "Leandro voltava do turno da noite no ônibus fretado pela empresa. O motorista, que tinha feito jornada dupla, dormiu ao volante e o ônibus tombou.",
+  "corpo": "<h2>Para o INSS</h2><p>O acidente sofrido no percurso entre a casa e o trabalho, em qualquer meio de transporte, é tratado como acidente de trabalho (Lei 8.213/1991, art. 21, IV, d). Por isso, deve ser comunicado por CAT e garante o benefício por acidente e, havendo afastamento de mais de 15 dias, a estabilidade de 12 meses (art. 118).</p><h2>Para a indenização da empresa</h2><p>A empresa só indeniza quando teve participação no acidente (Código Civil, art. 186). O caso mais claro é o transporte fornecido por ela: quem transporta responde pela segurança do passageiro, e a culpa de terceiro não afasta essa responsabilidade (Código Civil, arts. 734 e 735).</p><h2>Na prática</h2><ul><li>Ônibus fretado, van ou carro da empresa: a responsabilidade dela costuma ser reconhecida.</li><li>Acidente com veículo próprio: em regra, a empresa não indeniza, salvo se contribuiu, como em jornada exaustiva que causou o sono ao volante.</li></ul><h2>O erro que enfraquece o caso</h2><p>Não registrar a CAT por achar que acidente de trajeto não conta. Sem ela, o trabalhador pode perder a estabilidade e o FGTS do afastamento. O prazo para cobrar é de 2 anos depois da saída da empresa, alcançando os últimos 5 anos (Constituição, art. 7º, XXIX).</p><h2>O que fazer agora</h2><p>Guarde o boletim de ocorrência, o atendimento médico e a prova do horário de saída. Veja também <a href=\"empresa-nao-emitiu-a-cat-o-que-fazer.html\">o que fazer se a empresa não emitir a CAT</a>.</p>",
+  "faq": [
+    [
+      "Acidente de trajeto dá estabilidade?",
+      "Sim, se houver afastamento por mais de 15 dias com benefício por acidente: são 12 meses de estabilidade (Lei 8.213/1991, art. 118)."
+    ],
+    [
+      "Acidente de moto no caminho conta?",
+      "Para o INSS, sim, qualquer que seja o meio de transporte. A indenização da empresa depende de culpa dela."
+    ],
+    [
+      "A empresa deve emitir CAT no acidente de trajeto?",
+      "Sim. O acidente de trajeto também deve ser comunicado ao INSS."
+    ]
+  ],
+  "base": [
+    "Lei 8.213/1991, arts. 21, IV, d, e 118",
+    "Código Civil, arts. 186, 734 e 735"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/34421674/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

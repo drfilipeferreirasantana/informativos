@@ -1,0 +1,55 @@
+{
+  "slug": "morte-no-trabalho-como-e-calculada-a-pensao-da-familia",
+  "area": "trabalhista",
+  "data": "2026-12-05",
+  "serie": "grandes-causas",
+  "ordem": 34,
+  "titulo": "Morte no trabalho: como é calculada a pensão que a empresa paga à família?",
+  "destaque": "Parte do salário, até a idade provável.",
+  "resumo": "A pensão parte da renda que o trabalhador levava para casa. Em regra, a Justiça desconta a parte que ele gastaria consigo e fixa o pagamento até a idade que ele provavelmente alcançaria; para os filhos, em geral até os 25 anos.",
+  "pontos": [
+    [
+      "carteira",
+      "Base: a remuneração do trabalhador, com 13º e médias habituais."
+    ],
+    [
+      "calendario",
+      "Vai até a idade provável dele; para filhos, em geral até 25 anos."
+    ],
+    [
+      "escudo",
+      "A empresa pode ter de reservar capital para garantir os pagamentos."
+    ]
+  ],
+  "exemplo": "Rosana perdeu o marido, eletricista, que ganhava cerca de R$ 4.500 por mês com as horas extras. Ela tem um filho de 6 anos e não sabe se a pensão da empresa seria paga de uma vez ou mês a mês.",
+  "corpo": "<h2>O que diz a lei</h2><p>Em caso de morte, a empresa responsável deve pagar alimentos às pessoas que o trabalhador sustentava, considerando a duração provável da vida dele (Código Civil, art. 948, II). Essa pensão é diferente da pensão por morte do INSS, e as duas podem ser recebidas juntas.</p><h2>Como a Justiça calcula</h2><ul><li><b>Base:</b> a remuneração do trabalhador, incluindo 13º e horas extras ou comissões habituais.</li><li><b>Desconto:</b> na prática, a Justiça costuma considerar cerca de 2/3 da renda, entendendo que o restante seria gasto com ele mesmo.</li><li><b>Duração:</b> para cônjuge ou companheiro, até a idade provável que o trabalhador alcançaria; para os filhos, em geral até os 25 anos.</li><li><b>Divisão:</b> o valor é repartido entre os familiares que dependiam dele.</li></ul><h2>Mensal ou de uma vez?</h2><p>Em caso de morte, a pensão em regra é mensal. Para garantir o pagamento por tantos anos, o juiz pode mandar a empresa reservar capital ou dar garantia (CPC, art. 533).</p><h2>O erro que enfraquece o caso</h2><p>Não comprovar a renda real. Contracheques, extratos com depósitos de horas extras e a declaração de imposto de renda mostram quanto entrava em casa. Os prazos para cobrar existem e podem ser curtos.</p><h2>O que fazer agora</h2><p>Reúna os últimos contracheques, a carteira de trabalho e as certidões que mostram o vínculo de cada dependente. Veja também <a href=\"morte-no-trabalho-quem-da-familia-pode-pedir-indenizacao.html\">quem da família pode pedir indenização</a>.</p>",
+  "faq": [
+    [
+      "A pensão da empresa é paga de uma vez?",
+      "Em caso de morte, em regra é mensal, com garantia de pagamento, como a reserva de capital (CPC, art. 533)."
+    ],
+    [
+      "Até quando o filho recebe?",
+      "Em geral, até os 25 anos, idade em que a Justiça considera que ele já concluiu os estudos."
+    ],
+    [
+      "Horas extras entram no cálculo?",
+      "Sim, quando eram habituais, porque faziam parte da renda que sustentava a família."
+    ],
+    [
+      "A pensão do INSS é descontada?",
+      "Não. A pensão por morte do INSS e a pensão paga pela empresa são independentes."
+    ]
+  ],
+  "base": [
+    "Código Civil, art. 948, II",
+    "CPC, art. 533",
+    "Constituição Federal, art. 7º, XXVIII"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/8296977/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}
