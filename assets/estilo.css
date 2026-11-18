@@ -194,6 +194,7 @@ p{margin:0}
 .rodape-logo img{width:96px;height:96px}
 .rodape-logo b{font:700 1.02rem var(--serifa);color:#fff;letter-spacing:.04em;text-transform:uppercase}
 .rodape-logo small{font-size:.76rem;letter-spacing:.12em;text-transform:uppercase;color:#9b958c}
+.assinatura-marca{margin:.4rem 0 0;font:italic 600 1rem var(--serifa);color:#e9dcc0}
 .rodape h3{font-size:1.15rem;color:#fff;margin-bottom:.6rem}
 .rodape p+p{margin-top:.3rem}
 .rodape a{text-underline-offset:4px;overflow-wrap:anywhere}

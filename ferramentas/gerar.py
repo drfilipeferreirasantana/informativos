@@ -344,6 +344,9 @@ ICONES_CONTATO = {
 }
 
 
+ASSINATURA_MARCA = "Seu direito importa. Nós o defendemos."  # frase-assinatura escolhida em 18/11/2026
+
+
 def rodape(base):
     issn = f"\n      <p>ISSN {ISSN}</p>" if ISSN else ""
     contatos = [
@@ -362,6 +365,7 @@ def rodape(base):
     <div class="rodape-logo">
       <img src="{base}assets/emblema-prata.png" width="96" height="96" alt="Logo da {NOME}">
       <b>{NOME}</b><small>Escritório de Advocacia</small>
+      <p class="assinatura-marca">{ASSINATURA_MARCA}</p>
     </div>
     <div>
       <h3>{TITULO}</h3>{issn}

@@ -82,6 +82,8 @@ Regra para cada post novo:
 
 ## 9. Linguagem e voz do escritório (decidido pelo Dr. Filipe em 15/11/2026)
 
+**Frase-assinatura da marca (escolhida pelo Dr. Filipe em 18/11/2026): "Seu direito importa. Nós o defendemos."** Vai no fim de todo carrossel, vídeo, post e no rodapé dos sites, sempre igual, para ser lembrada (estratégia de repetição). Sentimento que ela deve passar: força ao lado do cliente.
+
 Frase que guia tudo: **"Conhecer o próprio direito é a primeira forma de protegê-lo."** O leitor deve terminar o informativo com **confiança no escritório**: sentir que encontrou quem domina o assunto.
 
 **Tom: conselheiro firme e direto.** Diz o que precisa ser dito, sem rodeio e sem promessa de resultado.
