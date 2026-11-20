@@ -109,6 +109,15 @@ SERIES = {
         "pagina": "grandes-causas.html",
         "descricao": "Informativos sobre as questões trabalhistas que costumam exigir mais prova e cálculos mais detalhados: contratação como PJ, gerentes e cargos de confiança, bancários, equiparação salarial, salário pago por fora, comissões e bônus, contratos de executivos, trabalho no exterior, PDV, acidente e doença do trabalho, burnout, indenização à família e o valor do dano moral.",
     },
+    # Área pedida pelo Dr. Filipe em 20/11/2026: informativos para empresários sobre prevenção
+    # trabalhista (contratação, ponto, PJ e terceirizados, segurança do trabalho, demissão).
+    # Só conteúdo técnico; nenhuma oferta de serviço (Provimento 205/2021).
+    "para-empresas": {
+        "titulo": "Para empresas",
+        "aba": "Para empresas",
+        "pagina": "para-empresas.html",
+        "descricao": "Informativos para empresários e gestores sobre como prevenir problemas trabalhistas: contratação, controle de ponto, PJ e terceirizados, segurança do trabalho e demissão, com o que conferir na empresa em cada tema.",
+    },
     # Série pedida pelo Dr. Filipe em 14/11/2026: princípios da Constituição (liberdade, intimidade,
     # dignidade, igualdade, valor social do trabalho) aplicados ao dia a dia do trabalho.
     "constituicao-no-trabalho": {
@@ -320,6 +329,7 @@ def cabeca(titulo, descricao, url, base, tipo="website", imagem=None, extra="", 
   <nav aria-label="Principal">
     <a href="{base}index.html">Informativos</a>
     <a href="{base}index.html#pesquisa">Pesquisar</a>
+    <a href="{base}para-empresas.html">Para empresas</a>
     <a href="{SITE}">Site do escritório</a>
     <a class="nav-whats" href="{WHATS_GERAL}" target="_blank" rel="noopener">{ICONE_WHATS}<span>WhatsApp</span></a>
   </nav>

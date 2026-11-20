@@ -1,0 +1,54 @@
+{
+  "slug": "como-contratar-sem-criar-passivo-trabalhista",
+  "area": "trabalhista",
+  "data": "2026-11-20",
+  "serie": "para-empresas",
+  "ordem": 1,
+  "titulo": "Como contratar sem criar passivo trabalhista?",
+  "destaque": "Registro desde o primeiro dia.",
+  "resumo": "A maior parte dos processos nasce na contratação: empregado sem registro, função mal descrita e falta do exame admissional. Acertar a entrada custa pouco e evita a conta mais cara, que chega anos depois.",
+  "pontos": [
+    [
+      "documento",
+      "O registro na carteira e no eSocial vale desde o primeiro dia."
+    ],
+    [
+      "saude",
+      "O exame admissional é feito antes do início do trabalho."
+    ],
+    [
+      "calendario",
+      "O contrato de experiência tem limite de 90 dias."
+    ],
+    [
+      "alerta",
+      "Empregado sem registro gera multa por pessoa."
+    ]
+  ],
+  "exemplo": "Uma loja de material de construção chamou um ajudante para testar por duas semanas, sem registro. Ele se machucou no estoque no oitavo dia, e a empresa respondeu ao mesmo tempo pelo acidente e pela falta de registro.",
+  "corpo": "<p>Passivo trabalhista é a conta que a empresa acumula sem perceber: direitos que deixaram de ser pagos e que podem ser cobrados depois, com correção. Boa parte dele nasce no primeiro dia do contrato.</p><h2>O que a lei exige na contratação</h2><ul><li><b>Registro:</b> o empregado precisa estar registrado desde o início do trabalho, e a carteira digital é anotada pelo eSocial (CLT, arts. 29 e 41).</li><li><b>Exame admissional:</b> feito antes de o empregado começar, dentro do programa de saúde da empresa (CLT, art. 168, e NR-7).</li><li><b>Contrato de experiência:</b> pode durar no máximo 90 dias, já contando uma eventual prorrogação (CLT, art. 445, parágrafo único).</li><li><b>Função e salário por escrito:</b> o contrato deve dizer o cargo, a jornada e a remuneração. Mudança depois só vale com acordo e sem prejuízo ao empregado (CLT, art. 468).</li></ul><h2>O erro que custa caro</h2><p>Colocar alguém para testar sem registro. Além da multa administrativa por empregado não registrado (CLT, art. 47), qualquer acidente ou demissão nesse período vira um problema maior, porque a empresa não tem nenhum documento a seu favor.</p><p>Outro erro comum é registrar um salário menor e pagar o resto por fora. Essa diferença entra no cálculo de férias, 13º, FGTS e INSS e costuma ser cobrada com todos os reflexos (veja <a href=\"salario-por-fora-reflexos.html\">salário pago por fora</a>).</p><h2>O que conferir na sua empresa</h2><ul><li>Todos os que trabalham hoje estão registrados desde o primeiro dia?</li><li>Os exames admissionais estão arquivados?</li><li>Os contratos de experiência terminam dentro dos 90 dias?</li><li>O salário da carteira é o salário que é pago?</li></ul><p>Pelo lado do empregado, o informativo <a href=\"trabalho-sem-carteira-assinada.html\">trabalho sem carteira assinada</a> mostra o que pode ser cobrado quando o registro falta.</p>",
+  "faq": [
+    [
+      "Posso contratar por alguns dias para testar, sem registro?",
+      "Não. O vínculo existe desde o primeiro dia de trabalho. Para testar, a lei prevê o contrato de experiência, de até 90 dias, com registro (CLT, art. 445)."
+    ],
+    [
+      "O exame admissional é obrigatório para toda empresa?",
+      "Sim. Ele é feito antes do início do trabalho e faz parte do programa de saúde ocupacional da empresa (CLT, art. 168, e NR-7)."
+    ],
+    [
+      "Posso mudar a função depois da contratação?",
+      "Só com acordo do empregado e sem prejuízo para ele. Mudança que prejudica o empregado é nula (CLT, art. 468)."
+    ]
+  ],
+  "base": [
+    "CLT, arts. 29, 41, 47, 168, 445 e 468",
+    "NR-7 (Programa de Controle Médico de Saúde Ocupacional)"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/40189072/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "slug": "pj-e-terceirizado-quando-a-empresa-corre-risco",
+  "area": "trabalhista",
+  "data": "2026-11-20",
+  "serie": "para-empresas",
+  "ordem": 3,
+  "titulo": "PJ e terceirizado: quando a empresa corre risco?",
+  "destaque": "O dia a dia vale mais que o contrato.",
+  "resumo": "Contratar empresa ou prestador é permitido, inclusive para a atividade principal. O risco surge quando o prestador trabalha como empregado ou quando a terceirizada não paga a própria equipe.",
+  "pontos": [
+    [
+      "maleta",
+      "Ordens diretas, horário e pessoalidade indicam vínculo."
+    ],
+    [
+      "predio",
+      "A contratante responde se a terceirizada não pagar."
+    ],
+    [
+      "calendario",
+      "Ex-empregado só volta como PJ após 18 meses."
+    ],
+    [
+      "check",
+      "Conferir as guias da terceirizada protege a empresa."
+    ]
+  ],
+  "exemplo": "Uma clínica demitiu a recepcionista e, no mês seguinte, a recontratou como pessoa jurídica, no mesmo horário e com a mesma chefe. Dois anos depois, ela pediu o vínculo de todo o período, e a clínica só tinha notas fiscais para mostrar.",
+  "corpo": "<p>O STF reconheceu que a terceirização é permitida em qualquer atividade, inclusive na atividade principal da empresa (ADPF 324 e Tema 725). Isso não quer dizer que todo contrato com prestador é seguro. Dois riscos aparecem com frequência.</p><h2>Risco 1: o prestador que é empregado</h2><p>Se a pessoa trabalha pessoalmente, todos os dias, recebendo ordens e salário fixo, a Justiça do Trabalho pode reconhecer o vínculo, mesmo com contrato de PJ assinado (CLT, arts. 3º e 9º). O STF ainda vai fixar os critérios da contratação como PJ no Tema 1.389, e a situação deve ser conferida caso a caso.</p><p>A lei também impede que o ex-empregado volte a prestar serviço à mesma empresa como PJ, ou por meio de uma terceirizada, antes de 18 meses da demissão (Lei 6.019/1974, arts. 5º-C e 5º-D).</p><h2>Risco 2: a terceirizada que não paga</h2><p>Quando a prestadora deixa de pagar salários ou verbas, a empresa que contratou o serviço responde de forma subsidiária, ou seja, paga se a terceirizada não pagar (Lei 6.019/1974, art. 5º-A, § 5º, e TST, Súmula 331, IV). A segurança, a higiene e o atendimento médico dos terceirizados no local também são responsabilidade da contratante (art. 5º-A, § 3º).</p><h2>O que conferir na sua empresa</h2><ul><li>Os prestadores PJ têm autonomia real de horário e de forma de trabalho?</li><li>Algum ex-empregado voltou como PJ ou terceirizado em menos de 18 meses?</li><li>A terceirizada entrega todo mês os comprovantes de salário, FGTS e INSS da equipe?</li><li>O contrato prevê essa entrega e a retenção do pagamento se ela faltar?</li></ul><p>O informativo <a href=\"contratado-como-pj-vinculo-de-emprego.html\">contratado como PJ: vínculo de emprego</a> mostra como o tema é visto pelo lado do trabalhador.</p>",
+  "faq": [
+    [
+      "Posso terceirizar a atividade principal da empresa?",
+      "Sim. O STF decidiu que a terceirização é permitida em qualquer atividade (ADPF 324 e Tema 725)."
+    ],
+    [
+      "Se a terceirizada não pagar os empregados, a minha empresa paga?",
+      "Pode pagar. A contratante responde de forma subsidiária pelas dívidas trabalhistas do período em que recebeu o serviço (Lei 6.019/1974, art. 5º-A, § 5º, e TST, Súmula 331, IV)."
+    ],
+    [
+      "Posso recontratar um ex-empregado como PJ?",
+      "Só depois de 18 meses da demissão, salvo se ele for aposentado (Lei 6.019/1974, art. 5º-C). E, mesmo depois disso, a relação não pode ter as características de emprego (CLT, art. 3º)."
+    ]
+  ],
+  "base": [
+    "CLT, arts. 3º e 9º",
+    "Lei 6.019/1974, arts. 4º-A, 5º-A, 5º-C e 5º-D",
+    "STF, ADPF 324 e Tema 725 de Repercussão Geral",
+    "STF, Tema 1.389 de Repercussão Geral (pendente de julgamento)",
+    "TST, Súmula 331"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/6918529/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

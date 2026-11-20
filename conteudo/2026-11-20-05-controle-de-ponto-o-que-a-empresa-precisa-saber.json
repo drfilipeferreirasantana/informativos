@@ -1,0 +1,55 @@
+{
+  "slug": "controle-de-ponto-o-que-a-empresa-precisa-saber",
+  "area": "trabalhista",
+  "data": "2026-11-20",
+  "serie": "para-empresas",
+  "ordem": 2,
+  "titulo": "Controle de ponto: o que a empresa precisa saber?",
+  "destaque": "Obrigatório acima de 20 empregados.",
+  "resumo": "Sem cartão de ponto confiável, a jornada que o empregado alegar no processo tende a prevalecer. Horários sempre iguais, todos os dias, também fazem o controle perder valor.",
+  "pontos": [
+    [
+      "relogio",
+      "Acima de 20 trabalhadores no local, o ponto é obrigatório."
+    ],
+    [
+      "alerta",
+      "Horários sempre idênticos fazem o ponto perder valor."
+    ],
+    [
+      "documento",
+      "Sem os cartões, vale a jornada alegada, salvo prova contrária."
+    ],
+    [
+      "check",
+      "O ponto por exceção é permitido por acordo."
+    ]
+  ],
+  "exemplo": "Uma transportadora com 35 empregados anotava o ponto à mão, sempre das 8h às 17h. No processo, um motorista disse que saía às 21h. Como os cartões não tinham variação nenhuma, o juiz não aceitou o controle, e a empresa precisou provar o horário só com testemunhas.",
+  "corpo": "<p>O controle de ponto é o principal documento da empresa num processo de horas extras. Quando ele falta, ou não merece confiança, quem conta a jornada é o empregado.</p><h2>Quando o ponto é obrigatório</h2><p>Estabelecimentos com mais de 20 trabalhadores devem anotar a entrada e a saída, por registro manual, mecânico ou eletrônico (CLT, art. 74, § 2º). A lei também permite o ponto por exceção, em que só se anotam as horas fora do normal, se previsto em acordo individual escrito, convenção ou acordo coletivo (CLT, art. 74, § 4º).</p><p>Empresa menor não é obrigada, mas, sem nenhum controle, tem pouca prova para se defender de um pedido de horas extras.</p><h2>O que acontece no processo</h2><p>Se a empresa obrigada ao ponto não apresenta os cartões sem justificativa, presume-se verdadeira a jornada informada pelo empregado, o que pode ser afastado por outra prova. E cartões com horários de entrada e saída sempre iguais não valem como prova: a jornada alegada passa a valer se a empresa não provar o contrário (TST, Súmula 338, I e III).</p><h2>O erro que custa caro</h2><p>Deixar o empregado bater o ponto e continuar trabalhando, ou mandar anotar o horário do contrato. Hora extra feita e não registrada não some: ela aparece depois no processo, com adicional de pelo menos 50% e reflexos (veja <a href=\"horas-extras-limite-e-adicional.html\">horas extras: limite e adicional</a>).</p><h2>O que conferir na sua empresa</h2><ul><li>Quantos trabalhadores há em cada estabelecimento?</li><li>Os cartões mostram a variação real dos horários?</li><li>O intervalo de almoço está registrado ou pré-assinalado?</li><li>Os cartões dos últimos 5 anos estão guardados?</li></ul>",
+  "faq": [
+    [
+      "Empresa com menos de 20 empregados precisa de ponto?",
+      "A lei não obriga (CLT, art. 74, § 2º). Mas, sem controle, a empresa fica com pouca prova se for cobrada por horas extras."
+    ],
+    [
+      "O que é ponto por exceção?",
+      "É o sistema em que só se anotam as horas fora da jornada normal, como atrasos e horas extras. Ele é permitido se previsto em acordo individual escrito, convenção ou acordo coletivo (CLT, art. 74, § 4º)."
+    ],
+    [
+      "Ponto com horários sempre iguais vale?",
+      "Não como prova. O TST entende que horários de entrada e saída uniformes não valem, e a jornada alegada pelo empregado passa a valer se a empresa não provar o contrário (Súmula 338, III)."
+    ]
+  ],
+  "base": [
+    "CLT, arts. 59 e 74, §§ 2º e 4º",
+    "Constituição Federal, art. 7º, XVI",
+    "TST, Súmula 338"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/12541697/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

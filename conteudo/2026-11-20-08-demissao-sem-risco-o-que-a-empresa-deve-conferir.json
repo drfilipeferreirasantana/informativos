@@ -1,0 +1,59 @@
+{
+  "slug": "demissao-sem-risco-o-que-a-empresa-deve-conferir",
+  "area": "trabalhista",
+  "data": "2026-11-20",
+  "serie": "para-empresas",
+  "ordem": 5,
+  "titulo": "Demissão sem risco: o que a empresa deve conferir antes?",
+  "destaque": "Prazo de 10 dias e estabilidades.",
+  "resumo": "Antes de demitir, a empresa precisa ver se o empregado tem estabilidade, fazer o exame demissional e pagar tudo em até 10 dias. Atraso gera multa, e a justa causa sem prova costuma ser revertida.",
+  "pontos": [
+    [
+      "calendario",
+      "As verbas são pagas em até 10 dias após o fim do contrato."
+    ],
+    [
+      "escudo",
+      "Gestante, acidentado e membro da CIPA têm estabilidade."
+    ],
+    [
+      "documento",
+      "Justa causa precisa de prova e reação imediata."
+    ],
+    [
+      "saude",
+      "O exame demissional faz parte da saída."
+    ]
+  ],
+  "exemplo": "Um supermercado demitiu uma operadora de caixa sem saber que ela estava grávida. Ela informou a gravidez semanas depois, e a empresa teve de reintegrá-la ou pagar os salários de todo o período de estabilidade.",
+  "corpo": "<p>A demissão é o momento em que a maioria dos processos começa. Uma conferência simples, feita antes, evita boa parte deles.</p><h2>1. O empregado tem estabilidade?</h2><p>Algumas pessoas não podem ser demitidas sem justa causa por um período: a gestante, da confirmação da gravidez até 5 meses após o parto; o membro eleito da CIPA; o empregado que voltou de afastamento por acidente de trabalho, por 12 meses; e o dirigente sindical (Constituição, ADCT, art. 10, II; Lei 8.213/1991, art. 118; CLT, art. 543, § 3º). Também é preciso olhar a convenção coletiva, que pode prever outras.</p><h2>2. Justa causa só com prova</h2><p>A justa causa só vale para as faltas previstas na lei (CLT, art. 482) e precisa ser aplicada logo depois de a empresa saber do fato, com prova e de forma proporcional à falta. Advertências e suspensões anteriores registradas ajudam muito. Sem isso, a Justiça costuma converter em demissão sem justa causa, com todas as verbas.</p><h2>3. Prazo e valores</h2><ul><li>As verbas e os documentos da rescisão devem ser entregues em até 10 dias do fim do contrato. O atraso gera multa de um salário (CLT, art. 477, §§ 6º e 8º; veja <a href=\"verbas-rescisorias-prazo-de-10-dias.html\">o prazo de 10 dias</a>).</li><li>O aviso prévio cresce 3 dias por ano trabalhado, até 90 dias (Lei 12.506/2011).</li><li>Na demissão sem justa causa, a multa do FGTS é de 40% (Lei 8.036/1990, art. 18, § 1º).</li><li>Verba que não é discutida e não é paga até a primeira audiência recebe acréscimo de 50% (CLT, art. 467; veja <a href=\"multa-do-artigo-467.html\">a multa do artigo 467</a>).</li></ul><h2>O que conferir antes de demitir</h2><ul><li>Gravidez, afastamento recente, CIPA ou cargo sindical?</li><li>A convenção coletiva prevê alguma estabilidade própria?</li><li>Na justa causa, há prova e a reação foi imediata?</li><li>O exame demissional está marcado e o pagamento cabe nos 10 dias?</li></ul>",
+  "faq": [
+    [
+      "A empresa não sabia da gravidez. Mesmo assim existe estabilidade?",
+      "Sim. O STF decidiu que basta a gravidez ser anterior à demissão, mesmo que a empresa não soubesse (Tema 497)."
+    ],
+    [
+      "Qual é o prazo para pagar a rescisão?",
+      "Até 10 dias contados do fim do contrato, com a entrega dos documentos. O atraso gera multa de um salário (CLT, art. 477, §§ 6º e 8º)."
+    ],
+    [
+      "Posso dar justa causa por uma falta antiga?",
+      "Em regra, não. A punição precisa vir logo depois de a empresa saber da falta. Demorar pode ser entendido como perdão."
+    ]
+  ],
+  "base": [
+    "Constituição Federal, ADCT, art. 10, II",
+    "CLT, arts. 467, 477, 482 e 543",
+    "Lei 8.213/1991, art. 118",
+    "Lei 8.036/1990, art. 18",
+    "Lei 12.506/2011",
+    "STF, Tema 497 de Repercussão Geral",
+    "NR-7"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/7054502/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

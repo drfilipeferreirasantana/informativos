@@ -1,0 +1,57 @@
+{
+  "slug": "seguranca-do-trabalho-o-que-a-empresa-e-obrigada-a-ter",
+  "area": "trabalhista",
+  "data": "2026-11-20",
+  "serie": "para-empresas",
+  "ordem": 4,
+  "titulo": "Segurança do trabalho: o que a empresa é obrigada a ter?",
+  "destaque": "PGR, PCMSO e EPI com registro.",
+  "resumo": "A empresa precisa identificar os riscos, cuidar da saúde da equipe e entregar e fiscalizar os equipamentos de proteção. Sem esses documentos, um acidente fica muito mais difícil de defender.",
+  "pontos": [
+    [
+      "escudo",
+      "O PGR mapeia os riscos e diz como controlá-los."
+    ],
+    [
+      "saude",
+      "O PCMSO organiza os exames de saúde da equipe."
+    ],
+    [
+      "check",
+      "EPI entregue sem ficha assinada é difícil de provar."
+    ],
+    [
+      "alerta",
+      "Acidente exige a CAT até o primeiro dia útil."
+    ]
+  ],
+  "exemplo": "Uma serralheria entregava óculos de proteção a todos, mas nunca registrou a entrega. Quando um empregado se feriu no olho, a empresa não conseguiu provar que tinha fornecido o equipamento nem que havia treinado a equipe.",
+  "corpo": "<p>Segurança do trabalho não é só uma exigência da fiscalização. É também a principal defesa da empresa quando acontece um acidente ou aparece uma doença ligada ao trabalho.</p><h2>Os documentos e cuidados principais</h2><ul><li><b>PGR (Programa de Gerenciamento de Riscos):</b> identifica os riscos de cada atividade e o plano para controlá-los (NR-1). Pequenas empresas de baixo risco podem ter regras simplificadas e, em certos casos, ficar dispensadas, conforme a própria NR-1.</li><li><b>PCMSO (Programa de Controle Médico de Saúde Ocupacional):</b> organiza os exames admissional, periódicos, de retorno, de mudança de risco e demissional (NR-7).</li><li><b>EPI:</b> a empresa deve fornecer de graça o equipamento adequado, orientar o uso, exigir que seja usado e trocar quando estragar (NR-6 e CLT, art. 166). A entrega deve ficar registrada.</li><li><b>Treinamento:</b> a empresa deve instruir os empregados sobre como evitar acidentes e doenças (CLT, art. 157, II).</li></ul><h2>Quando acontece o acidente</h2><p>A empresa deve comunicar o acidente ao INSS por meio da CAT até o primeiro dia útil seguinte e, em caso de morte, de imediato (Lei 8.213/1991, art. 22). Se ficar provada a culpa da empresa, ela pode responder por indenização, além do que o INSS paga (Constituição, art. 7º, XXVIII). Em atividades de risco, o STF admite a responsabilidade mesmo sem culpa (Tema 932).</p><p>O empregado que recebeu auxílio-doença por acidente de trabalho tem ainda estabilidade de 12 meses depois da volta (veja <a href=\"estabilidade-depois-de-acidente-de-trabalho.html\">estabilidade depois do acidente</a>).</p><h2>O que conferir na sua empresa</h2><ul><li>O PGR e o PCMSO estão atualizados e batem com as atividades de hoje?</li><li>Cada entrega de EPI tem ficha assinada pelo empregado?</li><li>Os treinamentos obrigatórios têm lista de presença?</li><li>Há um procedimento para emitir a CAT no prazo?</li></ul>",
+  "faq": [
+    [
+      "Toda empresa precisa ter PGR?",
+      "Em regra, sim, pela NR-1. Microempresas e empresas de pequeno porte de baixo risco podem ter regras simplificadas e, em certos casos, ficar dispensadas, conforme a própria norma."
+    ],
+    [
+      "O empregado se recusa a usar o EPI. O que fazer?",
+      "Orientar, registrar a recusa e aplicar as medidas disciplinares. A recusa sem motivo ao uso do EPI é falta do empregado (CLT, art. 158, parágrafo único)."
+    ],
+    [
+      "Qual é o prazo para emitir a CAT?",
+      "Até o primeiro dia útil seguinte ao acidente e, em caso de morte, de imediato (Lei 8.213/1991, art. 22)."
+    ]
+  ],
+  "base": [
+    "Constituição Federal, art. 7º, XXII e XXVIII",
+    "CLT, arts. 157, 158 e 166",
+    "Lei 8.213/1991, arts. 22 e 118",
+    "NR-1, NR-6 e NR-7",
+    "STF, Tema 932 de Repercussão Geral"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/3846183/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}
