@@ -1,0 +1,52 @@
+{
+  "slug": "revisao-da-aposentadoria-qual-e-o-prazo",
+  "area": "previdenciario",
+  "data": "2026-12-28",
+  "titulo": "Revisão da aposentadoria: qual é o prazo?",
+  "destaque": "Dez anos desde o primeiro pagamento.",
+  "resumo": "O aposentado tem 10 anos para pedir a revisão do cálculo do benefício. Passado esse prazo, o direito de corrigir o valor se perde, mesmo que o erro seja evidente.",
+  "pontos": [
+    [
+      "calendario",
+      "O prazo para pedir a revisão é de 10 anos."
+    ],
+    [
+      "documento",
+      "Salário ou emprego fora do CNIS é erro comum."
+    ],
+    [
+      "carteira",
+      "Os atrasados são pagos dos últimos 5 anos."
+    ],
+    [
+      "check",
+      "A carta de concessão mostra como o INSS calculou."
+    ]
+  ],
+  "exemplo": "Carlos se aposentou em 2019. Ao conferir a carta de concessão, percebeu que os salários de um emprego dos anos 2000 não entraram no cálculo, porque a empresa não tinha informado o INSS.",
+  "corpo": "<p>O cálculo da aposentadoria depende dos salários e do tempo que o INSS tem registrados. Quando falta alguma informação, o benefício sai menor, e o aposentado só descobre se conferir.</p><h2>O prazo</h2><p>O pedido de revisão deve ser feito em até 10 anos, contados do mês seguinte ao primeiro pagamento do benefício (Lei 8.213/1991, art. 103). Se a revisão for aceita, os valores atrasados são pagos dos últimos 5 anos antes do pedido (art. 103, parágrafo único).</p><h2>Os erros mais comuns</h2><ul><li>Emprego ou salário que não aparece no CNIS.</li><li>Tempo de trabalho com insalubridade ou periculosidade que não foi contado como especial.</li><li>Tempo rural, de serviço militar ou de aluno-aprendiz que não foi somado.</li></ul><p>A chamada revisão da vida toda não é mais possível: em 2024, o STF decidiu que a regra de cálculo da lei de 1999 é obrigatória (ADIs 2.110 e 2.111).</p><h2>O que levar à primeira conversa</h2><ul><li>A carta de concessão da aposentadoria.</li><li>O extrato do CNIS, tirado no Meu INSS.</li><li>As carteiras de trabalho e, se houver, o PPP das empresas.</li></ul>",
+  "faq": [
+    [
+      "O prazo vale para quem teve o pedido negado?",
+      "Sim. Os 10 anos também valem para rever a decisão que negou o benefício, contados de quando o segurado tomou conhecimento dela (Lei 8.213/1991, art. 103)."
+    ],
+    [
+      "Se a revisão for aceita, recebo os atrasados?",
+      "Sim, mas só das parcelas dos últimos 5 anos antes do pedido (Lei 8.213/1991, art. 103, parágrafo único)."
+    ],
+    [
+      "Onde vejo como o INSS calculou o meu benefício?",
+      "Na carta de concessão e no extrato do CNIS, os dois disponíveis no Meu INSS."
+    ]
+  ],
+  "base": [
+    "Lei 8.213/1991, art. 103",
+    "STF, ADIs 2.110 e 2.111 (2024)"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/7680696/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

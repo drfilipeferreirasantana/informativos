@@ -1,0 +1,51 @@
+{
+  "slug": "cnis-com-erro-como-corrigir",
+  "area": "previdenciario",
+  "data": "2027-01-18",
+  "titulo": "CNIS com erro: como corrigir antes de se aposentar?",
+  "destaque": "Com documentos, pelo Meu INSS.",
+  "resumo": "O CNIS é o cadastro com os empregos e salários usados pelo INSS. Emprego faltando, salário errado ou data trocada reduzem o benefício, e a correção deve ser pedida com provas.",
+  "pontos": [
+    [
+      "documento",
+      "O extrato do CNIS sai no Meu INSS."
+    ],
+    [
+      "alerta",
+      "Emprego sem data de saída é erro comum."
+    ],
+    [
+      "carteira",
+      "Carteira de trabalho e contracheques servem de prova."
+    ],
+    [
+      "check",
+      "Corrigir antes do pedido evita revisão depois."
+    ]
+  ],
+  "exemplo": "Márcio tirou o extrato do CNIS aos 58 anos e viu que três anos de trabalho numa padaria não apareciam. A carteira de trabalho tinha o registro, e ele pediu a correção antes de se aposentar.",
+  "corpo": "<p>O CNIS (Cadastro Nacional de Informações Sociais) reúne os empregos, as contribuições e os salários de cada pessoa. É com ele que o INSS calcula o benefício.</p><h2>O que diz a lei</h2><p>O INSS usa as informações do CNIS, e o segurado pode pedir a inclusão, a exclusão ou a correção de dados, apresentando documentos (Lei 8.213/1991, art. 29-A). Para o empregado, a contribuição que a empresa deixou de recolher conta mesmo assim, porque o recolhimento é obrigação dela (art. 34, I).</p><h2>Os erros mais comuns</h2><ul><li>Emprego que não aparece no cadastro.</li><li>Emprego sem data de saída, que trava a contagem.</li><li>Salários menores que os reais ou meses sem salário.</li><li>Contribuições como autônomo pagas com código errado.</li></ul><h2>O que fazer</h2><p>Tirar o extrato no Meu INSS, conferir ano a ano e pedir a correção com os documentos. Fazer isso anos antes da aposentadoria evita surpresas e revisões depois (veja <a href=\"revisao-da-aposentadoria-qual-e-o-prazo.html\">o prazo da revisão</a>).</p><h2>O que levar à primeira conversa</h2><ul><li>O extrato do CNIS.</li><li>As carteiras de trabalho, contracheques e termos de rescisão.</li><li>Os carnês ou guias de contribuição, se houver.</li></ul>",
+  "faq": [
+    [
+      "A carteira de trabalho vale como prova?",
+      "Sim. A carteira de trabalho é um dos principais documentos para provar o emprego e o período trabalhado."
+    ],
+    [
+      "E se a empresa não recolheu o INSS?",
+      "Para o empregado, a falta de recolhimento é responsabilidade da empresa, e o tempo deve contar se o emprego for provado (Lei 8.213/1991, art. 34, I)."
+    ],
+    [
+      "Quanto tempo leva a correção?",
+      "Depende da análise do INSS. Por isso, vale pedir com antecedência, anos antes da aposentadoria."
+    ]
+  ],
+  "base": [
+    "Lei 8.213/1991, arts. 29-A e 34"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/5520296/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

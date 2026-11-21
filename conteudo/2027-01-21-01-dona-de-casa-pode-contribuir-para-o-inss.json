@@ -1,0 +1,51 @@
+{
+  "slug": "dona-de-casa-pode-contribuir-para-o-inss",
+  "area": "previdenciario",
+  "data": "2027-01-21",
+  "titulo": "Dona de casa pode contribuir para o INSS?",
+  "destaque": "Sim, até com alíquota de 5%.",
+  "resumo": "Quem não tem renda própria e cuida da casa pode contribuir como segurado facultativo. Se a família for de baixa renda e estiver no CadÚnico, a contribuição é de 5% do salário mínimo.",
+  "pontos": [
+    [
+      "casa",
+      "A contribuição é feita como segurado facultativo."
+    ],
+    [
+      "carteira",
+      "Baixa renda no CadÚnico paga 5% do salário mínimo."
+    ],
+    [
+      "alerta",
+      "Com 5%, a aposentadoria é por idade."
+    ],
+    [
+      "calendario",
+      "Pagar em dia mantém a proteção do INSS."
+    ]
+  ],
+  "exemplo": "Joana cuida da casa e dos filhos desde que se casou. A família está no CadÚnico, e ela passou a pagar 5% do salário mínimo para ter direito a auxílio-doença e, no futuro, à aposentadoria por idade.",
+  "corpo": "<p>Quem trabalha só em casa, sem renda própria, também pode garantir a proteção do INSS: aposentadoria por idade, auxílio-doença e pensão para a família.</p><h2>As formas de contribuir</h2><ul><li><b>5% do salário mínimo:</b> para quem não tem renda própria, se dedica só ao trabalho doméstico na própria casa e é de família de baixa renda, inscrita no CadÚnico, com renda mensal de até 2 salários mínimos (Lei 8.212/1991, art. 21, §§ 2º, II, b, e 4º).</li><li><b>11% do salário mínimo:</b> para quem não se enquadra na baixa renda (art. 21, § 2º, I).</li><li><b>20%:</b> sobre um valor escolhido, para quem quer contar o tempo em todas as regras.</li></ul><h2>O erro que custa caro</h2><p>Pagar 5% com o CadÚnico desatualizado ou com renda acima do limite. O INSS pode não validar essas contribuições, e o problema só aparece na hora do benefício.</p><p>Com 5% ou 11%, a aposentadoria é por idade. Para usar esse tempo em outras regras, é preciso complementar a diferença (art. 21, § 3º).</p>",
+  "faq": [
+    [
+      "Com 5% eu me aposento?",
+      "Sim, por idade. Para contar esse tempo em outras regras, é preciso pagar a diferença (Lei 8.212/1991, art. 21, § 3º)."
+    ],
+    [
+      "O que acontece se o CadÚnico estiver desatualizado?",
+      "O INSS pode não validar as contribuições de 5%. O cadastro precisa estar em dia."
+    ],
+    [
+      "Quem tem renda pode pagar 5%?",
+      "Não. Os 5% são só para quem não tem renda própria e é de família de baixa renda."
+    ]
+  ],
+  "base": [
+    "Lei 8.212/1991, art. 21, §§ 2º, 3º e 4º"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/7705331/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

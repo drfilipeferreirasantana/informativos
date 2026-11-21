@@ -1,0 +1,52 @@
+{
+  "slug": "aposentadoria-por-invalidez-quem-tem-direito",
+  "area": "previdenciario",
+  "data": "2026-12-24",
+  "titulo": "Aposentadoria por invalidez: quem tem direito?",
+  "destaque": "Incapacidade total e permanente.",
+  "resumo": "Hoje o nome é aposentadoria por incapacidade permanente. Ela é paga a quem não consegue mais trabalhar em nenhuma atividade, com comprovação na perícia do INSS, e em regra exige 12 contribuições.",
+  "pontos": [
+    [
+      "saude",
+      "A perícia do INSS precisa confirmar a incapacidade."
+    ],
+    [
+      "calendario",
+      "Em regra, são exigidas 12 contribuições."
+    ],
+    [
+      "alerta",
+      "Acidente e algumas doenças graves dispensam esse mínimo."
+    ],
+    [
+      "documento",
+      "Laudos e exames atualizados fazem diferença."
+    ]
+  ],
+  "exemplo": "Rosângela, costureira de 52 anos, teve um AVC e ficou com sequelas que impedem qualquer trabalho. Recebia auxílio-doença havia um ano, e a perícia concluiu que não havia previsão de recuperação.",
+  "corpo": "<p>A antiga aposentadoria por invalidez passou a se chamar aposentadoria por incapacidade permanente com a reforma da Previdência de 2019. A ideia continua a mesma: ela é para quem não tem condições de voltar a trabalhar em nenhuma atividade que garanta o sustento.</p><h2>O que a lei exige</h2><ul><li><b>Incapacidade total e permanente</b>, confirmada pela perícia médica do INSS (Lei 8.213/1991, art. 42).</li><li><b>Qualidade de segurado:</b> estar contribuindo ou dentro do período de graça.</li><li><b>Carência de 12 contribuições</b>, dispensada em caso de acidente de qualquer natureza e de algumas doenças graves previstas em lei (Lei 8.213/1991, arts. 25, I, e 26, II).</li></ul><h2>Quanto paga</h2><p>Desde a reforma, o valor parte de 60% da média dos salários, com mais 2% por ano de contribuição acima de 20 anos, para homens, e de 15 anos, para mulheres. Quando a incapacidade vem de acidente de trabalho ou de doença profissional ou do trabalho, o valor é de 100% da média (Emenda Constitucional 103/2019, art. 26). Quem precisa da ajuda permanente de outra pessoa pode receber mais 25% (Lei 8.213/1991, art. 45).</p><h2>O erro que custa caro</h2><p>Ir à perícia sem documentos atualizados. O perito decide com base no que vê naquele dia, e laudos antigos, sem descrição das limitações, enfraquecem o pedido.</p><p>Se o INSS negar, cabe recurso ou ação judicial, com nova perícia (veja <a href=\"inss-negou-beneficio-o-que-fazer.html\">o INSS negou o benefício: o que fazer</a>).</p><h2>O que levar à primeira conversa</h2><ul><li>Laudos, exames e receitas, de preferência recentes.</li><li>A carta do INSS com a decisão.</li><li>O extrato do CNIS, tirado no Meu INSS.</li></ul>",
+  "faq": [
+    [
+      "Quem é aposentado por invalidez pode voltar a trabalhar?",
+      "Se voltar a trabalhar por conta própria, o benefício é cancelado a partir do retorno (Lei 8.213/1991, art. 46)."
+    ],
+    [
+      "O INSS pode chamar para nova perícia?",
+      "Sim, o INSS pode convocar para revisão. Há exceções, como para quem tem 60 anos ou mais (Lei 8.213/1991, art. 101, § 1º)."
+    ],
+    [
+      "Quem nunca contribuiu tem direito?",
+      "Não a este benefício. Quem é idoso ou tem deficiência e baixa renda pode ter direito ao BPC/LOAS, que é assistencial."
+    ]
+  ],
+  "base": [
+    "Lei 8.213/1991, arts. 25, 26, 42, 45, 46 e 101",
+    "Emenda Constitucional 103/2019, art. 26"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/9222427/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

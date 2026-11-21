@@ -1,0 +1,53 @@
+{
+  "slug": "aposentadoria-especial-o-que-e-o-ppp",
+  "area": "previdenciario",
+  "data": "2027-01-04",
+  "titulo": "Aposentadoria especial: o que é o PPP e por que ele importa?",
+  "destaque": "É a prova do trabalho com risco.",
+  "resumo": "O PPP é o documento em que a empresa registra os agentes nocivos a que o empregado ficou exposto. Sem ele, o tempo especial dificilmente é reconhecido pelo INSS.",
+  "pontos": [
+    [
+      "documento",
+      "A empresa é obrigada a fornecer o PPP."
+    ],
+    [
+      "alerta",
+      "Ruído, produtos químicos e agentes biológicos contam."
+    ],
+    [
+      "calendario",
+      "Desde 2019, a aposentadoria especial tem idade mínima."
+    ],
+    [
+      "check",
+      "Tempo especial até 13/11/2019 pode virar tempo com acréscimo."
+    ]
+  ],
+  "exemplo": "Ronaldo trabalhou 22 anos como soldador. Ao pedir a aposentadoria, descobriu que duas das empresas já tinham fechado e que ele nunca tinha recebido o PPP.",
+  "corpo": "<p>A aposentadoria especial é para quem trabalhou exposto a agentes que fazem mal à saúde, como ruído acima do limite, produtos químicos, poeira e agentes biológicos. A prova principal dessa exposição é o PPP (Perfil Profissiográfico Previdenciário).</p><h2>O que diz a lei</h2><p>A empresa deve manter o PPP atualizado e entregar uma cópia ao empregado quando o contrato termina (Lei 8.213/1991, art. 58, § 4º). Na maioria das atividades, são exigidos 25 anos de trabalho especial; em casos específicos, 15 ou 20 (art. 57).</p><p>Depois da reforma de 2019, também há idade mínima: 55, 58 ou 60 anos, conforme a atividade, com regra de transição por pontos para quem já trabalhava antes (Emenda Constitucional 103/2019, arts. 19 e 21). O tempo especial trabalhado até 13/11/2019 ainda pode ser convertido em tempo comum com acréscimo (art. 25, § 2º).</p><h2>O erro que custa caro</h2><p>Sair da empresa sem o PPP ou aceitar um PPP com informação errada. Depois que a empresa fecha, conseguir o documento fica muito mais difícil, e a prova passa a depender de laudos e de perícia.</p><p>O informativo <a href=\"motorista-aposentadoria-especial.html\">aposentadoria especial do motorista</a> mostra como isso funciona numa profissão específica.</p><h2>O que levar à primeira conversa</h2><ul><li>Os PPPs de todas as empresas, mesmo antigos.</li><li>As carteiras de trabalho.</li><li>O extrato do CNIS.</li></ul>",
+  "faq": [
+    [
+      "A empresa pode se recusar a entregar o PPP?",
+      "Não. A lei obriga a empresa a manter o PPP atualizado e a entregar uma cópia ao fim do contrato (Lei 8.213/1991, art. 58, § 4º)."
+    ],
+    [
+      "O uso de EPI tira o direito à aposentadoria especial?",
+      "Depende. O STF decidiu que, se o EPI for realmente eficaz, o tempo não é especial, com exceção do ruído acima do limite (Tema 555)."
+    ],
+    [
+      "Posso converter tempo especial em tempo comum?",
+      "Só o período trabalhado até 13/11/2019, com acréscimo (Emenda Constitucional 103/2019, art. 25, § 2º)."
+    ]
+  ],
+  "base": [
+    "Lei 8.213/1991, arts. 57 e 58",
+    "Emenda Constitucional 103/2019, arts. 19, 21 e 25",
+    "STF, Tema 555 de Repercussão Geral"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/9246017/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

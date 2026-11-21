@@ -1,0 +1,52 @@
+{
+  "slug": "desconto-que-nao-autorizei-na-aposentadoria",
+  "area": "previdenciario",
+  "data": "2027-01-07",
+  "titulo": "Desconto que eu não autorizei na aposentadoria: o que fazer?",
+  "destaque": "Dá para cancelar e pedir de volta.",
+  "resumo": "Mensalidade de associação, seguro ou empréstimo que o aposentado não contratou não pode ser descontado do benefício. É possível bloquear, cancelar e pedir a devolução.",
+  "pontos": [
+    [
+      "carteira",
+      "Confira todo mês o extrato de pagamento."
+    ],
+    [
+      "alerta",
+      "Mensalidade de associação exige autorização."
+    ],
+    [
+      "escudo",
+      "O benefício pode ser bloqueado para empréstimos."
+    ],
+    [
+      "documento",
+      "Guarde extratos e números de protocolo."
+    ]
+  ],
+  "exemplo": "Dona Terezinha, aposentada de 74 anos, percebeu que o benefício vinha menor havia um ano. No extrato, aparecia a mensalidade de uma associação da qual ela nunca tinha ouvido falar.",
+  "corpo": "<p>Descontos que o aposentado não reconhece aparecem com frequência no extrato do INSS: mensalidade de associação, seguro e empréstimo consignado. Muitas vezes o valor é pequeno e passa despercebido por meses.</p><h2>O que diz a lei</h2><p>O INSS só pode descontar mensalidade de associação se o próprio aposentado autorizou (Lei 8.213/1991, art. 115, V). Empréstimo ou seguro que ele não contratou também não pode ser cobrado. Quem desconta sem autorização deve devolver, e, contra bancos e associações, a devolução pode ser em dobro, além de indenização (Código de Defesa do Consumidor, arts. 14 e 42, parágrafo único).</p><h2>O que fazer</h2><ul><li>Tirar o extrato de pagamento no Meu INSS ou pelo telefone 135.</li><li>Pedir a exclusão do desconto no Meu INSS e anotar o protocolo.</li><li>Pedir o bloqueio do benefício para novos empréstimos, também pelo Meu INSS.</li><li>Se não resolver, cabe ação para cancelar, devolver o valor e indenizar.</li></ul><h2>O que levar à primeira conversa</h2><ul><li>Os extratos de pagamento com os descontos.</li><li>Os protocolos dos pedidos feitos ao INSS e ao banco.</li><li>Qualquer mensagem ou ligação recebida sobre o desconto.</li></ul>",
+  "faq": [
+    [
+      "Onde vejo os descontos do meu benefício?",
+      "No extrato de pagamento, pelo Meu INSS ou pelo telefone 135."
+    ],
+    [
+      "Posso bloquear empréstimos no meu benefício?",
+      "Sim. O bloqueio para empréstimo consignado pode ser pedido pelo Meu INSS."
+    ],
+    [
+      "Recebo de volta o que foi descontado?",
+      "O desconto sem autorização deve ser devolvido. Contra bancos e associações, a devolução pode ser em dobro (Código de Defesa do Consumidor, art. 42, parágrafo único)."
+    ]
+  ],
+  "base": [
+    "Lei 8.213/1991, art. 115",
+    "Código de Defesa do Consumidor, arts. 14 e 42"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/7545218/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

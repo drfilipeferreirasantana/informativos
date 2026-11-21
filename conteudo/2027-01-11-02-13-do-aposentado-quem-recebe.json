@@ -1,0 +1,52 @@
+{
+  "slug": "13-do-aposentado-quem-recebe",
+  "area": "previdenciario",
+  "data": "2027-01-11",
+  "titulo": "13º do aposentado: quem recebe e quando?",
+  "destaque": "Aposentado e pensionista, não o BPC.",
+  "resumo": "Recebe o abono anual quem teve aposentadoria, pensão, auxílio-doença, auxílio-acidente ou auxílio-reclusão no ano. O BPC/LOAS, por ser assistencial, não paga 13º.",
+  "pontos": [
+    [
+      "carteira",
+      "O 13º equivale a um mês de benefício."
+    ],
+    [
+      "calendario",
+      "Quem recebeu só parte do ano ganha proporcional."
+    ],
+    [
+      "alerta",
+      "O BPC/LOAS não paga 13º."
+    ],
+    [
+      "documento",
+      "O valor aparece no extrato do Meu INSS."
+    ]
+  ],
+  "exemplo": "Sebastião começou a receber auxílio-doença em julho e voltou a trabalhar em novembro. No fim do ano, recebeu do INSS um 13º proporcional aos meses de benefício.",
+  "corpo": "<p>O 13º do INSS se chama abono anual. Ele é pago a quem recebeu benefício previdenciário durante o ano.</p><h2>Quem tem direito</h2><p>Recebe o abono quem teve, no ano, aposentadoria, pensão por morte, auxílio-doença, auxílio-acidente ou auxílio-reclusão (Lei 8.213/1991, art. 40). O valor é o de um mês de benefício, proporcional aos meses recebidos.</p><p>O BPC/LOAS não tem 13º, porque é um benefício assistencial e a lei que o criou não prevê o abono (Lei 8.742/1993).</p><h2>Quando é pago</h2><p>A lei prevê o pagamento em dezembro. Nos últimos anos, o governo antecipou o 13º para o primeiro semestre, por decreto. O calendário de cada ano é divulgado pelo INSS e aparece no extrato do Meu INSS.</p><h2>O erro que custa caro</h2><p>Não conferir se o 13º veio proporcional ao tempo certo. Benefício concedido com atraso pode gerar diferenças de 13º, que entram no cálculo dos atrasados.</p>",
+  "faq": [
+    [
+      "Quem recebe BPC/LOAS tem 13º?",
+      "Não. O BPC é um benefício assistencial, e a lei não prevê o abono anual para ele."
+    ],
+    [
+      "O 13º tem desconto de Imposto de Renda?",
+      "Pode ter, se o valor passar da faixa de isenção. O imposto do 13º é calculado separado do benefício do mês."
+    ],
+    [
+      "Recebi o benefício só alguns meses. Tenho direito?",
+      "Sim, proporcional aos meses em que recebeu (Lei 8.213/1991, art. 40)."
+    ]
+  ],
+  "base": [
+    "Lei 8.213/1991, art. 40",
+    "Lei 8.742/1993 (Lei Orgânica da Assistência Social)"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/39191044/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

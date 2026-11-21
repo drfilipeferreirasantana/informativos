@@ -1,0 +1,51 @@
+{
+  "slug": "regras-de-transicao-da-aposentadoria",
+  "area": "previdenciario",
+  "data": "2026-12-31",
+  "titulo": "Regras de transição da aposentadoria: qual vale para mim?",
+  "destaque": "Depende de quanto faltava em 2019.",
+  "resumo": "Quem já contribuía antes da reforma de 13/11/2019 pode se aposentar pelas regras de transição, que costumam ser melhores que a regra nova. Cada pessoa precisa comparar as opções.",
+  "pontos": [
+    [
+      "calendario",
+      "A data de corte é 13 de novembro de 2019."
+    ],
+    [
+      "balanca",
+      "Há 4 regras de transição no INSS."
+    ],
+    [
+      "check",
+      "A melhor regra pode antecipar a aposentadoria."
+    ],
+    [
+      "documento",
+      "A comparação parte do CNIS completo."
+    ]
+  ],
+  "exemplo": "Luciana tinha 50 anos e 27 anos de contribuição em novembro de 2019. Pela regra nova, teria de esperar os 62 anos. Comparando as regras de transição, viu que podia se aposentar alguns anos antes.",
+  "corpo": "<p>A reforma da Previdência criou idade mínima para todos. Para não prejudicar quem já estava perto de se aposentar, ela trouxe regras de transição para quem contribuía antes de 13/11/2019.</p><h2>As 4 regras de transição</h2><ul><li><b>Pontos:</b> idade mais tempo de contribuição. Em 2026, são 93 pontos para mulheres e 103 para homens, com mínimo de 30 e 35 anos de contribuição. Sobe 1 ponto por ano até 100 e 105 (Emenda Constitucional 103/2019, art. 15).</li><li><b>Idade mínima progressiva:</b> em 2026, 59 anos e 6 meses para mulheres e 64 anos e 6 meses para homens, com 30 e 35 anos de contribuição. Sobe 6 meses por ano até 62 e 65 (art. 16).</li><li><b>Pedágio de 50%:</b> para quem, em 13/11/2019, estava a até 2 anos de completar 30 ou 35 anos de contribuição. Cumpre metade do tempo que faltava, e o valor tem fator previdenciário (art. 17).</li><li><b>Pedágio de 100%:</b> 57 anos para mulheres e 60 para homens, o tempo de 30 ou 35 anos e mais um período igual ao que faltava em 2019. O valor é de 100% da média (art. 20).</li></ul><h2>O erro que custa caro</h2><p>Pedir a aposentadoria na primeira regra que aparece. A diferença entre as regras pode ser de anos de espera ou de centenas de reais por mês, e a escolha é feita uma vez.</p><h2>O que levar à primeira conversa</h2><ul><li>O extrato do CNIS, tirado no Meu INSS.</li><li>As carteiras de trabalho e os carnês de contribuição.</li><li>Documentos de tempo especial, rural ou militar, se houver.</li></ul>",
+  "faq": [
+    [
+      "Quem começou a contribuir depois de 13/11/2019 tem regra de transição?",
+      "Não. Para quem entrou no sistema depois da reforma, vale a regra nova: 62 anos para mulheres e 65 para homens, com o tempo mínimo de contribuição (Emenda Constitucional 103/2019, art. 19)."
+    ],
+    [
+      "Posso escolher a regra mais vantajosa?",
+      "Sim. O segurado tem direito à regra que der o melhor resultado entre as que ele cumprir."
+    ],
+    [
+      "A simulação do Meu INSS é confiável?",
+      "É um bom ponto de partida, mas usa só o que está no CNIS. Emprego ou salário faltando muda o resultado."
+    ]
+  ],
+  "base": [
+    "Emenda Constitucional 103/2019, arts. 15, 16, 17, 19 e 20"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/7545354/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}
