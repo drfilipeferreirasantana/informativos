@@ -67,7 +67,8 @@ p{margin:0}
 
 /* Assinatura: foto, nome e o traço da assinatura */
 .assinatura{display:inline-grid;justify-items:center;margin:1.6rem 0 2rem}
-.assinatura-linha{display:flex;align-items:center;gap:.9rem}
+.assinatura-linha{display:flex;align-items:flex-start;gap:.9rem}
+.assinatura-texto{display:flex;flex-direction:column;align-items:center;text-align:center}
 .assinatura-foto{width:64px;height:64px;object-fit:cover}
 .assinatura b{display:block;font:700 1.2rem var(--serifa)}
 .assinatura small{display:block;font-size:.92rem;color:var(--cinza)}

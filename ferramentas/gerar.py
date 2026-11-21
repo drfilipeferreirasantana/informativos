@@ -398,8 +398,9 @@ def rodape(base):
 def assinatura(base):
     return (f'<div class="assinatura"><div class="assinatura-linha">'
             f'<img class="assinatura-foto" src="{base}assets/rosto.jpg" width="64" height="64" alt="">'
-            f'<span><b>{NOME_CURTO}</b><small>Advogado · {OAB}</small></span></div>'
-            f'<span class="assinatura-traco" role="img" aria-label="Emblema do escritório {NOME}"></span></div>')
+            f'<span class="assinatura-texto"><b>{NOME_CURTO}</b><small>Advogado · {OAB}</small>'
+            # emblema centralizado embaixo do nome (pedido de 21/11/2026)
+            f'<span class="assinatura-traco" role="img" aria-label="Emblema do escritório {NOME}"></span></span></div></div>')
 
 
 def cartao(p, base=""):
