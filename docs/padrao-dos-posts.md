@@ -125,3 +125,7 @@ O que mais chega ao escritório, para escolher temas e exemplos:
 - O título é **Informativos Ferreira Advogados**. "Você sabia?" passou a ser o nome da seção de perguntas e respostas (aparece nas artes e na linha de topo da página principal).
 - Designação numérica no formato exigido: Vol. 1 2026, Vol. 2 2027, um volume por ano civil. Cada volume tem página própria (`vol-1-2026.html`), e `volumes.html` reúne o volume atual e os anteriores.
 - O ISSN só pode ser pedido depois que o Vol. 2 2027 estiver publicado. Quando for concedido, preencher a constante `ISSN` em `ferramentas/gerar.py`.
+
+## Tema da semana (desde 22/11/2026)
+
+Quando um assunto jurídico está muito forte na semana (lei nova, decisão do STJ, TST ou STF, mudança do INSS), o post ganha `"tema_semana": true` e `"fontes"` com 1 a 3 notícias de referência. Ele aparece no topo da página inicial como "Tema da semana" por 7 dias a partir da data, e a página do post leva o selo "Tema da semana". Sem `fontes`, o gerador recusa o post. O texto é nosso: nunca copiar a notícia, nunca citar nome de parte, nunca escolher caso criminal, político ou de pessoa famosa.

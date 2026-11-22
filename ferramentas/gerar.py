@@ -266,6 +266,9 @@ def carregar():
         p.setdefault("exemplo", "")
         p.setdefault("serie", "")
         p.setdefault("ordem", 0)
+        p["tema_semana"] = bool(p.get("tema_semana"))
+        if p["tema_semana"] and not p["fontes"]:
+            sys.exit(f"{arq.name}: o Tema da semana precisa de 'fontes' com a notícia de referência")
         if p["serie"] and p["serie"] not in SERIES:
             sys.exit(f"{arq.name}: série desconhecida: {p['serie']}")
         p["_arquivo"] = arq.name
@@ -600,7 +603,7 @@ def pagina_post(p, posts):
     foto = f"../assets/fotos/posts/{p['slug']}.jpg"
     corpo = f"""<article class="post" data-assunto="{area}">
 <div class="conteudo coluna">
-  <p class="linha-topo"><b>{area}</b> {volume(p['data'])} · {data_extenso(p['data'])}{link_topo(p)}</p>
+  <p class="linha-topo"><b>{area}</b> {volume(p['data'])} · {data_extenso(p['data'])}{' · <span class="selo-tema">Tema da semana</span>' if p['tema_semana'] else ''}{link_topo(p)}</p>
   <img class="foto-post" src="{foto}" width="1200" height="800" fetchpriority="high" alt="">
   <h1>{e(p['titulo'])}</h1>
   <div class="resposta"><strong>{e(p['destaque'])}</strong> {e(p['resumo'])}</div>
@@ -651,6 +654,20 @@ SCRIPT_LISTA = """<script>
 </script>"""
 
 
+def tema_da_semana(posts):
+    """Destaque do assunto mais falado da semana: o post mais recente com "tema_semana", por 7 dias desde a data."""
+    from datetime import date, timedelta
+    limite = (date.fromisoformat(hoje()) - timedelta(days=6)).isoformat()
+    temas = [p for p in posts if p["tema_semana"] and p["data"] >= limite]
+    if not temas:
+        return ""
+    p = max(temas, key=lambda p: (p["data"], p["numero"]))
+    return f'''<a class="tema-semana" href="posts/{p['slug']}.html">
+    <img src="assets/fotos/posts/{p['slug']}-p.jpg" width="480" height="300" alt="" loading="lazy">
+    <span class="texto"><span class="rotulo">Tema da semana · {AREAS[p['area']]}</span>
+    <b>{e(p['titulo'])}</b><span class="desc"><strong>{e(p['destaque'])}</strong> {e(p['resumo'])}</span><span class="ver">Ler o informativo</span></span></a>'''
+
+
 def destaques_series(posts):
     blocos = []
     for k, s in SERIES.items():
@@ -683,7 +700,7 @@ def indice_busca(posts):
 
 
 def pagina_inicial(todos):
-    destaques = destaques_series(todos)
+    destaques = tema_da_semana(todos) + destaques_series(todos)
     posts = [p for p in todos if not p.get("serie")]
     usadas = [k for k in AREAS if any(p["area"] == k for p in posts)]
     botoes = '<button type="button" data-filtro="" aria-pressed="true">Todos</button>' + "".join(

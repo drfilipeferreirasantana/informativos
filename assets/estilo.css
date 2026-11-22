@@ -83,6 +83,16 @@ p{margin:0}
 .serie-destaque .desc{max-width:46rem;color:#cfc8bd}
 .serie-destaque .ver{font-weight:700;color:#fff;text-decoration:underline;text-underline-offset:4px}
 .serie-destaque:hover .ver{color:#d9a7ae}
+.tema-semana{display:grid;grid-template-columns:minmax(0,2fr) minmax(0,3fr);gap:1.4rem;align-items:center;margin:1.6rem 0 .4rem;padding:1.2rem;border:1px solid var(--tinta);border-top:6px solid var(--bordo);text-decoration:none;color:var(--tinta)}
+.tema-semana img{width:100%;aspect-ratio:16/10;object-fit:cover}
+.tema-semana .texto{display:grid;gap:.45rem}
+.tema-semana .rotulo{color:var(--bordo);margin:0}
+.tema-semana b{font:700 clamp(1.4rem,3.4vw,2rem)/1.15 var(--serifa)}
+.tema-semana .desc{color:var(--cinza)}
+.tema-semana .ver{font-weight:700;text-decoration:underline;text-underline-offset:4px}
+.tema-semana:hover .ver{color:var(--bordo)}
+.selo-tema{color:var(--bordo);font-weight:700}
+@media (max-width:700px){.tema-semana{grid-template-columns:1fr}}
 
 /* Filtros e lista */
 .vitrine{padding-bottom:3rem}
