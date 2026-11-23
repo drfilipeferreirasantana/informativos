@@ -1,0 +1,54 @@
+{
+  "slug": "banco-de-horas-o-que-a-empresa-precisa-ter",
+  "area": "trabalhista",
+  "data": "2026-11-27",
+  "serie": "para-empresas",
+  "ordem": 6,
+  "titulo": "Banco de horas: o que a empresa precisa ter por escrito?",
+  "destaque": "Acordo escrito e compensação no prazo.",
+  "resumo": "O banco de horas pode ser feito com cada empregado, desde que as horas sejam compensadas em até seis meses. Sem documento ou fora do prazo, as horas acumuladas viram hora extra a pagar.",
+  "pontos": [
+    [
+      "documento",
+      "Acordo individual escrito: compensação em até 6 meses."
+    ],
+    [
+      "predio",
+      "Acordo ou convenção coletiva: compensação em até 1 ano."
+    ],
+    [
+      "relogio",
+      "Limite de 10 horas de trabalho por dia, mesmo com banco."
+    ],
+    [
+      "carteira",
+      "Na demissão, o saldo não compensado é pago como hora extra."
+    ]
+  ],
+  "exemplo": "Uma loja de material de construção combinou de boca o banco de horas com a equipe. Na rescisão de um vendedor, ficaram 180 horas sem compensar, e a empresa não tinha acordo nem controle do saldo para mostrar.",
+  "corpo": "<p>O banco de horas permite que a hora a mais trabalhada em um dia seja compensada com folga em outro, sem pagar o adicional de hora extra. É uma ferramenta útil para quem tem picos de movimento, mas só protege a empresa se seguir a lei.</p><h2>Os três modelos permitidos</h2><ul><li><strong>Compensação no mesmo mês:</strong> pode ser combinada até de forma tácita ou por escrito com o empregado (CLT, art. 59, § 6º).</li><li><strong>Banco de horas individual:</strong> exige acordo escrito com o empregado e compensação em até seis meses (art. 59, § 5º).</li><li><strong>Banco de horas coletivo:</strong> feito por acordo ou convenção com o sindicato, com compensação em até um ano (art. 59, § 2º).</li></ul><p>Em todos, a jornada não pode passar de 10 horas por dia (art. 59, § 2º).</p><h2>Onde a empresa perde</h2><p>Se o contrato termina antes da compensação, as horas do saldo são pagas como hora extra, calculadas sobre o salário da data da rescisão (CLT, art. 59, § 3º). Quando as exigências não são cumpridas, a lei limita o prejuízo ao adicional se a duração semanal não foi ultrapassada (art. 59-B), mas o processo costuma discutir o banco todo, e quem não tem controle do saldo fica sem defesa.</p><p>O informativo <a href=\"banco-de-horas-como-funciona.html\">banco de horas: como funciona</a> mostra o mesmo tema pelo lado do empregado.</p><h2>O que conferir na sua empresa</h2><ul><li>Existe acordo escrito e assinado por cada empregado no banco individual?</li><li>O saldo de cada um aparece no espelho de ponto todo mês?</li><li>As horas estão sendo compensadas antes dos seis meses (ou de um ano, no coletivo)?</li><li>Alguém está passando de 10 horas por dia com frequência?</li><li>Nas demissões, o saldo positivo está sendo pago na rescisão?</li></ul>",
+  "faq": [
+    [
+      "Posso fazer banco de horas sem o sindicato?",
+      "Pode, por acordo individual escrito, desde que a compensação ocorra em até seis meses (CLT, art. 59, § 5º)."
+    ],
+    [
+      "O que acontece com o saldo na demissão?",
+      "As horas não compensadas são pagas como hora extra, sobre o salário da data da rescisão (CLT, art. 59, § 3º)."
+    ],
+    [
+      "Hora extra habitual invalida o banco de horas?",
+      "Não por si só. A lei diz que horas extras habituais não descaracterizam o banco (CLT, art. 59-B, parágrafo único)."
+    ]
+  ],
+  "base": [
+    "CLT, art. 59, §§ 2º, 3º, 5º e 6º",
+    "CLT, art. 59-B"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/1010480/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

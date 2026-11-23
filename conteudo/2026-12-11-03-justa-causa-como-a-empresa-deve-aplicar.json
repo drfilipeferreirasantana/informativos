@@ -1,0 +1,55 @@
+{
+  "slug": "justa-causa-como-a-empresa-deve-aplicar",
+  "area": "trabalhista",
+  "data": "2026-12-11",
+  "serie": "para-empresas",
+  "ordem": 8,
+  "titulo": "Justa causa: como a empresa deve aplicar sem perder na Justiça?",
+  "destaque": "Com prova, rapidez e proporção.",
+  "resumo": "A justa causa é a punição máxima e cabe à empresa provar a falta. Quem demora para punir, pula etapas ou não documenta costuma ver a dispensa revertida e pagar todas as verbas.",
+  "pontos": [
+    [
+      "documento",
+      "A falta precisa estar entre as hipóteses da lei e provada."
+    ],
+    [
+      "relogio",
+      "Punir logo depois de saber do fato evita o perdão tácito."
+    ],
+    [
+      "balanca",
+      "Falta leve pede advertência ou suspensão antes da dispensa."
+    ],
+    [
+      "alerta",
+      "Suspensão acima de 30 dias equivale a demissão sem justa causa."
+    ]
+  ],
+  "exemplo": "Uma transportadora demitiu por justa causa um motorista que chegou atrasado três vezes no ano. Não havia advertência anterior, e os atrasos tinham sido tolerados por meses. O juiz converteu a dispensa em sem justa causa.",
+  "corpo": "<p>A justa causa encerra o contrato sem aviso prévio, sem multa do FGTS e sem saque do fundo. Por ser a punição mais grave, o juiz olha com rigor se ela foi bem aplicada, e o ônus de provar a falta é da empresa (CLT, art. 818, II).</p><h2>Primeiro: a falta está na lei?</h2><p>A CLT lista os motivos de justa causa, como improbidade, desídia, embriaguez em serviço, indisciplina, insubordinação, abandono de emprego e ofensas no trabalho (art. 482). Fora dessa lista, não há justa causa.</p><h2>O que os juízes conferem na prática</h2><ul><li><strong>Prova:</strong> documentos, imagens, registros de ponto e testemunhas que confirmem o fato.</li><li><strong>Rapidez:</strong> a punição vem logo depois que a empresa toma conhecimento. Esperar semanas sem motivo é visto como perdão.</li><li><strong>Proporção:</strong> falta leve e isolada pede advertência ou suspensão; a dispensa vem com a repetição ou com falta grave.</li><li><strong>Uma punição por fato:</strong> o mesmo episódio não pode gerar advertência e, depois, justa causa.</li></ul><p>A suspensão não pode passar de 30 dias seguidos; se passar, é tratada como dispensa sem justa causa (CLT, art. 474).</p><h2>O custo de errar</h2><p>Revertida a justa causa, a empresa paga aviso prévio, férias e 13º proporcionais, multa de 40% do FGTS e, muitas vezes, indenização por dano moral se a acusação for grave e sem prova. O informativo <a href=\"justa-causa-como-reverter.html\">justa causa: como reverter</a> mostra o caminho do empregado.</p><h2>O que conferir na sua empresa</h2><ul><li>As advertências e suspensões são dadas por escrito, com data e descrição do fato?</li><li>A falta foi apurada antes da decisão, com o empregado ouvido?</li><li>A dispensa aconteceu logo depois de a empresa saber do fato?</li><li>Há prova guardada: imagens, registros, relatos assinados?</li><li>O motivo informado no termo de rescisão é o mesmo que a prova mostra?</li></ul>",
+  "faq": [
+    [
+      "Quem precisa provar a justa causa?",
+      "A empresa. Cabe a ela provar o fato que justifica a dispensa (CLT, art. 818, II)."
+    ],
+    [
+      "Posso dar justa causa por atrasos?",
+      "Atrasos repetidos podem configurar desídia (CLT, art. 482, e), mas o normal é haver advertências e suspensões antes."
+    ],
+    [
+      "Quanto tempo posso suspender um empregado?",
+      "No máximo 30 dias seguidos. Acima disso, a suspensão equivale à dispensa sem justa causa (CLT, art. 474)."
+    ]
+  ],
+  "base": [
+    "CLT, art. 474",
+    "CLT, art. 482",
+    "CLT, art. 818, II"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/5685872/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

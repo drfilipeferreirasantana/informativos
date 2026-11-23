@@ -1,0 +1,56 @@
+{
+  "slug": "empregado-afastado-pelo-inss-o-que-a-empresa-faz",
+  "area": "trabalhista",
+  "data": "2026-12-18",
+  "serie": "para-empresas",
+  "ordem": 9,
+  "titulo": "Empregado afastado pelo INSS: o que a empresa precisa fazer?",
+  "destaque": "Pagar 15 dias e acompanhar o retorno.",
+  "resumo": "Nos primeiros 15 dias de afastamento por doença, o salário é da empresa; depois, o benefício é do INSS. Se o afastamento for por acidente ou doença do trabalho, há CAT, FGTS durante a licença e estabilidade de 12 meses na volta.",
+  "pontos": [
+    [
+      "carteira",
+      "Os primeiros 15 dias de afastamento são pagos pela empresa."
+    ],
+    [
+      "saude",
+      "Do 16º dia em diante, quem paga é o INSS."
+    ],
+    [
+      "documento",
+      "Acidente de trabalho exige CAT até o dia útil seguinte."
+    ],
+    [
+      "escudo",
+      "Na volta do afastamento por acidente, 12 meses de estabilidade."
+    ]
+  ],
+  "exemplo": "Um auxiliar de produção machucou a coluna carregando peso e ficou 4 meses afastado. A fábrica não emitiu a CAT, parou de depositar o FGTS e o demitiu dois meses depois de voltar. Na ação, ele pediu a reintegração e os depósitos atrasados.",
+  "corpo": "<p>O afastamento por doença ou acidente é uma das situações que mais geram passivo para pequenas e médias empresas, porque mistura regras da CLT e da Previdência. O caminho certo é simples quando a empresa sabe o que fazer em cada fase.</p><h2>Os primeiros 15 dias</h2><p>Nos primeiros quinze dias seguidos de afastamento por doença, a empresa paga o salário integral (Lei 8.213/1991, art. 60, § 3º). A partir do 16º dia, o empregado passa a receber o auxílio por incapacidade do INSS (art. 60) e o contrato fica suspenso, como licença não remunerada (CLT, art. 476).</p><h2>Quando o afastamento é por acidente ou doença do trabalho</h2><ul><li><strong>CAT:</strong> a empresa deve comunicar o acidente ao INSS até o primeiro dia útil seguinte e, em caso de morte, de imediato (Lei 8.213/1991, art. 22). Se não comunicar, o próprio empregado, o sindicato ou o médico podem fazê-lo, e a empresa continua sujeita à multa.</li><li><strong>FGTS:</strong> os depósitos continuam obrigatórios durante a licença por acidente do trabalho (Lei 8.036/1990, art. 15, § 5º).</li><li><strong>Estabilidade:</strong> depois que o auxílio acidentário termina, o empregado tem 12 meses de garantia no emprego (Lei 8.213/1991, art. 118). O TST exige afastamento acima de 15 dias com benefício acidentário, ou doença ligada ao trabalho descoberta depois da dispensa (Súmula 378, II).</li></ul><p>Os informativos <a href=\"empresa-nao-emitiu-a-cat-o-que-fazer.html\">empresa não emitiu a CAT</a> e <a href=\"estabilidade-depois-de-acidente-de-trabalho.html\">estabilidade depois de acidente de trabalho</a> mostram o tema pelo lado do empregado.</p><h2>O erro mais caro</h2><p>Demitir na volta sem conferir a origem do afastamento. Se a doença tiver relação com o trabalho, a dispensa pode ser anulada, com reintegração ou indenização do período de estabilidade.</p><h2>O que conferir na sua empresa</h2><ul><li>Os atestados e os 15 primeiros dias estão registrados na folha?</li><li>Houve acidente ou suspeita de doença do trabalho sem CAT emitida?</li><li>O FGTS dos afastados por acidente está sendo depositado?</li><li>Quem voltou de afastamento acidentário está marcado para não ser dispensado nos 12 meses?</li><li>O exame médico de retorno foi feito antes da volta à função?</li></ul>",
+  "faq": [
+    [
+      "Quem paga os primeiros dias do afastamento?",
+      "A empresa paga o salário dos primeiros 15 dias; do 16º em diante, o INSS paga o benefício (Lei 8.213/1991, art. 60, caput e § 3º)."
+    ],
+    [
+      "Preciso depositar FGTS de quem está afastado?",
+      "No afastamento por acidente do trabalho, sim (Lei 8.036/1990, art. 15, § 5º)."
+    ],
+    [
+      "Posso demitir quem voltou de afastamento?",
+      "Se o afastamento foi por acidente ou doença do trabalho com benefício acidentário, não nos 12 meses seguintes (Lei 8.213/1991, art. 118, e TST, Súmula 378)."
+    ]
+  ],
+  "base": [
+    "CLT, art. 476",
+    "Lei 8.213/1991, arts. 22, 60 e 118",
+    "Lei 8.036/1990, art. 15, § 5º",
+    "TST, Súmula 378"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/4506111/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

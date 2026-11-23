@@ -1,0 +1,50 @@
+{
+  "slug": "imovel-no-nome-de-um-so-entra-na-partilha",
+  "area": "familia",
+  "data": "2026-12-10",
+  "titulo": "Imóvel no nome de um só entra na partilha do divórcio?",
+  "destaque": "Sim, se comprado durante o casamento.",
+  "resumo": "Na comunhão parcial, o que vale é quando e com que dinheiro o bem foi comprado, não o nome na escritura. Ficam fora o que já era de um antes de casar e o que foi pago só com dinheiro próprio.",
+  "pontos": [
+    [
+      "casa",
+      "Comprado durante o casamento, é dos dois, mesmo no nome de um."
+    ],
+    [
+      "escudo",
+      "Bem de antes do casamento ou pago com dinheiro herdado fica fora."
+    ],
+    [
+      "alerta",
+      "Vender imóvel sem a assinatura do cônjuge pode ser anulado."
+    ]
+  ],
+  "exemplo": "Marcos comprou uma casa no sexto ano de casamento e registrou só no nome dele, porque a esposa estava com o nome negativado. No divórcio, ele afirma que a casa é só sua.",
+  "corpo": "<p>Colocar o imóvel no nome de um dos dois é uma escolha que muitos casais fazem por praticidade, por causa do financiamento ou do nome negativado. No divórcio, essa escolha não decide quem fica com o bem.</p><h2>O que a lei diz</h2><p>Na comunhão parcial, o regime que vale quando o casal não escolhe outro (Código Civil, art. 1.640), entram na divisão os bens comprados durante o casamento, ainda que só em nome de um dos cônjuges (art. 1.660, I). A regra geral é que tudo o que chega ao casal nesse período se comunica (art. 1.658).</p><p>Ficam fora (art. 1.659, I e II):</p><ul><li>o que cada um já tinha antes de casar;</li><li>o que recebeu por herança ou doação;</li><li>o que foi comprado só com o dinheiro desses bens próprios.</li></ul><p>Na união estável sem contrato escrito, valem as mesmas regras (art. 1.725). O informativo <a href=\"heranca-na-partilha-do-divorcio.html\">herança na partilha do divórcio</a> explica o caso do bem herdado.</p><h2>Vender sem o outro saber</h2><p>Fora da separação absoluta, nenhum dos cônjuges pode vender ou hipotecar imóvel sem autorização do outro (Código Civil, art. 1.647, I). Sem essa autorização, a venda pode ser anulada a pedido do cônjuge prejudicado, em até dois anos depois do fim do casamento (art. 1.649).</p><h2>Onde os casos se perdem</h2><p>Quem afirma que o bem é só seu precisa provar a origem do dinheiro. O erro mais frequente é misturar o valor de uma venda anterior ou de uma herança com a conta do casal e, anos depois, não conseguir mostrar o caminho do dinheiro.</p><h2>O que levar à primeira conversa</h2><ul><li>a certidão de casamento ou o contrato de união estável;</li><li>a matrícula atualizada do imóvel e o contrato de compra ou de financiamento;</li><li>extratos que mostrem de onde saiu a entrada e quem pagou as parcelas.</li></ul><p>Com os papéis organizados, a partilha do imóvel muitas vezes se resolve em acordo, sem anos de briga na Justiça.</p>",
+  "faq": [
+    [
+      "O imóvel financiado no nome de um entra na partilha?",
+      "As parcelas pagas durante o casamento entram na divisão, mesmo que o contrato esteja no nome de um só (Código Civil, art. 1.660, I)."
+    ],
+    [
+      "O imóvel que eu tinha antes de casar é dividido?",
+      "Não, na comunhão parcial. Ele continua só seu (Código Civil, art. 1.659, I)."
+    ],
+    [
+      "Meu cônjuge vendeu um imóvel do casal sem me avisar. E agora?",
+      "A venda pode ser anulada, pedindo na Justiça em até dois anos depois do fim do casamento (Código Civil, arts. 1.647, I, e 1.649)."
+    ]
+  ],
+  "base": [
+    "Código Civil, arts. 1.640, 1.658 e 1.659, I e II",
+    "Código Civil, art. 1.660, I",
+    "Código Civil, arts. 1.647, I, e 1.649",
+    "Código Civil, art. 1.725"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/7489107/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "pensao-de-pai-empresario-ou-autonomo",
+  "area": "familia",
+  "data": "2026-12-20",
+  "titulo": "Pensão de pai empresário ou autônomo: como se calcula?",
+  "destaque": "Pelo padrão de vida, não só pelo papel.",
+  "resumo": "Quando o pai não tem salário fixo, a Justiça olha o que ele gasta e ostenta: carro, viagens, imóveis, cartão. Esses sinais mostram quanto ele realmente pode pagar.",
+  "pontos": [
+    [
+      "maleta",
+      "Pró-labore baixo não define sozinho o valor da pensão."
+    ],
+    [
+      "carrinho",
+      "Gastos, bens e viagens servem de prova da renda real."
+    ],
+    [
+      "documento",
+      "Extratos e declarações podem ser pedidos no processo."
+    ]
+  ],
+  "exemplo": "Fábio é dono de uma distribuidora e declara pró-labore de dois salários mínimos. Nas redes sociais, aparece trocando de carro todo ano e viajando com a nova família. A mãe pede pensão para os dois filhos.",
+  "corpo": "<p>Quando o pai é empregado, o cálculo da pensão parte do contracheque. Com empresário, autônomo ou profissional liberal, a renda declarada muitas vezes é bem menor que a real, e o processo precisa olhar além do papel.</p><h2>Necessidade e possibilidade</h2><p>A pensão é fixada na proporção das necessidades de quem recebe e dos recursos de quem paga (Código Civil, art. 1.694, § 1º). O informativo <a href=\"valor-da-pensao-alimenticia.html\">valor da pensão alimentícia</a> explica essa conta.</p><h2>Sinais exteriores de riqueza</h2><p>Os juristas reunidos pelo Conselho da Justiça Federal aprovaram que, para medir a possibilidade de quem paga, devem ser observados os sinais exteriores de riqueza (Enunciado 573 da VI Jornada de Direito Civil). Na prática, isso inclui:</p><ul><li>carros, imóveis e bens em nome dele ou da empresa;</li><li>viagens, festas, escola dos outros filhos e gastos com cartão;</li><li>retiradas da empresa e despesas pessoais pagas pelo caixa dela;</li><li>fotos e publicações em redes sociais.</li></ul><p>No processo, também é possível pedir ao juiz que requisite extratos bancários, declarações de imposto de renda e dados da empresa.</p><h2>O erro que enfraquece o pedido</h2><p>Chegar ao processo só com a palavra. Quem pede pensão precisa juntar o que mostra o padrão de vida do pai, e quem paga precisa ser transparente: esconder renda costuma pesar contra quando a prova aparece. Se a renda mudar depois, a pensão pode ser revista (Código Civil, art. 1.699).</p><h2>O que levar à primeira conversa</h2><ul><li>certidão de nascimento dos filhos e a lista das despesas deles;</li><li>prints de redes sociais, fotos de bens e o nome da empresa;</li><li>qualquer documento de renda que já tenha, como recibos ou depósitos.</li></ul>",
+  "faq": [
+    [
+      "O pai diz que ganha pouco, mas vive bem. O que vale?",
+      "O juiz pode considerar o padrão de vida e os sinais exteriores de riqueza, e não só a renda declarada (Enunciado 573 do CJF e Código Civil, art. 1.694, § 1º)."
+    ],
+    [
+      "Fotos de redes sociais servem de prova?",
+      "Servem como indício do padrão de vida, junto com outros documentos, como registros de bens e extratos."
+    ],
+    [
+      "Se a empresa dele crescer, posso pedir aumento da pensão?",
+      "Pode. Mudou a situação financeira, cabe pedir a revisão do valor (Código Civil, art. 1.699)."
+    ]
+  ],
+  "base": [
+    "Código Civil, art. 1.694, § 1º",
+    "Código Civil, arts. 1.695 e 1.699",
+    "CJF, VI Jornada de Direito Civil, Enunciado 573"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/8422729/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

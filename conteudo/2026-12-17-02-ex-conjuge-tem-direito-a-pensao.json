@@ -1,0 +1,52 @@
+{
+  "slug": "ex-conjuge-tem-direito-a-pensao",
+  "area": "familia",
+  "data": "2026-12-17",
+  "titulo": "Ex-cônjuge tem direito a pensão depois do divórcio?",
+  "destaque": "Às vezes, e em regra por tempo limitado.",
+  "resumo": "A pensão entre ex-cônjuges existe quando um deles não consegue se manter sozinho e o outro pode ajudar. O STJ entende que ela é exceção e, na maioria dos casos, dura até a pessoa voltar ao mercado de trabalho.",
+  "pontos": [
+    [
+      "carteira",
+      "Depende da necessidade de um e da possibilidade do outro."
+    ],
+    [
+      "calendario",
+      "Em regra, dura o tempo de recolocação no trabalho."
+    ],
+    [
+      "saude",
+      "Idade avançada ou doença grave podem tornar a pensão duradoura."
+    ],
+    [
+      "alerta",
+      "Novo casamento ou união estável de quem recebe encerra a pensão."
+    ]
+  ],
+  "exemplo": "Sandra deixou o emprego para cuidar da casa e dos filhos durante 15 anos de casamento. No divórcio, aos 48 anos e sem renda própria, ela pede pensão ao ex-marido, que ganha bem como gerente.",
+  "corpo": "<p>Os cônjuges e companheiros podem pedir alimentos um ao outro quando precisam para viver de forma compatível com a sua condição (Código Civil, art. 1.694). A pensão é devida quando quem pede não consegue se manter pelo próprio trabalho e quem paga pode ajudar sem comprometer o próprio sustento (art. 1.695).</p><h2>Por quanto tempo</h2><p>O STJ firmou o entendimento de que a pensão entre ex-cônjuges é excepcional e transitória: em regra, dura o tempo necessário para a pessoa voltar ao mercado de trabalho ou passar a ter renda própria. A pensão sem prazo fica para situações especiais, como idade avançada, saúde fragilizada ou impossibilidade real de conseguir trabalho.</p><h2>Quando a pensão acaba ou muda</h2><ul><li>se quem recebe se casa de novo ou passa a viver em união estável (Código Civil, art. 1.708);</li><li>se a situação financeira de um dos dois muda, o valor pode ser revisto ou extinto (art. 1.699), como explica o informativo <a href=\"revisao-do-valor-da-pensao.html\">revisão do valor da pensão</a>.</li></ul><h2>O que decide o caso na prática</h2><p>Quem pede precisa mostrar por que não consegue se manter: anos fora do mercado, idade, formação, saúde e o padrão de vida do casal. Quem paga precisa mostrar a renda real. O erro mais frequente é sair do casamento sem levantar esses documentos e depois não conseguir provar a dependência.</p><p>Em muitos casos, um acordo com prazo definido e valor justo protege os dois e evita anos de processo.</p><h2>O que levar à primeira conversa</h2><ul><li>certidão de casamento ou prova da união estável;</li><li>comprovantes de renda e das despesas mensais;</li><li>laudos médicos, se houver, e o histórico de trabalho de quem pede.</li></ul>",
+  "faq": [
+    [
+      "A pensão para ex-mulher é para sempre?",
+      "Em regra, não. O STJ entende que ela é transitória e dura até a recolocação no trabalho, salvo idade avançada, doença ou impossibilidade real de trabalhar."
+    ],
+    [
+      "Se meu ex-cônjuge casar de novo, paro de pagar?",
+      "Sim. O novo casamento ou união estável de quem recebe encerra o dever de pagar (Código Civil, art. 1.708)."
+    ],
+    [
+      "Ex-companheiro de união estável também pode pedir?",
+      "Pode. A lei garante alimentos entre cônjuges e companheiros (Código Civil, art. 1.694)."
+    ]
+  ],
+  "base": [
+    "Código Civil, arts. 1.694, 1.695, 1.699 e 1.708",
+    "STJ, jurisprudência sobre alimentos transitórios entre ex-cônjuges"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/5900161/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}

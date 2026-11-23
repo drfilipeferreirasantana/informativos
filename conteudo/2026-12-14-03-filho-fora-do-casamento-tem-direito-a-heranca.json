@@ -1,0 +1,50 @@
+{
+  "slug": "filho-fora-do-casamento-tem-direito-a-heranca",
+  "area": "sucessoes",
+  "data": "2026-12-14",
+  "titulo": "Filho fora do casamento tem direito à herança?",
+  "destaque": "Sim, igual aos outros filhos.",
+  "resumo": "A Constituição proíbe qualquer diferença entre filhos. Quem nasceu de outro relacionamento herda a mesma parte que os irmãos, desde que a paternidade esteja reconhecida.",
+  "pontos": [
+    [
+      "filhos",
+      "Todos os filhos herdam em partes iguais."
+    ],
+    [
+      "documento",
+      "Sem registro, o filho pode pedir o reconhecimento mesmo depois da morte do pai."
+    ],
+    [
+      "relogio",
+      "O prazo para cobrar a parte da herança conta da data da morte."
+    ]
+  ],
+  "exemplo": "Lucas tem 30 anos e só conheceu o pai na adolescência. O pai morreu e os filhos do casamento abriram o inventário sem incluí-lo, alegando que ele não tem o sobrenome da família.",
+  "corpo": "<p>Antes de 1988, a lei tratava de forma diferente os filhos nascidos fora do casamento. Hoje isso acabou: a Constituição garante a todos os filhos os mesmos direitos e proíbe qualquer designação que os diferencie (Constituição Federal, art. 227, § 6º; Código Civil, art. 1.596).</p><h2>Quanto o filho herda</h2><p>Os filhos são os primeiros chamados à herança, junto com o cônjuge em alguns regimes (Código Civil, art. 1.829, I), e herdam em partes iguais (art. 1.834). Eles também são herdeiros necessários: metade do patrimônio, chamada legítima, é reservada a eles e não pode ser deixada a outras pessoas por testamento (arts. 1.845 e 1.846).</p><h2>E se o filho não foi registrado pelo pai?</h2><p>O filho pode pedir o reconhecimento da paternidade a qualquer momento enquanto viver (Código Civil, art. 1.606), inclusive depois da morte do pai, com exame de DNA feito com parentes. O informativo <a href=\"reconhecimento-de-paternidade-dna.html\">reconhecimento de paternidade e DNA</a> mostra como funciona.</p><p>Junto com esse pedido, o filho cobra a sua parte da herança por meio da petição de herança (art. 1.824). Aqui está o cuidado principal: o STJ decidiu que o prazo para cobrar a herança começa a contar da morte do pai, e não do fim da ação de paternidade (Tema Repetitivo 1.200). Esperar anos pode custar a herança, ainda que a paternidade seja reconhecida.</p><h2>O que mais acontece na prática</h2><p>O inventário é aberto pelos outros herdeiros sem o filho, e os bens são divididos ou vendidos. Quanto antes o filho entra no processo, mais fácil é proteger a parte dele.</p><h2>O que levar à primeira conversa</h2><ul><li>certidão de nascimento e certidão de óbito do pai;</li><li>fotos, mensagens e documentos que mostrem a relação de filho;</li><li>o que souber dos bens e se já existe inventário aberto.</li></ul>",
+  "faq": [
+    [
+      "Filho de outro relacionamento herda menos?",
+      "Não. Todos os filhos herdam partes iguais (Constituição Federal, art. 227, § 6º, e Código Civil, art. 1.834)."
+    ],
+    [
+      "Posso pedir o DNA depois que o pai morreu?",
+      "Sim. A ação de prova de filiação cabe ao filho enquanto ele viver (Código Civil, art. 1.606)."
+    ],
+    [
+      "Existe prazo para cobrar a herança?",
+      "Existe. Para o STJ, ele começa na data da morte do autor da herança, e não no fim da ação de paternidade (Tema Repetitivo 1.200)."
+    ]
+  ],
+  "base": [
+    "Constituição Federal, art. 227, § 6º",
+    "Código Civil, arts. 1.596 e 1.606",
+    "Código Civil, arts. 1.824, 1.829, I, 1.834, 1.845 e 1.846",
+    "STJ, Tema Repetitivo 1.200"
+  ],
+  "fontes": [],
+  "foto": {
+    "fonte": "Pexels",
+    "url": "https://www.pexels.com/photo/6144062/",
+    "licenca": "https://www.pexels.com/license/"
+  }
+}
